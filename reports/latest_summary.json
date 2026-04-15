@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-15 21:45 UTC",
+  "timestamp": "2026-04-15 23:42 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
-  "arbitrages_found": 19,
-  "value_bets_found": 96,
-  "best_arb_margin": 2.606,
+  "arbitrages_found": 17,
+  "value_bets_found": 99,
+  "best_arb_margin": 2.379,
   "best_value_edge": 16.11,
   "arbitrages": [
     {
@@ -14,62 +14,30 @@
       "match": "Inter Milan vs Cagliari",
       "commence": "2026-04-17T18:45:00Z",
       "market": "h2h",
-      "margin_pct": 2.606,
-      "guaranteed_profit": 26.06,
+      "margin_pct": 2.379,
+      "guaranteed_profit": 23.79,
       "stakes": {
+        "Cagliari": {
+          "bookmaker": "Betfair",
+          "odds": 16.5,
+          "stake_pct": 6.21,
+          "stake_amount": 62.08
+        },
         "Inter Milan": {
           "bookmaker": "1xBet",
           "odds": 1.27,
-          "stake_pct": 80.85,
-          "stake_amount": 808.47
+          "stake_pct": 80.66,
+          "stake_amount": 806.59
         },
         "Draw": {
-          "bookmaker": "Matchbook",
-          "odds": 8.0,
-          "stake_pct": 12.83,
-          "stake_amount": 128.34
-        },
-        "Cagliari": {
-          "bookmaker": "Coolbet",
-          "odds": 16.25,
-          "stake_pct": 6.32,
-          "stake_amount": 63.19
+          "bookmaker": "Betfair",
+          "odds": 7.8,
+          "stake_pct": 13.13,
+          "stake_amount": 131.33
         }
       },
       "num_bookmakers": 40,
-      "found_at": "2026-04-15T21:45:23.567398+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "1e99ca015e59dafe2d397a0be198650e",
-      "league": "UEFA Europa League",
-      "match": "Aston Villa vs Bologna",
-      "commence": "2026-04-16T19:00:00Z",
-      "market": "h2h",
-      "margin_pct": 1.874,
-      "guaranteed_profit": 18.74,
-      "stakes": {
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 4.33,
-          "stake_pct": 23.54,
-          "stake_amount": 235.36
-        },
-        "Bologna": {
-          "bookmaker": "Smarkets",
-          "odds": 6.6,
-          "stake_pct": 15.44,
-          "stake_amount": 154.41
-        },
-        "Aston Villa": {
-          "bookmaker": "Betfred (UK)",
-          "odds": 1.67,
-          "stake_pct": 61.02,
-          "stake_amount": 610.24
-        }
-      },
-      "num_bookmakers": 36,
-      "found_at": "2026-04-15T21:45:23.577722+00:00"
+      "found_at": "2026-04-15T23:42:51.847231+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -87,21 +55,21 @@
           "stake_pct": 15.61,
           "stake_amount": 156.06
         },
-        "Draw": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 4.5,
-          "stake_pct": 22.54,
-          "stake_amount": 225.42
-        },
         "VfB Stuttgart": {
           "bookmaker": "1xBet",
           "odds": 1.64,
           "stake_pct": 61.85,
           "stake_amount": 618.52
+        },
+        "Draw": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 4.5,
+          "stake_pct": 22.54,
+          "stake_amount": 225.42
         }
       },
       "num_bookmakers": 30,
-      "found_at": "2026-04-15T21:45:23.574773+00:00"
+      "found_at": "2026-04-15T23:42:51.854577+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -113,12 +81,6 @@
       "margin_pct": 1.385,
       "guaranteed_profit": 13.85,
       "stakes": {
-        "Draw": {
-          "bookmaker": "BetOnline.ag",
-          "odds": 7.5,
-          "stake_pct": 13.52,
-          "stake_amount": 135.21
-        },
         "Celta Vigo": {
           "bookmaker": "Unibet (SE)",
           "odds": 10.5,
@@ -130,10 +92,16 @@
           "odds": 1.32,
           "stake_pct": 76.82,
           "stake_amount": 768.22
+        },
+        "Draw": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 7.5,
+          "stake_pct": 13.52,
+          "stake_amount": 135.21
         }
       },
       "num_bookmakers": 36,
-      "found_at": "2026-04-15T21:45:23.571016+00:00"
+      "found_at": "2026-04-15T23:42:51.850812+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -145,17 +113,17 @@
       "margin_pct": 1.065,
       "guaranteed_profit": 10.65,
       "stakes": {
-        "Draw": {
-          "bookmaker": "Betfair",
-          "odds": 3.45,
-          "stake_pct": 29.3,
-          "stake_amount": 292.97
-        },
         "West Ham United": {
           "bookmaker": "1xBet",
           "odds": 3.58,
           "stake_pct": 28.23,
           "stake_amount": 282.34
+        },
+        "Draw": {
+          "bookmaker": "Betfair",
+          "odds": 3.45,
+          "stake_pct": 29.3,
+          "stake_amount": 292.97
         },
         "Crystal Palace": {
           "bookmaker": "Nordic Bet",
@@ -165,7 +133,39 @@
         }
       },
       "num_bookmakers": 38,
-      "found_at": "2026-04-15T21:45:23.565756+00:00"
+      "found_at": "2026-04-15T23:42:51.845584+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "67946ccfc03197bc48eb7b6c9786b713",
+      "league": "EPL",
+      "match": "Manchester City vs Arsenal",
+      "commence": "2026-04-19T15:30:00Z",
+      "market": "h2h",
+      "margin_pct": 1.051,
+      "guaranteed_profit": 10.51,
+      "stakes": {
+        "Manchester City": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 1.91,
+          "stake_pct": 52.91,
+          "stake_amount": 529.12
+        },
+        "Arsenal": {
+          "bookmaker": "Betfair",
+          "odds": 4.7,
+          "stake_pct": 21.5,
+          "stake_amount": 215.03
+        },
+        "Draw": {
+          "bookmaker": "Betfair",
+          "odds": 3.95,
+          "stake_pct": 25.59,
+          "stake_amount": 255.85
+        }
+      },
+      "num_bookmakers": 39,
+      "found_at": "2026-04-15T23:42:51.845393+00:00"
     }
   ],
   "value_bets": [
@@ -187,7 +187,7 @@
       "suggested_stake": 10.89,
       "expected_value": 16.11,
       "confidence": "ALTA",
-      "found_at": "2026-04-15T21:45:23.569435+00:00"
+      "found_at": "2026-04-15T23:42:51.849246+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -207,7 +207,7 @@
       "suggested_stake": 8.59,
       "expected_value": 12.16,
       "confidence": "ALTA",
-      "found_at": "2026-04-15T21:45:23.569403+00:00"
+      "found_at": "2026-04-15T23:42:51.849209+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -227,7 +227,7 @@
       "suggested_stake": 8.29,
       "expected_value": 11.67,
       "confidence": "ALTA",
-      "found_at": "2026-04-15T21:45:23.569429+00:00"
+      "found_at": "2026-04-15T23:42:51.849240+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -247,7 +247,7 @@
       "suggested_stake": 7.2,
       "expected_value": 9.94,
       "confidence": "ALTA",
-      "found_at": "2026-04-15T21:45:23.569410+00:00"
+      "found_at": "2026-04-15T23:42:51.849216+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -267,7 +267,7 @@
       "suggested_stake": 5.94,
       "expected_value": 9.51,
       "confidence": "ALTA",
-      "found_at": "2026-04-15T21:45:23.569996+00:00"
+      "found_at": "2026-04-15T23:42:51.849746+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -287,7 +287,7 @@
       "suggested_stake": 7.28,
       "expected_value": 9.17,
       "confidence": "ALTA",
-      "found_at": "2026-04-15T21:45:23.569895+00:00"
+      "found_at": "2026-04-15T23:42:51.849800+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -307,7 +307,7 @@
       "suggested_stake": 7.09,
       "expected_value": 8.91,
       "confidence": "ALTA",
-      "found_at": "2026-04-15T21:45:23.569856+00:00"
+      "found_at": "2026-04-15T23:42:51.849765+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -327,7 +327,7 @@
       "suggested_stake": 6.91,
       "expected_value": 8.65,
       "confidence": "ALTA",
-      "found_at": "2026-04-15T21:45:23.569889+00:00"
+      "found_at": "2026-04-15T23:42:51.849795+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -347,7 +347,7 @@
       "suggested_stake": 5.45,
       "expected_value": 8.63,
       "confidence": "ALTA",
-      "found_at": "2026-04-15T21:45:23.569916+00:00"
+      "found_at": "2026-04-15T23:42:51.849667+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -367,7 +367,7 @@
       "suggested_stake": 5.32,
       "expected_value": 8.41,
       "confidence": "ALTA",
-      "found_at": "2026-04-15T21:45:23.569931+00:00"
+      "found_at": "2026-04-15T23:42:51.849682+00:00"
     }
   ]
 }
