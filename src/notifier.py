@@ -1,5 +1,5 @@
 """
-Notifiche Telegram v2.0 — Multi-sport con breakdown per sport.
+Notifiche Telegram v1 SNIPER — Solo calcio.
 """
 
 import json
@@ -8,15 +8,10 @@ import sys
 
 import requests
 
-from config import TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, REPORTS_DIR, get_enabled_sports
+from config import TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, REPORTS_DIR
 
 
-SPORT_EMOJI = {
-    "soccer": "⚽", "tennis": "🎾", "basketball": "🏀", "hockey": "🏒"
-}
-
-
-def send_telegram(text: str, parse_mode: str = "HTML") -> bool:
+def send_telegram(text: str) -> bool:
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
         print("⚠️  Telegram non configurato, skip.")
         return False
@@ -25,7 +20,7 @@ def send_telegram(text: str, parse_mode: str = "HTML") -> bool:
     payload = {
         "chat_id": TELEGRAM_CHAT_ID,
         "text": text,
-        "parse_mode": parse_mode,
+        "parse_mode": "HTML",
         "disable_web_page_preview": True
     }
 
@@ -39,11 +34,10 @@ def send_telegram(text: str, parse_mode: str = "HTML") -> bool:
 
 
 def format_arbitrage_alert(arb: dict) -> str:
-    emoji = SPORT_EMOJI.get(arb.get("sport", ""), "🏟️")
     lines = [
-        f"🎯 <b>ARBITRAGGIO</b> {emoji}",
+        f"🎯 <b>[v1 SNIPER] ARBITRAGGIO</b>",
         f"",
-        f"<b>{arb['match']}</b>",
+        f"⚽ <b>{arb['match']}</b>",
         f"🏆 {arb['league']} — {arb['market']}",
         f"📅 {arb['commence']}",
         f"",
@@ -60,52 +54,36 @@ def format_arbitrage_alert(arb: dict) -> str:
 
 
 def format_value_bet_alert(vb: dict) -> str:
-    emoji = SPORT_EMOJI.get(vb.get("sport", ""), "🏟️")
     conf_emoji = {"ALTA": "🟢", "MEDIA": "🟡", "BASSA": "🔴"}
 
     return (
-        f"📈 <b>VALUE BET</b> {emoji} {conf_emoji.get(vb['confidence'], '⚪')} "
-        f"{vb['confidence']}\n\n"
-        f"<b>{vb['match']}</b>\n"
+        f"📈 <b>[v1 SNIPER] VALUE BET</b> "
+        f"{conf_emoji.get(vb['confidence'], '⚪')} {vb['confidence']}\n\n"
+        f"⚽ <b>{vb['match']}</b>\n"
         f"🏆 {vb['league']} — {vb['market']}\n\n"
         f"🎲 <b>{vb['outcome']}</b>\n"
         f"📊 Quota: <b>{vb['odds']:.2f}</b> su {vb['bookmaker']}\n"
         f"📐 Fair: {vb['fair_odds']:.2f} | Edge: <b>{vb['edge_pct']:.1f}%</b>\n"
         f"💶 Stake: €{vb['suggested_stake']:.0f}\n\n"
-        f"<i>EV: +{vb['expected_value']:.1f}% | "
-        f"Prob: {vb['true_prob_pct']:.1f}%</i>"
+        f"<i>EV: +{vb['expected_value']:.1f}%</i>"
     )
 
 
 def format_summary(summary: dict) -> str:
-    enabled = get_enabled_sports()
     lines = [
-        f"📊 <b>RIEPILOGO MULTI-SPORT</b>",
+        f"📊 <b>[v1 SNIPER] ⚽ Solo Calcio</b>",
         f"🕐 {summary['timestamp']}",
         f"",
+        f"🎯 Arbitraggi: <b>{summary['arbitrages_found']}</b>",
+        f"📈 Value bet: <b>{summary['value_bets_found']}</b>",
     ]
-
-    by_sport = summary.get("by_sport", {})
-    for sport_key, counts in by_sport.items():
-        emoji = SPORT_EMOJI.get(sport_key, "🏟️")
-        name = enabled.get(sport_key, {}).get("display_name", sport_key)
-        arbs = counts.get("arbs", 0)
-        vbs = counts.get("vbs", 0)
-        if arbs > 0 or vbs > 0:
-            lines.append(f"{emoji} <b>{name}</b>: {arbs} arb, {vbs} value bet")
-
-    lines.append("")
-    total_arbs = summary.get("arbitrages_found", 0)
-    total_vbs = summary.get("value_bets_found", 0)
-    lines.append(f"<b>Totale: {total_arbs} arb + {total_vbs} value bet</b>")
-
     if summary.get("best_arb_margin", 0) > 0:
         lines.append(f"💰 Miglior arb: {summary['best_arb_margin']:.2f}%")
     if summary.get("best_value_edge", 0) > 0:
         lines.append(f"📊 Miglior edge: {summary['best_value_edge']:.1f}%")
 
-    if total_arbs == 0 and total_vbs == 0:
-        lines.append(f"\n😴 Nessuna opportunità. Riprovo al prossimo ciclo.")
+    if summary["arbitrages_found"] == 0 and summary["value_bets_found"] == 0:
+        lines.append(f"\n😴 Nessuna opportunità. Prossimo ciclo tra 3 ore.")
 
     return "\n".join(lines)
 

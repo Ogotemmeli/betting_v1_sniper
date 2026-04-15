@@ -1,23 +1,14 @@
-name: "🏟️ Multi-Sport Odds Analyzer"
+name: "⚽ v1 Sniper — Solo Calcio"
 
 on:
   schedule:
-    # Budget-aware: con ~18 leghe e 500 req/mese,
-    # possiamo permetterci ~1 ciclo/giorno (18 call × 30 gg = 540)
-    # Con piano Starter ($20/mese, 10k req): 4+ cicli/giorno
-    - cron: '0 10,18 * * *'  # 2 cicli/giorno = ~1080 call/mese
+    - cron: '0 8,11,14,17,20,23 * * *'
   workflow_dispatch:
-    inputs:
-      budget_override:
-        description: 'Monthly API budget (default from secrets)'
-        default: ''
-        type: string
 
 env:
   ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
   TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
   TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-  API_MONTHLY_BUDGET: ${{ github.event.inputs.budget_override || secrets.API_MONTHLY_BUDGET || '500' }}
   BANKROLL: ${{ secrets.BANKROLL || '1000' }}
 
 jobs:
@@ -39,21 +30,27 @@ jobs:
       - name: 📦 Install dependencies
         run: pip install -r requirements.txt
 
-      - name: 🔍 Scrape odds (multi-sport)
-        run: cd src && python scraper.py
+      - name: 🔍 Scrape odds (solo calcio)
+        working-directory: src
+        run: python scraper.py
 
-      - name: 📊 Analyze (arbitrage + value + portfolio)
-        run: cd src && python analyzer.py
+      - name: 📊 Analisi arbitraggio + value bet
+        working-directory: src
+        run: python analyzer.py
 
-      - name: 📬 Notify via Telegram
+      - name: 📬 Notifiche Telegram
         if: env.TELEGRAM_BOT_TOKEN != ''
-        run: cd src && python notifier.py
+        working-directory: src
+        run: python notifier.py
 
-      - name: 💾 Commit results
+      - name: 💾 Commit risultati
         run: |
-          git config user.name "Betting Bot"
+          git config user.name "v1-sniper-bot"
           git config user.email "bot@github-actions"
+          mkdir -p reports
+          # Crea un log anche se non ci sono opportunità
+          echo "Ultimo ciclo: $(date -u +"%Y-%m-%d %H:%M UTC")" > reports/last_run.txt
           git add -A reports/
           timestamp=$(date -u +"%Y-%m-%d %H:%M UTC")
-          git diff --cached --quiet || git commit -m "🏟️ Multi-sport analysis: $timestamp"
+          git diff --cached --quiet || git commit -m "⚽ v1 Sniper: $timestamp"
           git push
