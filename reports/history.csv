@@ -611,3 +611,99 @@ timestamp,type,match,league,market,edge_pct,confidence,suggested_stake,details
 2026-04-16 18:08 UTC,VALUE_BET,West Ham United vs Everton,EPL,h2h,3.02,BASSA,4.19,West Ham United@2.8 (Betfair)
 2026-04-16 18:08 UTC,VALUE_BET,West Ham United vs Everton,EPL,h2h,3.02,BASSA,4.19,West Ham United@2.8 (Betfair)
 2026-04-16 18:08 UTC,VALUE_BET,Valencia vs Girona,La Liga - Spain,h2h,3.01,BASSA,2.76,Girona@3.73 (BetOnline.ag)
+2026-04-16 20:50 UTC,ARBITRAGE,Real Betis vs SC Braga,UEFA Europa League,totals,11.553,SURE,115.53,"{""Over 6.5"": {""bookmaker"": ""Matchbook"", ""odds"": 4.5, ""stake_pct"": 25.12, ""stake_amount"": 251.25}, ""Under 6.5"": {""bookmaker"": ""Pinnacle"", ""odds"": 1.51, ""stake_pct"": 74.88, ""stake_amount"": 748.75}}"
+2026-04-16 20:50 UTC,ARBITRAGE,VfB Stuttgart vs Werder Bremen,Bundesliga - Germany,h2h,2.513,SURE,25.13,"{""VfB Stuttgart"": {""bookmaker"": ""1xBet"", ""odds"": 1.67, ""stake_pct"": 61.42, ""stake_amount"": 614.24}, ""Werder Bremen"": {""bookmaker"": ""BetOnline.ag"", ""odds"": 6.5, ""stake_pct"": 15.78, ""stake_amount"": 157.81}, ""Draw"": {""bookmaker"": ""Unibet (NL)"", ""odds"": 4.5, ""stake_pct"": 22.8, ""stake_amount"": 227.95}}"
+2026-04-16 20:50 UTC,ARBITRAGE,Nottingham Forest vs Porto,UEFA Europa League,h2h,1.763,SURE,17.63,"{""Nottingham Forest"": {""bookmaker"": ""Matchbook"", ""odds"": 1.11, ""stake_pct"": 91.71, ""stake_amount"": 917.07}, ""Draw"": {""bookmaker"": ""Sky Bet"", ""odds"": 13.0, ""stake_pct"": 7.83, ""stake_amount"": 78.3}, ""Porto"": {""bookmaker"": ""Matchbook"", ""odds"": 220.0, ""stake_pct"": 0.46, ""stake_amount"": 4.63}}"
+2026-04-16 20:50 UTC,ARBITRAGE,Leeds United vs Wolverhampton Wanderers,EPL,h2h,1.674,SURE,16.74,"{""Leeds United"": {""bookmaker"": ""1xBet"", ""odds"": 1.69, ""stake_pct"": 60.18, ""stake_amount"": 601.79}, ""Wolverhampton Wanderers"": {""bookmaker"": ""Unibet (NL)"", ""odds"": 6.4, ""stake_pct"": 15.89, ""stake_amount"": 158.91}, ""Draw"": {""bookmaker"": ""BetOnline.ag"", ""odds"": 4.25, ""stake_pct"": 23.93, ""stake_amount"": 239.3}}"
+2026-04-16 20:50 UTC,ARBITRAGE,Aston Villa vs Bologna,UEFA Europa League,h2h,1.628,SURE,16.28,"{""Draw"": {""bookmaker"": ""Ladbrokes"", ""odds"": 751.0, ""stake_pct"": 0.14, ""stake_amount"": 1.35}, ""Bologna"": {""bookmaker"": ""Paddy Power"", ""odds"": 501.0, ""stake_pct"": 0.2, ""stake_amount"": 2.03}, ""Aston Villa"": {""bookmaker"": ""Coral"", ""odds"": 1.02, ""stake_pct"": 99.66, ""stake_amount"": 996.62}}"
+2026-04-16 20:50 UTC,ARBITRAGE,Crystal Palace vs West Ham United,EPL,h2h,1.603,SURE,16.03,"{""West Ham United"": {""bookmaker"": ""Coolbet"", ""odds"": 3.4, ""stake_pct"": 29.89, ""stake_amount"": 298.91}, ""Crystal Palace"": {""bookmaker"": ""Nordic Bet"", ""odds"": 2.5, ""stake_pct"": 40.65, ""stake_amount"": 406.52}, ""Draw"": {""bookmaker"": ""Unibet (NL)"", ""odds"": 3.45, ""stake_pct"": 29.46, ""stake_amount"": 294.58}}"
+2026-04-16 20:50 UTC,ARBITRAGE,Manchester United vs Brentford,EPL,h2h,1.058,SURE,10.58,"{""Manchester United"": {""bookmaker"": ""Betfair"", ""odds"": 1.89, ""stake_pct"": 53.48, ""stake_amount"": 534.76}, ""Draw"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 4.2, ""stake_pct"": 24.06, ""stake_amount"": 240.64}, ""Brentford"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 4.5, ""stake_pct"": 22.46, ""stake_amount"": 224.6}}"
+2026-04-16 20:50 UTC,ARBITRAGE,Juventus vs Bologna,Serie A - Italy,h2h,1.049,SURE,10.49,"{""Juventus"": {""bookmaker"": ""1xBet"", ""odds"": 1.55, ""stake_pct"": 65.2, ""stake_amount"": 652.0}, ""Bologna"": {""bookmaker"": ""Matchbook"", ""odds"": 7.6, ""stake_pct"": 13.3, ""stake_amount"": 132.97}, ""Draw"": {""bookmaker"": ""Winamax (DE)"", ""odds"": 4.7, ""stake_pct"": 21.5, ""stake_amount"": 215.02}}"
+2026-04-16 20:50 UTC,ARBITRAGE,Hellas Verona vs AC Milan,Serie A - Italy,h2h,1.012,SURE,10.12,"{""AC Milan"": {""bookmaker"": ""GTbets"", ""odds"": 1.65, ""stake_pct"": 61.23, ""stake_amount"": 612.26}, ""Hellas Verona"": {""bookmaker"": ""Smarkets"", ""odds"": 7.0, ""stake_pct"": 14.43, ""stake_amount"": 144.32}, ""Draw"": {""bookmaker"": ""Nordic Bet"", ""odds"": 4.15, ""stake_pct"": 24.34, ""stake_amount"": 243.43}}"
+2026-04-16 20:50 UTC,ARBITRAGE,FSV Mainz 05 vs Bayern Munich,Bundesliga - Germany,h2h,0.834,SURE,8.34,"{""Bayern Munich"": {""bookmaker"": ""1xBet"", ""odds"": 1.53, ""stake_pct"": 65.91, ""stake_amount"": 659.09}, ""FSV Mainz 05"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 6.4, ""stake_pct"": 15.76, ""stake_amount"": 157.56}, ""Draw"": {""bookmaker"": ""BetOnline.ag"", ""odds"": 5.5, ""stake_pct"": 18.33, ""stake_amount"": 183.35}}"
+2026-04-16 20:50 UTC,ARBITRAGE,Atlético Madrid vs Arsenal,UEFA Champions League,h2h,0.834,SURE,8.34,"{""Atlético Madrid"": {""bookmaker"": ""Coolbet"", ""odds"": 2.98, ""stake_pct"": 33.84, ""stake_amount"": 338.39}, ""Arsenal"": {""bookmaker"": ""Unibet (NL)"", ""odds"": 2.7, ""stake_pct"": 37.35, ""stake_amount"": 373.49}, ""Draw"": {""bookmaker"": ""Betfair"", ""odds"": 3.5, ""stake_pct"": 28.81, ""stake_amount"": 288.12}}"
+2026-04-16 20:50 UTC,ARBITRAGE,Levante vs Sevilla,La Liga - Spain,h2h,0.774,SURE,7.74,"{""Sevilla"": {""bookmaker"": ""Betfair"", ""odds"": 3.05, ""stake_pct"": 33.04, ""stake_amount"": 330.43}, ""Draw"": {""bookmaker"": ""1xBet"", ""odds"": 3.45, ""stake_pct"": 29.21, ""stake_amount"": 292.12}, ""Levante"": {""bookmaker"": ""1xBet"", ""odds"": 2.67, ""stake_pct"": 37.75, ""stake_amount"": 377.45}}"
+2026-04-16 20:50 UTC,ARBITRAGE,Lorient vs Marseille,Ligue 1 - France,h2h,0.712,SURE,7.12,"{""Lorient"": {""bookmaker"": ""Betfair"", ""odds"": 4.8, ""stake_pct"": 20.98, ""stake_amount"": 209.83}, ""Marseille"": {""bookmaker"": ""GTbets"", ""odds"": 1.83, ""stake_pct"": 55.04, ""stake_amount"": 550.37}, ""Draw"": {""bookmaker"": ""Betfair"", ""odds"": 4.2, ""stake_pct"": 23.98, ""stake_amount"": 239.8}}"
+2026-04-16 20:50 UTC,ARBITRAGE,Fiorentina vs Sassuolo,Serie A - Italy,h2h,0.647,SURE,6.47,"{""Sassuolo"": {""bookmaker"": ""BetOnline.ag"", ""odds"": 4.7, ""stake_pct"": 21.42, ""stake_amount"": 214.15}, ""Fiorentina"": {""bookmaker"": ""Nordic Bet"", ""odds"": 2.02, ""stake_pct"": 49.83, ""stake_amount"": 498.27}, ""Draw"": {""bookmaker"": ""Winamax (DE)"", ""odds"": 3.5, ""stake_pct"": 28.76, ""stake_amount"": 287.57}}"
+2026-04-16 20:50 UTC,ARBITRAGE,Metz vs Paris FC,Ligue 1 - France,h2h,0.644,SURE,6.44,"{""Paris FC"": {""bookmaker"": ""GTbets"", ""odds"": 2.19, ""stake_pct"": 45.96, ""stake_amount"": 459.58}, ""Draw"": {""bookmaker"": ""Coolbet"", ""odds"": 3.75, ""stake_pct"": 26.84, ""stake_amount"": 268.4}, ""Metz"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 3.7, ""stake_pct"": 27.2, ""stake_amount"": 272.02}}"
+2026-04-16 20:50 UTC,ARBITRAGE,Napoli vs Lazio,Serie A - Italy,h2h,0.641,SURE,6.41,"{""Napoli"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 1.6, ""stake_pct"": 62.9, ""stake_amount"": 629.03}, ""Lazio"": {""bookmaker"": ""Matchbook"", ""odds"": 7.8, ""stake_pct"": 12.9, ""stake_amount"": 129.03}, ""Draw"": {""bookmaker"": ""Coolbet"", ""odds"": 4.16, ""stake_pct"": 24.19, ""stake_amount"": 241.94}}"
+2026-04-16 20:50 UTC,ARBITRAGE,West Ham United vs Everton,EPL,h2h,0.627,SURE,6.27,"{""West Ham United"": {""bookmaker"": ""Betfair"", ""odds"": 2.8, ""stake_pct"": 35.94, ""stake_amount"": 359.39}, ""Everton"": {""bookmaker"": ""Unibet (NL)"", ""odds"": 2.85, ""stake_pct"": 35.31, ""stake_amount"": 353.09}, ""Draw"": {""bookmaker"": ""Sky Bet"", ""odds"": 3.5, ""stake_pct"": 28.75, ""stake_amount"": 287.52}}"
+2026-04-16 20:50 UTC,ARBITRAGE,Chelsea vs Manchester United,EPL,h2h,0.619,SURE,6.19,"{""Manchester United"": {""bookmaker"": ""Betfair"", ""odds"": 3.3, ""stake_pct"": 30.49, ""stake_amount"": 304.92}, ""Draw"": {""bookmaker"": ""Betfair"", ""odds"": 3.85, ""stake_pct"": 26.14, ""stake_amount"": 261.36}, ""Chelsea"": {""bookmaker"": ""GTbets"", ""odds"": 2.32, ""stake_pct"": 43.37, ""stake_amount"": 433.72}}"
+2026-04-16 20:50 UTC,ARBITRAGE,FC St. Pauli vs 1. FC Köln,Bundesliga - Germany,h2h,0.594,SURE,5.94,"{""FC St. Pauli"": {""bookmaker"": ""Betfair"", ""odds"": 3.1, ""stake_pct"": 32.45, ""stake_amount"": 324.51}, ""1. FC Köln"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 2.65, ""stake_pct"": 37.96, ""stake_amount"": 379.61}, ""Draw"": {""bookmaker"": ""Betfair"", ""odds"": 3.4, ""stake_pct"": 29.59, ""stake_amount"": 295.88}}"
+2026-04-16 20:50 UTC,ARBITRAGE,SC Freiburg vs 1. FC Heidenheim,Bundesliga - Germany,h2h,0.585,SURE,5.85,"{""1. FC Heidenheim"": {""bookmaker"": ""1xBet"", ""odds"": 5.13, ""stake_pct"": 19.61, ""stake_amount"": 196.08}, ""SC Freiburg"": {""bookmaker"": ""Betfair"", ""odds"": 1.75, ""stake_pct"": 57.48, ""stake_amount"": 574.79}, ""Draw"": {""bookmaker"": ""BetOnline.ag"", ""odds"": 4.39, ""stake_pct"": 22.91, ""stake_amount"": 229.13}}"
+2026-04-16 20:50 UTC,ARBITRAGE,Bayern Munich vs VfB Stuttgart,Bundesliga - Germany,h2h,0.556,SURE,5.56,"{""VfB Stuttgart"": {""bookmaker"": ""Unibet (NL)"", ""odds"": 7.5, ""stake_pct"": 13.41, ""stake_amount"": 134.08}, ""Bayern Munich"": {""bookmaker"": ""1xBet"", ""odds"": 1.44, ""stake_pct"": 69.83, ""stake_amount"": 698.32}, ""Draw"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 6.0, ""stake_pct"": 16.76, ""stake_amount"": 167.6}}"
+2026-04-16 20:50 UTC,VALUE_BET,Fiorentina vs Sassuolo,Serie A - Italy,h2h,16.05,ALTA,10.84,Sassuolo@4.7 (BetOnline.ag)
+2026-04-16 20:50 UTC,VALUE_BET,Real Betis vs SC Braga,UEFA Europa League,totals,13.93,ALTA,50.0,Under 6.5@1.51 (Pinnacle)
+2026-04-16 20:50 UTC,VALUE_BET,Fiorentina vs Sassuolo,Serie A - Italy,h2h,12.1,ALTA,8.54,Sassuolo@4.54 (1xBet)
+2026-04-16 20:50 UTC,VALUE_BET,Fiorentina vs Sassuolo,Serie A - Italy,h2h,11.6,ALTA,8.24,Sassuolo@4.52 (Pinnacle)
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,10.75,ALTA,7.46,Celta Vigo@4.6 (Unibet (SE))
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,10.75,ALTA,7.46,Celta Vigo@4.6 (Unibet (NL))
+2026-04-16 20:50 UTC,VALUE_BET,Nottingham Forest vs Porto,UEFA Europa League,totals,10.59,ALTA,43.41,Under 1.5@1.61 (Pinnacle)
+2026-04-16 20:50 UTC,VALUE_BET,Real Betis vs SC Braga,UEFA Europa League,totals,10.48,ALTA,7.49,Over 6.5@4.5 (Matchbook)
+2026-04-16 20:50 UTC,VALUE_BET,Fiorentina vs Sassuolo,Serie A - Italy,h2h,9.88,ALTA,7.16,Sassuolo@4.45 (Marathon Bet)
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,9.54,ALTA,6.72,Celta Vigo@4.55 (BetOnline.ag)
+2026-04-16 20:50 UTC,VALUE_BET,CA Osasuna vs Sevilla,La Liga - Spain,h2h,8.91,ALTA,8.05,Draw@3.77 (BetOnline.ag)
+2026-04-16 20:50 UTC,VALUE_BET,Fiorentina vs Sassuolo,Serie A - Italy,h2h,8.64,ALTA,6.35,Sassuolo@4.4 (Unibet (SE))
+2026-04-16 20:50 UTC,VALUE_BET,Fiorentina vs Sassuolo,Serie A - Italy,h2h,8.64,ALTA,6.35,Sassuolo@4.4 (Unibet (NL))
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,8.34,ALTA,5.96,Celta Vigo@4.5 (LeoVegas (SE))
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,8.34,ALTA,5.96,Celta Vigo@4.5 (Casumo)
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,8.34,ALTA,5.96,Celta Vigo@4.5 (Grosvenor)
+2026-04-16 20:50 UTC,VALUE_BET,Alavés vs Mallorca,La Liga - Spain,h2h,7.06,MEDIA,5.89,Mallorca@4.0 (Unibet (NL))
+2026-04-16 20:50 UTC,VALUE_BET,Alavés vs Mallorca,La Liga - Spain,h2h,7.06,MEDIA,5.89,Mallorca@4.0 (Unibet (SE))
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,6.65,MEDIA,4.85,Celta Vigo@4.43 (Pinnacle)
+2026-04-16 20:50 UTC,VALUE_BET,Paris FC vs Lille,Ligue 1 - France,h2h,6.21,MEDIA,5.61,Draw@3.77 (1xBet)
+2026-04-16 20:50 UTC,VALUE_BET,Fiorentina vs Sassuolo,Serie A - Italy,h2h,6.17,MEDIA,4.68,Sassuolo@4.3 (Tipico)
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,5.93,MEDIA,4.36,Celta Vigo@4.4 (PMU (FR))
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,5.21,MEDIA,3.87,Celta Vigo@4.37 (1xBet)
+2026-04-16 20:50 UTC,VALUE_BET,CA Osasuna vs Sevilla,La Liga - Spain,h2h,5.16,MEDIA,4.88,Draw@3.64 (1xBet)
+2026-04-16 20:50 UTC,VALUE_BET,Manchester United vs Brentford,EPL,h2h,5.08,MEDIA,3.63,Brentford@4.5 (Unibet (SE))
+2026-04-16 20:50 UTC,VALUE_BET,Manchester United vs Brentford,EPL,h2h,5.08,MEDIA,3.63,Brentford@4.5 (Unibet (NL))
+2026-04-16 20:50 UTC,VALUE_BET,Fiorentina vs Sassuolo,Serie A - Italy,h2h,4.94,BASSA,3.8,Sassuolo@4.25 (LeoVegas (SE))
+2026-04-16 20:50 UTC,VALUE_BET,Fiorentina vs Sassuolo,Serie A - Italy,h2h,4.94,BASSA,3.8,Sassuolo@4.25 (Grosvenor)
+2026-04-16 20:50 UTC,VALUE_BET,Fiorentina vs Sassuolo,Serie A - Italy,h2h,4.94,BASSA,3.8,Sassuolo@4.25 (Casumo)
+2026-04-16 20:50 UTC,VALUE_BET,Valencia vs Girona,La Liga - Spain,h2h,4.94,BASSA,4.41,Girona@3.8 (Unibet (SE))
+2026-04-16 20:50 UTC,VALUE_BET,Valencia vs Girona,La Liga - Spain,h2h,4.94,BASSA,4.41,Girona@3.8 (Unibet (NL))
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,4.93,BASSA,4.11,Draw@4.0 (1xBet)
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,4.93,BASSA,4.11,Draw@4.0 (BetOnline.ag)
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,4.93,BASSA,4.11,Draw@4.0 (Unibet (SE))
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,4.93,BASSA,4.11,Draw@4.0 (Unibet (NL))
+2026-04-16 20:50 UTC,VALUE_BET,Lorient vs Strasbourg,Ligue 1 - France,h2h,4.87,BASSA,4.52,Draw@3.69 (1xBet)
+2026-04-16 20:50 UTC,VALUE_BET,Paris FC vs Lille,Ligue 1 - France,h2h,4.8,BASSA,4.41,Draw@3.72 (Marathon Bet)
+2026-04-16 20:50 UTC,VALUE_BET,Rayo Vallecano vs Real Sociedad,La Liga - Spain,h2h,4.78,BASSA,4.49,Draw@3.66 (1xBet)
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,4.73,BASSA,3.53,Celta Vigo@4.35 (LeoVegas)
+2026-04-16 20:50 UTC,VALUE_BET,Lorient vs Marseille,Ligue 1 - France,h2h,4.62,BASSA,3.04,Lorient@4.8 (Betfair)
+2026-04-16 20:50 UTC,VALUE_BET,Lorient vs Marseille,Ligue 1 - France,h2h,4.62,BASSA,3.04,Lorient@4.8 (Betfair)
+2026-04-16 20:50 UTC,VALUE_BET,Lorient vs Marseille,Ligue 1 - France,h2h,4.62,BASSA,3.04,Lorient@4.8 (Matchbook)
+2026-04-16 20:50 UTC,VALUE_BET,Alavés vs Mallorca,La Liga - Spain,h2h,4.39,BASSA,3.78,Mallorca@3.9 (1xBet)
+2026-04-16 20:50 UTC,VALUE_BET,Alavés vs Mallorca,La Liga - Spain,h2h,4.39,BASSA,3.78,Mallorca@3.9 (Casumo)
+2026-04-16 20:50 UTC,VALUE_BET,Alavés vs Mallorca,La Liga - Spain,h2h,4.39,BASSA,3.78,Mallorca@3.9 (Grosvenor)
+2026-04-16 20:50 UTC,VALUE_BET,Getafe vs Barcelona,La Liga - Spain,h2h,4.12,BASSA,3.1,Draw@4.32 (1xBet)
+2026-04-16 20:50 UTC,VALUE_BET,Werder Bremen vs Hamburger SV,Bundesliga - Germany,h2h,3.94,BASSA,3.34,Hamburger SV@3.95 (Betfair)
+2026-04-16 20:50 UTC,VALUE_BET,Werder Bremen vs Hamburger SV,Bundesliga - Germany,h2h,3.94,BASSA,3.34,Hamburger SV@3.95 (Betfair)
+2026-04-16 20:50 UTC,VALUE_BET,Werder Bremen vs Hamburger SV,Bundesliga - Germany,h2h,3.94,BASSA,3.34,Hamburger SV@3.95 (Matchbook)
+2026-04-16 20:50 UTC,VALUE_BET,Athletic Bilbao vs CA Osasuna,La Liga - Spain,h2h,3.76,BASSA,2.35,CA Osasuna@5.0 (Betfair)
+2026-04-16 20:50 UTC,VALUE_BET,Athletic Bilbao vs CA Osasuna,La Liga - Spain,h2h,3.76,BASSA,2.35,CA Osasuna@5.0 (Betfair)
+2026-04-16 20:50 UTC,VALUE_BET,Athletic Bilbao vs CA Osasuna,La Liga - Spain,h2h,3.76,BASSA,2.35,CA Osasuna@5.0 (Coolbet)
+2026-04-16 20:50 UTC,VALUE_BET,Athletic Bilbao vs CA Osasuna,La Liga - Spain,h2h,3.76,BASSA,2.35,CA Osasuna@5.0 (Matchbook)
+2026-04-16 20:50 UTC,VALUE_BET,Fiorentina vs Sassuolo,Serie A - Italy,h2h,3.7,BASSA,2.89,Sassuolo@4.2 (PMU (FR))
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,3.62,BASSA,3.07,Draw@3.95 (Casumo)
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,3.62,BASSA,3.07,Draw@3.95 (Grosvenor)
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,3.62,BASSA,3.07,Draw@3.95 (Nordic Bet)
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,3.62,BASSA,3.07,Draw@3.95 (Betsson)
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,3.53,BASSA,2.67,Celta Vigo@4.3 (Marathon Bet)
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,3.53,BASSA,2.67,Celta Vigo@4.3 (Tipico)
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,3.53,BASSA,2.67,Celta Vigo@4.3 (Nordic Bet)
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,3.53,BASSA,2.67,Celta Vigo@4.3 (Betsson)
+2026-04-16 20:50 UTC,VALUE_BET,Augsburg vs Eintracht Frankfurt,Bundesliga - Germany,h2h,3.52,BASSA,3.1,Draw@3.84 (1xBet)
+2026-04-16 20:50 UTC,VALUE_BET,Lorient vs Strasbourg,Ligue 1 - France,h2h,3.45,BASSA,3.26,Draw@3.64 (Marathon Bet)
+2026-04-16 20:50 UTC,VALUE_BET,CA Osasuna vs Sevilla,La Liga - Spain,h2h,3.42,BASSA,3.32,Draw@3.58 (Marathon Bet)
+2026-04-16 20:50 UTC,VALUE_BET,Paris FC vs Lille,Ligue 1 - France,h2h,3.41,BASSA,3.05,Paris FC@3.8 (Tipico)
+2026-04-16 20:50 UTC,VALUE_BET,Villarreal vs Celta Vigo,La Liga - Spain,h2h,3.36,BASSA,2.85,Draw@3.94 (Marathon Bet)
+2026-04-16 20:50 UTC,VALUE_BET,Alavés vs Mallorca,La Liga - Spain,h2h,3.32,BASSA,2.9,Mallorca@3.86 (BetOnline.ag)
+2026-04-16 20:50 UTC,VALUE_BET,Valencia vs Girona,La Liga - Spain,h2h,3.31,BASSA,3.19,Draw@3.6 (1xBet)
+2026-04-16 20:50 UTC,VALUE_BET,Paris FC vs Lille,Ligue 1 - France,h2h,3.14,BASSA,2.81,Paris FC@3.79 (1xBet)
+2026-04-16 20:50 UTC,VALUE_BET,Rayo Vallecano vs Real Sociedad,La Liga - Spain,h2h,3.06,BASSA,2.94,Draw@3.6 (Marathon Bet)
+2026-04-16 20:50 UTC,VALUE_BET,Alavés vs Mallorca,La Liga - Spain,h2h,3.05,BASSA,2.67,Mallorca@3.85 (LeoVegas (SE))
+2026-04-16 20:50 UTC,VALUE_BET,West Ham United vs Everton,EPL,h2h,3.02,BASSA,4.19,West Ham United@2.8 (Betfair)
+2026-04-16 20:50 UTC,VALUE_BET,West Ham United vs Everton,EPL,h2h,3.02,BASSA,4.19,West Ham United@2.8 (Betfair)
+2026-04-16 20:50 UTC,VALUE_BET,Valencia vs Girona,La Liga - Spain,h2h,3.01,BASSA,2.76,Girona@3.73 (BetOnline.ag)
