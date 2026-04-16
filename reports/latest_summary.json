@@ -1,44 +1,12 @@
 {
-  "timestamp": "2026-04-15 23:42 UTC",
+  "timestamp": "2026-04-16 09:21 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
-  "arbitrages_found": 17,
-  "value_bets_found": 99,
-  "best_arb_margin": 2.379,
-  "best_value_edge": 16.11,
+  "arbitrages_found": 16,
+  "value_bets_found": 175,
+  "best_arb_margin": 1.418,
+  "best_value_edge": 15.69,
   "arbitrages": [
-    {
-      "type": "ARBITRAGE",
-      "event_id": "3c0a6c55120809a87abc49406bb86657",
-      "league": "Serie A - Italy",
-      "match": "Inter Milan vs Cagliari",
-      "commence": "2026-04-17T18:45:00Z",
-      "market": "h2h",
-      "margin_pct": 2.379,
-      "guaranteed_profit": 23.79,
-      "stakes": {
-        "Cagliari": {
-          "bookmaker": "Betfair",
-          "odds": 16.5,
-          "stake_pct": 6.21,
-          "stake_amount": 62.08
-        },
-        "Inter Milan": {
-          "bookmaker": "1xBet",
-          "odds": 1.27,
-          "stake_pct": 80.66,
-          "stake_amount": 806.59
-        },
-        "Draw": {
-          "bookmaker": "Betfair",
-          "odds": 7.8,
-          "stake_pct": 13.13,
-          "stake_amount": 131.33
-        }
-      },
-      "num_bookmakers": 40,
-      "found_at": "2026-04-15T23:42:51.847231+00:00"
-    },
     {
       "type": "ARBITRAGE",
       "event_id": "b104ec3a106ddc5715a4da26d894567f",
@@ -49,6 +17,12 @@
       "margin_pct": 1.418,
       "guaranteed_profit": 14.18,
       "stakes": {
+        "Draw": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 4.5,
+          "stake_pct": 22.54,
+          "stake_amount": 225.42
+        },
         "Werder Bremen": {
           "bookmaker": "BetOnline.ag",
           "odds": 6.5,
@@ -60,16 +34,10 @@
           "odds": 1.64,
           "stake_pct": 61.85,
           "stake_amount": 618.52
-        },
-        "Draw": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 4.5,
-          "stake_pct": 22.54,
-          "stake_amount": 225.42
         }
       },
       "num_bookmakers": 30,
-      "found_at": "2026-04-15T23:42:51.854577+00:00"
+      "found_at": "2026-04-16T09:21:29.681431+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -81,12 +49,6 @@
       "margin_pct": 1.385,
       "guaranteed_profit": 13.85,
       "stakes": {
-        "Celta Vigo": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 10.5,
-          "stake_pct": 9.66,
-          "stake_amount": 96.58
-        },
         "Barcelona": {
           "bookmaker": "1xBet",
           "odds": 1.32,
@@ -98,74 +60,112 @@
           "odds": 7.5,
           "stake_pct": 13.52,
           "stake_amount": 135.21
-        }
-      },
-      "num_bookmakers": 36,
-      "found_at": "2026-04-15T23:42:51.850812+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "ea28653ebcd7743146869e2aa7851275",
-      "league": "EPL",
-      "match": "Crystal Palace vs West Ham United",
-      "commence": "2026-04-20T19:00:00Z",
-      "market": "h2h",
-      "margin_pct": 1.065,
-      "guaranteed_profit": 10.65,
-      "stakes": {
-        "West Ham United": {
-          "bookmaker": "1xBet",
-          "odds": 3.58,
-          "stake_pct": 28.23,
-          "stake_amount": 282.34
         },
-        "Draw": {
-          "bookmaker": "Betfair",
-          "odds": 3.45,
-          "stake_pct": 29.3,
-          "stake_amount": 292.97
-        },
-        "Crystal Palace": {
-          "bookmaker": "Nordic Bet",
-          "odds": 2.38,
-          "stake_pct": 42.47,
-          "stake_amount": 424.69
-        }
-      },
-      "num_bookmakers": 38,
-      "found_at": "2026-04-15T23:42:51.845584+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "67946ccfc03197bc48eb7b6c9786b713",
-      "league": "EPL",
-      "match": "Manchester City vs Arsenal",
-      "commence": "2026-04-19T15:30:00Z",
-      "market": "h2h",
-      "margin_pct": 1.051,
-      "guaranteed_profit": 10.51,
-      "stakes": {
-        "Manchester City": {
+        "Celta Vigo": {
           "bookmaker": "Unibet (SE)",
-          "odds": 1.91,
-          "stake_pct": 52.91,
-          "stake_amount": 529.12
-        },
-        "Arsenal": {
-          "bookmaker": "Betfair",
-          "odds": 4.7,
-          "stake_pct": 21.5,
-          "stake_amount": 215.03
-        },
-        "Draw": {
-          "bookmaker": "Betfair",
-          "odds": 3.95,
-          "stake_pct": 25.59,
-          "stake_amount": 255.85
+          "odds": 10.5,
+          "stake_pct": 9.66,
+          "stake_amount": 96.58
         }
       },
-      "num_bookmakers": 39,
-      "found_at": "2026-04-15T23:42:51.845393+00:00"
+      "num_bookmakers": 37,
+      "found_at": "2026-04-16T09:21:29.677515+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "ea38471acf4d5944929f9025e151376d",
+      "league": "EPL",
+      "match": "Manchester United vs Brentford",
+      "commence": "2026-04-27T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.302,
+      "guaranteed_profit": 13.02,
+      "stakes": {
+        "Draw": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 4.2,
+          "stake_pct": 24.12,
+          "stake_amount": 241.24
+        },
+        "Brentford": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 4.55,
+          "stake_pct": 22.27,
+          "stake_amount": 222.68
+        },
+        "Manchester United": {
+          "bookmaker": "Betfair",
+          "odds": 1.89,
+          "stake_pct": 53.61,
+          "stake_amount": 536.08
+        }
+      },
+      "num_bookmakers": 30,
+      "found_at": "2026-04-16T09:21:29.673566+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "7af046b7a51c309f8f2f6c820e7bcb11",
+      "league": "La Liga - Spain",
+      "match": "Elche CF vs Atlético Madrid",
+      "commence": "2026-04-22T17:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.175,
+      "guaranteed_profit": 11.75,
+      "stakes": {
+        "Elche CF": {
+          "bookmaker": "Nordic Bet",
+          "odds": 2.88,
+          "stake_pct": 35.14,
+          "stake_amount": 351.35
+        },
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 3.9,
+          "stake_pct": 25.95,
+          "stake_amount": 259.46
+        },
+        "Atlético Madrid": {
+          "bookmaker": "Betfair",
+          "odds": 2.6,
+          "stake_pct": 38.92,
+          "stake_amount": 389.19
+        }
+      },
+      "num_bookmakers": 34,
+      "found_at": "2026-04-16T09:21:29.677232+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "d137c5f062243e857803fcebfdda2953",
+      "league": "EPL",
+      "match": "Leeds United vs Wolverhampton Wanderers",
+      "commence": "2026-04-18T14:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.17,
+      "guaranteed_profit": 11.7,
+      "stakes": {
+        "Draw": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 4.25,
+          "stake_pct": 23.81,
+          "stake_amount": 238.08
+        },
+        "Wolverhampton Wanderers": {
+          "bookmaker": "Betfair",
+          "odds": 6.2,
+          "stake_pct": 16.32,
+          "stake_amount": 163.2
+        },
+        "Leeds United": {
+          "bookmaker": "1xBet",
+          "odds": 1.69,
+          "stake_pct": 59.87,
+          "stake_amount": 598.72
+        }
+      },
+      "num_bookmakers": 40,
+      "found_at": "2026-04-16T09:21:29.671128+00:00"
     }
   ],
   "value_bets": [
@@ -179,15 +179,35 @@
       "outcome": "Sassuolo",
       "bookmaker": "BetOnline.ag",
       "odds": 4.7,
-      "fair_odds": 4.048,
-      "true_prob_pct": 24.71,
+      "fair_odds": 4.062,
+      "true_prob_pct": 24.62,
       "implied_prob_pct": 21.28,
-      "edge_pct": 16.11,
-      "kelly_stake_pct": 1.09,
-      "suggested_stake": 10.89,
-      "expected_value": 16.11,
+      "edge_pct": 15.69,
+      "kelly_stake_pct": 1.06,
+      "suggested_stake": 10.6,
+      "expected_value": 15.69,
       "confidence": "ALTA",
-      "found_at": "2026-04-15T23:42:51.849246+00:00"
+      "found_at": "2026-04-16T09:21:29.675926+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "523dda96c45d6c24fc4854013aeb912c",
+      "league": "Bundesliga - Germany",
+      "match": "1. FC Köln vs Bayer Leverkusen",
+      "commence": "2026-04-25T13:30:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "BetOnline.ag",
+      "odds": 4.35,
+      "fair_odds": 3.875,
+      "true_prob_pct": 25.8,
+      "implied_prob_pct": 22.99,
+      "edge_pct": 12.25,
+      "kelly_stake_pct": 0.91,
+      "suggested_stake": 9.14,
+      "expected_value": 12.25,
+      "confidence": "ALTA",
+      "found_at": "2026-04-16T09:21:29.680753+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -199,15 +219,15 @@
       "outcome": "Sassuolo",
       "bookmaker": "1xBet",
       "odds": 4.54,
-      "fair_odds": 4.048,
-      "true_prob_pct": 24.71,
+      "fair_odds": 4.062,
+      "true_prob_pct": 24.62,
       "implied_prob_pct": 22.03,
-      "edge_pct": 12.16,
-      "kelly_stake_pct": 0.86,
-      "suggested_stake": 8.59,
-      "expected_value": 12.16,
+      "edge_pct": 11.76,
+      "kelly_stake_pct": 0.83,
+      "suggested_stake": 8.3,
+      "expected_value": 11.76,
       "confidence": "ALTA",
-      "found_at": "2026-04-15T23:42:51.849209+00:00"
+      "found_at": "2026-04-16T09:21:29.675884+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -219,15 +239,75 @@
       "outcome": "Sassuolo",
       "bookmaker": "Pinnacle",
       "odds": 4.52,
-      "fair_odds": 4.048,
-      "true_prob_pct": 24.71,
+      "fair_odds": 4.062,
+      "true_prob_pct": 24.62,
       "implied_prob_pct": 22.12,
-      "edge_pct": 11.67,
-      "kelly_stake_pct": 0.83,
-      "suggested_stake": 8.29,
-      "expected_value": 11.67,
+      "edge_pct": 11.26,
+      "kelly_stake_pct": 0.8,
+      "suggested_stake": 8.0,
+      "expected_value": 11.26,
       "confidence": "ALTA",
-      "found_at": "2026-04-15T23:42:51.849240+00:00"
+      "found_at": "2026-04-16T09:21:29.675912+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "5d7ceb9c77d5adba56d67fe4cd1a17ea",
+      "league": "Bundesliga - Germany",
+      "match": "Borussia Dortmund vs SC Freiburg",
+      "commence": "2026-04-26T15:30:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "1xBet",
+      "odds": 4.83,
+      "fair_odds": 4.377,
+      "true_prob_pct": 22.85,
+      "implied_prob_pct": 20.7,
+      "edge_pct": 10.34,
+      "kelly_stake_pct": 0.68,
+      "suggested_stake": 6.75,
+      "expected_value": 10.34,
+      "confidence": "ALTA",
+      "found_at": "2026-04-16T09:21:29.681594+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "523dda96c45d6c24fc4854013aeb912c",
+      "league": "Bundesliga - Germany",
+      "match": "1. FC Köln vs Bayer Leverkusen",
+      "commence": "2026-04-25T13:30:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "1xBet",
+      "odds": 4.26,
+      "fair_odds": 3.875,
+      "true_prob_pct": 25.8,
+      "implied_prob_pct": 23.47,
+      "edge_pct": 9.93,
+      "kelly_stake_pct": 0.76,
+      "suggested_stake": 7.61,
+      "expected_value": 9.93,
+      "confidence": "ALTA",
+      "found_at": "2026-04-16T09:21:29.680709+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "5d7ceb9c77d5adba56d67fe4cd1a17ea",
+      "league": "Bundesliga - Germany",
+      "match": "Borussia Dortmund vs SC Freiburg",
+      "commence": "2026-04-26T15:30:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Tipico",
+      "odds": 4.8,
+      "fair_odds": 4.377,
+      "true_prob_pct": 22.85,
+      "implied_prob_pct": 20.83,
+      "edge_pct": 9.66,
+      "kelly_stake_pct": 0.64,
+      "suggested_stake": 6.35,
+      "expected_value": 9.66,
+      "confidence": "ALTA",
+      "found_at": "2026-04-16T09:21:29.681610+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -239,35 +319,35 @@
       "outcome": "Sassuolo",
       "bookmaker": "Marathon Bet",
       "odds": 4.45,
-      "fair_odds": 4.048,
-      "true_prob_pct": 24.71,
+      "fair_odds": 4.062,
+      "true_prob_pct": 24.62,
       "implied_prob_pct": 22.47,
-      "edge_pct": 9.94,
-      "kelly_stake_pct": 0.72,
-      "suggested_stake": 7.2,
-      "expected_value": 9.94,
+      "edge_pct": 9.54,
+      "kelly_stake_pct": 0.69,
+      "suggested_stake": 6.91,
+      "expected_value": 9.54,
       "confidence": "ALTA",
-      "found_at": "2026-04-15T23:42:51.849216+00:00"
+      "found_at": "2026-04-16T09:21:29.675892+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "3f0e9a96dbc83fd4b0c62cd12357b6a8",
-      "league": "Serie A - Italy",
-      "match": "Cagliari vs Atalanta BC",
-      "commence": "2026-04-27T16:30:00Z",
+      "event_id": "523dda96c45d6c24fc4854013aeb912c",
+      "league": "Bundesliga - Germany",
+      "match": "1. FC Köln vs Bayer Leverkusen",
+      "commence": "2026-04-25T13:30:00Z",
       "market": "h2h",
-      "outcome": "Cagliari",
-      "bookmaker": "Betfred (UK)",
-      "odds": 5.0,
-      "fair_odds": 4.566,
-      "true_prob_pct": 21.9,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 9.51,
-      "kelly_stake_pct": 0.59,
-      "suggested_stake": 5.94,
-      "expected_value": 9.51,
+      "outcome": "1. FC Köln",
+      "bookmaker": "1xBet",
+      "odds": 4.21,
+      "fair_odds": 3.849,
+      "true_prob_pct": 25.98,
+      "implied_prob_pct": 23.75,
+      "edge_pct": 9.38,
+      "kelly_stake_pct": 0.73,
+      "suggested_stake": 7.31,
+      "expected_value": 9.38,
       "confidence": "ALTA",
-      "found_at": "2026-04-15T23:42:51.849746+00:00"
+      "found_at": "2026-04-16T09:21:29.680830+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -279,95 +359,15 @@
       "outcome": "Draw",
       "bookmaker": "BetOnline.ag",
       "odds": 4.15,
-      "fair_odds": 3.801,
-      "true_prob_pct": 26.31,
+      "fair_odds": 3.795,
+      "true_prob_pct": 26.35,
       "implied_prob_pct": 24.1,
-      "edge_pct": 9.17,
-      "kelly_stake_pct": 0.73,
-      "suggested_stake": 7.28,
-      "expected_value": 9.17,
+      "edge_pct": 9.36,
+      "kelly_stake_pct": 0.74,
+      "suggested_stake": 7.43,
+      "expected_value": 9.36,
       "confidence": "ALTA",
-      "found_at": "2026-04-15T23:42:51.849800+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "3f0e9a96dbc83fd4b0c62cd12357b6a8",
-      "league": "Serie A - Italy",
-      "match": "Cagliari vs Atalanta BC",
-      "commence": "2026-04-27T16:30:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "1xBet",
-      "odds": 4.14,
-      "fair_odds": 3.801,
-      "true_prob_pct": 26.31,
-      "implied_prob_pct": 24.15,
-      "edge_pct": 8.91,
-      "kelly_stake_pct": 0.71,
-      "suggested_stake": 7.09,
-      "expected_value": 8.91,
-      "confidence": "ALTA",
-      "found_at": "2026-04-15T23:42:51.849765+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "3f0e9a96dbc83fd4b0c62cd12357b6a8",
-      "league": "Serie A - Italy",
-      "match": "Cagliari vs Atalanta BC",
-      "commence": "2026-04-27T16:30:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "Pinnacle",
-      "odds": 4.13,
-      "fair_odds": 3.801,
-      "true_prob_pct": 26.31,
-      "implied_prob_pct": 24.21,
-      "edge_pct": 8.65,
-      "kelly_stake_pct": 0.69,
-      "suggested_stake": 6.91,
-      "expected_value": 8.65,
-      "confidence": "ALTA",
-      "found_at": "2026-04-15T23:42:51.849795+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "3f0e9a96dbc83fd4b0c62cd12357b6a8",
-      "league": "Serie A - Italy",
-      "match": "Cagliari vs Atalanta BC",
-      "commence": "2026-04-27T16:30:00Z",
-      "market": "h2h",
-      "outcome": "Cagliari",
-      "bookmaker": "1xBet",
-      "odds": 4.96,
-      "fair_odds": 4.566,
-      "true_prob_pct": 21.9,
-      "implied_prob_pct": 20.16,
-      "edge_pct": 8.63,
-      "kelly_stake_pct": 0.54,
-      "suggested_stake": 5.45,
-      "expected_value": 8.63,
-      "confidence": "ALTA",
-      "found_at": "2026-04-15T23:42:51.849667+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "3f0e9a96dbc83fd4b0c62cd12357b6a8",
-      "league": "Serie A - Italy",
-      "match": "Cagliari vs Atalanta BC",
-      "commence": "2026-04-27T16:30:00Z",
-      "market": "h2h",
-      "outcome": "Cagliari",
-      "bookmaker": "Nordic Bet",
-      "odds": 4.95,
-      "fair_odds": 4.566,
-      "true_prob_pct": 21.9,
-      "implied_prob_pct": 20.2,
-      "edge_pct": 8.41,
-      "kelly_stake_pct": 0.53,
-      "suggested_stake": 5.32,
-      "expected_value": 8.41,
-      "confidence": "ALTA",
-      "found_at": "2026-04-15T23:42:51.849682+00:00"
+      "found_at": "2026-04-16T09:21:29.676372+00:00"
     }
   ]
 }
