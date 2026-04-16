@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-16 15:27 UTC",
+  "timestamp": "2026-04-16 18:08 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
   "arbitrages_found": 18,
-  "value_bets_found": 45,
+  "value_bets_found": 52,
   "best_arb_margin": 2.513,
-  "best_value_edge": 15.87,
+  "best_value_edge": 16.05,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
@@ -17,11 +17,11 @@
       "margin_pct": 2.513,
       "guaranteed_profit": 25.13,
       "stakes": {
-        "Draw": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 4.5,
-          "stake_pct": 22.8,
-          "stake_amount": 227.95
+        "Werder Bremen": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 6.5,
+          "stake_pct": 15.78,
+          "stake_amount": 157.81
         },
         "VfB Stuttgart": {
           "bookmaker": "1xBet",
@@ -29,15 +29,15 @@
           "stake_pct": 61.42,
           "stake_amount": 614.24
         },
-        "Werder Bremen": {
-          "bookmaker": "BetOnline.ag",
-          "odds": 6.5,
-          "stake_pct": 15.78,
-          "stake_amount": 157.81
+        "Draw": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 4.5,
+          "stake_pct": 22.8,
+          "stake_amount": 227.95
         }
       },
       "num_bookmakers": 30,
-      "found_at": "2026-04-16T15:27:34.380317+00:00"
+      "found_at": "2026-04-16T18:08:59.919940+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -46,94 +46,30 @@
       "match": "Leeds United vs Wolverhampton Wanderers",
       "commence": "2026-04-18T14:00:00Z",
       "market": "h2h",
-      "margin_pct": 1.495,
-      "guaranteed_profit": 14.95,
+      "margin_pct": 1.222,
+      "guaranteed_profit": 12.22,
       "stakes": {
-        "Wolverhampton Wanderers": {
-          "bookmaker": "Coolbet",
-          "odds": 6.22,
-          "stake_pct": 16.32,
-          "stake_amount": 163.21
-        },
-        "Draw": {
-          "bookmaker": "Unibet (FR)",
-          "odds": 4.3,
-          "stake_pct": 23.61,
-          "stake_amount": 236.09
-        },
         "Leeds United": {
           "bookmaker": "1xBet",
           "odds": 1.69,
-          "stake_pct": 60.07,
-          "stake_amount": 600.7
+          "stake_pct": 59.9,
+          "stake_amount": 599.04
+        },
+        "Draw": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 4.25,
+          "stake_pct": 23.82,
+          "stake_amount": 238.2
+        },
+        "Wolverhampton Wanderers": {
+          "bookmaker": "Coolbet",
+          "odds": 6.22,
+          "stake_pct": 16.28,
+          "stake_amount": 162.76
         }
       },
       "num_bookmakers": 40,
-      "found_at": "2026-04-16T15:27:34.370327+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "2ffb1d9222cfde6afe062e6da1ac19d6",
-      "league": "Serie A - Italy",
-      "match": "Napoli vs Lazio",
-      "commence": "2026-04-18T16:00:00Z",
-      "market": "h2h",
-      "margin_pct": 1.49,
-      "guaranteed_profit": 14.9,
-      "stakes": {
-        "Lazio": {
-          "bookmaker": "Betfair",
-          "odds": 7.4,
-          "stake_pct": 13.72,
-          "stake_amount": 137.18
-        },
-        "Draw": {
-          "bookmaker": "Betfair",
-          "odds": 4.1,
-          "stake_pct": 24.76,
-          "stake_amount": 247.59
-        },
-        "Napoli": {
-          "bookmaker": "GTbets",
-          "odds": 1.65,
-          "stake_pct": 61.52,
-          "stake_amount": 615.23
-        }
-      },
-      "num_bookmakers": 40,
-      "found_at": "2026-04-16T15:27:34.373393+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "ea28653ebcd7743146869e2aa7851275",
-      "league": "EPL",
-      "match": "Crystal Palace vs West Ham United",
-      "commence": "2026-04-20T19:00:00Z",
-      "market": "h2h",
-      "margin_pct": 1.065,
-      "guaranteed_profit": 10.65,
-      "stakes": {
-        "Crystal Palace": {
-          "bookmaker": "Nordic Bet",
-          "odds": 2.38,
-          "stake_pct": 42.47,
-          "stake_amount": 424.69
-        },
-        "Draw": {
-          "bookmaker": "Betfair",
-          "odds": 3.45,
-          "stake_pct": 29.3,
-          "stake_amount": 292.97
-        },
-        "West Ham United": {
-          "bookmaker": "1xBet",
-          "odds": 3.58,
-          "stake_pct": 28.23,
-          "stake_amount": 282.34
-        }
-      },
-      "num_bookmakers": 38,
-      "found_at": "2026-04-16T15:27:34.371466+00:00"
+      "found_at": "2026-04-16T18:08:59.910368+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -145,12 +81,6 @@
       "margin_pct": 1.058,
       "guaranteed_profit": 10.58,
       "stakes": {
-        "Brentford": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 4.5,
-          "stake_pct": 22.46,
-          "stake_amount": 224.6
-        },
         "Manchester United": {
           "bookmaker": "Betfair",
           "odds": 1.89,
@@ -162,10 +92,80 @@
           "odds": 4.2,
           "stake_pct": 24.06,
           "stake_amount": 240.64
+        },
+        "Brentford": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 4.5,
+          "stake_pct": 22.46,
+          "stake_amount": 224.6
         }
       },
       "num_bookmakers": 30,
-      "found_at": "2026-04-16T15:27:34.372722+00:00"
+      "found_at": "2026-04-16T18:08:59.912682+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "681c82154abc25a4e884697a59dc37ed",
+      "league": "Bundesliga - Germany",
+      "match": "Bayern Munich vs VfB Stuttgart",
+      "commence": "2026-04-19T15:30:00Z",
+      "market": "h2h",
+      "margin_pct": 1.034,
+      "guaranteed_profit": 10.34,
+      "stakes": {
+        "VfB Stuttgart": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 7.5,
+          "stake_pct": 13.47,
+          "stake_amount": 134.73
+        },
+        "Draw": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 6.0,
+          "stake_pct": 16.84,
+          "stake_amount": 168.41
+        },
+        "Bayern Munich": {
+          "bookmaker": "Betfair",
+          "odds": 1.45,
+          "stake_pct": 69.69,
+          "stake_amount": 696.86
+        }
+      },
+      "num_bookmakers": 40,
+      "found_at": "2026-04-16T18:08:59.918907+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "34b2a36b21348e41658a651d9e1be405",
+      "league": "Serie A - Italy",
+      "match": "Hellas Verona vs AC Milan",
+      "commence": "2026-04-19T13:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.012,
+      "guaranteed_profit": 10.12,
+      "stakes": {
+        "Hellas Verona": {
+          "bookmaker": "Smarkets",
+          "odds": 7.0,
+          "stake_pct": 14.43,
+          "stake_amount": 144.32
+        },
+        "AC Milan": {
+          "bookmaker": "GTbets",
+          "odds": 1.65,
+          "stake_pct": 61.23,
+          "stake_amount": 612.26
+        },
+        "Draw": {
+          "bookmaker": "Nordic Bet",
+          "odds": 4.15,
+          "stake_pct": 24.34,
+          "stake_amount": 243.43
+        }
+      },
+      "num_bookmakers": 40,
+      "found_at": "2026-04-16T18:08:59.913811+00:00"
     }
   ],
   "value_bets": [
@@ -179,15 +179,15 @@
       "outcome": "Sassuolo",
       "bookmaker": "BetOnline.ag",
       "odds": 4.7,
-      "fair_odds": 4.056,
-      "true_prob_pct": 24.65,
+      "fair_odds": 4.05,
+      "true_prob_pct": 24.69,
       "implied_prob_pct": 21.28,
-      "edge_pct": 15.87,
-      "kelly_stake_pct": 1.07,
-      "suggested_stake": 10.72,
-      "expected_value": 15.87,
+      "edge_pct": 16.05,
+      "kelly_stake_pct": 1.08,
+      "suggested_stake": 10.84,
+      "expected_value": 16.05,
       "confidence": "ALTA",
-      "found_at": "2026-04-16T15:27:34.375053+00:00"
+      "found_at": "2026-04-16T18:08:59.914889+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -199,15 +199,15 @@
       "outcome": "Sassuolo",
       "bookmaker": "1xBet",
       "odds": 4.54,
-      "fair_odds": 4.056,
-      "true_prob_pct": 24.65,
+      "fair_odds": 4.05,
+      "true_prob_pct": 24.69,
       "implied_prob_pct": 22.03,
-      "edge_pct": 11.92,
-      "kelly_stake_pct": 0.84,
-      "suggested_stake": 8.42,
-      "expected_value": 11.92,
+      "edge_pct": 12.1,
+      "kelly_stake_pct": 0.85,
+      "suggested_stake": 8.54,
+      "expected_value": 12.1,
       "confidence": "ALTA",
-      "found_at": "2026-04-16T15:27:34.375017+00:00"
+      "found_at": "2026-04-16T18:08:59.914861+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -219,15 +219,15 @@
       "outcome": "Sassuolo",
       "bookmaker": "Pinnacle",
       "odds": 4.52,
-      "fair_odds": 4.056,
-      "true_prob_pct": 24.65,
+      "fair_odds": 4.05,
+      "true_prob_pct": 24.69,
       "implied_prob_pct": 22.12,
-      "edge_pct": 11.43,
-      "kelly_stake_pct": 0.81,
-      "suggested_stake": 8.12,
-      "expected_value": 11.43,
+      "edge_pct": 11.6,
+      "kelly_stake_pct": 0.82,
+      "suggested_stake": 8.24,
+      "expected_value": 11.6,
       "confidence": "ALTA",
-      "found_at": "2026-04-16T15:27:34.375046+00:00"
+      "found_at": "2026-04-16T18:08:59.914882+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -239,15 +239,35 @@
       "outcome": "Sassuolo",
       "bookmaker": "Marathon Bet",
       "odds": 4.45,
-      "fair_odds": 4.056,
-      "true_prob_pct": 24.65,
+      "fair_odds": 4.05,
+      "true_prob_pct": 24.69,
       "implied_prob_pct": 22.47,
-      "edge_pct": 9.7,
-      "kelly_stake_pct": 0.7,
-      "suggested_stake": 7.03,
-      "expected_value": 9.7,
+      "edge_pct": 9.88,
+      "kelly_stake_pct": 0.72,
+      "suggested_stake": 7.16,
+      "expected_value": 9.88,
       "confidence": "ALTA",
-      "found_at": "2026-04-16T15:27:34.375026+00:00"
+      "found_at": "2026-04-16T18:08:59.914868+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "5f9d3da4f9116d7f74b873d6d8c5b5b5",
+      "league": "La Liga - Spain",
+      "match": "CA Osasuna vs Sevilla",
+      "commence": "2026-04-26T16:30:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "BetOnline.ag",
+      "odds": 3.77,
+      "fair_odds": 3.461,
+      "true_prob_pct": 28.89,
+      "implied_prob_pct": 26.53,
+      "edge_pct": 8.91,
+      "kelly_stake_pct": 0.8,
+      "suggested_stake": 8.05,
+      "expected_value": 8.91,
+      "confidence": "ALTA",
+      "found_at": "2026-04-16T18:08:59.917599+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -259,15 +279,15 @@
       "outcome": "Sassuolo",
       "bookmaker": "Unibet (SE)",
       "odds": 4.4,
-      "fair_odds": 4.056,
-      "true_prob_pct": 24.65,
+      "fair_odds": 4.05,
+      "true_prob_pct": 24.69,
       "implied_prob_pct": 22.73,
-      "edge_pct": 8.47,
-      "kelly_stake_pct": 0.62,
-      "suggested_stake": 6.23,
-      "expected_value": 8.47,
+      "edge_pct": 8.64,
+      "kelly_stake_pct": 0.64,
+      "suggested_stake": 6.35,
+      "expected_value": 8.64,
       "confidence": "ALTA",
-      "found_at": "2026-04-16T15:27:34.375079+00:00"
+      "found_at": "2026-04-16T18:08:59.914915+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -279,15 +299,15 @@
       "outcome": "Sassuolo",
       "bookmaker": "Unibet (NL)",
       "odds": 4.4,
-      "fair_odds": 4.056,
-      "true_prob_pct": 24.65,
+      "fair_odds": 4.05,
+      "true_prob_pct": 24.69,
       "implied_prob_pct": 22.73,
-      "edge_pct": 8.47,
-      "kelly_stake_pct": 0.62,
-      "suggested_stake": 6.23,
-      "expected_value": 8.47,
+      "edge_pct": 8.64,
+      "kelly_stake_pct": 0.64,
+      "suggested_stake": 6.35,
+      "expected_value": 8.64,
       "confidence": "ALTA",
-      "found_at": "2026-04-16T15:27:34.375085+00:00"
+      "found_at": "2026-04-16T18:08:59.914940+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -299,15 +319,15 @@
       "outcome": "Mallorca",
       "bookmaker": "Unibet (NL)",
       "odds": 4.0,
-      "fair_odds": 3.741,
-      "true_prob_pct": 26.73,
+      "fair_odds": 3.736,
+      "true_prob_pct": 26.77,
       "implied_prob_pct": 25.0,
-      "edge_pct": 6.93,
-      "kelly_stake_pct": 0.58,
-      "suggested_stake": 5.78,
-      "expected_value": 6.93,
+      "edge_pct": 7.06,
+      "kelly_stake_pct": 0.59,
+      "suggested_stake": 5.89,
+      "expected_value": 7.06,
       "confidence": "MEDIA",
-      "found_at": "2026-04-16T15:27:34.377239+00:00"
+      "found_at": "2026-04-16T18:08:59.916945+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -319,55 +339,35 @@
       "outcome": "Mallorca",
       "bookmaker": "Unibet (SE)",
       "odds": 4.0,
-      "fair_odds": 3.741,
-      "true_prob_pct": 26.73,
+      "fair_odds": 3.736,
+      "true_prob_pct": 26.77,
       "implied_prob_pct": 25.0,
-      "edge_pct": 6.93,
-      "kelly_stake_pct": 0.58,
-      "suggested_stake": 5.78,
-      "expected_value": 6.93,
+      "edge_pct": 7.06,
+      "kelly_stake_pct": 0.59,
+      "suggested_stake": 5.89,
+      "expected_value": 7.06,
       "confidence": "MEDIA",
-      "found_at": "2026-04-16T15:27:34.377253+00:00"
+      "found_at": "2026-04-16T18:08:59.916961+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "161f9baeab748dcfa4d2df893f14b25b",
-      "league": "Serie A - Italy",
-      "match": "Fiorentina vs Sassuolo",
-      "commence": "2026-04-26T10:30:00Z",
+      "event_id": "ca8835d47ae84387004725728c4f07c6",
+      "league": "Ligue 1 - France",
+      "match": "Paris FC vs Lille",
+      "commence": "2026-04-26T15:15:00Z",
       "market": "h2h",
-      "outcome": "Sassuolo",
-      "bookmaker": "Tipico",
-      "odds": 4.3,
-      "fair_odds": 4.056,
-      "true_prob_pct": 24.65,
-      "implied_prob_pct": 23.26,
-      "edge_pct": 6.01,
-      "kelly_stake_pct": 0.45,
-      "suggested_stake": 4.55,
-      "expected_value": 6.01,
+      "outcome": "Draw",
+      "bookmaker": "1xBet",
+      "odds": 3.77,
+      "fair_odds": 3.55,
+      "true_prob_pct": 28.17,
+      "implied_prob_pct": 26.53,
+      "edge_pct": 6.21,
+      "kelly_stake_pct": 0.56,
+      "suggested_stake": 5.61,
+      "expected_value": 6.21,
       "confidence": "MEDIA",
-      "found_at": "2026-04-16T15:27:34.375040+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "af844c8833e6de4db916dd52c7b28095",
-      "league": "La Liga - Spain",
-      "match": "Alavés vs Mallorca",
-      "commence": "2026-04-25T12:00:00Z",
-      "market": "h2h",
-      "outcome": "Mallorca",
-      "bookmaker": "Casumo",
-      "odds": 3.95,
-      "fair_odds": 3.741,
-      "true_prob_pct": 26.73,
-      "implied_prob_pct": 25.32,
-      "edge_pct": 5.59,
-      "kelly_stake_pct": 0.47,
-      "suggested_stake": 4.74,
-      "expected_value": 5.59,
-      "confidence": "MEDIA",
-      "found_at": "2026-04-16T15:27:34.377245+00:00"
+      "found_at": "2026-04-16T18:08:59.922200+00:00"
     }
   ]
 }
