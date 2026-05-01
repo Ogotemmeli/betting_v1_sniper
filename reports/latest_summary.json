@@ -1,95 +1,43 @@
 {
-  "timestamp": "2026-05-01 20:54 UTC",
+  "timestamp": "2026-05-01 23:53 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
-  "arbitrages_found": 16,
-  "value_bets_found": 214,
-  "best_arb_margin": 11.022,
+  "arbitrages_found": 11,
+  "value_bets_found": 215,
+  "best_arb_margin": 1.696,
   "best_value_edge": 15.36,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
-      "event_id": "eaaf4ed0986f4f5414fc727f5c235d48",
-      "league": "EPL",
-      "match": "Leeds United vs Burnley",
-      "commence": "2026-05-01T19:00:00Z",
-      "market": "totals",
-      "margin_pct": 11.022,
-      "guaranteed_profit": 110.22,
-      "stakes": {
-        "Over 4.5": {
-          "bookmaker": "Coolbet",
-          "odds": 12.0,
-          "stake_pct": 9.37,
-          "stake_amount": 93.66
-        },
-        "Under 4.5": {
-          "bookmaker": "Pinnacle",
-          "odds": 1.24,
-          "stake_pct": 90.63,
-          "stake_amount": 906.34
-        }
-      },
-      "num_bookmakers": 13,
-      "found_at": "2026-05-01T20:54:35.205898+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "5dff5ca82fe03448a191bd58dd473321",
-      "league": "La Liga - Spain",
-      "match": "Girona vs Mallorca",
-      "commence": "2026-05-01T19:00:00Z",
-      "market": "totals",
-      "margin_pct": 9.699,
-      "guaranteed_profit": 96.99,
-      "stakes": {
-        "Under 1.5": {
-          "bookmaker": "Pinnacle",
-          "odds": 1.22,
-          "stake_pct": 90.77,
-          "stake_amount": 907.72
-        },
-        "Over 1.5": {
-          "bookmaker": "Betsson",
-          "odds": 12.0,
-          "stake_pct": 9.23,
-          "stake_amount": 92.28
-        }
-      },
-      "num_bookmakers": 11,
-      "found_at": "2026-05-01T20:54:35.211414+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "5dff5ca82fe03448a191bd58dd473321",
-      "league": "La Liga - Spain",
-      "match": "Girona vs Mallorca",
-      "commence": "2026-05-01T19:00:00Z",
+      "event_id": "f112074a27cf4c57a6bb6aa980218d17",
+      "league": "Serie A - Italy",
+      "match": "Cremonese vs Pisa",
+      "commence": "2026-05-10T13:00:00Z",
       "market": "h2h",
-      "margin_pct": 4.81,
-      "guaranteed_profit": 48.1,
+      "margin_pct": 1.696,
+      "guaranteed_profit": 16.96,
       "stakes": {
-        "Draw": {
-          "bookmaker": "Coolbet",
-          "odds": 20.0,
-          "stake_pct": 5.25,
-          "stake_amount": 52.53
-        },
-        "Girona": {
+        "Pisa": {
           "bookmaker": "Betfair",
-          "odds": 1000.0,
-          "stake_pct": 0.11,
-          "stake_amount": 1.05
+          "odds": 4.7,
+          "stake_pct": 21.64,
+          "stake_amount": 216.44
         },
-        "Mallorca": {
-          "bookmaker": "LiveScore Bet",
-          "odds": 1.11,
-          "stake_pct": 94.64,
-          "stake_amount": 946.42
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 3.7,
+          "stake_pct": 27.49,
+          "stake_amount": 274.93
+        },
+        "Cremonese": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 2.0,
+          "stake_pct": 50.86,
+          "stake_amount": 508.63
         }
       },
-      "num_bookmakers": 26,
-      "found_at": "2026-05-01T20:54:35.211362+00:00"
+      "num_bookmakers": 30,
+      "found_at": "2026-05-01T23:53:23.493487+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -101,11 +49,11 @@
       "margin_pct": 1.46,
       "guaranteed_profit": 14.6,
       "stakes": {
-        "Strasbourg": {
-          "bookmaker": "1xBet",
-          "odds": 2.18,
-          "stake_pct": 46.55,
-          "stake_amount": 465.51
+        "Angers": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 3.9,
+          "stake_pct": 26.02,
+          "stake_amount": 260.21
         },
         "Draw": {
           "bookmaker": "Unibet (SE)",
@@ -113,15 +61,15 @@
           "stake_pct": 27.43,
           "stake_amount": 274.28
         },
-        "Angers": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 3.9,
-          "stake_pct": 26.02,
-          "stake_amount": 260.21
+        "Strasbourg": {
+          "bookmaker": "1xBet",
+          "odds": 2.18,
+          "stake_pct": 46.55,
+          "stake_amount": 465.51
         }
       },
       "num_bookmakers": 27,
-      "found_at": "2026-05-01T20:54:35.218308+00:00"
+      "found_at": "2026-05-01T23:53:23.500313+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -130,30 +78,94 @@
       "match": "Lecce vs Juventus",
       "commence": "2026-05-09T18:45:00Z",
       "market": "h2h",
-      "margin_pct": 1.281,
-      "guaranteed_profit": 12.81,
+      "margin_pct": 1.181,
+      "guaranteed_profit": 11.81,
       "stakes": {
         "Juventus": {
           "bookmaker": "1xBet",
           "odds": 1.61,
-          "stake_pct": 62.92,
-          "stake_amount": 629.18
+          "stake_pct": 62.85,
+          "stake_amount": 628.54
+        },
+        "Draw": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 4.46,
+          "stake_pct": 22.69,
+          "stake_amount": 226.89
         },
         "Lecce": {
           "bookmaker": "Unibet (NL)",
           "odds": 7.0,
-          "stake_pct": 14.47,
-          "stake_amount": 144.71
-        },
-        "Draw": {
-          "bookmaker": "BetOnline.ag",
-          "odds": 4.48,
-          "stake_pct": 22.61,
-          "stake_amount": 226.11
+          "stake_pct": 14.46,
+          "stake_amount": 144.56
         }
       },
       "num_bookmakers": 31,
-      "found_at": "2026-05-01T20:54:35.210397+00:00"
+      "found_at": "2026-05-01T23:53:23.493229+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "2e977aa19b52f35a2f36273a8936a967",
+      "league": "La Liga - Spain",
+      "match": "Espanyol vs Real Madrid",
+      "commence": "2026-05-03T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.117,
+      "guaranteed_profit": 11.17,
+      "stakes": {
+        "Draw": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 4.25,
+          "stake_pct": 23.8,
+          "stake_amount": 237.95
+        },
+        "Real Madrid": {
+          "bookmaker": "1xBet",
+          "odds": 1.82,
+          "stake_pct": 55.57,
+          "stake_amount": 555.66
+        },
+        "Espanyol": {
+          "bookmaker": "Betfair",
+          "odds": 4.9,
+          "stake_pct": 20.64,
+          "stake_amount": 206.39
+        }
+      },
+      "num_bookmakers": 38,
+      "found_at": "2026-05-01T23:53:23.495060+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "97da76ec8cc9cdf87a1876d7557d43f2",
+      "league": "Serie A - Italy",
+      "match": "Inter Milan vs Parma",
+      "commence": "2026-05-03T18:45:00Z",
+      "market": "h2h",
+      "margin_pct": 1.025,
+      "guaranteed_profit": 10.25,
+      "stakes": {
+        "Draw": {
+          "bookmaker": "Betfair",
+          "odds": 7.6,
+          "stake_pct": 13.29,
+          "stake_amount": 132.94
+        },
+        "Inter Milan": {
+          "bookmaker": "GTbets",
+          "odds": 1.26,
+          "stake_pct": 80.19,
+          "stake_amount": 801.87
+        },
+        "Parma": {
+          "bookmaker": "Betfair",
+          "odds": 15.5,
+          "stake_pct": 6.52,
+          "stake_amount": 65.18
+        }
+      },
+      "num_bookmakers": 41,
+      "found_at": "2026-05-01T23:53:23.492529+00:00"
     }
   ],
   "value_bets": [
@@ -175,47 +187,7 @@
       "suggested_stake": 9.95,
       "expected_value": 15.36,
       "confidence": "ALTA",
-      "found_at": "2026-05-01T20:54:35.210563+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "6a37b1fe10687ca0cbc6904d30fd340a",
-      "league": "La Liga - Spain",
-      "match": "Athletic Bilbao vs Valencia",
-      "commence": "2026-05-10T14:15:00Z",
-      "market": "h2h",
-      "outcome": "Valencia",
-      "bookmaker": "Unibet (NL)",
-      "odds": 4.7,
-      "fair_odds": 4.146,
-      "true_prob_pct": 24.12,
-      "implied_prob_pct": 21.28,
-      "edge_pct": 13.36,
-      "kelly_stake_pct": 0.9,
-      "suggested_stake": 9.02,
-      "expected_value": 13.36,
-      "confidence": "ALTA",
-      "found_at": "2026-05-01T20:54:35.213704+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "6a37b1fe10687ca0cbc6904d30fd340a",
-      "league": "La Liga - Spain",
-      "match": "Athletic Bilbao vs Valencia",
-      "commence": "2026-05-10T14:15:00Z",
-      "market": "h2h",
-      "outcome": "Valencia",
-      "bookmaker": "Unibet (SE)",
-      "odds": 4.7,
-      "fair_odds": 4.146,
-      "true_prob_pct": 24.12,
-      "implied_prob_pct": 21.28,
-      "edge_pct": 13.36,
-      "kelly_stake_pct": 0.9,
-      "suggested_stake": 9.02,
-      "expected_value": 13.36,
-      "confidence": "ALTA",
-      "found_at": "2026-05-01T20:54:35.213746+00:00"
+      "found_at": "2026-05-01T23:53:23.493383+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -235,7 +207,7 @@
       "suggested_stake": 8.5,
       "expected_value": 12.75,
       "confidence": "ALTA",
-      "found_at": "2026-05-01T20:54:35.210583+00:00"
+      "found_at": "2026-05-01T23:53:23.493401+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -247,15 +219,15 @@
       "outcome": "Celta Vigo",
       "bookmaker": "Unibet (NL)",
       "odds": 4.35,
-      "fair_odds": 3.869,
-      "true_prob_pct": 25.85,
+      "fair_odds": 3.879,
+      "true_prob_pct": 25.78,
       "implied_prob_pct": 22.99,
-      "edge_pct": 12.44,
-      "kelly_stake_pct": 0.93,
-      "suggested_stake": 9.28,
-      "expected_value": 12.44,
+      "edge_pct": 12.15,
+      "kelly_stake_pct": 0.91,
+      "suggested_stake": 9.07,
+      "expected_value": 12.15,
       "confidence": "ALTA",
-      "found_at": "2026-05-01T20:54:35.213219+00:00"
+      "found_at": "2026-05-01T23:53:23.495712+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -267,35 +239,15 @@
       "outcome": "Celta Vigo",
       "bookmaker": "Unibet (SE)",
       "odds": 4.35,
-      "fair_odds": 3.869,
-      "true_prob_pct": 25.85,
+      "fair_odds": 3.879,
+      "true_prob_pct": 25.78,
       "implied_prob_pct": 22.99,
-      "edge_pct": 12.44,
-      "kelly_stake_pct": 0.93,
-      "suggested_stake": 9.28,
-      "expected_value": 12.44,
-      "confidence": "ALTA",
-      "found_at": "2026-05-01T20:54:35.213245+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "6a37b1fe10687ca0cbc6904d30fd340a",
-      "league": "La Liga - Spain",
-      "match": "Athletic Bilbao vs Valencia",
-      "commence": "2026-05-10T14:15:00Z",
-      "market": "h2h",
-      "outcome": "Valencia",
-      "bookmaker": "BetOnline.ag",
-      "odds": 4.65,
-      "fair_odds": 4.146,
-      "true_prob_pct": 24.12,
-      "implied_prob_pct": 21.51,
       "edge_pct": 12.15,
-      "kelly_stake_pct": 0.83,
-      "suggested_stake": 8.32,
+      "kelly_stake_pct": 0.91,
+      "suggested_stake": 9.07,
       "expected_value": 12.15,
       "confidence": "ALTA",
-      "found_at": "2026-05-01T20:54:35.213698+00:00"
+      "found_at": "2026-05-01T23:53:23.495735+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -315,7 +267,7 @@
       "suggested_stake": 7.95,
       "expected_value": 11.8,
       "confidence": "ALTA",
-      "found_at": "2026-05-01T20:54:35.210543+00:00"
+      "found_at": "2026-05-01T23:53:23.493365+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -335,7 +287,7 @@
       "suggested_stake": 7.81,
       "expected_value": 11.56,
       "confidence": "ALTA",
-      "found_at": "2026-05-01T20:54:35.210605+00:00"
+      "found_at": "2026-05-01T23:53:23.493420+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -355,7 +307,67 @@
       "suggested_stake": 7.34,
       "expected_value": 11.24,
       "confidence": "ALTA",
-      "found_at": "2026-05-01T20:54:35.219031+00:00"
+      "found_at": "2026-05-01T23:53:23.500973+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "7cc6b1d552eef8615927b83203b169f7",
+      "league": "Bundesliga - Germany",
+      "match": "1. FC Köln vs 1. FC Heidenheim",
+      "commence": "2026-05-10T15:30:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "1xBet",
+      "odds": 4.41,
+      "fair_odds": 3.972,
+      "true_prob_pct": 25.18,
+      "implied_prob_pct": 22.68,
+      "edge_pct": 11.03,
+      "kelly_stake_pct": 0.81,
+      "suggested_stake": 8.08,
+      "expected_value": 11.03,
+      "confidence": "ALTA",
+      "found_at": "2026-05-01T23:53:23.498588+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "6a37b1fe10687ca0cbc6904d30fd340a",
+      "league": "La Liga - Spain",
+      "match": "Athletic Bilbao vs Valencia",
+      "commence": "2026-05-10T14:15:00Z",
+      "market": "h2h",
+      "outcome": "Valencia",
+      "bookmaker": "Unibet (NL)",
+      "odds": 4.7,
+      "fair_odds": 4.255,
+      "true_prob_pct": 23.5,
+      "implied_prob_pct": 21.28,
+      "edge_pct": 10.46,
+      "kelly_stake_pct": 0.71,
+      "suggested_stake": 7.07,
+      "expected_value": 10.46,
+      "confidence": "ALTA",
+      "found_at": "2026-05-01T23:53:23.496126+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "6a37b1fe10687ca0cbc6904d30fd340a",
+      "league": "La Liga - Spain",
+      "match": "Athletic Bilbao vs Valencia",
+      "commence": "2026-05-10T14:15:00Z",
+      "market": "h2h",
+      "outcome": "Valencia",
+      "bookmaker": "Unibet (SE)",
+      "odds": 4.7,
+      "fair_odds": 4.255,
+      "true_prob_pct": 23.5,
+      "implied_prob_pct": 21.28,
+      "edge_pct": 10.46,
+      "kelly_stake_pct": 0.71,
+      "suggested_stake": 7.07,
+      "expected_value": 10.46,
+      "confidence": "ALTA",
+      "found_at": "2026-05-01T23:53:23.496158+00:00"
     }
   ]
 }
