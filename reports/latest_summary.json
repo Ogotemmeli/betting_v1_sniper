@@ -1,139 +1,37 @@
 {
-  "timestamp": "2026-05-02 17:44 UTC",
+  "timestamp": "2026-05-02 20:42 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
-  "arbitrages_found": 16,
-  "value_bets_found": 81,
-  "best_arb_margin": 13.096,
-  "best_value_edge": 54.0,
+  "arbitrages_found": 17,
+  "value_bets_found": 58,
+  "best_arb_margin": 11.947,
+  "best_value_edge": 103.05,
   "arbitrages": [
-    {
-      "type": "ARBITRAGE",
-      "event_id": "d20966bfff788c76678b8df12b984866",
-      "league": "EPL",
-      "match": "Arsenal vs Fulham",
-      "commence": "2026-05-02T16:30:00Z",
-      "market": "h2h",
-      "margin_pct": 13.096,
-      "guaranteed_profit": 130.96,
-      "stakes": {
-        "Fulham": {
-          "bookmaker": "Paddy Power",
-          "odds": 501.0,
-          "stake_pct": 0.23,
-          "stake_amount": 2.3
-        },
-        "Arsenal": {
-          "bookmaker": "Smarkets",
-          "odds": 1.16,
-          "stake_pct": 99.2,
-          "stake_amount": 991.98
-        },
-        "Draw": {
-          "bookmaker": "Sky Bet",
-          "odds": 201.0,
-          "stake_pct": 0.57,
-          "stake_amount": 5.72
-        }
-      },
-      "num_bookmakers": 9,
-      "found_at": "2026-05-02T17:44:34.446449+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "16fa5da1e64cdb028c84396beecbb633",
-      "league": "Serie A - Italy",
-      "match": "Como vs Napoli",
-      "commence": "2026-05-02T16:03:00Z",
-      "market": "h2h",
-      "margin_pct": 13.09,
-      "guaranteed_profit": 130.9,
-      "stakes": {
-        "Draw": {
-          "bookmaker": "Pinnacle",
-          "odds": 1.83,
-          "stake_pct": 62.87,
-          "stake_amount": 628.75
-        },
-        "Napoli": {
-          "bookmaker": "Sky Bet",
-          "odds": 9.5,
-          "stake_pct": 12.11,
-          "stake_amount": 121.12
-        },
-        "Como": {
-          "bookmaker": "Bet Victor",
-          "odds": 4.6,
-          "stake_pct": 25.01,
-          "stake_amount": 250.13
-        }
-      },
-      "num_bookmakers": 28,
-      "found_at": "2026-05-02T17:44:34.448603+00:00"
-    },
     {
       "type": "ARBITRAGE",
       "event_id": "1645356fdf0baa021e2808442260afb3",
       "league": "Serie A - Italy",
       "match": "Atalanta BC vs Genoa",
       "commence": "2026-05-02T18:45:00Z",
-      "market": "h2h",
-      "margin_pct": 5.6,
-      "guaranteed_profit": 56.0,
+      "market": "totals",
+      "margin_pct": 11.947,
+      "guaranteed_profit": 119.47,
       "stakes": {
-        "Draw": {
-          "bookmaker": "BetAnything",
-          "odds": 6.25,
-          "stake_pct": 16.95,
-          "stake_amount": 169.49
+        "Over 0.5": {
+          "bookmaker": "Nordic Bet",
+          "odds": 13.5,
+          "stake_pct": 8.41,
+          "stake_amount": 84.12
         },
-        "Atalanta BC": {
-          "bookmaker": "Betfair",
-          "odds": 1.57,
-          "stake_pct": 67.47,
-          "stake_amount": 674.73
-        },
-        "Genoa": {
-          "bookmaker": "Smarkets",
-          "odds": 6.8,
-          "stake_pct": 15.58,
-          "stake_amount": 155.78
+        "Under 0.5": {
+          "bookmaker": "Pinnacle",
+          "odds": 1.24,
+          "stake_pct": 91.59,
+          "stake_amount": 915.88
         }
       },
-      "num_bookmakers": 41,
-      "found_at": "2026-05-02T17:44:34.448742+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "283f2c3d59eca2d16cac28578527640a",
-      "league": "Ligue 1 - France",
-      "match": "Metz vs AS Monaco",
-      "commence": "2026-05-02T17:00:00Z",
-      "market": "h2h",
-      "margin_pct": 4.987,
-      "guaranteed_profit": 49.87,
-      "stakes": {
-        "Draw": {
-          "bookmaker": "Smarkets",
-          "odds": 5.8,
-          "stake_pct": 18.15,
-          "stake_amount": 181.46
-        },
-        "Metz": {
-          "bookmaker": "Betfair",
-          "odds": 9.8,
-          "stake_pct": 10.74,
-          "stake_amount": 107.4
-        },
-        "AS Monaco": {
-          "bookmaker": "Betway",
-          "odds": 1.48,
-          "stake_pct": 71.11,
-          "stake_amount": 711.14
-        }
-      },
-      "num_bookmakers": 31,
-      "found_at": "2026-05-02T17:44:34.454732+00:00"
+      "num_bookmakers": 11,
+      "found_at": "2026-05-02T20:42:57.284744+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -145,11 +43,11 @@
       "margin_pct": 1.803,
       "guaranteed_profit": 18.03,
       "stakes": {
-        "Brentford": {
-          "bookmaker": "Betfair",
-          "odds": 9.2,
-          "stake_pct": 11.07,
-          "stake_amount": 110.69
+        "Draw": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 6.5,
+          "stake_pct": 15.67,
+          "stake_amount": 156.67
         },
         "Manchester City": {
           "bookmaker": "1xBet",
@@ -157,137 +55,193 @@
           "stake_pct": 73.26,
           "stake_amount": 732.64
         },
+        "Brentford": {
+          "bookmaker": "Betfair",
+          "odds": 9.2,
+          "stake_pct": 11.07,
+          "stake_amount": 110.69
+        }
+      },
+      "num_bookmakers": 33,
+      "found_at": "2026-05-02T20:42:57.283923+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "61828e05d7e37e30eecff13ebfec54b5",
+      "league": "Ligue 1 - France",
+      "match": "Angers vs Strasbourg",
+      "commence": "2026-05-10T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.46,
+      "guaranteed_profit": 14.6,
+      "stakes": {
         "Draw": {
-          "bookmaker": "BetOnline.ag",
+          "bookmaker": "Unibet (SE)",
+          "odds": 3.7,
+          "stake_pct": 27.43,
+          "stake_amount": 274.28
+        },
+        "Strasbourg": {
+          "bookmaker": "1xBet",
+          "odds": 2.18,
+          "stake_pct": 46.55,
+          "stake_amount": 465.51
+        },
+        "Angers": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 3.9,
+          "stake_pct": 26.02,
+          "stake_amount": 260.21
+        }
+      },
+      "num_bookmakers": 28,
+      "found_at": "2026-05-02T20:42:57.291480+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "553c24488d26dcdee9a4d8bec80703af",
+      "league": "Ligue 1 - France",
+      "match": "Nice vs RC Lens",
+      "commence": "2026-05-02T19:05:00Z",
+      "market": "h2h",
+      "margin_pct": 1.354,
+      "guaranteed_profit": 13.54,
+      "stakes": {
+        "Draw": {
+          "bookmaker": "Coolbet",
           "odds": 6.5,
-          "stake_pct": 15.67,
-          "stake_amount": 156.67
+          "stake_pct": 15.6,
+          "stake_amount": 155.96
+        },
+        "Nice": {
+          "bookmaker": "Unibet (UK)",
+          "odds": 51.0,
+          "stake_pct": 1.99,
+          "stake_amount": 19.88
+        },
+        "RC Lens": {
+          "bookmaker": "Pinnacle",
+          "odds": 1.23,
+          "stake_pct": 82.42,
+          "stake_amount": 824.17
         }
       },
       "num_bookmakers": 31,
-      "found_at": "2026-05-02T17:44:34.447883+00:00"
+      "found_at": "2026-05-02T20:42:57.290359+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "2e977aa19b52f35a2f36273a8936a967",
+      "league": "La Liga - Spain",
+      "match": "Espanyol vs Real Madrid",
+      "commence": "2026-05-03T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.334,
+      "guaranteed_profit": 13.34,
+      "stakes": {
+        "Draw": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 4.2,
+          "stake_pct": 24.13,
+          "stake_amount": 241.31
+        },
+        "Real Madrid": {
+          "bookmaker": "1xBet",
+          "odds": 1.81,
+          "stake_pct": 56.0,
+          "stake_amount": 559.96
+        },
+        "Espanyol": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 5.1,
+          "stake_pct": 19.87,
+          "stake_amount": 198.73
+        }
+      },
+      "num_bookmakers": 37,
+      "found_at": "2026-05-02T20:42:57.287524+00:00"
     }
   ],
   "value_bets": [
     {
       "type": "VALUE_BET",
-      "event_id": "3870be32c3d6e43c3db821236089af61",
+      "event_id": "e23328759de3a21e107de617da4d93f7",
       "league": "La Liga - Spain",
-      "match": "Alavés vs Athletic Bilbao",
-      "commence": "2026-05-02T16:31:00Z",
+      "match": "CA Osasuna vs Barcelona",
+      "commence": "2026-05-02T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Barcelona",
+      "bookmaker": "Pinnacle",
+      "odds": 2.36,
+      "fair_odds": 1.162,
+      "true_prob_pct": 86.04,
+      "implied_prob_pct": 42.37,
+      "edge_pct": 103.05,
+      "kelly_stake_pct": 5.0,
+      "suggested_stake": 50.0,
+      "expected_value": 103.05,
+      "confidence": "ALTA",
+      "found_at": "2026-05-02T20:42:57.286999+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "1645356fdf0baa021e2808442260afb3",
+      "league": "Serie A - Italy",
+      "match": "Atalanta BC vs Genoa",
+      "commence": "2026-05-02T18:45:00Z",
       "market": "h2h",
       "outcome": "Draw",
-      "bookmaker": "Smarkets",
-      "odds": 3.5,
-      "fair_odds": 2.273,
-      "true_prob_pct": 44.0,
-      "implied_prob_pct": 28.57,
-      "edge_pct": 54.0,
+      "bookmaker": "Coral",
+      "odds": 1.36,
+      "fair_odds": 0.963,
+      "true_prob_pct": 103.88,
+      "implied_prob_pct": 73.53,
+      "edge_pct": 41.28,
       "kelly_stake_pct": 5.0,
       "suggested_stake": 50.0,
-      "expected_value": 54.0,
+      "expected_value": 41.28,
       "confidence": "ALTA",
-      "found_at": "2026-05-02T17:44:34.451123+00:00"
+      "found_at": "2026-05-02T20:42:57.284706+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "16fa5da1e64cdb028c84396beecbb633",
+      "event_id": "1645356fdf0baa021e2808442260afb3",
       "league": "Serie A - Italy",
-      "match": "Como vs Napoli",
-      "commence": "2026-05-02T16:03:00Z",
-      "market": "totals",
-      "outcome": "Under 0.5",
-      "bookmaker": "Pinnacle",
-      "odds": 2.09,
-      "fair_odds": 1.584,
-      "true_prob_pct": 63.13,
-      "implied_prob_pct": 47.85,
-      "edge_pct": 31.93,
-      "kelly_stake_pct": 5.0,
-      "suggested_stake": 50.0,
-      "expected_value": 31.93,
-      "confidence": "ALTA",
-      "found_at": "2026-05-02T17:44:34.448709+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "16fa5da1e64cdb028c84396beecbb633",
-      "league": "Serie A - Italy",
-      "match": "Como vs Napoli",
-      "commence": "2026-05-02T16:03:00Z",
+      "match": "Atalanta BC vs Genoa",
+      "commence": "2026-05-02T18:45:00Z",
       "market": "h2h",
       "outcome": "Draw",
-      "bookmaker": "Pinnacle",
-      "odds": 1.83,
-      "fair_odds": 1.518,
-      "true_prob_pct": 65.86,
-      "implied_prob_pct": 54.64,
-      "edge_pct": 20.52,
+      "bookmaker": "Ladbrokes",
+      "odds": 1.36,
+      "fair_odds": 0.963,
+      "true_prob_pct": 103.88,
+      "implied_prob_pct": 73.53,
+      "edge_pct": 41.28,
       "kelly_stake_pct": 5.0,
       "suggested_stake": 50.0,
-      "expected_value": 20.52,
+      "expected_value": 41.28,
       "confidence": "ALTA",
-      "found_at": "2026-05-02T17:44:34.448645+00:00"
+      "found_at": "2026-05-02T20:42:57.284717+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "cd1de2ada1b712d0476fe341467e62c2",
-      "league": "Bundesliga - Germany",
-      "match": "Bayer Leverkusen vs RB Leipzig",
-      "commence": "2026-05-02T16:31:00Z",
-      "market": "totals",
-      "outcome": "Under 4.0",
-      "bookmaker": "Pinnacle",
-      "odds": 2.02,
-      "fair_odds": 1.781,
-      "true_prob_pct": 56.15,
-      "implied_prob_pct": 49.5,
-      "edge_pct": 13.43,
-      "kelly_stake_pct": 3.29,
-      "suggested_stake": 32.91,
-      "expected_value": 13.43,
-      "confidence": "ALTA",
-      "found_at": "2026-05-02T17:44:34.453183+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "b4c2627ac6d53c77fbcc0e98d96866e6",
-      "league": "Serie A - Italy",
-      "match": "AC Milan vs Atalanta BC",
-      "commence": "2026-05-10T18:45:00Z",
+      "event_id": "6b26120d2a0ef752d7770e5a2a69ec4c",
+      "league": "La Liga - Spain",
+      "match": "Celta Vigo vs Elche CF",
+      "commence": "2026-05-03T12:00:00Z",
       "market": "h2h",
-      "outcome": "Atalanta BC",
-      "bookmaker": "BetOnline.ag",
-      "odds": 3.9,
-      "fair_odds": 3.58,
-      "true_prob_pct": 27.93,
-      "implied_prob_pct": 25.64,
-      "edge_pct": 8.93,
-      "kelly_stake_pct": 0.77,
-      "suggested_stake": 7.7,
-      "expected_value": 8.93,
+      "outcome": "Elche CF",
+      "bookmaker": "Coolbet",
+      "odds": 5.0,
+      "fair_odds": 4.624,
+      "true_prob_pct": 21.63,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 8.14,
+      "kelly_stake_pct": 0.51,
+      "suggested_stake": 5.09,
+      "expected_value": 8.14,
       "confidence": "ALTA",
-      "found_at": "2026-05-02T17:44:34.450883+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "84ca6bc5b27b3a9a9731892c9a4c938c",
-      "league": "Bundesliga - Germany",
-      "match": "FSV Mainz 05 vs Union Berlin",
-      "commence": "2026-05-10T17:30:00Z",
-      "market": "h2h",
-      "outcome": "Union Berlin",
-      "bookmaker": "1xBet",
-      "odds": 4.46,
-      "fair_odds": 4.119,
-      "true_prob_pct": 24.28,
-      "implied_prob_pct": 22.42,
-      "edge_pct": 8.27,
-      "kelly_stake_pct": 0.6,
-      "suggested_stake": 5.98,
-      "expected_value": 8.27,
-      "confidence": "ALTA",
-      "found_at": "2026-05-02T17:44:34.454582+00:00"
+      "found_at": "2026-05-02T20:42:57.287114+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -307,67 +261,107 @@
       "suggested_stake": 6.03,
       "expected_value": 7.96,
       "confidence": "MEDIA",
-      "found_at": "2026-05-02T17:44:34.451004+00:00"
+      "found_at": "2026-05-02T20:42:57.286887+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "61828e05d7e37e30eecff13ebfec54b5",
-      "league": "Ligue 1 - France",
-      "match": "Angers vs Strasbourg",
+      "event_id": "2b609cc965cb3908e27a634aabc7846b",
+      "league": "Serie A - Italy",
+      "match": "Napoli vs Bologna",
+      "commence": "2026-05-11T18:45:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "1xBet",
+      "odds": 4.29,
+      "fair_odds": 3.983,
+      "true_prob_pct": 25.11,
+      "implied_prob_pct": 23.31,
+      "edge_pct": 7.71,
+      "kelly_stake_pct": 0.59,
+      "suggested_stake": 5.86,
+      "expected_value": 7.71,
+      "confidence": "MEDIA",
+      "found_at": "2026-05-02T20:42:57.286878+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "500435c556a1d29c11dd9b479059485d",
+      "league": "La Liga - Spain",
+      "match": "Barcelona vs Real Madrid",
       "commence": "2026-05-10T19:00:00Z",
       "market": "h2h",
-      "outcome": "Angers",
+      "outcome": "Draw",
+      "bookmaker": "Betfair",
+      "odds": 4.7,
+      "fair_odds": 4.39,
+      "true_prob_pct": 22.78,
+      "implied_prob_pct": 21.28,
+      "edge_pct": 7.07,
+      "kelly_stake_pct": 0.48,
+      "suggested_stake": 4.77,
+      "expected_value": 7.07,
+      "confidence": "MEDIA",
+      "found_at": "2026-05-02T20:42:57.288680+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "500435c556a1d29c11dd9b479059485d",
+      "league": "La Liga - Spain",
+      "match": "Barcelona vs Real Madrid",
+      "commence": "2026-05-10T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Betfair",
+      "odds": 4.7,
+      "fair_odds": 4.39,
+      "true_prob_pct": 22.78,
+      "implied_prob_pct": 21.28,
+      "edge_pct": 7.07,
+      "kelly_stake_pct": 0.48,
+      "suggested_stake": 4.77,
+      "expected_value": 7.07,
+      "confidence": "MEDIA",
+      "found_at": "2026-05-02T20:42:57.288687+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "84ca6bc5b27b3a9a9731892c9a4c938c",
+      "league": "Bundesliga - Germany",
+      "match": "FSV Mainz 05 vs Union Berlin",
+      "commence": "2026-05-10T17:30:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
       "bookmaker": "Unibet (SE)",
-      "odds": 3.9,
-      "fair_odds": 3.619,
-      "true_prob_pct": 27.63,
-      "implied_prob_pct": 25.64,
-      "edge_pct": 7.77,
-      "kelly_stake_pct": 0.67,
-      "suggested_stake": 6.69,
-      "expected_value": 7.77,
+      "odds": 3.95,
+      "fair_odds": 3.712,
+      "true_prob_pct": 26.94,
+      "implied_prob_pct": 25.32,
+      "edge_pct": 6.43,
+      "kelly_stake_pct": 0.54,
+      "suggested_stake": 5.44,
+      "expected_value": 6.43,
       "confidence": "MEDIA",
-      "found_at": "2026-05-02T17:44:34.456113+00:00"
+      "found_at": "2026-05-02T20:42:57.290285+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "61828e05d7e37e30eecff13ebfec54b5",
-      "league": "Ligue 1 - France",
-      "match": "Angers vs Strasbourg",
-      "commence": "2026-05-10T19:00:00Z",
+      "event_id": "84ca6bc5b27b3a9a9731892c9a4c938c",
+      "league": "Bundesliga - Germany",
+      "match": "FSV Mainz 05 vs Union Berlin",
+      "commence": "2026-05-10T17:30:00Z",
       "market": "h2h",
-      "outcome": "Angers",
-      "bookmaker": "Unibet (NL)",
-      "odds": 3.9,
-      "fair_odds": 3.619,
-      "true_prob_pct": 27.63,
-      "implied_prob_pct": 25.64,
-      "edge_pct": 7.77,
-      "kelly_stake_pct": 0.67,
-      "suggested_stake": 6.69,
-      "expected_value": 7.77,
+      "outcome": "Draw",
+      "bookmaker": "1xBet",
+      "odds": 3.94,
+      "fair_odds": 3.712,
+      "true_prob_pct": 26.94,
+      "implied_prob_pct": 25.38,
+      "edge_pct": 6.16,
+      "kelly_stake_pct": 0.52,
+      "suggested_stake": 5.23,
+      "expected_value": 6.16,
       "confidence": "MEDIA",
-      "found_at": "2026-05-02T17:44:34.456125+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "61828e05d7e37e30eecff13ebfec54b5",
-      "league": "Ligue 1 - France",
-      "match": "Angers vs Strasbourg",
-      "commence": "2026-05-10T19:00:00Z",
-      "market": "h2h",
-      "outcome": "Angers",
-      "bookmaker": "LeoVegas (SE)",
-      "odds": 3.9,
-      "fair_odds": 3.619,
-      "true_prob_pct": 27.63,
-      "implied_prob_pct": 25.64,
-      "edge_pct": 7.77,
-      "kelly_stake_pct": 0.67,
-      "suggested_stake": 6.69,
-      "expected_value": 7.77,
-      "confidence": "MEDIA",
-      "found_at": "2026-05-02T17:44:34.456130+00:00"
+      "found_at": "2026-05-02T20:42:57.290264+00:00"
     }
   ]
 }
