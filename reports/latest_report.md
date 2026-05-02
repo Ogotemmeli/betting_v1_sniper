@@ -1,195 +1,173 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-05-02 09:07 UTC
+**Generato:** 2026-05-02 11:46 UTC
 **Bankroll:** €1000
 
 ---
 ## 🎯 Arbitraggi
 
-### #1 — Juventus vs Hellas Verona
-- **Lega:** Serie A - Italy | **Mercato:** h2h
-- **Inizio:** 2026-05-03T16:00:00Z
-- **Margine:** 1.71% (€17.14)
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Hellas Verona | Betfair | 19.50 | 5.2% | €52.18 |
-| Juventus | Unibet (NL) | 1.25 | 81.4% | €813.95 |
-| Draw | 1xBet | 7.60 | 13.4% | €133.87 |
-
-### #2 — Angers vs Strasbourg
+### #1 — Angers vs Strasbourg
 - **Lega:** Ligue 1 - France | **Mercato:** h2h
 - **Inizio:** 2026-05-10T19:00:00Z
 - **Margine:** 1.46% (€14.60)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Angers | Unibet (SE) | 3.90 | 26.0% | €260.21 |
-| Strasbourg | 1xBet | 2.18 | 46.5% | €465.51 |
 | Draw | Unibet (SE) | 3.70 | 27.4% | €274.28 |
+| Strasbourg | 1xBet | 2.18 | 46.5% | €465.51 |
+| Angers | Unibet (SE) | 3.90 | 26.0% | €260.21 |
 
-### #3 — Arsenal vs Atlético Madrid
-- **Lega:** UEFA Champions League | **Mercato:** totals
-- **Inizio:** 2026-05-05T19:00:00Z
-- **Margine:** 1.36% (€13.61)
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Under 2.5 | 1xBet | 1.96 | 51.7% | €517.24 |
-| Over 2.5 | Unibet (SE) | 2.10 | 48.3% | €482.76 |
-
-### #4 — Espanyol vs Real Madrid
+### #2 — Getafe vs Rayo Vallecano
 - **Lega:** La Liga - Spain | **Mercato:** h2h
-- **Inizio:** 2026-05-03T19:00:00Z
-- **Margine:** 1.32% (€13.24)
+- **Inizio:** 2026-05-03T14:15:00Z
+- **Margine:** 1.24% (€12.39)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Espanyol | Coolbet | 4.95 | 20.5% | €204.73 |
-| Real Madrid | 1xBet | 1.82 | 55.7% | €556.82 |
-| Draw | Unibet (NL) | 4.25 | 23.9% | €238.45 |
+| Getafe | 1xBet | 1.99 | 50.9% | €508.82 |
+| Rayo Vallecano | Betfair | 5.10 | 19.9% | €198.54 |
+| Draw | 1xBet | 3.46 | 29.3% | €292.64 |
 
-### #5 — Lecce vs Juventus
+### #3 — Inter Milan vs Parma
+- **Lega:** Serie A - Italy | **Mercato:** h2h
+- **Inizio:** 2026-05-03T18:45:00Z
+- **Margine:** 1.23% (€12.27)
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Draw | Betfair | 7.60 | 13.3% | €133.21 |
+| Parma | Betfair | 16.00 | 6.3% | €63.28 |
+| Inter Milan | GTbets | 1.26 | 80.3% | €803.51 |
+
+### #4 — Lecce vs Juventus
 - **Lega:** Serie A - Italy | **Mercato:** h2h
 - **Inizio:** 2026-05-09T18:45:00Z
 - **Margine:** 1.18% (€11.81)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Lecce | Unibet (NL) | 7.00 | 14.5% | €144.56 |
 | Juventus | 1xBet | 1.61 | 62.9% | €628.54 |
+| Lecce | Unibet (NL) | 7.00 | 14.5% | €144.56 |
 | Draw | BetOnline.ag | 4.46 | 22.7% | €226.89 |
 
-### #6 — Hellas Verona vs Como
-- **Lega:** Serie A - Italy | **Mercato:** h2h
-- **Inizio:** 2026-05-10T10:30:00Z
-- **Margine:** 1.13% (€11.29)
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Como | 1xBet | 1.50 | 67.4% | €674.28 |
-| Hellas Verona | Betfair | 8.60 | 11.8% | €117.61 |
-| Draw | 1xBet | 4.86 | 20.8% | €208.11 |
-
-### #7 — Inter Milan vs Parma
-- **Lega:** Serie A - Italy | **Mercato:** h2h
-- **Inizio:** 2026-05-03T18:45:00Z
-- **Margine:** 1.05% (€10.52)
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Inter Milan | GTbets | 1.26 | 80.2% | €802.09 |
-| Parma | Betfair | 16.00 | 6.3% | €63.16 |
-| Draw | Winamax (DE) | 7.50 | 13.5% | €134.75 |
-
-### #8 — Sassuolo vs AC Milan
-- **Lega:** Serie A - Italy | **Mercato:** h2h
-- **Inizio:** 2026-05-03T13:00:00Z
-- **Margine:** 0.94% (€9.41)
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Sassuolo | Betfair | 5.10 | 19.8% | €197.94 |
-| Draw | 1xBet | 4.24 | 23.8% | €238.09 |
-| AC Milan | 1xBet | 1.79 | 56.4% | €563.97 |
-
-### #9 — Hamburger SV vs SC Freiburg
-- **Lega:** Bundesliga - Germany | **Mercato:** h2h
-- **Inizio:** 2026-05-10T13:30:00Z
-- **Margine:** 0.89% (€8.94)
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Draw | 1xBet | 3.78 | 26.7% | €266.94 |
-| SC Freiburg | 1xBet | 2.62 | 38.5% | €385.12 |
-| Hamburger SV | Unibet (SE) | 2.90 | 34.8% | €347.94 |
-
-### #10 — Wolverhampton Wanderers vs Sunderland
-- **Lega:** EPL | **Mercato:** h2h
-- **Inizio:** 2026-05-02T14:00:00Z
-- **Margine:** 0.85% (€8.47)
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Sunderland | GTbets | 2.12 | 47.6% | €475.73 |
-| Draw | Betfair | 3.75 | 26.9% | €268.94 |
-| Wolverhampton Wanderers | Unibet (NL) | 3.95 | 25.5% | €255.33 |
-
-### #11 — Metz vs AS Monaco
+### #5 — Metz vs AS Monaco
 - **Lega:** Ligue 1 - France | **Mercato:** h2h
 - **Inizio:** 2026-05-02T17:00:00Z
+- **Margine:** 1.04% (€10.44)
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| AS Monaco | GTbets | 1.41 | 71.7% | €716.70 |
+| Metz | Betfair | 8.40 | 12.0% | €120.30 |
+| Draw | Betfair | 6.20 | 16.3% | €162.99 |
+
+### #6 — Juventus vs Hellas Verona
+- **Lega:** Serie A - Italy | **Mercato:** h2h
+- **Inizio:** 2026-05-03T16:00:00Z
+- **Margine:** 0.79% (€7.92)
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Juventus | Unibet (NL) | 1.24 | 81.3% | €812.89 |
+| Hellas Verona | Betfair | 18.50 | 5.5% | €54.49 |
+| Draw | 1xBet | 7.60 | 13.3% | €132.63 |
+
+### #7 — Hamburger SV vs SC Freiburg
+- **Lega:** Bundesliga - Germany | **Mercato:** h2h
+- **Inizio:** 2026-05-10T13:30:00Z
 - **Margine:** 0.75% (€7.54)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Metz | Smarkets | 8.20 | 12.3% | €122.88 |
-| AS Monaco | GTbets | 1.41 | 71.5% | €714.61 |
-| Draw | Betfair | 6.20 | 16.2% | €162.52 |
+| Draw | 1xBet | 3.76 | 26.8% | €267.98 |
+| Hamburger SV | Unibet (SE) | 2.90 | 34.7% | €347.45 |
+| SC Freiburg | 1xBet | 2.62 | 38.5% | €384.58 |
 
-### #12 — Torino vs Sassuolo
+### #8 — Valencia vs Atlético Madrid
+- **Lega:** La Liga - Spain | **Mercato:** totals
+- **Inizio:** 2026-05-02T14:15:00Z
+- **Margine:** 0.75% (€7.47)
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Under 2.5 | Unibet (SE) | 2.12 | 47.5% | €475.25 |
+| Over 2.5 | Coolbet | 1.92 | 52.5% | €524.75 |
+
+### #9 — Torino vs Sassuolo
 - **Lega:** Serie A - Italy | **Mercato:** h2h
 - **Inizio:** 2026-05-08T18:45:00Z
 - **Margine:** 0.71% (€7.07)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Sassuolo | BetOnline.ag | 3.45 | 29.2% | €291.92 |
 | Draw | Unibet (NL) | 3.45 | 29.2% | €291.92 |
 | Torino | Nordic Bet | 2.42 | 41.6% | €416.16 |
+| Sassuolo | BetOnline.ag | 3.45 | 29.2% | €291.92 |
 
-### #13 — Getafe vs Rayo Vallecano
-- **Lega:** La Liga - Spain | **Mercato:** h2h
-- **Inizio:** 2026-05-03T14:15:00Z
-- **Margine:** 0.69% (€6.90)
+### #10 — Bayern Munich vs 1. FC Heidenheim
+- **Lega:** Bundesliga - Germany | **Mercato:** h2h
+- **Inizio:** 2026-05-02T13:30:00Z
+- **Margine:** 0.68% (€6.79)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Draw | 1xBet | 3.46 | 29.1% | €291.03 |
-| Rayo Vallecano | Betfair | 4.90 | 20.6% | €205.50 |
-| Getafe | Betway | 2.00 | 50.4% | €503.47 |
+| 1. FC Heidenheim | Nordic Bet | 11.50 | 8.8% | €87.55 |
+| Bayern Munich | 1xBet | 1.28 | 78.7% | €786.59 |
+| Draw | Betfair | 8.00 | 12.6% | €125.85 |
 
-### #14 — Levante vs CA Osasuna
+### #11 — Levante vs CA Osasuna
 - **Lega:** La Liga - Spain | **Mercato:** h2h
 - **Inizio:** 2026-05-08T19:00:00Z
 - **Margine:** 0.68% (€6.78)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
+| Draw | Unibet (UK) | 3.30 | 30.5% | €305.10 |
 | CA Osasuna | Unibet (NL) | 3.05 | 33.0% | €330.11 |
 | Levante | 1xBet | 2.76 | 36.5% | €364.79 |
-| Draw | Unibet (UK) | 3.30 | 30.5% | €305.10 |
 
-### #15 — Bayern Munich vs 1. FC Heidenheim
-- **Lega:** Bundesliga - Germany | **Mercato:** h2h
-- **Inizio:** 2026-05-02T13:30:00Z
-- **Margine:** 0.63% (€6.27)
+### #12 — Bournemouth vs Crystal Palace
+- **Lega:** EPL | **Mercato:** h2h
+- **Inizio:** 2026-05-03T13:00:00Z
+- **Margine:** 0.59% (€5.92)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Bayern Munich | 1xBet | 1.29 | 78.0% | €780.09 |
-| 1. FC Heidenheim | Matchbook | 11.50 | 8.8% | €87.51 |
-| Draw | Betfair | 7.60 | 13.2% | €132.41 |
+| Draw | Unibet (NL) | 4.40 | 22.9% | €228.63 |
+| Crystal Palace | Unibet (NL) | 5.60 | 18.0% | €179.63 |
+| Bournemouth | Betfair | 1.70 | 59.2% | €591.74 |
 
-### #16 — Atalanta BC vs Genoa
+### #13 — Hellas Verona vs Como
 - **Lega:** Serie A - Italy | **Mercato:** h2h
-- **Inizio:** 2026-05-02T18:45:00Z
-- **Margine:** 0.57% (€5.72)
+- **Inizio:** 2026-05-10T10:30:00Z
+- **Margine:** 0.56% (€5.62)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Draw | Betfair | 4.50 | 22.4% | €223.50 |
-| Genoa | Betfair | 6.80 | 14.8% | €147.90 |
-| Atalanta BC | Unibet (NL) | 1.60 | 62.9% | €628.59 |
+| Como | 1xBet | 1.50 | 67.0% | €670.44 |
+| Draw | 1xBet | 4.86 | 20.7% | €206.92 |
+| Hellas Verona | Betfair | 8.20 | 12.3% | €122.64 |
 
-### #17 — Bayern Munich vs Paris Saint Germain
+### #14 — Sassuolo vs AC Milan
+- **Lega:** Serie A - Italy | **Mercato:** h2h
+- **Inizio:** 2026-05-03T13:00:00Z
+- **Margine:** 0.55% (€5.49)
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Draw | 1xBet | 4.24 | 23.7% | €237.15 |
+| AC Milan | 1xBet | 1.79 | 56.2% | €561.74 |
+| Sassuolo | Betfair | 5.00 | 20.1% | €201.10 |
+
+### #15 — Bayern Munich vs Paris Saint Germain
 - **Lega:** UEFA Champions League | **Mercato:** h2h
 - **Inizio:** 2026-05-06T19:00:00Z
 - **Margine:** 0.52% (€5.15)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Bayern Munich | Betfair | 1.75 | 57.4% | €574.39 |
-| Paris Saint Germain | 1xBet | 4.26 | 23.6% | €235.96 |
 | Draw | Betfair | 5.30 | 19.0% | €189.66 |
+| Bayern Munich | Unibet (FR) | 1.75 | 57.4% | €574.39 |
+| Paris Saint Germain | 1xBet | 4.26 | 23.6% | €235.96 |
 
 ---
 ## 📈 Value Bet
@@ -198,36 +176,36 @@
 |---|-------|-------|------|-------|------|-------|------|-------|
 | 1 | Atlético Madrid vs Celta Vig | Celta Vigo | Unibet (NL) | 4.35 | 3.88 | 12.2% | 🟢 | €9 |
 | 2 | Atlético Madrid vs Celta Vig | Celta Vigo | Unibet (SE) | 4.35 | 3.88 | 12.2% | 🟢 | €9 |
-| 3 | Rennes vs Paris FC | Draw | 1xBet | 4.83 | 4.34 | 11.2% | 🟢 | €7 |
+| 3 | Rennes vs Paris FC | Draw | 1xBet | 4.83 | 4.35 | 10.9% | 🟢 | €7 |
 | 4 | 1. FC Köln vs 1. FC Heidenhe | Draw | 1xBet | 4.41 | 3.98 | 10.7% | 🟢 | €8 |
 | 5 | Atlético Madrid vs Celta Vig | Celta Vigo | 1xBet | 4.26 | 3.88 | 9.8% | 🟢 | €8 |
 | 6 | Atlético Madrid vs Celta Vig | Celta Vigo | Casumo | 4.25 | 3.88 | 9.6% | 🟢 | €7 |
 | 7 | Atlético Madrid vs Celta Vig | Celta Vigo | Grosvenor | 4.25 | 3.88 | 9.6% | 🟢 | €7 |
-| 8 | Rennes vs Paris FC | Draw | Marathon Bet | 4.75 | 4.34 | 9.4% | 🟢 | €6 |
-| 9 | VfB Stuttgart vs Bayer Lever | Draw | Betfred (UK) | 4.20 | 3.84 | 9.3% | 🟢 | €7 |
-| 10 | VfB Stuttgart vs Bayer Lever | Draw | Unibet (SE) | 4.20 | 3.84 | 9.3% | 🟢 | €7 |
+| 8 | VfB Stuttgart vs Bayer Lever | Draw | Betfred (UK) | 4.20 | 3.84 | 9.3% | 🟢 | €7 |
+| 9 | VfB Stuttgart vs Bayer Lever | Draw | Unibet (SE) | 4.20 | 3.84 | 9.3% | 🟢 | €7 |
+| 10 | Rennes vs Paris FC | Draw | Marathon Bet | 4.75 | 4.35 | 9.1% | 🟢 | €6 |
 | 11 | Athletic Bilbao vs Valencia | Valencia | Unibet (NL) | 4.70 | 4.31 | 9.1% | 🟢 | €6 |
 | 12 | Athletic Bilbao vs Valencia | Valencia | Unibet (SE) | 4.70 | 4.31 | 9.1% | 🟢 | €6 |
 | 13 | AC Milan vs Atalanta BC | Atalanta BC | BetOnline.ag | 3.90 | 3.58 | 8.9% | 🟢 | €8 |
 | 14 | 1. FC Köln vs 1. FC Heidenhe | Draw | Marathon Bet | 4.33 | 3.98 | 8.7% | 🟢 | €6 |
 | 15 | 1. FC Köln vs 1. FC Heidenhe | 1. FC Heidenhei | Unibet (SE) | 4.75 | 4.38 | 8.6% | 🟢 | €6 |
 | 16 | 1. FC Köln vs 1. FC Heidenhe | 1. FC Heidenhei | Unibet (NL) | 4.75 | 4.38 | 8.6% | 🟢 | €6 |
-| 17 | FSV Mainz 05 vs Union Berlin | Union Berlin | 1xBet | 4.46 | 4.11 | 8.4% | 🟢 | €6 |
-| 18 | Toulouse vs Lyon | Toulouse | 1xBet | 4.17 | 3.85 | 8.3% | 🟢 | €7 |
-| 19 | Atlético Madrid vs Celta Vig | Celta Vigo | Marathon Bet | 4.20 | 3.88 | 8.3% | 🟢 | €6 |
-| 20 | Atlético Madrid vs Celta Vig | Celta Vigo | LeoVegas (SE | 4.20 | 3.88 | 8.3% | 🟢 | €6 |
-| 21 | Atlético Madrid vs Celta Vig | Celta Vigo | PMU (FR) | 4.20 | 3.88 | 8.3% | 🟢 | €6 |
-| 22 | Rennes vs Paris FC | Draw | Winamax (DE) | 4.70 | 4.34 | 8.2% | 🟢 | €6 |
-| 23 | Rennes vs Paris FC | Draw | LeoVegas (SE | 4.70 | 4.34 | 8.2% | 🟢 | €6 |
-| 24 | Rennes vs Paris FC | Draw | Unibet (NL) | 4.70 | 4.34 | 8.2% | 🟢 | €6 |
-| 25 | Rennes vs Paris FC | Draw | Unibet (SE) | 4.70 | 4.34 | 8.2% | 🟢 | €6 |
-| 26 | VfB Stuttgart vs Bayer Lever | Draw | 1xBet | 4.16 | 3.84 | 8.2% | 🟢 | €6 |
-| 27 | Napoli vs Bologna | Draw | BetOnline.ag | 4.30 | 3.98 | 8.0% | 🟡 | €6 |
+| 17 | Atlético Madrid vs Celta Vig | Celta Vigo | Marathon Bet | 4.20 | 3.88 | 8.3% | 🟢 | €6 |
+| 18 | Atlético Madrid vs Celta Vig | Celta Vigo | LeoVegas (SE | 4.20 | 3.88 | 8.3% | 🟢 | €6 |
+| 19 | Atlético Madrid vs Celta Vig | Celta Vigo | PMU (FR) | 4.20 | 3.88 | 8.3% | 🟢 | €6 |
+| 20 | FSV Mainz 05 vs Union Berlin | Union Berlin | 1xBet | 4.46 | 4.12 | 8.3% | 🟢 | €6 |
+| 21 | VfB Stuttgart vs Bayer Lever | Draw | 1xBet | 4.16 | 3.84 | 8.2% | 🟢 | €6 |
+| 22 | Toulouse vs Lyon | Toulouse | 1xBet | 4.17 | 3.86 | 8.0% | 🟢 | €6 |
+| 23 | Napoli vs Bologna | Draw | BetOnline.ag | 4.30 | 3.98 | 8.0% | 🟡 | €6 |
+| 24 | Rennes vs Paris FC | Draw | Winamax (DE) | 4.70 | 4.35 | 7.9% | 🟡 | €5 |
+| 25 | Rennes vs Paris FC | Draw | LeoVegas (SE | 4.70 | 4.35 | 7.9% | 🟡 | €5 |
+| 26 | Rennes vs Paris FC | Draw | Unibet (NL) | 4.70 | 4.35 | 7.9% | 🟡 | €5 |
+| 27 | Rennes vs Paris FC | Draw | Unibet (SE) | 4.70 | 4.35 | 7.9% | 🟡 | €5 |
 | 28 | Real Sociedad vs Real Betis | Draw | 1xBet | 3.67 | 3.40 | 7.9% | 🟡 | €7 |
 | 29 | 1. FC Köln vs 1. FC Heidenhe | Draw | Tipico | 4.30 | 3.98 | 7.9% | 🟡 | €6 |
 | 30 | Angers vs Strasbourg | Angers | Unibet (SE) | 3.90 | 3.62 | 7.8% | 🟡 | €7 |
 
-_Top 30 su 171._
+_Top 30 su 160._
 
 ---
 ⚠️ Strumento di analisi. Non garantisce profitti.

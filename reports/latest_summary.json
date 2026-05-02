@@ -1,44 +1,12 @@
 {
-  "timestamp": "2026-05-02 09:07 UTC",
+  "timestamp": "2026-05-02 11:46 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
-  "arbitrages_found": 17,
-  "value_bets_found": 171,
-  "best_arb_margin": 1.714,
+  "arbitrages_found": 15,
+  "value_bets_found": 160,
+  "best_arb_margin": 1.46,
   "best_value_edge": 12.15,
   "arbitrages": [
-    {
-      "type": "ARBITRAGE",
-      "event_id": "0e2c25e2571199e6ecea64d94bcb8980",
-      "league": "Serie A - Italy",
-      "match": "Juventus vs Hellas Verona",
-      "commence": "2026-05-03T16:00:00Z",
-      "market": "h2h",
-      "margin_pct": 1.714,
-      "guaranteed_profit": 17.14,
-      "stakes": {
-        "Hellas Verona": {
-          "bookmaker": "Betfair",
-          "odds": 19.5,
-          "stake_pct": 5.22,
-          "stake_amount": 52.18
-        },
-        "Juventus": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 1.25,
-          "stake_pct": 81.4,
-          "stake_amount": 813.95
-        },
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 7.6,
-          "stake_pct": 13.39,
-          "stake_amount": 133.87
-        }
-      },
-      "num_bookmakers": 41,
-      "found_at": "2026-05-02T09:07:45.381681+00:00"
-    },
     {
       "type": "ARBITRAGE",
       "event_id": "61828e05d7e37e30eecff13ebfec54b5",
@@ -49,11 +17,11 @@
       "margin_pct": 1.46,
       "guaranteed_profit": 14.6,
       "stakes": {
-        "Angers": {
+        "Draw": {
           "bookmaker": "Unibet (SE)",
-          "odds": 3.9,
-          "stake_pct": 26.02,
-          "stake_amount": 260.21
+          "odds": 3.7,
+          "stake_pct": 27.43,
+          "stake_amount": 274.28
         },
         "Strasbourg": {
           "bookmaker": "1xBet",
@@ -61,73 +29,79 @@
           "stake_pct": 46.55,
           "stake_amount": 465.51
         },
-        "Draw": {
+        "Angers": {
           "bookmaker": "Unibet (SE)",
-          "odds": 3.7,
-          "stake_pct": 27.43,
-          "stake_amount": 274.28
+          "odds": 3.9,
+          "stake_pct": 26.02,
+          "stake_amount": 260.21
         }
       },
-      "num_bookmakers": 27,
-      "found_at": "2026-05-02T09:07:45.390575+00:00"
+      "num_bookmakers": 28,
+      "found_at": "2026-05-02T11:46:36.187776+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "f3df07dd72b759828e43d61cb813a166",
-      "league": "UEFA Champions League",
-      "match": "Arsenal vs Atlético Madrid",
-      "commence": "2026-05-05T19:00:00Z",
-      "market": "totals",
-      "margin_pct": 1.361,
-      "guaranteed_profit": 13.61,
-      "stakes": {
-        "Under 2.5": {
-          "bookmaker": "1xBet",
-          "odds": 1.96,
-          "stake_pct": 51.72,
-          "stake_amount": 517.24
-        },
-        "Over 2.5": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 2.1,
-          "stake_pct": 48.28,
-          "stake_amount": 482.76
-        }
-      },
-      "num_bookmakers": 15,
-      "found_at": "2026-05-02T09:07:45.391499+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "2e977aa19b52f35a2f36273a8936a967",
+      "event_id": "62e0bb4b475c4b6748cec73da0249a04",
       "league": "La Liga - Spain",
-      "match": "Espanyol vs Real Madrid",
-      "commence": "2026-05-03T19:00:00Z",
+      "match": "Getafe vs Rayo Vallecano",
+      "commence": "2026-05-03T14:15:00Z",
       "market": "h2h",
-      "margin_pct": 1.324,
-      "guaranteed_profit": 13.24,
+      "margin_pct": 1.239,
+      "guaranteed_profit": 12.39,
       "stakes": {
-        "Espanyol": {
-          "bookmaker": "Coolbet",
-          "odds": 4.95,
-          "stake_pct": 20.47,
-          "stake_amount": 204.73
-        },
-        "Real Madrid": {
+        "Getafe": {
           "bookmaker": "1xBet",
-          "odds": 1.82,
-          "stake_pct": 55.68,
-          "stake_amount": 556.82
+          "odds": 1.99,
+          "stake_pct": 50.88,
+          "stake_amount": 508.82
+        },
+        "Rayo Vallecano": {
+          "bookmaker": "Betfair",
+          "odds": 5.1,
+          "stake_pct": 19.85,
+          "stake_amount": 198.54
         },
         "Draw": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 4.25,
-          "stake_pct": 23.85,
-          "stake_amount": 238.45
+          "bookmaker": "1xBet",
+          "odds": 3.46,
+          "stake_pct": 29.26,
+          "stake_amount": 292.64
         }
       },
       "num_bookmakers": 38,
-      "found_at": "2026-05-02T09:07:45.384640+00:00"
+      "found_at": "2026-05-02T11:46:36.182291+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "97da76ec8cc9cdf87a1876d7557d43f2",
+      "league": "Serie A - Italy",
+      "match": "Inter Milan vs Parma",
+      "commence": "2026-05-03T18:45:00Z",
+      "market": "h2h",
+      "margin_pct": 1.227,
+      "guaranteed_profit": 12.27,
+      "stakes": {
+        "Draw": {
+          "bookmaker": "Betfair",
+          "odds": 7.6,
+          "stake_pct": 13.32,
+          "stake_amount": 133.21
+        },
+        "Parma": {
+          "bookmaker": "Betfair",
+          "odds": 16.0,
+          "stake_pct": 6.33,
+          "stake_amount": 63.28
+        },
+        "Inter Milan": {
+          "bookmaker": "GTbets",
+          "odds": 1.26,
+          "stake_pct": 80.35,
+          "stake_amount": 803.51
+        }
+      },
+      "num_bookmakers": 41,
+      "found_at": "2026-05-02T11:46:36.180137+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -139,17 +113,17 @@
       "margin_pct": 1.181,
       "guaranteed_profit": 11.81,
       "stakes": {
-        "Lecce": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 7.0,
-          "stake_pct": 14.46,
-          "stake_amount": 144.56
-        },
         "Juventus": {
           "bookmaker": "1xBet",
           "odds": 1.61,
           "stake_pct": 62.85,
           "stake_amount": 628.54
+        },
+        "Lecce": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 7.0,
+          "stake_pct": 14.46,
+          "stake_amount": 144.56
         },
         "Draw": {
           "bookmaker": "BetOnline.ag",
@@ -159,7 +133,39 @@
         }
       },
       "num_bookmakers": 31,
-      "found_at": "2026-05-02T09:07:45.382674+00:00"
+      "found_at": "2026-05-02T11:46:36.180847+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "283f2c3d59eca2d16cac28578527640a",
+      "league": "Ligue 1 - France",
+      "match": "Metz vs AS Monaco",
+      "commence": "2026-05-02T17:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.044,
+      "guaranteed_profit": 10.44,
+      "stakes": {
+        "AS Monaco": {
+          "bookmaker": "GTbets",
+          "odds": 1.41,
+          "stake_pct": 71.67,
+          "stake_amount": 716.7
+        },
+        "Metz": {
+          "bookmaker": "Betfair",
+          "odds": 8.4,
+          "stake_pct": 12.03,
+          "stake_amount": 120.3
+        },
+        "Draw": {
+          "bookmaker": "Betfair",
+          "odds": 6.2,
+          "stake_pct": 16.3,
+          "stake_amount": 162.99
+        }
+      },
+      "num_bookmakers": 41,
+      "found_at": "2026-05-02T11:46:36.186626+00:00"
     }
   ],
   "value_bets": [
@@ -181,7 +187,7 @@
       "suggested_stake": 9.07,
       "expected_value": 12.15,
       "confidence": "ALTA",
-      "found_at": "2026-05-02T09:07:45.385353+00:00"
+      "found_at": "2026-05-02T11:46:36.183148+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -201,7 +207,7 @@
       "suggested_stake": 9.07,
       "expected_value": 12.15,
       "confidence": "ALTA",
-      "found_at": "2026-05-02T09:07:45.385376+00:00"
+      "found_at": "2026-05-02T11:46:36.183172+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -213,15 +219,15 @@
       "outcome": "Draw",
       "bookmaker": "1xBet",
       "odds": 4.83,
-      "fair_odds": 4.342,
-      "true_prob_pct": 23.03,
+      "fair_odds": 4.354,
+      "true_prob_pct": 22.97,
       "implied_prob_pct": 20.7,
-      "edge_pct": 11.24,
-      "kelly_stake_pct": 0.73,
-      "suggested_stake": 7.34,
-      "expected_value": 11.24,
+      "edge_pct": 10.92,
+      "kelly_stake_pct": 0.71,
+      "suggested_stake": 7.13,
+      "expected_value": 10.92,
       "confidence": "ALTA",
-      "found_at": "2026-05-02T09:07:45.391299+00:00"
+      "found_at": "2026-05-02T11:46:36.188432+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -241,7 +247,7 @@
       "suggested_stake": 7.82,
       "expected_value": 10.66,
       "confidence": "ALTA",
-      "found_at": "2026-05-02T09:07:45.388593+00:00"
+      "found_at": "2026-05-02T11:46:36.186073+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -261,7 +267,7 @@
       "suggested_stake": 7.54,
       "expected_value": 9.83,
       "confidence": "ALTA",
-      "found_at": "2026-05-02T09:07:45.385313+00:00"
+      "found_at": "2026-05-02T11:46:36.183110+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -281,7 +287,7 @@
       "suggested_stake": 7.37,
       "expected_value": 9.58,
       "confidence": "ALTA",
-      "found_at": "2026-05-02T09:07:45.385359+00:00"
+      "found_at": "2026-05-02T11:46:36.183154+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -301,27 +307,7 @@
       "suggested_stake": 7.37,
       "expected_value": 9.58,
       "confidence": "ALTA",
-      "found_at": "2026-05-02T09:07:45.385382+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "fff4439514080e38e95c228d78dfff91",
-      "league": "Ligue 1 - France",
-      "match": "Rennes vs Paris FC",
-      "commence": "2026-05-10T19:00:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "Marathon Bet",
-      "odds": 4.75,
-      "fair_odds": 4.342,
-      "true_prob_pct": 23.03,
-      "implied_prob_pct": 21.05,
-      "edge_pct": 9.4,
-      "kelly_stake_pct": 0.63,
-      "suggested_stake": 6.26,
-      "expected_value": 9.4,
-      "confidence": "ALTA",
-      "found_at": "2026-05-02T09:07:45.391287+00:00"
+      "found_at": "2026-05-02T11:46:36.183177+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -341,7 +327,7 @@
       "suggested_stake": 7.23,
       "expected_value": 9.26,
       "confidence": "ALTA",
-      "found_at": "2026-05-02T09:07:45.388016+00:00"
+      "found_at": "2026-05-02T11:46:36.185494+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -361,7 +347,27 @@
       "suggested_stake": 7.23,
       "expected_value": 9.26,
       "confidence": "ALTA",
-      "found_at": "2026-05-02T09:07:45.388047+00:00"
+      "found_at": "2026-05-02T11:46:36.185523+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "fff4439514080e38e95c228d78dfff91",
+      "league": "Ligue 1 - France",
+      "match": "Rennes vs Paris FC",
+      "commence": "2026-05-10T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Marathon Bet",
+      "odds": 4.75,
+      "fair_odds": 4.354,
+      "true_prob_pct": 22.97,
+      "implied_prob_pct": 21.05,
+      "edge_pct": 9.09,
+      "kelly_stake_pct": 0.61,
+      "suggested_stake": 6.06,
+      "expected_value": 9.09,
+      "confidence": "ALTA",
+      "found_at": "2026-05-02T11:46:36.188418+00:00"
     }
   ]
 }
