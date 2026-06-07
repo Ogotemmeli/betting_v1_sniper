@@ -1,5 +1,5 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-06-07 18:05 UTC
+**Generato:** 2026-06-07 21:14 UTC
 **Bankroll:** €1000
 
 ---
