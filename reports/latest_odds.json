@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-18_1656",
+  "timestamp": "2026-06-18_1932",
   "version": "v1-sniper",
   "sport": "football_only",
   "total_events": 6,
@@ -16,9 +16,19 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-18T16:54:59Z",
+          "last_update": "2026-06-18T19:32:20Z",
           "outcomes": {
             "AC Milan": 1.73,
+            "Torino": 4.2,
+            "Draw": 3.75
+          }
+        },
+        {
+          "bookmaker": "skybet",
+          "title": "Sky Bet",
+          "last_update": "2026-06-18T19:32:09Z",
+          "outcomes": {
+            "AC Milan": 1.75,
             "Torino": 4.2,
             "Draw": 3.75
           }
@@ -37,7 +47,17 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-18T16:54:59Z",
+          "last_update": "2026-06-18T19:32:20Z",
+          "outcomes": {
+            "AS Roma": 1.5,
+            "Fiorentina": 6.0,
+            "Draw": 4.0
+          }
+        },
+        {
+          "bookmaker": "skybet",
+          "title": "Sky Bet",
+          "last_update": "2026-06-18T19:32:09Z",
           "outcomes": {
             "AS Roma": 1.5,
             "Fiorentina": 6.0,
@@ -58,7 +78,17 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-18T16:54:59Z",
+          "last_update": "2026-06-18T19:32:20Z",
+          "outcomes": {
+            "Bologna": 2.1,
+            "Lazio": 3.3,
+            "Draw": 3.3
+          }
+        },
+        {
+          "bookmaker": "skybet",
+          "title": "Sky Bet",
+          "last_update": "2026-06-18T19:32:09Z",
           "outcomes": {
             "Bologna": 2.1,
             "Lazio": 3.3,
@@ -79,11 +109,21 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-18T16:54:59Z",
+          "last_update": "2026-06-18T19:32:20Z",
           "outcomes": {
             "Cagliari": 2.88,
             "Parma": 2.45,
             "Draw": 3.0
+          }
+        },
+        {
+          "bookmaker": "skybet",
+          "title": "Sky Bet",
+          "last_update": "2026-06-18T19:32:09Z",
+          "outcomes": {
+            "Cagliari": 2.88,
+            "Parma": 2.5,
+            "Draw": 3.1
           }
         }
       ]
@@ -100,7 +140,17 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-18T16:54:59Z",
+          "last_update": "2026-06-18T19:32:20Z",
+          "outcomes": {
+            "Genoa": 5.5,
+            "Napoli": 1.62,
+            "Draw": 3.6
+          }
+        },
+        {
+          "bookmaker": "skybet",
+          "title": "Sky Bet",
+          "last_update": "2026-06-18T19:32:09Z",
           "outcomes": {
             "Genoa": 5.5,
             "Napoli": 1.62,
@@ -121,10 +171,20 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-18T16:54:59Z",
+          "last_update": "2026-06-18T19:32:20Z",
           "outcomes": {
-            "Inter Milan": 1.11,
-            "Monza": 19.0,
+            "Inter Milan": 1.14,
+            "Monza": 14.0,
+            "Draw": 7.0
+          }
+        },
+        {
+          "bookmaker": "skybet",
+          "title": "Sky Bet",
+          "last_update": "2026-06-18T19:32:09Z",
+          "outcomes": {
+            "Inter Milan": 1.17,
+            "Monza": 13.0,
             "Draw": 7.0
           }
         }
