@@ -1,7 +1,134 @@
 {
-  "timestamp": "2026-06-18_1150",
+  "timestamp": "2026-06-18_1656",
   "version": "v1-sniper",
   "sport": "football_only",
-  "total_events": 0,
-  "events": []
+  "total_events": 6,
+  "events": [
+    {
+      "id": "fbea45a1e53e07faac0027ac5d233587",
+      "sport": "soccer_italy_serie_a",
+      "league": "Serie A - Italy",
+      "home_team": "Torino",
+      "away_team": "AC Milan",
+      "commence_time": "2026-08-23T16:30:00Z",
+      "market": "h2h",
+      "bookmakers": [
+        {
+          "bookmaker": "paddypower",
+          "title": "Paddy Power",
+          "last_update": "2026-06-18T16:54:59Z",
+          "outcomes": {
+            "AC Milan": 1.73,
+            "Torino": 4.2,
+            "Draw": 3.75
+          }
+        }
+      ]
+    },
+    {
+      "id": "342da6cad58a21d1c6653ef88c05371e",
+      "sport": "soccer_italy_serie_a",
+      "league": "Serie A - Italy",
+      "home_team": "AS Roma",
+      "away_team": "Fiorentina",
+      "commence_time": "2026-08-23T16:30:00Z",
+      "market": "h2h",
+      "bookmakers": [
+        {
+          "bookmaker": "paddypower",
+          "title": "Paddy Power",
+          "last_update": "2026-06-18T16:54:59Z",
+          "outcomes": {
+            "AS Roma": 1.5,
+            "Fiorentina": 6.0,
+            "Draw": 4.0
+          }
+        }
+      ]
+    },
+    {
+      "id": "c23c70e25e6253ea30f33add6c73d299",
+      "sport": "soccer_italy_serie_a",
+      "league": "Serie A - Italy",
+      "home_team": "Bologna",
+      "away_team": "Lazio",
+      "commence_time": "2026-08-23T16:30:00Z",
+      "market": "h2h",
+      "bookmakers": [
+        {
+          "bookmaker": "paddypower",
+          "title": "Paddy Power",
+          "last_update": "2026-06-18T16:54:59Z",
+          "outcomes": {
+            "Bologna": 2.1,
+            "Lazio": 3.3,
+            "Draw": 3.3
+          }
+        }
+      ]
+    },
+    {
+      "id": "bea9b476bdea2d41a0f4bd53a24c1413",
+      "sport": "soccer_italy_serie_a",
+      "league": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-23T16:30:00Z",
+      "market": "h2h",
+      "bookmakers": [
+        {
+          "bookmaker": "paddypower",
+          "title": "Paddy Power",
+          "last_update": "2026-06-18T16:54:59Z",
+          "outcomes": {
+            "Cagliari": 2.88,
+            "Parma": 2.45,
+            "Draw": 3.0
+          }
+        }
+      ]
+    },
+    {
+      "id": "71a416cf5920fef1bddf076ca260421f",
+      "sport": "soccer_italy_serie_a",
+      "league": "Serie A - Italy",
+      "home_team": "Genoa",
+      "away_team": "Napoli",
+      "commence_time": "2026-08-23T16:30:00Z",
+      "market": "h2h",
+      "bookmakers": [
+        {
+          "bookmaker": "paddypower",
+          "title": "Paddy Power",
+          "last_update": "2026-06-18T16:54:59Z",
+          "outcomes": {
+            "Genoa": 5.5,
+            "Napoli": 1.62,
+            "Draw": 3.6
+          }
+        }
+      ]
+    },
+    {
+      "id": "4a22f8a958a3360b75505a1c432a81dd",
+      "sport": "soccer_italy_serie_a",
+      "league": "Serie A - Italy",
+      "home_team": "Inter Milan",
+      "away_team": "Monza",
+      "commence_time": "2026-08-23T16:30:00Z",
+      "market": "h2h",
+      "bookmakers": [
+        {
+          "bookmaker": "paddypower",
+          "title": "Paddy Power",
+          "last_update": "2026-06-18T16:54:59Z",
+          "outcomes": {
+            "Inter Milan": 1.11,
+            "Monza": 19.0,
+            "Draw": 7.0
+          }
+        }
+      ]
+    }
+  ]
 }
