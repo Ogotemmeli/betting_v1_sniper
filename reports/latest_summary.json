@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-06-18 22:09 UTC",
+  "timestamp": "2026-06-19 00:27 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
   "arbitrages_found": 0,
-  "value_bets_found": 16,
+  "value_bets_found": 17,
   "best_arb_margin": 0,
-  "best_value_edge": 34.04,
+  "best_value_edge": 29.25,
   "arbitrages": [],
   "value_bets": [
     {
@@ -18,15 +18,15 @@
       "outcome": "Genoa",
       "bookmaker": "Betfair Sportsbook",
       "odds": 5.0,
-      "fair_odds": 3.73,
-      "true_prob_pct": 26.81,
+      "fair_odds": 3.869,
+      "true_prob_pct": 25.85,
       "implied_prob_pct": 20.0,
-      "edge_pct": 34.04,
-      "kelly_stake_pct": 2.13,
-      "suggested_stake": 21.28,
-      "expected_value": 34.04,
+      "edge_pct": 29.25,
+      "kelly_stake_pct": 1.83,
+      "suggested_stake": 18.28,
+      "expected_value": 29.25,
       "confidence": "ALTA",
-      "found_at": "2026-06-18T22:09:26.224781+00:00"
+      "found_at": "2026-06-19T00:27:20.371093+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -46,7 +46,7 @@
       "suggested_stake": 18.87,
       "expected_value": 24.15,
       "confidence": "ALTA",
-      "found_at": "2026-06-18T22:09:26.224699+00:00"
+      "found_at": "2026-06-19T00:27:20.371003+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -66,7 +66,7 @@
       "suggested_stake": 17.68,
       "expected_value": 23.55,
       "confidence": "ALTA",
-      "found_at": "2026-06-18T22:09:26.224615+00:00"
+      "found_at": "2026-06-19T00:27:20.370926+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -86,7 +86,7 @@
       "suggested_stake": 15.5,
       "expected_value": 19.84,
       "confidence": "ALTA",
-      "found_at": "2026-06-18T22:09:26.224590+00:00"
+      "found_at": "2026-06-19T00:27:20.370901+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -106,7 +106,7 @@
       "suggested_stake": 15.5,
       "expected_value": 19.84,
       "confidence": "ALTA",
-      "found_at": "2026-06-18T22:09:26.224606+00:00"
+      "found_at": "2026-06-19T00:27:20.370917+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -126,7 +126,7 @@
       "suggested_stake": 15.2,
       "expected_value": 18.24,
       "confidence": "ALTA",
-      "found_at": "2026-06-18T22:09:26.224687+00:00"
+      "found_at": "2026-06-19T00:27:20.370991+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -146,7 +146,7 @@
       "suggested_stake": 15.2,
       "expected_value": 18.24,
       "confidence": "ALTA",
-      "found_at": "2026-06-18T22:09:26.224693+00:00"
+      "found_at": "2026-06-19T00:27:20.370997+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -166,7 +166,7 @@
       "suggested_stake": 11.78,
       "expected_value": 14.13,
       "confidence": "ALTA",
-      "found_at": "2026-06-18T22:09:26.224623+00:00"
+      "found_at": "2026-06-19T00:27:20.370933+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -186,7 +186,7 @@
       "suggested_stake": 10.86,
       "expected_value": 11.95,
       "confidence": "ALTA",
-      "found_at": "2026-06-18T22:09:26.224637+00:00"
+      "found_at": "2026-06-19T00:27:20.370943+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -206,7 +206,7 @@
       "suggested_stake": 10.86,
       "expected_value": 11.95,
       "confidence": "ALTA",
-      "found_at": "2026-06-18T22:09:26.224646+00:00"
+      "found_at": "2026-06-19T00:27:20.370949+00:00"
     }
   ]
 }
