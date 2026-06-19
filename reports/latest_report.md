@@ -1,5 +1,5 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-06-19 18:55 UTC
+**Generato:** 2026-06-19 21:10 UTC
 **Bankroll:** €1000
 
 ---
@@ -39,11 +39,11 @@ _Nessun arbitraggio trovato in questo ciclo._
 | 25 | Bologna vs Lazio | Lazio | Pinnacle | 3.67 | 3.17 | 15.9% | 🟢 | €15 |
 | 26 | Bologna vs Lazio | Lazio | Betfred (UK) | 3.60 | 3.17 | 13.7% | 🟢 | €13 |
 | 27 | Bologna vs Lazio | Lazio | Bet Victor | 3.60 | 3.17 | 13.7% | 🟢 | €13 |
-| 28 | Hull City vs Manchester Unit | Draw | Codere (IT) | 4.90 | 4.37 | 12.0% | 🟢 | €8 |
-| 29 | Bologna vs Lazio | Lazio | Paddy Power | 3.50 | 3.17 | 10.5% | 🟢 | €10 |
-| 30 | Bologna vs Lazio | Lazio | Sky Bet | 3.50 | 3.17 | 10.5% | 🟢 | €10 |
+| 28 | Bologna vs Lazio | Lazio | Paddy Power | 3.50 | 3.17 | 10.5% | 🟢 | €10 |
+| 29 | Bologna vs Lazio | Lazio | Sky Bet | 3.50 | 3.17 | 10.5% | 🟢 | €10 |
+| 30 | Torino vs AC Milan | Torino | Betfair Spor | 4.00 | 3.66 | 9.4% | 🟢 | €8 |
 
-_Top 30 su 65._
+_Top 30 su 52._
 
 ---
 ⚠️ Strumento di analisi. Non garantisce profitti.
