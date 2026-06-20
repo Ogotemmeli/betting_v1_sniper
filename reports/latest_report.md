@@ -1,5 +1,5 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-06-20 18:12 UTC
+**Generato:** 2026-06-20 21:19 UTC
 **Bankroll:** €1000
 
 ---
@@ -37,7 +37,7 @@ _Nessun arbitraggio trovato in questo ciclo._
 | 23 | Bologna vs Lazio | Lazio | Sky Bet | 3.50 | 3.17 | 10.5% | 🟢 | €10 |
 | 24 | Torino vs AC Milan | Torino | Betfair Spor | 4.00 | 3.66 | 9.4% | 🟢 | €8 |
 | 25 | Bologna vs Lazio | Lazio | Betfair Spor | 3.30 | 3.17 | 4.2% | 🔴 | €5 |
-| 26 | Fulham vs Chelsea | Fulham | Coral | 3.50 | 3.38 | 3.5% | 🔴 | €4 |
+| 26 | Fulham vs Chelsea | Fulham | Coral | 3.50 | 3.38 | 3.6% | 🔴 | €4 |
 
 _Top 26 su 26._
 
