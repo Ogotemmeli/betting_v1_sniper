@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-20 10:32 UTC",
+  "timestamp": "2026-06-20 12:26 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
   "arbitrages_found": 0,
-  "value_bets_found": 45,
+  "value_bets_found": 46,
   "best_arb_margin": 0,
   "best_value_edge": 50.86,
   "arbitrages": [],
@@ -26,7 +26,7 @@
       "suggested_stake": 31.79,
       "expected_value": 50.86,
       "confidence": "ALTA",
-      "found_at": "2026-06-20T10:32:40.927990+00:00"
+      "found_at": "2026-06-20T12:26:26.366319+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -38,15 +38,15 @@
       "outcome": "Genoa",
       "bookmaker": "Paddy Power",
       "odds": 5.0,
-      "fair_odds": 3.455,
-      "true_prob_pct": 28.94,
+      "fair_odds": 3.454,
+      "true_prob_pct": 28.95,
       "implied_prob_pct": 20.0,
-      "edge_pct": 44.72,
+      "edge_pct": 44.75,
       "kelly_stake_pct": 2.8,
-      "suggested_stake": 27.95,
-      "expected_value": 44.72,
+      "suggested_stake": 27.97,
+      "expected_value": 44.75,
       "confidence": "ALTA",
-      "found_at": "2026-06-20T10:32:40.928070+00:00"
+      "found_at": "2026-06-20T12:26:26.366410+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -58,15 +58,15 @@
       "outcome": "Genoa",
       "bookmaker": "Sky Bet",
       "odds": 5.0,
-      "fair_odds": 3.455,
-      "true_prob_pct": 28.94,
+      "fair_odds": 3.454,
+      "true_prob_pct": 28.95,
       "implied_prob_pct": 20.0,
-      "edge_pct": 44.72,
+      "edge_pct": 44.75,
       "kelly_stake_pct": 2.8,
-      "suggested_stake": 27.95,
-      "expected_value": 44.72,
+      "suggested_stake": 27.97,
+      "expected_value": 44.75,
       "confidence": "ALTA",
-      "found_at": "2026-06-20T10:32:40.928075+00:00"
+      "found_at": "2026-06-20T12:26:26.366416+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -78,15 +78,15 @@
       "outcome": "Genoa",
       "bookmaker": "Bet Victor",
       "odds": 5.0,
-      "fair_odds": 3.455,
-      "true_prob_pct": 28.94,
+      "fair_odds": 3.454,
+      "true_prob_pct": 28.95,
       "implied_prob_pct": 20.0,
-      "edge_pct": 44.72,
+      "edge_pct": 44.75,
       "kelly_stake_pct": 2.8,
-      "suggested_stake": 27.95,
-      "expected_value": 44.72,
+      "suggested_stake": 27.97,
+      "expected_value": 44.75,
       "confidence": "ALTA",
-      "found_at": "2026-06-20T10:32:40.928088+00:00"
+      "found_at": "2026-06-20T12:26:26.366428+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -106,7 +106,7 @@
       "suggested_stake": 28.88,
       "expected_value": 43.32,
       "confidence": "ALTA",
-      "found_at": "2026-06-20T10:32:40.927982+00:00"
+      "found_at": "2026-06-20T12:26:26.366313+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -126,7 +126,7 @@
       "suggested_stake": 28.88,
       "expected_value": 43.32,
       "confidence": "ALTA",
-      "found_at": "2026-06-20T10:32:40.928002+00:00"
+      "found_at": "2026-06-20T12:26:26.366333+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -146,7 +146,7 @@
       "suggested_stake": 27.6,
       "expected_value": 40.3,
       "confidence": "ALTA",
-      "found_at": "2026-06-20T10:32:40.928014+00:00"
+      "found_at": "2026-06-20T12:26:26.366345+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -166,7 +166,7 @@
       "suggested_stake": 26.94,
       "expected_value": 38.79,
       "confidence": "ALTA",
-      "found_at": "2026-06-20T10:32:40.927995+00:00"
+      "found_at": "2026-06-20T12:26:26.366328+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -186,7 +186,7 @@
       "suggested_stake": 25.98,
       "expected_value": 36.68,
       "confidence": "ALTA",
-      "found_at": "2026-06-20T10:32:40.928019+00:00"
+      "found_at": "2026-06-20T12:26:26.366351+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -206,7 +206,7 @@
       "suggested_stake": 23.01,
       "expected_value": 30.65,
       "confidence": "ALTA",
-      "found_at": "2026-06-20T10:32:40.928008+00:00"
+      "found_at": "2026-06-20T12:26:26.366339+00:00"
     }
   ]
 }

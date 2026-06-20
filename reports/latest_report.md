@@ -1,5 +1,5 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-06-20 10:32 UTC
+**Generato:** 2026-06-20 12:26 UTC
 **Bankroll:** €1000
 
 ---
@@ -13,16 +13,16 @@ _Nessun arbitraggio trovato in questo ciclo._
 | # | Match | Esito | Book | Quota | Fair | Edge% | Conf | Stake |
 |---|-------|-------|------|-------|------|-------|------|-------|
 | 1 | Udinese vs Como | Udinese | Betfred (UK) | 5.00 | 3.31 | 50.9% | 🟢 | €32 |
-| 2 | Genoa vs Napoli | Genoa | Paddy Power | 5.00 | 3.46 | 44.7% | 🟢 | €28 |
-| 3 | Genoa vs Napoli | Genoa | Sky Bet | 5.00 | 3.46 | 44.7% | 🟢 | €28 |
-| 4 | Genoa vs Napoli | Genoa | Bet Victor | 5.00 | 3.46 | 44.7% | 🟢 | €28 |
+| 2 | Genoa vs Napoli | Genoa | Paddy Power | 5.00 | 3.45 | 44.8% | 🟢 | €28 |
+| 3 | Genoa vs Napoli | Genoa | Sky Bet | 5.00 | 3.45 | 44.8% | 🟢 | €28 |
+| 4 | Genoa vs Napoli | Genoa | Bet Victor | 5.00 | 3.45 | 44.8% | 🟢 | €28 |
 | 5 | Udinese vs Como | Udinese | Paddy Power | 4.75 | 3.31 | 43.3% | 🟢 | €29 |
 | 6 | Udinese vs Como | Udinese | Sky Bet | 4.75 | 3.31 | 43.3% | 🟢 | €29 |
 | 7 | Udinese vs Como | Udinese | Marathon Bet | 4.65 | 3.31 | 40.3% | 🟢 | €28 |
 | 8 | Udinese vs Como | Udinese | Bet Victor | 4.60 | 3.31 | 38.8% | 🟢 | €27 |
 | 9 | Udinese vs Como | Udinese | Pinnacle | 4.53 | 3.31 | 36.7% | 🟢 | €26 |
 | 10 | Udinese vs Como | Udinese | Betfair Spor | 4.33 | 3.31 | 30.6% | 🟢 | €23 |
-| 11 | Genoa vs Napoli | Genoa | Betfair Spor | 4.50 | 3.46 | 30.2% | 🟢 | €22 |
+| 11 | Genoa vs Napoli | Genoa | Betfair Spor | 4.50 | 3.45 | 30.3% | 🟢 | €22 |
 | 12 | Torino vs AC Milan | Torino | Marathon Bet | 4.55 | 3.66 | 24.4% | 🟢 | €17 |
 | 13 | Torino vs AC Milan | Torino | Sky Bet | 4.50 | 3.66 | 23.1% | 🟢 | €16 |
 | 14 | Torino vs AC Milan | Torino | Betfred (UK) | 4.50 | 3.66 | 23.1% | 🟢 | €16 |
@@ -35,15 +35,15 @@ _Nessun arbitraggio trovato in questo ciclo._
 | 21 | Bologna vs Lazio | Lazio | Bet Victor | 3.60 | 3.17 | 13.7% | 🟢 | €13 |
 | 22 | Bologna vs Lazio | Lazio | Paddy Power | 3.50 | 3.17 | 10.5% | 🟢 | €10 |
 | 23 | Bologna vs Lazio | Lazio | Sky Bet | 3.50 | 3.17 | 10.5% | 🟢 | €10 |
-| 24 | Newcastle United vs Liverpoo | Draw | 1xBet | 4.03 | 3.66 | 10.2% | 🟢 | €8 |
+| 24 | Newcastle United vs Liverpoo | Draw | 1xBet | 4.03 | 3.67 | 9.9% | 🟢 | €8 |
 | 25 | Torino vs AC Milan | Torino | Betfair Spor | 4.00 | 3.66 | 9.4% | 🟢 | €8 |
-| 26 | Newcastle United vs Liverpoo | Draw | Betfred (UK) | 4.00 | 3.66 | 9.4% | 🟢 | €8 |
-| 27 | Newcastle United vs Liverpoo | Draw | Paddy Power | 4.00 | 3.66 | 9.4% | 🟢 | €8 |
-| 28 | Newcastle United vs Liverpoo | Draw | Marathon Bet | 3.96 | 3.66 | 8.3% | 🟢 | €7 |
-| 29 | Newcastle United vs Liverpoo | Draw | Coral | 3.90 | 3.66 | 6.6% | 🟡 | €6 |
-| 30 | Newcastle United vs Liverpoo | Draw | Ladbrokes | 3.90 | 3.66 | 6.6% | 🟡 | €6 |
+| 26 | Newcastle United vs Liverpoo | Draw | Betfred (UK) | 4.00 | 3.67 | 9.1% | 🟢 | €8 |
+| 27 | Newcastle United vs Liverpoo | Draw | Paddy Power | 4.00 | 3.67 | 9.1% | 🟢 | €8 |
+| 28 | Newcastle United vs Liverpoo | Draw | Marathon Bet | 3.96 | 3.67 | 8.0% | 🟡 | €7 |
+| 29 | Newcastle United vs Liverpoo | Draw | Coral | 3.90 | 3.67 | 6.3% | 🟡 | €5 |
+| 30 | Newcastle United vs Liverpoo | Draw | Ladbrokes | 3.90 | 3.67 | 6.3% | 🟡 | €5 |
 
-_Top 30 su 45._
+_Top 30 su 46._
 
 ---
 ⚠️ Strumento di analisi. Non garantisce profitti.
