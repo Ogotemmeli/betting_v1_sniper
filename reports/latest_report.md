@@ -1,5 +1,5 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-06-20 00:09 UTC
+**Generato:** 2026-06-20 10:32 UTC
 **Bankroll:** €1000
 
 ---
@@ -23,27 +23,27 @@ _Nessun arbitraggio trovato in questo ciclo._
 | 9 | Udinese vs Como | Udinese | Pinnacle | 4.53 | 3.31 | 36.7% | 🟢 | €26 |
 | 10 | Udinese vs Como | Udinese | Betfair Spor | 4.33 | 3.31 | 30.6% | 🟢 | €23 |
 | 11 | Genoa vs Napoli | Genoa | Betfair Spor | 4.50 | 3.46 | 30.2% | 🟢 | €22 |
-| 12 | Frosinone vs Juventus | Draw | Marathon Bet | 4.55 | 3.56 | 27.7% | 🟢 | €20 |
-| 13 | Torino vs AC Milan | Torino | Marathon Bet | 4.55 | 3.66 | 24.4% | 🟢 | €17 |
-| 14 | Frosinone vs Juventus | Draw | Pinnacle | 4.40 | 3.56 | 23.5% | 🟢 | €17 |
-| 15 | Torino vs AC Milan | Torino | Sky Bet | 4.50 | 3.66 | 23.1% | 🟢 | €16 |
-| 16 | Torino vs AC Milan | Torino | Betfred (UK) | 4.50 | 3.66 | 23.1% | 🟢 | €16 |
-| 17 | Frosinone vs Juventus | Draw | Paddy Power | 4.33 | 3.56 | 21.5% | 🟢 | €16 |
-| 18 | Frosinone vs Juventus | Draw | Betfred (UK) | 4.33 | 3.56 | 21.5% | 🟢 | €16 |
-| 19 | Frosinone vs Juventus | Draw | Sky Bet | 4.33 | 3.56 | 21.5% | 🟢 | €16 |
-| 20 | Torino vs AC Milan | Torino | Paddy Power | 4.40 | 3.66 | 20.3% | 🟢 | €15 |
-| 21 | Torino vs AC Milan | Torino | Bet Victor | 4.40 | 3.66 | 20.3% | 🟢 | €15 |
-| 22 | Torino vs AC Milan | Torino | Pinnacle | 4.38 | 3.66 | 19.8% | 🟢 | €15 |
-| 23 | Bologna vs Lazio | Lazio | Marathon Bet | 3.78 | 3.17 | 19.3% | 🟢 | €17 |
-| 24 | Frosinone vs Juventus | Draw | Bet Victor | 4.20 | 3.56 | 17.9% | 🟢 | €14 |
-| 25 | Bologna vs Lazio | Lazio | Pinnacle | 3.67 | 3.17 | 15.9% | 🟢 | €15 |
-| 26 | Bologna vs Lazio | Lazio | Betfred (UK) | 3.60 | 3.17 | 13.7% | 🟢 | €13 |
-| 27 | Bologna vs Lazio | Lazio | Bet Victor | 3.60 | 3.17 | 13.7% | 🟢 | €13 |
-| 28 | Bologna vs Lazio | Lazio | Paddy Power | 3.50 | 3.17 | 10.5% | 🟢 | €10 |
-| 29 | Bologna vs Lazio | Lazio | Sky Bet | 3.50 | 3.17 | 10.5% | 🟢 | €10 |
-| 30 | Torino vs AC Milan | Torino | Betfair Spor | 4.00 | 3.66 | 9.4% | 🟢 | €8 |
+| 12 | Torino vs AC Milan | Torino | Marathon Bet | 4.55 | 3.66 | 24.4% | 🟢 | €17 |
+| 13 | Torino vs AC Milan | Torino | Sky Bet | 4.50 | 3.66 | 23.1% | 🟢 | €16 |
+| 14 | Torino vs AC Milan | Torino | Betfred (UK) | 4.50 | 3.66 | 23.1% | 🟢 | €16 |
+| 15 | Torino vs AC Milan | Torino | Paddy Power | 4.40 | 3.66 | 20.3% | 🟢 | €15 |
+| 16 | Torino vs AC Milan | Torino | Bet Victor | 4.40 | 3.66 | 20.3% | 🟢 | €15 |
+| 17 | Torino vs AC Milan | Torino | Pinnacle | 4.38 | 3.66 | 19.8% | 🟢 | €15 |
+| 18 | Bologna vs Lazio | Lazio | Marathon Bet | 3.78 | 3.17 | 19.3% | 🟢 | €17 |
+| 19 | Bologna vs Lazio | Lazio | Pinnacle | 3.67 | 3.17 | 15.9% | 🟢 | €15 |
+| 20 | Bologna vs Lazio | Lazio | Betfred (UK) | 3.60 | 3.17 | 13.7% | 🟢 | €13 |
+| 21 | Bologna vs Lazio | Lazio | Bet Victor | 3.60 | 3.17 | 13.7% | 🟢 | €13 |
+| 22 | Bologna vs Lazio | Lazio | Paddy Power | 3.50 | 3.17 | 10.5% | 🟢 | €10 |
+| 23 | Bologna vs Lazio | Lazio | Sky Bet | 3.50 | 3.17 | 10.5% | 🟢 | €10 |
+| 24 | Newcastle United vs Liverpoo | Draw | 1xBet | 4.03 | 3.66 | 10.2% | 🟢 | €8 |
+| 25 | Torino vs AC Milan | Torino | Betfair Spor | 4.00 | 3.66 | 9.4% | 🟢 | €8 |
+| 26 | Newcastle United vs Liverpoo | Draw | Betfred (UK) | 4.00 | 3.66 | 9.4% | 🟢 | €8 |
+| 27 | Newcastle United vs Liverpoo | Draw | Paddy Power | 4.00 | 3.66 | 9.4% | 🟢 | €8 |
+| 28 | Newcastle United vs Liverpoo | Draw | Marathon Bet | 3.96 | 3.66 | 8.3% | 🟢 | €7 |
+| 29 | Newcastle United vs Liverpoo | Draw | Coral | 3.90 | 3.66 | 6.6% | 🟡 | €6 |
+| 30 | Newcastle United vs Liverpoo | Draw | Ladbrokes | 3.90 | 3.66 | 6.6% | 🟡 | €6 |
 
-_Top 30 su 52._
+_Top 30 su 45._
 
 ---
 ⚠️ Strumento di analisi. Non garantisce profitti.
