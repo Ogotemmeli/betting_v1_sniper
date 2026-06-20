@@ -1,5 +1,5 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-06-20 12:26 UTC
+**Generato:** 2026-06-20 15:45 UTC
 **Bankroll:** €1000
 
 ---
@@ -35,15 +35,11 @@ _Nessun arbitraggio trovato in questo ciclo._
 | 21 | Bologna vs Lazio | Lazio | Bet Victor | 3.60 | 3.17 | 13.7% | 🟢 | €13 |
 | 22 | Bologna vs Lazio | Lazio | Paddy Power | 3.50 | 3.17 | 10.5% | 🟢 | €10 |
 | 23 | Bologna vs Lazio | Lazio | Sky Bet | 3.50 | 3.17 | 10.5% | 🟢 | €10 |
-| 24 | Newcastle United vs Liverpoo | Draw | 1xBet | 4.03 | 3.67 | 9.9% | 🟢 | €8 |
-| 25 | Torino vs AC Milan | Torino | Betfair Spor | 4.00 | 3.66 | 9.4% | 🟢 | €8 |
-| 26 | Newcastle United vs Liverpoo | Draw | Betfred (UK) | 4.00 | 3.67 | 9.1% | 🟢 | €8 |
-| 27 | Newcastle United vs Liverpoo | Draw | Paddy Power | 4.00 | 3.67 | 9.1% | 🟢 | €8 |
-| 28 | Newcastle United vs Liverpoo | Draw | Marathon Bet | 3.96 | 3.67 | 8.0% | 🟡 | €7 |
-| 29 | Newcastle United vs Liverpoo | Draw | Coral | 3.90 | 3.67 | 6.3% | 🟡 | €5 |
-| 30 | Newcastle United vs Liverpoo | Draw | Ladbrokes | 3.90 | 3.67 | 6.3% | 🟡 | €5 |
+| 24 | Torino vs AC Milan | Torino | Betfair Spor | 4.00 | 3.66 | 9.4% | 🟢 | €8 |
+| 25 | Bologna vs Lazio | Lazio | Betfair Spor | 3.30 | 3.17 | 4.2% | 🔴 | €5 |
+| 26 | Fulham vs Chelsea | Fulham | Coral | 3.50 | 3.39 | 3.3% | 🔴 | €3 |
 
-_Top 30 su 46._
+_Top 26 su 26._
 
 ---
 ⚠️ Strumento di analisi. Non garantisce profitti.
