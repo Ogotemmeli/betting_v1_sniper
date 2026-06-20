@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-19_2110",
+  "timestamp": "2026-06-20_0009",
   "version": "v1-sniper",
   "sport": "football_only",
   "total_events": 60,
@@ -16,7 +16,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Arsenal": 1.14,
             "Coventry City": 15.76,
@@ -26,7 +26,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Arsenal": 1.19,
             "Coventry City": 20.0,
@@ -36,7 +36,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-19T21:10:20Z",
+          "last_update": "2026-06-20T00:04:30Z",
           "outcomes": {
             "Arsenal": 1.13,
             "Coventry City": 15.0,
@@ -46,7 +46,7 @@
         {
           "bookmaker": "betfred_uk",
           "title": "Betfred (UK)",
-          "last_update": "2026-06-19T21:10:20Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Arsenal": 1.17,
             "Coventry City": 17.0,
@@ -56,7 +56,7 @@
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Arsenal": 1.17,
             "Coventry City": 1.25,
@@ -66,7 +66,7 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:46Z",
+          "last_update": "2026-06-20T00:08:55Z",
           "outcomes": {
             "Arsenal": 1.17,
             "Coventry City": 1.25,
@@ -76,7 +76,7 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Arsenal": 1.17,
             "Coventry City": 16.0,
@@ -86,7 +86,7 @@
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-19T21:09:05Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Arsenal": 1.17,
             "Coventry City": 19.5,
@@ -96,7 +96,7 @@
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:07:28Z",
           "outcomes": {
             "Arsenal": 1.18,
             "Coventry City": 15.0,
@@ -106,7 +106,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-19T21:09:45Z",
+          "last_update": "2026-06-20T00:07:16Z",
           "outcomes": {
             "Arsenal": 1.14,
             "Coventry City": 17.0,
@@ -116,17 +116,17 @@
         {
           "bookmaker": "unibet_fr",
           "title": "Unibet (FR)",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:08:56Z",
           "outcomes": {
             "Arsenal": 1.12,
-            "Coventry City": 12.0,
+            "Coventry City": 13.0,
             "Draw": 6.0
           }
         },
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-19T21:10:11Z",
+          "last_update": "2026-06-20T00:07:15Z",
           "outcomes": {
             "Arsenal": 1.17,
             "Coventry City": 13.0,
@@ -136,27 +136,27 @@
         {
           "bookmaker": "betclic_fr",
           "title": "Betclic (FR)",
-          "last_update": "2026-06-19T21:10:36Z",
+          "last_update": "2026-06-20T00:04:32Z",
           "outcomes": {
             "Arsenal": 1.12,
-            "Coventry City": 12.25,
+            "Coventry City": 12.75,
             "Draw": 6.0
           }
         },
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-19T21:10:49Z",
+          "last_update": "2026-06-20T00:07:56Z",
           "outcomes": {
-            "Arsenal": 1.13,
+            "Arsenal": 1.14,
             "Coventry City": 18.0,
-            "Draw": 7.5
+            "Draw": 7.0
           }
         },
         {
           "bookmaker": "sport888",
           "title": "888sport",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Arsenal": 1.17,
             "Coventry City": 13.0,
@@ -166,7 +166,7 @@
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-19T21:10:47Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Arsenal": 1.18,
             "Coventry City": 13.0,
@@ -176,7 +176,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:09:10Z",
           "outcomes": {
             "Arsenal": 1.16,
             "Coventry City": 12.0,
@@ -186,7 +186,7 @@
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-19T21:10:08Z",
+          "last_update": "2026-06-20T00:08:56Z",
           "outcomes": {
             "Arsenal": 1.14,
             "Coventry City": 15.0,
@@ -196,7 +196,7 @@
         {
           "bookmaker": "unibet_uk",
           "title": "Unibet (UK)",
-          "last_update": "2026-06-19T21:09:57Z",
+          "last_update": "2026-06-20T00:08:57Z",
           "outcomes": {
             "Arsenal": 1.16,
             "Coventry City": 16.0,
@@ -206,7 +206,7 @@
         {
           "bookmaker": "boylesports",
           "title": "BoyleSports",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:08:31Z",
           "outcomes": {
             "Arsenal": 1.12,
             "Coventry City": 15.0,
@@ -216,7 +216,7 @@
         {
           "bookmaker": "winamax_de",
           "title": "Winamax (DE)",
-          "last_update": "2026-06-19T21:10:46Z",
+          "last_update": "2026-06-20T00:08:44Z",
           "outcomes": {
             "Arsenal": 1.15,
             "Coventry City": 12.5,
@@ -226,27 +226,27 @@
         {
           "bookmaker": "winamax_fr",
           "title": "Winamax (FR)",
-          "last_update": "2026-06-19T21:10:36Z",
+          "last_update": "2026-06-20T00:08:31Z",
           "outcomes": {
             "Arsenal": 1.1,
-            "Coventry City": 9.5,
+            "Coventry City": 10.0,
             "Draw": 5.6
           }
         },
         {
           "bookmaker": "smarkets",
           "title": "Smarkets",
-          "last_update": "2026-06-19T21:10:47Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Arsenal": 1.11,
-            "Coventry City": 11.0,
-            "Draw": 5.6
+            "Coventry City": 11.49,
+            "Draw": 5.5
           }
         },
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Arsenal": 1.16,
             "Coventry City": 13.0,
@@ -256,7 +256,7 @@
         {
           "bookmaker": "livescorebet",
           "title": "LiveScore Bet",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Arsenal": 1.16,
             "Coventry City": 13.0,
@@ -266,7 +266,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Arsenal": 1.16,
             "Coventry City": 13.0,
@@ -276,7 +276,7 @@
         {
           "bookmaker": "leovegas_se",
           "title": "LeoVegas (SE)",
-          "last_update": "2026-06-19T21:10:08Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Arsenal": 1.16,
             "Coventry City": 13.0,
@@ -286,7 +286,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Arsenal": 1.16,
             "Coventry City": 13.0,
@@ -296,7 +296,7 @@
         {
           "bookmaker": "virginbet",
           "title": "Virgin Bet",
-          "last_update": "2026-06-19T21:10:09Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Arsenal": 1.16,
             "Coventry City": 13.0,
@@ -306,7 +306,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Arsenal": 1.16,
             "Coventry City": 13.0,
@@ -316,7 +316,7 @@
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-19T21:10:24Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Arsenal": 1.17,
             "Coventry City": 16.0,
@@ -337,7 +337,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 3.0": 1.92,
             "Under 3.0": 1.88
@@ -346,25 +346,25 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
-            "Over 3.5": 2.49,
-            "Under 3.5": 1.63
+            "Over 3.5": 2.52,
+            "Under 3.5": 1.62
           }
         },
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
-            "Over 3.5": 2.26,
-            "Under 3.5": 1.54
+            "Over 2.5": 1.52,
+            "Under 2.5": 2.3
           }
         },
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-19T21:10:11Z",
+          "last_update": "2026-06-20T00:07:15Z",
           "outcomes": {
             "Over 2.5": 1.5,
             "Under 2.5": 2.5
@@ -373,7 +373,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:09:10Z",
           "outcomes": {
             "Over 3.5": 2.2,
             "Under 3.5": 1.6
@@ -382,7 +382,7 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 3.5": 2.32,
             "Under 3.5": 1.56
@@ -391,7 +391,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Over 3.5": 2.32,
             "Under 3.5": 1.56
@@ -400,7 +400,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 3.5": 2.32,
             "Under 3.5": 1.56
@@ -409,7 +409,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 3.5": 2.32,
             "Under 3.5": 1.56
@@ -429,7 +429,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Arsenal (-2.0)": 1.85,
             "Coventry City (2.0)": 1.97
@@ -438,7 +438,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Arsenal (-2.5)": 2.45,
             "Coventry City (2.5)": 1.65
@@ -458,7 +458,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Hull City": 6.72,
             "Manchester United": 1.42,
@@ -468,7 +468,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Hull City": 7.42,
             "Manchester United": 1.49,
@@ -478,7 +478,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-19T21:10:20Z",
+          "last_update": "2026-06-20T00:04:30Z",
           "outcomes": {
             "Hull City": 6.0,
             "Manchester United": 1.4,
@@ -488,7 +488,7 @@
         {
           "bookmaker": "betfred_uk",
           "title": "Betfred (UK)",
-          "last_update": "2026-06-19T21:10:20Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Hull City": 7.0,
             "Manchester United": 1.44,
@@ -498,7 +498,7 @@
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Hull City": 6.0,
             "Manchester United": 1.46,
@@ -508,7 +508,7 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:46Z",
+          "last_update": "2026-06-20T00:08:55Z",
           "outcomes": {
             "Hull City": 6.0,
             "Manchester United": 1.46,
@@ -518,17 +518,17 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Hull City": 7.0,
             "Manchester United": 1.43,
-            "Draw": 4.9
+            "Draw": 4.8
           }
         },
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-19T21:09:05Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Hull City": 7.3,
             "Manchester United": 1.46,
@@ -538,7 +538,7 @@
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:07:28Z",
           "outcomes": {
             "Hull City": 6.5,
             "Manchester United": 1.44,
@@ -548,7 +548,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-19T21:09:45Z",
+          "last_update": "2026-06-20T00:07:16Z",
           "outcomes": {
             "Hull City": 7.0,
             "Manchester United": 1.4,
@@ -558,17 +558,17 @@
         {
           "bookmaker": "unibet_fr",
           "title": "Unibet (FR)",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:08:56Z",
           "outcomes": {
             "Hull City": 6.1,
             "Manchester United": 1.35,
-            "Draw": 4.3
+            "Draw": 4.2
           }
         },
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-19T21:10:11Z",
+          "last_update": "2026-06-20T00:07:15Z",
           "outcomes": {
             "Hull City": 6.0,
             "Manchester United": 1.44,
@@ -578,27 +578,27 @@
         {
           "bookmaker": "betclic_fr",
           "title": "Betclic (FR)",
-          "last_update": "2026-06-19T21:10:36Z",
+          "last_update": "2026-06-20T00:04:32Z",
           "outcomes": {
             "Hull City": 6.1,
-            "Manchester United": 1.34,
-            "Draw": 4.3
+            "Manchester United": 1.35,
+            "Draw": 4.25
           }
         },
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-19T21:10:49Z",
+          "last_update": "2026-06-20T00:07:56Z",
           "outcomes": {
             "Hull City": 7.0,
             "Manchester United": 1.4,
-            "Draw": 4.6
+            "Draw": 4.5
           }
         },
         {
           "bookmaker": "sport888",
           "title": "888sport",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Hull City": 6.0,
             "Manchester United": 1.44,
@@ -608,7 +608,7 @@
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-19T21:10:47Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Hull City": 6.5,
             "Manchester United": 1.44,
@@ -618,7 +618,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:09:10Z",
           "outcomes": {
             "Hull City": 6.5,
             "Manchester United": 1.45,
@@ -628,7 +628,7 @@
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-19T21:10:08Z",
+          "last_update": "2026-06-20T00:08:56Z",
           "outcomes": {
             "Hull City": 6.5,
             "Manchester United": 1.44,
@@ -638,7 +638,7 @@
         {
           "bookmaker": "unibet_uk",
           "title": "Unibet (UK)",
-          "last_update": "2026-06-19T21:09:57Z",
+          "last_update": "2026-06-20T00:08:57Z",
           "outcomes": {
             "Hull City": 6.5,
             "Manchester United": 1.4,
@@ -648,7 +648,7 @@
         {
           "bookmaker": "boylesports",
           "title": "BoyleSports",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:08:31Z",
           "outcomes": {
             "Hull City": 6.5,
             "Manchester United": 1.36,
@@ -658,17 +658,17 @@
         {
           "bookmaker": "winamax_de",
           "title": "Winamax (DE)",
-          "last_update": "2026-06-19T21:10:46Z",
+          "last_update": "2026-06-20T00:08:44Z",
           "outcomes": {
             "Hull City": 6.25,
-            "Manchester United": 1.39,
-            "Draw": 4.8
+            "Manchester United": 1.4,
+            "Draw": 4.7
           }
         },
         {
           "bookmaker": "winamax_fr",
           "title": "Winamax (FR)",
-          "last_update": "2026-06-19T21:10:36Z",
+          "last_update": "2026-06-20T00:08:31Z",
           "outcomes": {
             "Hull City": 5.4,
             "Manchester United": 1.32,
@@ -678,17 +678,17 @@
         {
           "bookmaker": "smarkets",
           "title": "Smarkets",
-          "last_update": "2026-06-19T21:10:47Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Hull City": 5.8,
             "Manchester United": 1.34,
-            "Draw": 4.1
+            "Draw": 4.0
           }
         },
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Hull City": 6.1,
             "Manchester United": 1.44,
@@ -698,7 +698,7 @@
         {
           "bookmaker": "livescorebet",
           "title": "LiveScore Bet",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Hull City": 6.1,
             "Manchester United": 1.45,
@@ -708,7 +708,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Hull City": 6.1,
             "Manchester United": 1.44,
@@ -718,7 +718,7 @@
         {
           "bookmaker": "leovegas_se",
           "title": "LeoVegas (SE)",
-          "last_update": "2026-06-19T21:10:08Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Hull City": 6.1,
             "Manchester United": 1.44,
@@ -728,7 +728,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Hull City": 6.1,
             "Manchester United": 1.44,
@@ -738,7 +738,7 @@
         {
           "bookmaker": "virginbet",
           "title": "Virgin Bet",
-          "last_update": "2026-06-19T21:10:09Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Hull City": 6.1,
             "Manchester United": 1.45,
@@ -748,7 +748,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Hull City": 6.1,
             "Manchester United": 1.44,
@@ -758,7 +758,7 @@
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-19T21:10:24Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Hull City": 7.2,
             "Manchester United": 1.45,
@@ -779,7 +779,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.75": 1.92,
             "Under 2.75": 1.88
@@ -788,25 +788,25 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
-            "Over 2.5": 1.77,
-            "Under 2.5": 2.22
+            "Over 2.5": 1.78,
+            "Under 2.5": 2.21
           }
         },
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
-            "Over 2.5": 1.64,
-            "Under 2.5": 2.08
+            "Over 2.5": 1.66,
+            "Under 2.5": 2.05
           }
         },
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-19T21:10:11Z",
+          "last_update": "2026-06-20T00:07:15Z",
           "outcomes": {
             "Over 2.5": 1.65,
             "Under 2.5": 2.2
@@ -815,7 +815,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:09:10Z",
           "outcomes": {
             "Over 2.5": 1.7,
             "Under 2.5": 2.1
@@ -824,7 +824,7 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.63,
             "Under 2.5": 2.18
@@ -833,7 +833,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Over 2.5": 1.63,
             "Under 2.5": 2.18
@@ -842,7 +842,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.63,
             "Under 2.5": 2.18
@@ -851,7 +851,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.63,
             "Under 2.5": 2.18
@@ -871,7 +871,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Hull City (1.25)": 1.85,
             "Manchester United (-1.25)": 1.97
@@ -880,7 +880,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Hull City (1.5)": 1.71,
             "Manchester United (-1.5)": 2.32
@@ -900,7 +900,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Crystal Palace": 3.57,
             "Everton": 1.99,
@@ -910,7 +910,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Crystal Palace": 3.73,
             "Everton": 2.08,
@@ -920,7 +920,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-19T21:10:20Z",
+          "last_update": "2026-06-20T00:04:30Z",
           "outcomes": {
             "Crystal Palace": 3.25,
             "Everton": 1.91,
@@ -930,7 +930,7 @@
         {
           "bookmaker": "betfred_uk",
           "title": "Betfred (UK)",
-          "last_update": "2026-06-19T21:10:20Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Crystal Palace": 3.6,
             "Everton": 2.0,
@@ -940,7 +940,7 @@
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Crystal Palace": 3.65,
             "Everton": 2.1,
@@ -950,7 +950,7 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:46Z",
+          "last_update": "2026-06-20T00:08:55Z",
           "outcomes": {
             "Crystal Palace": 3.65,
             "Everton": 2.1,
@@ -960,7 +960,7 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Crystal Palace": 3.55,
             "Everton": 2.04,
@@ -970,7 +970,7 @@
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-19T21:09:05Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Crystal Palace": 3.68,
             "Everton": 2.05,
@@ -980,7 +980,7 @@
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:07:28Z",
           "outcomes": {
             "Crystal Palace": 3.5,
             "Everton": 2.0,
@@ -990,7 +990,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-19T21:09:45Z",
+          "last_update": "2026-06-20T00:07:16Z",
           "outcomes": {
             "Crystal Palace": 3.5,
             "Everton": 2.0,
@@ -1000,7 +1000,7 @@
         {
           "bookmaker": "unibet_fr",
           "title": "Unibet (FR)",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:08:56Z",
           "outcomes": {
             "Crystal Palace": 3.3,
             "Everton": 1.88,
@@ -1010,7 +1010,7 @@
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-19T21:10:11Z",
+          "last_update": "2026-06-20T00:07:15Z",
           "outcomes": {
             "Crystal Palace": 3.4,
             "Everton": 2.0,
@@ -1020,7 +1020,7 @@
         {
           "bookmaker": "betclic_fr",
           "title": "Betclic (FR)",
-          "last_update": "2026-06-19T21:10:36Z",
+          "last_update": "2026-06-20T00:04:32Z",
           "outcomes": {
             "Crystal Palace": 3.28,
             "Everton": 1.88,
@@ -1030,7 +1030,7 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-19T21:10:49Z",
+          "last_update": "2026-06-20T00:07:56Z",
           "outcomes": {
             "Crystal Palace": 3.5,
             "Everton": 2.0,
@@ -1040,7 +1040,7 @@
         {
           "bookmaker": "sport888",
           "title": "888sport",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Crystal Palace": 3.4,
             "Everton": 2.0,
@@ -1050,7 +1050,7 @@
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-19T21:10:47Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Crystal Palace": 3.5,
             "Everton": 2.0,
@@ -1060,7 +1060,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:09:10Z",
           "outcomes": {
             "Crystal Palace": 3.7,
             "Everton": 1.95,
@@ -1070,7 +1070,7 @@
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-19T21:10:08Z",
+          "last_update": "2026-06-20T00:08:56Z",
           "outcomes": {
             "Crystal Palace": 3.5,
             "Everton": 2.0,
@@ -1080,7 +1080,7 @@
         {
           "bookmaker": "unibet_uk",
           "title": "Unibet (UK)",
-          "last_update": "2026-06-19T21:09:57Z",
+          "last_update": "2026-06-20T00:08:57Z",
           "outcomes": {
             "Crystal Palace": 3.5,
             "Everton": 2.0,
@@ -1090,7 +1090,7 @@
         {
           "bookmaker": "boylesports",
           "title": "BoyleSports",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:08:31Z",
           "outcomes": {
             "Crystal Palace": 3.4,
             "Everton": 1.91,
@@ -1100,7 +1100,7 @@
         {
           "bookmaker": "winamax_de",
           "title": "Winamax (DE)",
-          "last_update": "2026-06-19T21:10:46Z",
+          "last_update": "2026-06-20T00:08:44Z",
           "outcomes": {
             "Crystal Palace": 3.35,
             "Everton": 1.96,
@@ -1110,7 +1110,7 @@
         {
           "bookmaker": "winamax_fr",
           "title": "Winamax (FR)",
-          "last_update": "2026-06-19T21:10:36Z",
+          "last_update": "2026-06-20T00:08:31Z",
           "outcomes": {
             "Crystal Palace": 3.05,
             "Everton": 1.82,
@@ -1120,7 +1120,7 @@
         {
           "bookmaker": "smarkets",
           "title": "Smarkets",
-          "last_update": "2026-06-19T21:10:47Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Crystal Palace": 3.15,
             "Everton": 1.88,
@@ -1130,7 +1130,7 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Crystal Palace": 3.5,
             "Everton": 2.02,
@@ -1140,7 +1140,7 @@
         {
           "bookmaker": "livescorebet",
           "title": "LiveScore Bet",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Crystal Palace": 3.35,
             "Everton": 1.98,
@@ -1150,7 +1150,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Crystal Palace": 3.5,
             "Everton": 2.02,
@@ -1160,7 +1160,7 @@
         {
           "bookmaker": "leovegas_se",
           "title": "LeoVegas (SE)",
-          "last_update": "2026-06-19T21:10:08Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Crystal Palace": 3.5,
             "Everton": 2.02,
@@ -1170,7 +1170,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Crystal Palace": 3.5,
             "Everton": 2.02,
@@ -1180,7 +1180,7 @@
         {
           "bookmaker": "virginbet",
           "title": "Virgin Bet",
-          "last_update": "2026-06-19T21:10:09Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Crystal Palace": 3.35,
             "Everton": 1.98,
@@ -1190,7 +1190,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Crystal Palace": 3.5,
             "Everton": 2.02,
@@ -1200,7 +1200,7 @@
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-19T21:10:24Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Crystal Palace": 3.6,
             "Everton": 2.01,
@@ -1221,7 +1221,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.75": 1.98,
             "Under 2.75": 1.83
@@ -1230,7 +1230,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Over 2.5": 1.84,
             "Under 2.5": 2.11
@@ -1239,7 +1239,7 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Over 2.5": 1.73,
             "Under 2.5": 1.95
@@ -1248,7 +1248,7 @@
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-19T21:10:11Z",
+          "last_update": "2026-06-20T00:07:15Z",
           "outcomes": {
             "Over 2.5": 1.8,
             "Under 2.5": 2.0
@@ -1257,7 +1257,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:09:10Z",
           "outcomes": {
             "Over 2.5": 1.77,
             "Under 2.5": 2.0
@@ -1266,7 +1266,7 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.74,
             "Under 2.5": 2.02
@@ -1275,7 +1275,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Over 2.5": 1.74,
             "Under 2.5": 2.02
@@ -1284,7 +1284,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.74,
             "Under 2.5": 2.02
@@ -1293,7 +1293,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.74,
             "Under 2.5": 2.02
@@ -1313,7 +1313,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Crystal Palace (0.5)": 1.83,
             "Everton (-0.5)": 2.0
@@ -1322,7 +1322,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Crystal Palace (0.0)": 2.72,
             "Everton (0.0)": 1.54
@@ -1342,7 +1342,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Ipswich Town": 2.71,
             "Sunderland": 2.6,
@@ -1352,7 +1352,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Ipswich Town": 2.82,
             "Sunderland": 2.69,
@@ -1362,27 +1362,27 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-19T21:10:20Z",
+          "last_update": "2026-06-20T00:04:30Z",
           "outcomes": {
-            "Ipswich Town": 2.5,
-            "Sunderland": 2.3,
+            "Ipswich Town": 2.4,
+            "Sunderland": 2.4,
             "Draw": 3.0
           }
         },
         {
           "bookmaker": "betfred_uk",
           "title": "Betfred (UK)",
-          "last_update": "2026-06-19T21:10:20Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
-            "Ipswich Town": 2.75,
-            "Sunderland": 2.5,
+            "Ipswich Town": 2.62,
+            "Sunderland": 2.6,
             "Draw": 3.5
           }
         },
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:46Z",
+          "last_update": "2026-06-20T00:08:55Z",
           "outcomes": {
             "Ipswich Town": 2.66,
             "Sunderland": 2.56,
@@ -1392,7 +1392,7 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Ipswich Town": 2.7,
             "Sunderland": 2.6,
@@ -1402,7 +1402,7 @@
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Ipswich Town": 2.66,
             "Sunderland": 2.56,
@@ -1412,7 +1412,7 @@
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-19T21:09:05Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Ipswich Town": 2.78,
             "Sunderland": 2.65,
@@ -1422,7 +1422,7 @@
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:07:28Z",
           "outcomes": {
             "Ipswich Town": 2.62,
             "Sunderland": 2.6,
@@ -1432,17 +1432,17 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-19T21:09:45Z",
+          "last_update": "2026-06-20T00:07:16Z",
           "outcomes": {
-            "Ipswich Town": 2.7,
-            "Sunderland": 2.45,
+            "Ipswich Town": 2.6,
+            "Sunderland": 2.5,
             "Draw": 3.5
           }
         },
         {
           "bookmaker": "unibet_fr",
           "title": "Unibet (FR)",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:08:56Z",
           "outcomes": {
             "Ipswich Town": 2.55,
             "Sunderland": 2.35,
@@ -1452,7 +1452,7 @@
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-19T21:10:11Z",
+          "last_update": "2026-06-20T00:07:15Z",
           "outcomes": {
             "Ipswich Town": 2.62,
             "Sunderland": 2.5,
@@ -1462,7 +1462,7 @@
         {
           "bookmaker": "betclic_fr",
           "title": "Betclic (FR)",
-          "last_update": "2026-06-19T21:10:36Z",
+          "last_update": "2026-06-20T00:04:32Z",
           "outcomes": {
             "Ipswich Town": 2.53,
             "Sunderland": 2.37,
@@ -1472,7 +1472,7 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-19T21:10:49Z",
+          "last_update": "2026-06-20T00:07:56Z",
           "outcomes": {
             "Ipswich Town": 2.62,
             "Sunderland": 2.5,
@@ -1482,7 +1482,7 @@
         {
           "bookmaker": "sport888",
           "title": "888sport",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Ipswich Town": 2.62,
             "Sunderland": 2.5,
@@ -1492,7 +1492,7 @@
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-19T21:10:47Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Ipswich Town": 2.62,
             "Sunderland": 2.5,
@@ -1502,7 +1502,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:09:10Z",
           "outcomes": {
             "Ipswich Town": 2.75,
             "Sunderland": 2.6,
@@ -1512,17 +1512,17 @@
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-19T21:10:08Z",
+          "last_update": "2026-06-20T00:08:56Z",
           "outcomes": {
-            "Ipswich Town": 2.63,
-            "Sunderland": 2.45,
+            "Ipswich Town": 2.6,
+            "Sunderland": 2.5,
             "Draw": 3.4
           }
         },
         {
           "bookmaker": "unibet_uk",
           "title": "Unibet (UK)",
-          "last_update": "2026-06-19T21:09:57Z",
+          "last_update": "2026-06-20T00:08:57Z",
           "outcomes": {
             "Ipswich Town": 2.6,
             "Sunderland": 2.5,
@@ -1532,7 +1532,7 @@
         {
           "bookmaker": "boylesports",
           "title": "BoyleSports",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:08:31Z",
           "outcomes": {
             "Ipswich Town": 2.6,
             "Sunderland": 2.4,
@@ -1542,7 +1542,7 @@
         {
           "bookmaker": "winamax_de",
           "title": "Winamax (DE)",
-          "last_update": "2026-06-19T21:10:46Z",
+          "last_update": "2026-06-20T00:08:44Z",
           "outcomes": {
             "Ipswich Town": 2.6,
             "Sunderland": 2.5,
@@ -1552,7 +1552,7 @@
         {
           "bookmaker": "winamax_fr",
           "title": "Winamax (FR)",
-          "last_update": "2026-06-19T21:10:36Z",
+          "last_update": "2026-06-20T00:08:31Z",
           "outcomes": {
             "Ipswich Town": 2.35,
             "Sunderland": 2.3,
@@ -1562,7 +1562,7 @@
         {
           "bookmaker": "smarkets",
           "title": "Smarkets",
-          "last_update": "2026-06-19T21:10:47Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Ipswich Town": 2.46,
             "Sunderland": 2.36,
@@ -1572,7 +1572,7 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Ipswich Town": 2.65,
             "Sunderland": 2.5,
@@ -1582,7 +1582,7 @@
         {
           "bookmaker": "livescorebet",
           "title": "LiveScore Bet",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Ipswich Town": 2.65,
             "Sunderland": 2.5,
@@ -1592,7 +1592,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Ipswich Town": 2.65,
             "Sunderland": 2.5,
@@ -1602,7 +1602,7 @@
         {
           "bookmaker": "leovegas_se",
           "title": "LeoVegas (SE)",
-          "last_update": "2026-06-19T21:10:08Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Ipswich Town": 2.65,
             "Sunderland": 2.5,
@@ -1612,7 +1612,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Ipswich Town": 2.65,
             "Sunderland": 2.5,
@@ -1622,7 +1622,7 @@
         {
           "bookmaker": "virginbet",
           "title": "Virgin Bet",
-          "last_update": "2026-06-19T21:10:09Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Ipswich Town": 2.65,
             "Sunderland": 2.5,
@@ -1632,7 +1632,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Ipswich Town": 2.65,
             "Sunderland": 2.5,
@@ -1642,7 +1642,7 @@
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-19T21:10:24Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Ipswich Town": 2.73,
             "Sunderland": 2.58,
@@ -1663,7 +1663,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.9,
             "Under 2.5": 1.9
@@ -1672,7 +1672,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Over 2.5": 1.96,
             "Under 2.5": 1.98
@@ -1681,16 +1681,16 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
-            "Over 2.5": 1.8,
-            "Under 2.5": 1.87
+            "Over 2.5": 1.82,
+            "Under 2.5": 1.85
           }
         },
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-19T21:10:11Z",
+          "last_update": "2026-06-20T00:07:15Z",
           "outcomes": {
             "Over 2.5": 1.8,
             "Under 2.5": 1.95
@@ -1699,7 +1699,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:09:10Z",
           "outcomes": {
             "Over 2.5": 1.87,
             "Under 2.5": 1.9
@@ -1708,7 +1708,7 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.8,
             "Under 2.5": 1.94
@@ -1717,7 +1717,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Over 2.5": 1.8,
             "Under 2.5": 1.94
@@ -1726,7 +1726,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.8,
             "Under 2.5": 1.94
@@ -1735,7 +1735,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.8,
             "Under 2.5": 1.94
@@ -1755,7 +1755,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Ipswich Town (0.0)": 1.95,
             "Sunderland (-0.0)": 1.87
@@ -1764,7 +1764,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Ipswich Town (0.0)": 2.01,
             "Sunderland (0.0)": 1.93
@@ -1784,7 +1784,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Leeds United": 3.14,
             "Nottingham Forest": 2.2,
@@ -1794,7 +1794,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Leeds United": 3.27,
             "Nottingham Forest": 2.29,
@@ -1804,7 +1804,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-19T21:10:20Z",
+          "last_update": "2026-06-20T00:04:30Z",
           "outcomes": {
             "Leeds United": 3.0,
             "Nottingham Forest": 2.0,
@@ -1814,7 +1814,7 @@
         {
           "bookmaker": "betfred_uk",
           "title": "Betfred (UK)",
-          "last_update": "2026-06-19T21:10:20Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Leeds United": 3.1,
             "Nottingham Forest": 2.2,
@@ -1824,7 +1824,7 @@
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Leeds United": 3.15,
             "Nottingham Forest": 2.24,
@@ -1834,7 +1834,7 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:46Z",
+          "last_update": "2026-06-20T00:08:55Z",
           "outcomes": {
             "Leeds United": 3.15,
             "Nottingham Forest": 2.24,
@@ -1844,7 +1844,7 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Leeds United": 3.15,
             "Nottingham Forest": 2.23,
@@ -1854,7 +1854,7 @@
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-19T21:09:05Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Leeds United": 3.22,
             "Nottingham Forest": 2.25,
@@ -1864,7 +1864,7 @@
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:07:28Z",
           "outcomes": {
             "Leeds United": 3.25,
             "Nottingham Forest": 2.1,
@@ -1874,7 +1874,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-19T21:09:45Z",
+          "last_update": "2026-06-20T00:07:16Z",
           "outcomes": {
             "Leeds United": 3.1,
             "Nottingham Forest": 2.1,
@@ -1884,7 +1884,7 @@
         {
           "bookmaker": "unibet_fr",
           "title": "Unibet (FR)",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:08:56Z",
           "outcomes": {
             "Leeds United": 2.9,
             "Nottingham Forest": 2.05,
@@ -1894,7 +1894,7 @@
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-19T21:10:11Z",
+          "last_update": "2026-06-20T00:07:15Z",
           "outcomes": {
             "Leeds United": 3.1,
             "Nottingham Forest": 2.2,
@@ -1904,7 +1904,7 @@
         {
           "bookmaker": "betclic_fr",
           "title": "Betclic (FR)",
-          "last_update": "2026-06-19T21:10:36Z",
+          "last_update": "2026-06-20T00:04:32Z",
           "outcomes": {
             "Leeds United": 2.93,
             "Nottingham Forest": 2.05,
@@ -1914,7 +1914,7 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-19T21:10:49Z",
+          "last_update": "2026-06-20T00:07:56Z",
           "outcomes": {
             "Leeds United": 3.1,
             "Nottingham Forest": 2.15,
@@ -1924,7 +1924,7 @@
         {
           "bookmaker": "sport888",
           "title": "888sport",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Leeds United": 3.1,
             "Nottingham Forest": 2.2,
@@ -1934,7 +1934,7 @@
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-19T21:10:47Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Leeds United": 3.25,
             "Nottingham Forest": 2.1,
@@ -1944,7 +1944,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:09:10Z",
           "outcomes": {
             "Leeds United": 3.2,
             "Nottingham Forest": 2.2,
@@ -1954,7 +1954,7 @@
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-19T21:10:08Z",
+          "last_update": "2026-06-20T00:08:56Z",
           "outcomes": {
             "Leeds United": 3.1,
             "Nottingham Forest": 2.1,
@@ -1964,7 +1964,7 @@
         {
           "bookmaker": "unibet_uk",
           "title": "Unibet (UK)",
-          "last_update": "2026-06-19T21:09:57Z",
+          "last_update": "2026-06-20T00:08:57Z",
           "outcomes": {
             "Leeds United": 3.1,
             "Nottingham Forest": 2.15,
@@ -1974,7 +1974,7 @@
         {
           "bookmaker": "boylesports",
           "title": "BoyleSports",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:08:31Z",
           "outcomes": {
             "Leeds United": 3.0,
             "Nottingham Forest": 2.1,
@@ -1984,7 +1984,7 @@
         {
           "bookmaker": "winamax_de",
           "title": "Winamax (DE)",
-          "last_update": "2026-06-19T21:10:46Z",
+          "last_update": "2026-06-20T00:08:44Z",
           "outcomes": {
             "Leeds United": 3.0,
             "Nottingham Forest": 2.15,
@@ -1994,7 +1994,7 @@
         {
           "bookmaker": "winamax_fr",
           "title": "Winamax (FR)",
-          "last_update": "2026-06-19T21:10:36Z",
+          "last_update": "2026-06-20T00:08:31Z",
           "outcomes": {
             "Leeds United": 2.7,
             "Nottingham Forest": 1.98,
@@ -2004,7 +2004,7 @@
         {
           "bookmaker": "smarkets",
           "title": "Smarkets",
-          "last_update": "2026-06-19T21:10:47Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Leeds United": 2.84,
             "Nottingham Forest": 2.04,
@@ -2014,7 +2014,7 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Leeds United": 3.1,
             "Nottingham Forest": 2.2,
@@ -2024,7 +2024,7 @@
         {
           "bookmaker": "livescorebet",
           "title": "LiveScore Bet",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Leeds United": 3.0,
             "Nottingham Forest": 2.16,
@@ -2034,7 +2034,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Leeds United": 3.1,
             "Nottingham Forest": 2.2,
@@ -2044,7 +2044,7 @@
         {
           "bookmaker": "leovegas_se",
           "title": "LeoVegas (SE)",
-          "last_update": "2026-06-19T21:10:08Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Leeds United": 3.1,
             "Nottingham Forest": 2.2,
@@ -2054,7 +2054,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Leeds United": 3.1,
             "Nottingham Forest": 2.2,
@@ -2064,7 +2064,7 @@
         {
           "bookmaker": "virginbet",
           "title": "Virgin Bet",
-          "last_update": "2026-06-19T21:10:09Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Leeds United": 3.0,
             "Nottingham Forest": 2.16,
@@ -2074,7 +2074,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Leeds United": 3.1,
             "Nottingham Forest": 2.2,
@@ -2084,7 +2084,7 @@
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-19T21:10:24Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Leeds United": 3.18,
             "Nottingham Forest": 2.21,
@@ -2105,7 +2105,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.75": 1.95,
             "Under 2.75": 1.85
@@ -2114,7 +2114,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Over 2.5": 1.83,
             "Under 2.5": 2.14
@@ -2123,7 +2123,7 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Over 2.5": 1.7,
             "Under 2.5": 1.99
@@ -2132,7 +2132,7 @@
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-19T21:10:11Z",
+          "last_update": "2026-06-20T00:07:15Z",
           "outcomes": {
             "Over 2.5": 1.8,
             "Under 2.5": 1.95
@@ -2141,7 +2141,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:09:10Z",
           "outcomes": {
             "Over 2.5": 1.75,
             "Under 2.5": 2.05
@@ -2150,7 +2150,7 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.72,
             "Under 2.5": 2.04
@@ -2159,7 +2159,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Over 2.5": 1.72,
             "Under 2.5": 2.04
@@ -2168,7 +2168,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.72,
             "Under 2.5": 2.04
@@ -2177,7 +2177,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.72,
             "Under 2.5": 2.04
@@ -2197,7 +2197,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Leeds United (0.25)": 1.91,
             "Nottingham Forest (-0.25)": 1.91
@@ -2206,7 +2206,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Leeds United (0.0)": 2.38,
             "Nottingham Forest (0.0)": 1.68
@@ -2226,7 +2226,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Brentford": 2.56,
             "Tottenham Hotspur": 2.59,
@@ -2236,7 +2236,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Brentford": 2.68,
             "Tottenham Hotspur": 2.68,
@@ -2246,7 +2246,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-19T21:10:20Z",
+          "last_update": "2026-06-20T00:04:30Z",
           "outcomes": {
             "Brentford": 2.4,
             "Tottenham Hotspur": 2.3,
@@ -2256,7 +2256,7 @@
         {
           "bookmaker": "betfred_uk",
           "title": "Betfred (UK)",
-          "last_update": "2026-06-19T21:10:20Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Brentford": 2.6,
             "Tottenham Hotspur": 2.5,
@@ -2266,7 +2266,7 @@
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Brentford": 2.52,
             "Tottenham Hotspur": 2.54,
@@ -2276,7 +2276,7 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:46Z",
+          "last_update": "2026-06-20T00:08:55Z",
           "outcomes": {
             "Brentford": 2.52,
             "Tottenham Hotspur": 2.54,
@@ -2286,7 +2286,7 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Brentford": 2.6,
             "Tottenham Hotspur": 2.6,
@@ -2296,7 +2296,7 @@
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-19T21:09:05Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Brentford": 2.64,
             "Tottenham Hotspur": 2.64,
@@ -2306,7 +2306,7 @@
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:07:28Z",
           "outcomes": {
             "Brentford": 2.6,
             "Tottenham Hotspur": 2.5,
@@ -2316,7 +2316,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-19T21:09:45Z",
+          "last_update": "2026-06-20T00:07:16Z",
           "outcomes": {
             "Brentford": 2.5,
             "Tottenham Hotspur": 2.5,
@@ -2326,7 +2326,7 @@
         {
           "bookmaker": "unibet_fr",
           "title": "Unibet (FR)",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:08:56Z",
           "outcomes": {
             "Brentford": 2.35,
             "Tottenham Hotspur": 2.4,
@@ -2336,7 +2336,7 @@
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-19T21:10:11Z",
+          "last_update": "2026-06-20T00:07:15Z",
           "outcomes": {
             "Brentford": 2.5,
             "Tottenham Hotspur": 2.5,
@@ -2346,7 +2346,7 @@
         {
           "bookmaker": "betclic_fr",
           "title": "Betclic (FR)",
-          "last_update": "2026-06-19T21:10:36Z",
+          "last_update": "2026-06-20T00:04:32Z",
           "outcomes": {
             "Brentford": 2.33,
             "Tottenham Hotspur": 2.43,
@@ -2356,7 +2356,7 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-19T21:10:49Z",
+          "last_update": "2026-06-20T00:07:56Z",
           "outcomes": {
             "Brentford": 2.5,
             "Tottenham Hotspur": 2.5,
@@ -2366,7 +2366,7 @@
         {
           "bookmaker": "sport888",
           "title": "888sport",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Brentford": 2.5,
             "Tottenham Hotspur": 2.5,
@@ -2376,7 +2376,7 @@
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-19T21:10:47Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Brentford": 2.6,
             "Tottenham Hotspur": 2.5,
@@ -2386,7 +2386,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:09:10Z",
           "outcomes": {
             "Brentford": 2.5,
             "Tottenham Hotspur": 2.6,
@@ -2396,7 +2396,7 @@
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-19T21:10:08Z",
+          "last_update": "2026-06-20T00:08:56Z",
           "outcomes": {
             "Brentford": 2.5,
             "Tottenham Hotspur": 2.5,
@@ -2406,7 +2406,7 @@
         {
           "bookmaker": "unibet_uk",
           "title": "Unibet (UK)",
-          "last_update": "2026-06-19T21:09:57Z",
+          "last_update": "2026-06-20T00:08:57Z",
           "outcomes": {
             "Brentford": 2.5,
             "Tottenham Hotspur": 2.5,
@@ -2416,7 +2416,7 @@
         {
           "bookmaker": "boylesports",
           "title": "BoyleSports",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:08:31Z",
           "outcomes": {
             "Brentford": 2.4,
             "Tottenham Hotspur": 2.4,
@@ -2426,7 +2426,7 @@
         {
           "bookmaker": "winamax_de",
           "title": "Winamax (DE)",
-          "last_update": "2026-06-19T21:10:46Z",
+          "last_update": "2026-06-20T00:08:44Z",
           "outcomes": {
             "Brentford": 2.45,
             "Tottenham Hotspur": 2.5,
@@ -2436,7 +2436,7 @@
         {
           "bookmaker": "winamax_fr",
           "title": "Winamax (FR)",
-          "last_update": "2026-06-19T21:10:36Z",
+          "last_update": "2026-06-20T00:08:31Z",
           "outcomes": {
             "Brentford": 2.25,
             "Tottenham Hotspur": 2.3,
@@ -2446,7 +2446,7 @@
         {
           "bookmaker": "smarkets",
           "title": "Smarkets",
-          "last_update": "2026-06-19T21:10:47Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Brentford": 2.34,
             "Tottenham Hotspur": 2.36,
@@ -2456,7 +2456,7 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Brentford": 2.5,
             "Tottenham Hotspur": 2.55,
@@ -2466,7 +2466,7 @@
         {
           "bookmaker": "livescorebet",
           "title": "LiveScore Bet",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Brentford": 2.5,
             "Tottenham Hotspur": 2.55,
@@ -2476,7 +2476,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Brentford": 2.5,
             "Tottenham Hotspur": 2.55,
@@ -2486,7 +2486,7 @@
         {
           "bookmaker": "leovegas_se",
           "title": "LeoVegas (SE)",
-          "last_update": "2026-06-19T21:10:08Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Brentford": 2.5,
             "Tottenham Hotspur": 2.55,
@@ -2496,7 +2496,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Brentford": 2.5,
             "Tottenham Hotspur": 2.55,
@@ -2506,7 +2506,7 @@
         {
           "bookmaker": "virginbet",
           "title": "Virgin Bet",
-          "last_update": "2026-06-19T21:10:09Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Brentford": 2.5,
             "Tottenham Hotspur": 2.55,
@@ -2516,7 +2516,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Brentford": 2.5,
             "Tottenham Hotspur": 2.55,
@@ -2526,7 +2526,7 @@
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-19T21:10:24Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Brentford": 2.6,
             "Tottenham Hotspur": 2.6,
@@ -2547,7 +2547,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 3.0": 1.92,
             "Under 3.0": 1.88
@@ -2556,7 +2556,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Over 2.5": 1.65,
             "Under 2.5": 2.45
@@ -2565,7 +2565,7 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Over 3.5": 2.28,
             "Under 3.5": 1.54
@@ -2574,7 +2574,7 @@
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-19T21:10:11Z",
+          "last_update": "2026-06-20T00:07:15Z",
           "outcomes": {
             "Over 2.5": 1.57,
             "Under 2.5": 2.38
@@ -2583,7 +2583,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:09:10Z",
           "outcomes": {
             "Over 3.5": 2.35,
             "Under 3.5": 1.55
@@ -2592,7 +2592,7 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.55,
             "Under 2.5": 2.35
@@ -2601,7 +2601,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Over 2.5": 1.55,
             "Under 2.5": 2.35
@@ -2610,7 +2610,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.55,
             "Under 2.5": 2.35
@@ -2619,7 +2619,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.55,
             "Under 2.5": 2.35
@@ -2639,7 +2639,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Brentford (0.0)": 1.9,
             "Tottenham Hotspur (-0.0)": 1.92
@@ -2648,7 +2648,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Brentford (0.0)": 1.97,
             "Tottenham Hotspur (0.0)": 1.97
@@ -2668,7 +2668,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Aston Villa": 2.97,
             "Brighton and Hove Albion": 2.23,
@@ -2678,7 +2678,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Aston Villa": 3.11,
             "Brighton and Hove Albion": 2.31,
@@ -2688,7 +2688,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-19T21:10:20Z",
+          "last_update": "2026-06-20T00:04:30Z",
           "outcomes": {
             "Aston Villa": 2.63,
             "Brighton and Hove Albion": 2.1,
@@ -2698,7 +2698,7 @@
         {
           "bookmaker": "betfred_uk",
           "title": "Betfred (UK)",
-          "last_update": "2026-06-19T21:10:20Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Aston Villa": 2.88,
             "Brighton and Hove Albion": 2.25,
@@ -2708,7 +2708,7 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:46Z",
+          "last_update": "2026-06-20T00:08:55Z",
           "outcomes": {
             "Aston Villa": 2.94,
             "Brighton and Hove Albion": 2.28,
@@ -2718,7 +2718,7 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Aston Villa": 2.95,
             "Brighton and Hove Albion": 2.26,
@@ -2728,7 +2728,7 @@
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Aston Villa": 2.94,
             "Brighton and Hove Albion": 2.28,
@@ -2738,7 +2738,7 @@
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-19T21:09:05Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Aston Villa": 3.06,
             "Brighton and Hove Albion": 2.27,
@@ -2748,7 +2748,7 @@
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:07:28Z",
           "outcomes": {
             "Aston Villa": 2.8,
             "Brighton and Hove Albion": 2.37,
@@ -2758,7 +2758,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-19T21:09:45Z",
+          "last_update": "2026-06-20T00:07:16Z",
           "outcomes": {
             "Aston Villa": 2.88,
             "Brighton and Hove Albion": 2.2,
@@ -2768,7 +2768,7 @@
         {
           "bookmaker": "unibet_fr",
           "title": "Unibet (FR)",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:08:56Z",
           "outcomes": {
             "Aston Villa": 2.75,
             "Brighton and Hove Albion": 2.1,
@@ -2778,7 +2778,7 @@
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-19T21:10:11Z",
+          "last_update": "2026-06-20T00:07:15Z",
           "outcomes": {
             "Aston Villa": 2.88,
             "Brighton and Hove Albion": 2.25,
@@ -2788,7 +2788,7 @@
         {
           "bookmaker": "betclic_fr",
           "title": "Betclic (FR)",
-          "last_update": "2026-06-19T21:10:36Z",
+          "last_update": "2026-06-20T00:04:32Z",
           "outcomes": {
             "Aston Villa": 2.75,
             "Brighton and Hove Albion": 2.07,
@@ -2798,7 +2798,7 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-19T21:10:49Z",
+          "last_update": "2026-06-20T00:07:56Z",
           "outcomes": {
             "Aston Villa": 2.88,
             "Brighton and Hove Albion": 2.2,
@@ -2808,7 +2808,7 @@
         {
           "bookmaker": "sport888",
           "title": "888sport",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Aston Villa": 2.88,
             "Brighton and Hove Albion": 2.25,
@@ -2818,7 +2818,7 @@
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-19T21:10:47Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Aston Villa": 2.75,
             "Brighton and Hove Albion": 2.3,
@@ -2828,7 +2828,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:09:10Z",
           "outcomes": {
             "Aston Villa": 3.0,
             "Brighton and Hove Albion": 2.2,
@@ -2838,7 +2838,7 @@
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-19T21:10:08Z",
+          "last_update": "2026-06-20T00:08:56Z",
           "outcomes": {
             "Aston Villa": 2.8,
             "Brighton and Hove Albion": 2.2,
@@ -2848,7 +2848,7 @@
         {
           "bookmaker": "unibet_uk",
           "title": "Unibet (UK)",
-          "last_update": "2026-06-19T21:09:57Z",
+          "last_update": "2026-06-20T00:08:57Z",
           "outcomes": {
             "Aston Villa": 2.88,
             "Brighton and Hove Albion": 2.2,
@@ -2858,7 +2858,7 @@
         {
           "bookmaker": "boylesports",
           "title": "BoyleSports",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:08:31Z",
           "outcomes": {
             "Aston Villa": 2.88,
             "Brighton and Hove Albion": 2.1,
@@ -2868,7 +2868,7 @@
         {
           "bookmaker": "winamax_de",
           "title": "Winamax (DE)",
-          "last_update": "2026-06-19T21:10:46Z",
+          "last_update": "2026-06-20T00:08:44Z",
           "outcomes": {
             "Aston Villa": 2.8,
             "Brighton and Hove Albion": 2.15,
@@ -2878,7 +2878,7 @@
         {
           "bookmaker": "winamax_fr",
           "title": "Winamax (FR)",
-          "last_update": "2026-06-19T21:10:36Z",
+          "last_update": "2026-06-20T00:08:31Z",
           "outcomes": {
             "Aston Villa": 2.55,
             "Brighton and Hove Albion": 2.0,
@@ -2888,7 +2888,7 @@
         {
           "bookmaker": "smarkets",
           "title": "Smarkets",
-          "last_update": "2026-06-19T21:10:47Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Aston Villa": 2.68,
             "Brighton and Hove Albion": 2.06,
@@ -2898,7 +2898,7 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Aston Villa": 2.85,
             "Brighton and Hove Albion": 2.23,
@@ -2908,7 +2908,7 @@
         {
           "bookmaker": "livescorebet",
           "title": "LiveScore Bet",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Aston Villa": 2.85,
             "Brighton and Hove Albion": 2.23,
@@ -2918,7 +2918,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Aston Villa": 2.85,
             "Brighton and Hove Albion": 2.23,
@@ -2928,7 +2928,7 @@
         {
           "bookmaker": "leovegas_se",
           "title": "LeoVegas (SE)",
-          "last_update": "2026-06-19T21:10:08Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Aston Villa": 2.85,
             "Brighton and Hove Albion": 2.23,
@@ -2938,7 +2938,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Aston Villa": 2.85,
             "Brighton and Hove Albion": 2.23,
@@ -2948,7 +2948,7 @@
         {
           "bookmaker": "virginbet",
           "title": "Virgin Bet",
-          "last_update": "2026-06-19T21:10:09Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Aston Villa": 2.85,
             "Brighton and Hove Albion": 2.23,
@@ -2958,7 +2958,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Aston Villa": 2.85,
             "Brighton and Hove Albion": 2.23,
@@ -2968,7 +2968,7 @@
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-19T21:10:24Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Aston Villa": 2.97,
             "Brighton and Hove Albion": 2.25,
@@ -2989,7 +2989,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 3.0": 1.9,
             "Under 3.0": 1.9
@@ -2998,7 +2998,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Over 2.5": 1.64,
             "Under 2.5": 2.46
@@ -3007,7 +3007,7 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Over 3.5": 2.26,
             "Under 3.5": 1.55
@@ -3016,7 +3016,7 @@
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-19T21:10:11Z",
+          "last_update": "2026-06-20T00:07:15Z",
           "outcomes": {
             "Over 2.5": 1.57,
             "Under 2.5": 2.38
@@ -3025,7 +3025,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:09:10Z",
           "outcomes": {
             "Over 3.5": 2.3,
             "Under 3.5": 1.55
@@ -3034,7 +3034,7 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.54,
             "Under 2.5": 2.38
@@ -3043,7 +3043,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Over 2.5": 1.54,
             "Under 2.5": 2.38
@@ -3052,7 +3052,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.54,
             "Under 2.5": 2.38
@@ -3061,7 +3061,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.54,
             "Under 2.5": 2.38
@@ -3081,7 +3081,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Aston Villa (0.25)": 1.87,
             "Brighton and Hove Albion (-0.25)": 1.95
@@ -3090,7 +3090,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Aston Villa (0.0)": 2.3,
             "Brighton and Hove Albion (0.0)": 1.72
@@ -3110,7 +3110,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Bournemouth": 5.8,
             "Manchester City": 1.43,
@@ -3120,7 +3120,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Bournemouth": 6.5,
             "Manchester City": 1.48,
@@ -3130,7 +3130,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-19T21:10:20Z",
+          "last_update": "2026-06-20T00:04:30Z",
           "outcomes": {
             "Bournemouth": 5.5,
             "Manchester City": 1.33,
@@ -3140,7 +3140,7 @@
         {
           "bookmaker": "betfred_uk",
           "title": "Betfred (UK)",
-          "last_update": "2026-06-19T21:10:20Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Bournemouth": 6.5,
             "Manchester City": 1.44,
@@ -3150,17 +3150,17 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
-            "Bournemouth": 6.2,
-            "Manchester City": 1.42,
-            "Draw": 5.4
+            "Bournemouth": 5.8,
+            "Manchester City": 1.47,
+            "Draw": 5.2
           }
         },
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Bournemouth": 1.57,
             "Manchester City": 1.41,
@@ -3170,7 +3170,7 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:46Z",
+          "last_update": "2026-06-20T00:08:55Z",
           "outcomes": {
             "Bournemouth": 1.57,
             "Manchester City": 1.41,
@@ -3180,7 +3180,7 @@
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-19T21:09:05Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Bournemouth": 6.4,
             "Manchester City": 1.46,
@@ -3190,7 +3190,7 @@
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:07:28Z",
           "outcomes": {
             "Bournemouth": 6.5,
             "Manchester City": 1.4,
@@ -3200,7 +3200,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-19T21:09:45Z",
+          "last_update": "2026-06-20T00:07:16Z",
           "outcomes": {
             "Bournemouth": 6.5,
             "Manchester City": 1.36,
@@ -3210,17 +3210,17 @@
         {
           "bookmaker": "unibet_fr",
           "title": "Unibet (FR)",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:08:56Z",
           "outcomes": {
-            "Bournemouth": 5.5,
-            "Manchester City": 1.34,
-            "Draw": 4.7
+            "Bournemouth": 5.1,
+            "Manchester City": 1.38,
+            "Draw": 4.5
           }
         },
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-19T21:10:11Z",
+          "last_update": "2026-06-20T00:07:15Z",
           "outcomes": {
             "Bournemouth": 6.5,
             "Manchester City": 1.4,
@@ -3230,17 +3230,17 @@
         {
           "bookmaker": "betclic_fr",
           "title": "Betclic (FR)",
-          "last_update": "2026-06-19T21:10:36Z",
+          "last_update": "2026-06-20T00:04:32Z",
           "outcomes": {
-            "Bournemouth": 5.5,
-            "Manchester City": 1.34,
-            "Draw": 4.7
+            "Bournemouth": 5.1,
+            "Manchester City": 1.38,
+            "Draw": 4.55
           }
         },
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-19T21:10:49Z",
+          "last_update": "2026-06-20T00:07:56Z",
           "outcomes": {
             "Bournemouth": 6.0,
             "Manchester City": 1.4,
@@ -3250,7 +3250,7 @@
         {
           "bookmaker": "sport888",
           "title": "888sport",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Bournemouth": 6.5,
             "Manchester City": 1.4,
@@ -3260,7 +3260,7 @@
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-19T21:10:47Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Bournemouth": 6.5,
             "Manchester City": 1.4,
@@ -3270,7 +3270,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:09:10Z",
           "outcomes": {
             "Bournemouth": 5.5,
             "Manchester City": 1.45,
@@ -3280,7 +3280,7 @@
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-19T21:10:08Z",
+          "last_update": "2026-06-20T00:08:56Z",
           "outcomes": {
             "Bournemouth": 6.25,
             "Manchester City": 1.4,
@@ -3290,17 +3290,17 @@
         {
           "bookmaker": "unibet_uk",
           "title": "Unibet (UK)",
-          "last_update": "2026-06-19T21:09:57Z",
+          "last_update": "2026-06-20T00:08:57Z",
           "outcomes": {
-            "Bournemouth": 6.0,
-            "Manchester City": 1.4,
+            "Bournemouth": 5.5,
+            "Manchester City": 1.45,
             "Draw": 5.0
           }
         },
         {
           "bookmaker": "boylesports",
           "title": "BoyleSports",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:08:31Z",
           "outcomes": {
             "Bournemouth": 5.5,
             "Manchester City": 1.36,
@@ -3310,37 +3310,37 @@
         {
           "bookmaker": "winamax_de",
           "title": "Winamax (DE)",
-          "last_update": "2026-06-19T21:10:46Z",
+          "last_update": "2026-06-20T00:08:44Z",
           "outcomes": {
-            "Bournemouth": 5.7,
-            "Manchester City": 1.39,
-            "Draw": 5.3
+            "Bournemouth": 5.3,
+            "Manchester City": 1.43,
+            "Draw": 5.1
           }
         },
         {
           "bookmaker": "winamax_fr",
           "title": "Winamax (FR)",
-          "last_update": "2026-06-19T21:10:36Z",
+          "last_update": "2026-06-20T00:08:31Z",
           "outcomes": {
-            "Bournemouth": 4.9,
-            "Manchester City": 1.32,
-            "Draw": 4.5
+            "Bournemouth": 4.6,
+            "Manchester City": 1.35,
+            "Draw": 4.4
           }
         },
         {
           "bookmaker": "smarkets",
           "title": "Smarkets",
-          "last_update": "2026-06-19T21:10:47Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
-            "Bournemouth": 5.2,
-            "Manchester City": 1.33,
-            "Draw": 4.5
+            "Bournemouth": 4.9,
+            "Manchester City": 1.37,
+            "Draw": 4.3
           }
         },
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Bournemouth": 6.25,
             "Manchester City": 1.4,
@@ -3350,7 +3350,7 @@
         {
           "bookmaker": "livescorebet",
           "title": "LiveScore Bet",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Bournemouth": 6.25,
             "Manchester City": 1.4,
@@ -3360,7 +3360,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Bournemouth": 6.25,
             "Manchester City": 1.4,
@@ -3370,7 +3370,7 @@
         {
           "bookmaker": "leovegas_se",
           "title": "LeoVegas (SE)",
-          "last_update": "2026-06-19T21:10:08Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Bournemouth": 6.25,
             "Manchester City": 1.4,
@@ -3380,7 +3380,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Bournemouth": 6.25,
             "Manchester City": 1.4,
@@ -3390,7 +3390,7 @@
         {
           "bookmaker": "virginbet",
           "title": "Virgin Bet",
-          "last_update": "2026-06-19T21:10:09Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Bournemouth": 6.25,
             "Manchester City": 1.4,
@@ -3400,7 +3400,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Bournemouth": 6.25,
             "Manchester City": 1.4,
@@ -3410,7 +3410,7 @@
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-19T21:10:24Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Bournemouth": 6.3,
             "Manchester City": 1.44,
@@ -3431,7 +3431,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 3.5": 1.95,
             "Under 3.5": 1.85
@@ -3440,7 +3440,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Over 3.5": 2.01,
             "Under 3.5": 1.93
@@ -3449,16 +3449,16 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
-            "Over 3.5": 1.87,
-            "Under 3.5": 1.8
+            "Over 3.5": 1.9,
+            "Under 3.5": 1.78
           }
         },
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-19T21:10:11Z",
+          "last_update": "2026-06-20T00:07:15Z",
           "outcomes": {
             "Over 2.5": 1.36,
             "Under 2.5": 2.9
@@ -3467,7 +3467,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:09:10Z",
           "outcomes": {
             "Over 3.5": 1.87,
             "Under 3.5": 1.85
@@ -3476,7 +3476,7 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 3.5": 1.92,
             "Under 3.5": 1.82
@@ -3485,7 +3485,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Over 3.5": 1.92,
             "Under 3.5": 1.82
@@ -3494,7 +3494,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 3.5": 1.92,
             "Under 3.5": 1.82
@@ -3503,7 +3503,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 3.5": 1.92,
             "Under 3.5": 1.82
@@ -3523,7 +3523,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Bournemouth (1.25)": 1.91,
             "Manchester City (-1.25)": 1.91
@@ -3532,7 +3532,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Bournemouth (1.5)": 1.79,
             "Manchester City (-1.5)": 2.19
@@ -3552,7 +3552,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Liverpool": 2.18,
             "Newcastle United": 2.94,
@@ -3562,7 +3562,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Liverpool": 2.28,
             "Newcastle United": 3.05,
@@ -3572,7 +3572,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-19T21:10:20Z",
+          "last_update": "2026-06-20T00:04:30Z",
           "outcomes": {
             "Liverpool": 2.1,
             "Newcastle United": 2.6,
@@ -3582,7 +3582,7 @@
         {
           "bookmaker": "betfred_uk",
           "title": "Betfred (UK)",
-          "last_update": "2026-06-19T21:10:20Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Liverpool": 2.25,
             "Newcastle United": 2.75,
@@ -3592,9 +3592,9 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
-            "Liverpool": 2.24,
+            "Liverpool": 2.22,
             "Newcastle United": 2.9,
             "Draw": 3.9
           }
@@ -3602,7 +3602,7 @@
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Liverpool": 1.32,
             "Newcastle United": 1.32,
@@ -3612,7 +3612,7 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:46Z",
+          "last_update": "2026-06-20T00:08:55Z",
           "outcomes": {
             "Liverpool": 1.32,
             "Newcastle United": 1.32,
@@ -3622,7 +3622,7 @@
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-19T21:09:05Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Liverpool": 2.24,
             "Newcastle United": 3.0,
@@ -3632,7 +3632,7 @@
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:07:28Z",
           "outcomes": {
             "Liverpool": 2.15,
             "Newcastle United": 2.9,
@@ -3642,7 +3642,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-19T21:09:45Z",
+          "last_update": "2026-06-20T00:07:16Z",
           "outcomes": {
             "Liverpool": 2.2,
             "Newcastle United": 2.75,
@@ -3652,17 +3652,17 @@
         {
           "bookmaker": "unibet_fr",
           "title": "Unibet (FR)",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:08:56Z",
           "outcomes": {
             "Liverpool": 2.05,
-            "Newcastle United": 2.65,
+            "Newcastle United": 2.7,
             "Draw": 3.6
           }
         },
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-19T21:10:11Z",
+          "last_update": "2026-06-20T00:07:15Z",
           "outcomes": {
             "Liverpool": 2.2,
             "Newcastle United": 2.75,
@@ -3672,27 +3672,27 @@
         {
           "bookmaker": "betclic_fr",
           "title": "Betclic (FR)",
-          "last_update": "2026-06-19T21:10:36Z",
+          "last_update": "2026-06-20T00:04:32Z",
           "outcomes": {
-            "Liverpool": 2.05,
-            "Newcastle United": 2.68,
+            "Liverpool": 2.03,
+            "Newcastle United": 2.7,
             "Draw": 3.58
           }
         },
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-19T21:10:49Z",
+          "last_update": "2026-06-20T00:07:56Z",
           "outcomes": {
             "Liverpool": 2.15,
-            "Newcastle United": 2.8,
-            "Draw": 3.9
+            "Newcastle United": 2.88,
+            "Draw": 3.8
           }
         },
         {
           "bookmaker": "sport888",
           "title": "888sport",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Liverpool": 2.2,
             "Newcastle United": 2.75,
@@ -3702,7 +3702,7 @@
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-19T21:10:47Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Liverpool": 2.15,
             "Newcastle United": 2.9,
@@ -3712,7 +3712,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:09:10Z",
           "outcomes": {
             "Liverpool": 2.15,
             "Newcastle United": 3.0,
@@ -3722,7 +3722,7 @@
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-19T21:10:08Z",
+          "last_update": "2026-06-20T00:08:56Z",
           "outcomes": {
             "Liverpool": 2.2,
             "Newcastle United": 2.75,
@@ -3732,17 +3732,17 @@
         {
           "bookmaker": "unibet_uk",
           "title": "Unibet (UK)",
-          "last_update": "2026-06-19T21:09:57Z",
+          "last_update": "2026-06-20T00:08:57Z",
           "outcomes": {
-            "Liverpool": 2.2,
+            "Liverpool": 2.15,
             "Newcastle United": 2.8,
-            "Draw": 3.75
+            "Draw": 3.8
           }
         },
         {
           "bookmaker": "boylesports",
           "title": "BoyleSports",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:08:31Z",
           "outcomes": {
             "Liverpool": 2.1,
             "Newcastle United": 2.75,
@@ -3752,37 +3752,37 @@
         {
           "bookmaker": "winamax_de",
           "title": "Winamax (DE)",
-          "last_update": "2026-06-19T21:10:46Z",
+          "last_update": "2026-06-20T00:08:44Z",
           "outcomes": {
             "Liverpool": 2.15,
             "Newcastle United": 2.75,
-            "Draw": 3.85
+            "Draw": 3.9
           }
         },
         {
           "bookmaker": "winamax_fr",
           "title": "Winamax (FR)",
-          "last_update": "2026-06-19T21:10:36Z",
+          "last_update": "2026-06-20T00:08:31Z",
           "outcomes": {
-            "Liverpool": 2.0,
+            "Liverpool": 1.98,
             "Newcastle United": 2.5,
-            "Draw": 3.45
+            "Draw": 3.5
           }
         },
         {
           "bookmaker": "smarkets",
           "title": "Smarkets",
-          "last_update": "2026-06-19T21:10:47Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
-            "Liverpool": 2.04,
-            "Newcastle United": 2.6,
+            "Liverpool": 2.02,
+            "Newcastle United": 2.62,
             "Draw": 3.45
           }
         },
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Liverpool": 2.25,
             "Newcastle United": 2.75,
@@ -3792,7 +3792,7 @@
         {
           "bookmaker": "livescorebet",
           "title": "LiveScore Bet",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Liverpool": 2.2,
             "Newcastle United": 2.65,
@@ -3802,7 +3802,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Liverpool": 2.25,
             "Newcastle United": 2.75,
@@ -3812,7 +3812,7 @@
         {
           "bookmaker": "leovegas_se",
           "title": "LeoVegas (SE)",
-          "last_update": "2026-06-19T21:10:08Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Liverpool": 2.25,
             "Newcastle United": 2.75,
@@ -3822,7 +3822,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Liverpool": 2.25,
             "Newcastle United": 2.75,
@@ -3832,7 +3832,7 @@
         {
           "bookmaker": "virginbet",
           "title": "Virgin Bet",
-          "last_update": "2026-06-19T21:10:09Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Liverpool": 2.2,
             "Newcastle United": 2.65,
@@ -3842,7 +3842,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Liverpool": 2.25,
             "Newcastle United": 2.75,
@@ -3852,7 +3852,7 @@
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-19T21:10:24Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Liverpool": 2.25,
             "Newcastle United": 2.92,
@@ -3873,7 +3873,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 3.25": 1.9,
             "Under 3.25": 1.9
@@ -3882,7 +3882,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Over 3.5": 2.19,
             "Under 3.5": 1.79
@@ -3891,16 +3891,16 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
-            "Over 3.5": 1.99,
-            "Under 3.5": 1.7
+            "Over 3.5": 2.01,
+            "Under 3.5": 1.68
           }
         },
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-19T21:10:11Z",
+          "last_update": "2026-06-20T00:07:15Z",
           "outcomes": {
             "Over 2.5": 1.4,
             "Under 2.5": 2.88
@@ -3909,7 +3909,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:09:10Z",
           "outcomes": {
             "Over 3.5": 2.05,
             "Under 3.5": 1.7
@@ -3918,7 +3918,7 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 3.5": 2.02,
             "Under 3.5": 1.75
@@ -3927,7 +3927,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Over 3.5": 2.02,
             "Under 3.5": 1.75
@@ -3936,7 +3936,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 3.5": 2.02,
             "Under 3.5": 1.75
@@ -3945,7 +3945,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 3.5": 2.02,
             "Under 3.5": 1.75
@@ -3965,7 +3965,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Liverpool (-0.25)": 1.93,
             "Newcastle United (0.25)": 1.89
@@ -3974,7 +3974,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Liverpool (0.0)": 1.73,
             "Newcastle United (0.0)": 2.29
@@ -3994,7 +3994,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Chelsea": 2.13,
             "Fulham": 3.17,
@@ -4004,17 +4004,17 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
-            "Chelsea": 2.19,
-            "Fulham": 3.35,
-            "Draw": 3.82
+            "Chelsea": 2.21,
+            "Fulham": 3.33,
+            "Draw": 3.81
           }
         },
         {
           "bookmaker": "betfred_uk",
           "title": "Betfred (UK)",
-          "last_update": "2026-06-19T21:10:20Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Chelsea": 2.1,
             "Fulham": 3.2,
@@ -4024,17 +4024,17 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
-            "Chelsea": 2.1,
-            "Fulham": 3.3,
+            "Chelsea": 2.14,
+            "Fulham": 3.2,
             "Draw": 3.7
           }
         },
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-19T21:09:05Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Chelsea": 2.16,
             "Fulham": 3.3,
@@ -4044,7 +4044,7 @@
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:07:28Z",
           "outcomes": {
             "Chelsea": 2.0,
             "Fulham": 3.5,
@@ -4054,7 +4054,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-19T21:09:45Z",
+          "last_update": "2026-06-20T00:07:16Z",
           "outcomes": {
             "Chelsea": 2.1,
             "Fulham": 3.2,
@@ -4064,17 +4064,17 @@
         {
           "bookmaker": "unibet_fr",
           "title": "Unibet (FR)",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:08:56Z",
           "outcomes": {
-            "Chelsea": 1.94,
-            "Fulham": 3.0,
+            "Chelsea": 1.97,
+            "Fulham": 2.95,
             "Draw": 3.4
           }
         },
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-19T21:10:11Z",
+          "last_update": "2026-06-20T00:07:15Z",
           "outcomes": {
             "Chelsea": 2.0,
             "Fulham": 3.25,
@@ -4084,27 +4084,27 @@
         {
           "bookmaker": "betclic_fr",
           "title": "Betclic (FR)",
-          "last_update": "2026-06-19T21:10:36Z",
+          "last_update": "2026-06-20T00:04:32Z",
           "outcomes": {
-            "Chelsea": 1.93,
-            "Fulham": 3.03,
+            "Chelsea": 1.97,
+            "Fulham": 2.97,
             "Draw": 3.4
           }
         },
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-19T21:10:49Z",
+          "last_update": "2026-06-20T00:07:56Z",
           "outcomes": {
-            "Chelsea": 2.05,
-            "Fulham": 3.12,
-            "Draw": 3.7
+            "Chelsea": 2.1,
+            "Fulham": 3.1,
+            "Draw": 3.6
           }
         },
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Chelsea": 1.34,
             "Fulham": 1.34,
@@ -4114,7 +4114,7 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:46Z",
+          "last_update": "2026-06-20T00:08:55Z",
           "outcomes": {
             "Chelsea": 1.34,
             "Fulham": 1.34,
@@ -4124,7 +4124,7 @@
         {
           "bookmaker": "sport888",
           "title": "888sport",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Chelsea": 2.0,
             "Fulham": 3.25,
@@ -4134,7 +4134,7 @@
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-19T21:10:47Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Chelsea": 2.0,
             "Fulham": 3.4,
@@ -4144,17 +4144,17 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:09:10Z",
           "outcomes": {
             "Chelsea": 2.1,
-            "Fulham": 3.2,
-            "Draw": 3.7
+            "Fulham": 3.3,
+            "Draw": 3.6
           }
         },
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-19T21:10:08Z",
+          "last_update": "2026-06-20T00:08:56Z",
           "outcomes": {
             "Chelsea": 2.05,
             "Fulham": 3.1,
@@ -4164,17 +4164,17 @@
         {
           "bookmaker": "unibet_uk",
           "title": "Unibet (UK)",
-          "last_update": "2026-06-19T21:09:57Z",
+          "last_update": "2026-06-20T00:08:57Z",
           "outcomes": {
-            "Chelsea": 2.05,
-            "Fulham": 3.2,
+            "Chelsea": 2.08,
+            "Fulham": 3.1,
             "Draw": 3.6
           }
         },
         {
           "bookmaker": "boylesports",
           "title": "BoyleSports",
-          "last_update": "2026-06-19T21:10:33Z",
+          "last_update": "2026-06-20T00:08:31Z",
           "outcomes": {
             "Chelsea": 2.05,
             "Fulham": 3.0,
@@ -4184,37 +4184,37 @@
         {
           "bookmaker": "winamax_de",
           "title": "Winamax (DE)",
-          "last_update": "2026-06-19T21:10:46Z",
+          "last_update": "2026-06-20T00:08:44Z",
           "outcomes": {
-            "Chelsea": 2.0,
-            "Fulham": 3.1,
-            "Draw": 3.7
+            "Chelsea": 2.05,
+            "Fulham": 3.05,
+            "Draw": 3.65
           }
         },
         {
           "bookmaker": "winamax_fr",
           "title": "Winamax (FR)",
-          "last_update": "2026-06-19T21:10:36Z",
+          "last_update": "2026-06-20T00:08:31Z",
           "outcomes": {
-            "Chelsea": 1.88,
-            "Fulham": 2.8,
+            "Chelsea": 1.92,
+            "Fulham": 2.75,
             "Draw": 3.3
           }
         },
         {
           "bookmaker": "smarkets",
           "title": "Smarkets",
-          "last_update": "2026-06-19T21:10:47Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
-            "Chelsea": 1.94,
-            "Fulham": 2.94,
+            "Chelsea": 1.97,
+            "Fulham": 2.88,
             "Draw": 3.25
           }
         },
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Chelsea": 2.04,
             "Fulham": 3.25,
@@ -4224,7 +4224,7 @@
         {
           "bookmaker": "livescorebet",
           "title": "LiveScore Bet",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Chelsea": 2.04,
             "Fulham": 3.25,
@@ -4234,7 +4234,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Chelsea": 2.04,
             "Fulham": 3.25,
@@ -4244,7 +4244,7 @@
         {
           "bookmaker": "leovegas_se",
           "title": "LeoVegas (SE)",
-          "last_update": "2026-06-19T21:10:08Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Chelsea": 2.04,
             "Fulham": 3.25,
@@ -4254,7 +4254,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Chelsea": 2.04,
             "Fulham": 3.25,
@@ -4264,7 +4264,7 @@
         {
           "bookmaker": "virginbet",
           "title": "Virgin Bet",
-          "last_update": "2026-06-19T21:10:09Z",
+          "last_update": "2026-06-20T00:08:18Z",
           "outcomes": {
             "Chelsea": 2.04,
             "Fulham": 3.25,
@@ -4274,7 +4274,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Chelsea": 2.04,
             "Fulham": 3.25,
@@ -4284,7 +4284,7 @@
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-19T21:10:24Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Chelsea": 2.11,
             "Fulham": 3.25,
@@ -4305,7 +4305,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 3.0": 2.01,
             "Under 3.0": 1.81
@@ -4314,7 +4314,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Over 2.5": 1.69,
             "Under 2.5": 2.36
@@ -4323,7 +4323,7 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-19T21:10:21Z",
+          "last_update": "2026-06-20T00:09:09Z",
           "outcomes": {
             "Over 2.5": 1.58,
             "Under 2.5": 2.19
@@ -4332,7 +4332,7 @@
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-19T21:10:11Z",
+          "last_update": "2026-06-20T00:07:15Z",
           "outcomes": {
             "Over 2.5": 1.62,
             "Under 2.5": 2.25
@@ -4341,7 +4341,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:09:10Z",
           "outcomes": {
             "Over 2.5": 1.62,
             "Under 2.5": 2.25
@@ -4350,7 +4350,7 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-19T21:09:54Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.57,
             "Under 2.5": 2.28
@@ -4359,7 +4359,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-19T21:10:07Z",
+          "last_update": "2026-06-20T00:08:43Z",
           "outcomes": {
             "Over 2.5": 1.57,
             "Under 2.5": 2.28
@@ -4368,7 +4368,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.57,
             "Under 2.5": 2.28
@@ -4377,7 +4377,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-19T21:09:55Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Over 2.5": 1.57,
             "Under 2.5": 2.28
@@ -4397,7 +4397,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:45Z",
+          "last_update": "2026-06-20T00:09:08Z",
           "outcomes": {
             "Chelsea (-0.25)": 1.86,
             "Fulham (0.25)": 1.95
@@ -4406,7 +4406,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-19T21:09:58Z",
+          "last_update": "2026-06-20T00:08:30Z",
           "outcomes": {
             "Chelsea (0.0)": 1.64,
             "Fulham (0.0)": 2.47
@@ -4426,7 +4426,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-19T21:09:22Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "AC Milan": 1.7,
             "Torino": 4.4,
@@ -4436,7 +4436,7 @@
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-19T21:10:10Z",
+          "last_update": "2026-06-20T00:08:21Z",
           "outcomes": {
             "AC Milan": 1.73,
             "Torino": 4.5,
@@ -4446,7 +4446,7 @@
         {
           "bookmaker": "betfred_uk",
           "title": "Betfred (UK)",
-          "last_update": "2026-06-19T21:08:53Z",
+          "last_update": "2026-06-20T00:09:11Z",
           "outcomes": {
             "AC Milan": 1.8,
             "Torino": 4.5,
@@ -4456,7 +4456,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-19T21:10:10Z",
+          "last_update": "2026-06-20T00:04:58Z",
           "outcomes": {
             "AC Milan": 1.67,
             "Torino": 4.0,
@@ -4466,7 +4466,7 @@
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:35Z",
+          "last_update": "2026-06-20T00:09:11Z",
           "outcomes": {
             "AC Milan": 1.79,
             "Torino": 1.49,
@@ -4476,7 +4476,7 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:51Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "AC Milan": 1.79,
             "Torino": 1.49,
@@ -4486,7 +4486,7 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-19T21:09:49Z",
+          "last_update": "2026-06-20T00:07:47Z",
           "outcomes": {
             "AC Milan": 1.75,
             "Torino": 4.4,
@@ -4496,7 +4496,7 @@
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-19T21:09:57Z",
+          "last_update": "2026-06-20T00:08:45Z",
           "outcomes": {
             "AC Milan": 1.8,
             "Torino": 4.55,
@@ -4506,7 +4506,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "AC Milan": 1.77,
             "Torino": 4.38,
@@ -4527,7 +4527,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Over 2.5": 1.9,
             "Under 2.5": 1.9
@@ -4547,7 +4547,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "AC Milan (-0.75)": 2.02,
             "Torino (0.75)": 1.81
@@ -4567,7 +4567,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-19T21:09:22Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "AS Roma": 1.5,
             "Fiorentina": 6.0,
@@ -4577,7 +4577,7 @@
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-19T21:10:10Z",
+          "last_update": "2026-06-20T00:08:21Z",
           "outcomes": {
             "AS Roma": 1.5,
             "Fiorentina": 6.0,
@@ -4587,7 +4587,7 @@
         {
           "bookmaker": "betfred_uk",
           "title": "Betfred (UK)",
-          "last_update": "2026-06-19T21:08:53Z",
+          "last_update": "2026-06-20T00:09:11Z",
           "outcomes": {
             "AS Roma": 1.53,
             "Fiorentina": 6.0,
@@ -4597,7 +4597,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-19T21:10:10Z",
+          "last_update": "2026-06-20T00:04:58Z",
           "outcomes": {
             "AS Roma": 1.44,
             "Fiorentina": 5.5,
@@ -4607,7 +4607,7 @@
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:35Z",
+          "last_update": "2026-06-20T00:09:11Z",
           "outcomes": {
             "AS Roma": 1.48,
             "Fiorentina": 4.2,
@@ -4617,7 +4617,7 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:51Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "AS Roma": 1.48,
             "Fiorentina": 4.2,
@@ -4627,7 +4627,7 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-19T21:09:49Z",
+          "last_update": "2026-06-20T00:07:47Z",
           "outcomes": {
             "AS Roma": 1.5,
             "Fiorentina": 6.0,
@@ -4637,7 +4637,7 @@
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-19T21:09:57Z",
+          "last_update": "2026-06-20T00:08:45Z",
           "outcomes": {
             "AS Roma": 1.52,
             "Fiorentina": 6.6,
@@ -4647,7 +4647,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "AS Roma": 1.48,
             "Fiorentina": 6.3,
@@ -4668,7 +4668,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Over 2.5": 1.86,
             "Under 2.5": 1.94
@@ -4688,7 +4688,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "AS Roma (-1.0)": 1.83,
             "Fiorentina (1.0)": 1.99
@@ -4708,7 +4708,7 @@
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-19T21:10:10Z",
+          "last_update": "2026-06-20T00:08:21Z",
           "outcomes": {
             "Atalanta BC": 1.5,
             "Sassuolo": 6.0,
@@ -4718,7 +4718,7 @@
         {
           "bookmaker": "betfred_uk",
           "title": "Betfred (UK)",
-          "last_update": "2026-06-19T21:08:53Z",
+          "last_update": "2026-06-20T00:09:11Z",
           "outcomes": {
             "Atalanta BC": 1.53,
             "Sassuolo": 6.0,
@@ -4728,7 +4728,7 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-19T21:09:49Z",
+          "last_update": "2026-06-20T00:07:47Z",
           "outcomes": {
             "Atalanta BC": 1.5,
             "Sassuolo": 6.0,
@@ -4738,7 +4738,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-19T21:10:10Z",
+          "last_update": "2026-06-20T00:04:58Z",
           "outcomes": {
             "Atalanta BC": 1.4,
             "Sassuolo": 5.5,
@@ -4748,7 +4748,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-19T21:09:22Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Atalanta BC": 1.44,
             "Sassuolo": 6.0,
@@ -4758,7 +4758,7 @@
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:35Z",
+          "last_update": "2026-06-20T00:09:11Z",
           "outcomes": {
             "Atalanta BC": 1.52,
             "Sassuolo": 1.09,
@@ -4768,7 +4768,7 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:51Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Atalanta BC": 1.52,
             "Sassuolo": 1.09,
@@ -4778,7 +4778,7 @@
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-19T21:09:57Z",
+          "last_update": "2026-06-20T00:08:45Z",
           "outcomes": {
             "Atalanta BC": 1.55,
             "Sassuolo": 5.9,
@@ -4788,7 +4788,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Atalanta BC": 1.52,
             "Sassuolo": 5.64,
@@ -4809,7 +4809,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Over 2.75": 1.85,
             "Under 2.75": 1.95
@@ -4829,7 +4829,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Atalanta BC (-1.0)": 1.87,
             "Sassuolo (1.0)": 1.94
@@ -4849,7 +4849,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-19T21:09:22Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Bologna": 2.0,
             "Lazio": 3.5,
@@ -4859,7 +4859,7 @@
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-19T21:10:10Z",
+          "last_update": "2026-06-20T00:08:21Z",
           "outcomes": {
             "Bologna": 2.05,
             "Lazio": 3.5,
@@ -4869,7 +4869,7 @@
         {
           "bookmaker": "betfred_uk",
           "title": "Betfred (UK)",
-          "last_update": "2026-06-19T21:08:53Z",
+          "last_update": "2026-06-20T00:09:11Z",
           "outcomes": {
             "Bologna": 2.05,
             "Lazio": 3.6,
@@ -4879,7 +4879,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-19T21:10:10Z",
+          "last_update": "2026-06-20T00:04:58Z",
           "outcomes": {
             "Bologna": 1.91,
             "Lazio": 3.3,
@@ -4889,7 +4889,7 @@
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:35Z",
+          "last_update": "2026-06-20T00:09:11Z",
           "outcomes": {
             "Bologna": 2.08,
             "Lazio": 1.49,
@@ -4899,7 +4899,7 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:51Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Bologna": 2.08,
             "Lazio": 1.49,
@@ -4909,7 +4909,7 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-19T21:09:49Z",
+          "last_update": "2026-06-20T00:07:47Z",
           "outcomes": {
             "Bologna": 2.0,
             "Lazio": 3.6,
@@ -4919,7 +4919,7 @@
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-19T21:09:57Z",
+          "last_update": "2026-06-20T00:08:45Z",
           "outcomes": {
             "Bologna": 2.07,
             "Lazio": 3.78,
@@ -4929,7 +4929,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Bologna": 2.05,
             "Lazio": 3.67,
@@ -4950,7 +4950,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Over 2.25": 1.88,
             "Under 2.25": 1.92
@@ -4970,7 +4970,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Bologna (-0.5)": 2.06,
             "Lazio (0.5)": 1.78
@@ -4990,7 +4990,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-19T21:09:22Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Cagliari": 2.88,
             "Parma": 2.45,
@@ -5000,7 +5000,7 @@
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-19T21:10:10Z",
+          "last_update": "2026-06-20T00:08:21Z",
           "outcomes": {
             "Cagliari": 2.88,
             "Parma": 2.5,
@@ -5010,7 +5010,7 @@
         {
           "bookmaker": "betfred_uk",
           "title": "Betfred (UK)",
-          "last_update": "2026-06-19T21:08:53Z",
+          "last_update": "2026-06-20T00:09:11Z",
           "outcomes": {
             "Cagliari": 2.88,
             "Parma": 2.5,
@@ -5020,7 +5020,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-19T21:10:10Z",
+          "last_update": "2026-06-20T00:04:58Z",
           "outcomes": {
             "Cagliari": 2.7,
             "Parma": 2.4,
@@ -5030,7 +5030,7 @@
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:35Z",
+          "last_update": "2026-06-20T00:09:11Z",
           "outcomes": {
             "Cagliari": 2.86,
             "Parma": 2.6,
@@ -5040,7 +5040,7 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:51Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Cagliari": 2.86,
             "Parma": 2.6,
@@ -5050,7 +5050,7 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-19T21:09:49Z",
+          "last_update": "2026-06-20T00:07:47Z",
           "outcomes": {
             "Cagliari": 2.8,
             "Parma": 2.55,
@@ -5060,7 +5060,7 @@
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-19T21:09:57Z",
+          "last_update": "2026-06-20T00:08:45Z",
           "outcomes": {
             "Cagliari": 2.94,
             "Parma": 2.67,
@@ -5070,7 +5070,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Cagliari": 2.87,
             "Parma": 2.63,
@@ -5091,7 +5091,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Over 2.25": 2.04,
             "Under 2.25": 1.78
@@ -5111,7 +5111,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Cagliari (-0.0)": 2.0,
             "Parma (0.0)": 1.83
@@ -5131,7 +5131,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-19T21:09:22Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Como": 1.7,
             "Udinese": 4.75,
@@ -5141,7 +5141,7 @@
         {
           "bookmaker": "betfred_uk",
           "title": "Betfred (UK)",
-          "last_update": "2026-06-19T21:08:53Z",
+          "last_update": "2026-06-20T00:09:11Z",
           "outcomes": {
             "Como": 1.73,
             "Udinese": 5.0,
@@ -5151,7 +5151,7 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-19T21:09:49Z",
+          "last_update": "2026-06-20T00:07:47Z",
           "outcomes": {
             "Como": 1.75,
             "Udinese": 4.6,
@@ -5161,7 +5161,7 @@
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-19T21:10:10Z",
+          "last_update": "2026-06-20T00:08:21Z",
           "outcomes": {
             "Como": 1.73,
             "Udinese": 4.75,
@@ -5171,7 +5171,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-19T21:10:10Z",
+          "last_update": "2026-06-20T00:04:58Z",
           "outcomes": {
             "Como": 1.67,
             "Udinese": 4.33,
@@ -5181,7 +5181,7 @@
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:35Z",
+          "last_update": "2026-06-20T00:09:11Z",
           "outcomes": {
             "Como": 1.83,
             "Udinese": 1.09,
@@ -5191,7 +5191,7 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:51Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Como": 1.83,
             "Udinese": 1.09,
@@ -5201,7 +5201,7 @@
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-19T21:09:57Z",
+          "last_update": "2026-06-20T00:08:45Z",
           "outcomes": {
             "Como": 1.82,
             "Udinese": 4.65,
@@ -5211,7 +5211,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Como": 1.8,
             "Udinese": 4.53,
@@ -5232,7 +5232,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Over 2.25": 1.9,
             "Under 2.25": 1.9
@@ -5252,7 +5252,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Como (-0.5)": 1.81,
             "Udinese (0.5)": 2.02
@@ -5272,7 +5272,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-19T21:09:22Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Frosinone": 7.0,
             "Juventus": 1.36,
@@ -5282,7 +5282,7 @@
         {
           "bookmaker": "betfred_uk",
           "title": "Betfred (UK)",
-          "last_update": "2026-06-19T21:08:53Z",
+          "last_update": "2026-06-20T00:09:11Z",
           "outcomes": {
             "Frosinone": 7.5,
             "Juventus": 1.44,
@@ -5292,7 +5292,7 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-19T21:09:49Z",
+          "last_update": "2026-06-20T00:07:47Z",
           "outcomes": {
             "Frosinone": 7.0,
             "Juventus": 1.44,
@@ -5302,7 +5302,7 @@
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-19T21:10:10Z",
+          "last_update": "2026-06-20T00:08:21Z",
           "outcomes": {
             "Frosinone": 7.0,
             "Juventus": 1.4,
@@ -5312,7 +5312,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-19T21:10:10Z",
+          "last_update": "2026-06-20T00:04:58Z",
           "outcomes": {
             "Frosinone": 6.5,
             "Juventus": 1.36,
@@ -5322,7 +5322,7 @@
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:35Z",
+          "last_update": "2026-06-20T00:09:11Z",
           "outcomes": {
             "Frosinone": 1.01,
             "Juventus": 1.44,
@@ -5332,7 +5332,7 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:51Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Frosinone": 1.01,
             "Juventus": 1.44,
@@ -5342,7 +5342,7 @@
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-19T21:09:57Z",
+          "last_update": "2026-06-20T00:08:45Z",
           "outcomes": {
             "Frosinone": 6.95,
             "Juventus": 1.48,
@@ -5352,7 +5352,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Frosinone": 6.56,
             "Juventus": 1.45,
@@ -5373,7 +5373,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Over 2.5": 1.81,
             "Under 2.5": 2.0
@@ -5393,7 +5393,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Frosinone (1.25)": 1.77,
             "Juventus (-1.25)": 2.07
@@ -5413,7 +5413,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-19T21:09:22Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Genoa": 5.0,
             "Napoli": 1.65,
@@ -5423,7 +5423,7 @@
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-19T21:10:10Z",
+          "last_update": "2026-06-20T00:08:21Z",
           "outcomes": {
             "Genoa": 5.0,
             "Napoli": 1.67,
@@ -5433,7 +5433,7 @@
         {
           "bookmaker": "betfred_uk",
           "title": "Betfred (UK)",
-          "last_update": "2026-06-19T21:08:53Z",
+          "last_update": "2026-06-20T00:09:11Z",
           "outcomes": {
             "Genoa": 5.5,
             "Napoli": 1.7,
@@ -5443,7 +5443,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-19T21:10:10Z",
+          "last_update": "2026-06-20T00:04:58Z",
           "outcomes": {
             "Genoa": 4.5,
             "Napoli": 1.62,
@@ -5453,7 +5453,7 @@
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:35Z",
+          "last_update": "2026-06-20T00:09:11Z",
           "outcomes": {
             "Genoa": 1.09,
             "Napoli": 1.7,
@@ -5463,7 +5463,7 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:51Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Genoa": 1.09,
             "Napoli": 1.7,
@@ -5473,7 +5473,7 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-19T21:09:49Z",
+          "last_update": "2026-06-20T00:07:47Z",
           "outcomes": {
             "Genoa": 5.0,
             "Napoli": 1.7,
@@ -5483,7 +5483,7 @@
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-19T21:09:57Z",
+          "last_update": "2026-06-20T00:08:45Z",
           "outcomes": {
             "Genoa": 5.25,
             "Napoli": 1.72,
@@ -5493,7 +5493,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Genoa": 5.06,
             "Napoli": 1.7,
@@ -5514,7 +5514,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Over 2.25": 1.93,
             "Under 2.25": 1.87
@@ -5534,7 +5534,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Genoa (0.75)": 1.88,
             "Napoli (-0.75)": 1.93
@@ -5554,7 +5554,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-19T21:09:22Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Inter Milan": 1.17,
             "Monza": 14.0,
@@ -5564,7 +5564,7 @@
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-19T21:10:10Z",
+          "last_update": "2026-06-20T00:08:21Z",
           "outcomes": {
             "Inter Milan": 1.2,
             "Monza": 13.0,
@@ -5574,7 +5574,7 @@
         {
           "bookmaker": "betfred_uk",
           "title": "Betfred (UK)",
-          "last_update": "2026-06-19T21:08:53Z",
+          "last_update": "2026-06-20T00:09:11Z",
           "outcomes": {
             "Inter Milan": 1.22,
             "Monza": 15.0,
@@ -5584,7 +5584,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-19T21:10:10Z",
+          "last_update": "2026-06-20T00:04:58Z",
           "outcomes": {
             "Inter Milan": 1.17,
             "Monza": 13.0,
@@ -5594,7 +5594,7 @@
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:35Z",
+          "last_update": "2026-06-20T00:09:11Z",
           "outcomes": {
             "Inter Milan": 1.22,
             "Monza": 1.01,
@@ -5604,7 +5604,7 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:51Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Inter Milan": 1.22,
             "Monza": 1.01,
@@ -5614,7 +5614,7 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-19T21:09:49Z",
+          "last_update": "2026-06-20T00:07:47Z",
           "outcomes": {
             "Inter Milan": 1.18,
             "Monza": 13.0,
@@ -5624,7 +5624,7 @@
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-19T21:09:57Z",
+          "last_update": "2026-06-20T00:08:45Z",
           "outcomes": {
             "Inter Milan": 1.22,
             "Monza": 13.75,
@@ -5634,7 +5634,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Inter Milan": 1.2,
             "Monza": 11.9,
@@ -5655,7 +5655,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Over 2.75": 1.79,
             "Under 2.75": 2.02
@@ -5675,7 +5675,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Inter Milan (-1.75)": 1.88,
             "Monza (1.75)": 1.94
@@ -5695,7 +5695,7 @@
         {
           "bookmaker": "betfred_uk",
           "title": "Betfred (UK)",
-          "last_update": "2026-06-19T21:08:53Z",
+          "last_update": "2026-06-20T00:09:11Z",
           "outcomes": {
             "Lecce": 3.2,
             "Venezia": 2.3,
@@ -5705,7 +5705,7 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-19T21:09:49Z",
+          "last_update": "2026-06-20T00:07:47Z",
           "outcomes": {
             "Lecce": 3.1,
             "Venezia": 2.25,
@@ -5715,7 +5715,7 @@
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-19T21:10:10Z",
+          "last_update": "2026-06-20T00:08:21Z",
           "outcomes": {
             "Lecce": 3.1,
             "Venezia": 2.25,
@@ -5725,7 +5725,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-19T21:09:22Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Lecce": 3.1,
             "Venezia": 2.2,
@@ -5735,7 +5735,7 @@
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:35Z",
+          "last_update": "2026-06-20T00:09:11Z",
           "outcomes": {
             "Lecce": 3.2,
             "Venezia": 2.32,
@@ -5745,7 +5745,7 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-19T21:10:51Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Lecce": 3.2,
             "Venezia": 2.32,
@@ -5755,7 +5755,7 @@
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-19T21:09:57Z",
+          "last_update": "2026-06-20T00:08:45Z",
           "outcomes": {
             "Lecce": 3.26,
             "Venezia": 2.35,
@@ -5765,7 +5765,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Lecce": 3.18,
             "Venezia": 2.32,
@@ -5786,7 +5786,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Over 2.25": 1.92,
             "Under 2.25": 1.88
@@ -5806,7 +5806,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-19T21:10:34Z",
+          "last_update": "2026-06-20T00:08:58Z",
           "outcomes": {
             "Lecce (0.25)": 1.84,
             "Venezia (-0.25)": 1.99
