@@ -1,5 +1,5 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-06-20 21:19 UTC
+**Generato:** 2026-06-21 00:07 UTC
 **Bankroll:** €1000
 
 ---
@@ -12,17 +12,17 @@ _Nessun arbitraggio trovato in questo ciclo._
 
 | # | Match | Esito | Book | Quota | Fair | Edge% | Conf | Stake |
 |---|-------|-------|------|-------|------|-------|------|-------|
-| 1 | Udinese vs Como | Udinese | Betfred (UK) | 5.00 | 3.31 | 50.9% | 🟢 | €32 |
-| 2 | Genoa vs Napoli | Genoa | Paddy Power | 5.00 | 3.45 | 44.8% | 🟢 | €28 |
-| 3 | Genoa vs Napoli | Genoa | Sky Bet | 5.00 | 3.45 | 44.8% | 🟢 | €28 |
-| 4 | Genoa vs Napoli | Genoa | Bet Victor | 5.00 | 3.45 | 44.8% | 🟢 | €28 |
-| 5 | Udinese vs Como | Udinese | Paddy Power | 4.75 | 3.31 | 43.3% | 🟢 | €29 |
-| 6 | Udinese vs Como | Udinese | Sky Bet | 4.75 | 3.31 | 43.3% | 🟢 | €29 |
-| 7 | Udinese vs Como | Udinese | Marathon Bet | 4.65 | 3.31 | 40.3% | 🟢 | €28 |
-| 8 | Udinese vs Como | Udinese | Bet Victor | 4.60 | 3.31 | 38.8% | 🟢 | €27 |
-| 9 | Udinese vs Como | Udinese | Pinnacle | 4.53 | 3.31 | 36.7% | 🟢 | €26 |
-| 10 | Udinese vs Como | Udinese | Betfair Spor | 4.33 | 3.31 | 30.6% | 🟢 | €23 |
-| 11 | Genoa vs Napoli | Genoa | Betfair Spor | 4.50 | 3.45 | 30.3% | 🟢 | €22 |
+| 1 | Udinese vs Como | Udinese | Betfred (UK) | 5.00 | 3.33 | 50.3% | 🟢 | €31 |
+| 2 | Genoa vs Napoli | Genoa | Paddy Power | 5.00 | 3.46 | 44.6% | 🟢 | €28 |
+| 3 | Genoa vs Napoli | Genoa | Sky Bet | 5.00 | 3.46 | 44.6% | 🟢 | €28 |
+| 4 | Genoa vs Napoli | Genoa | Bet Victor | 5.00 | 3.46 | 44.6% | 🟢 | €28 |
+| 5 | Udinese vs Como | Udinese | Marathon Bet | 4.80 | 3.33 | 44.2% | 🟢 | €29 |
+| 6 | Udinese vs Como | Udinese | Paddy Power | 4.75 | 3.33 | 42.8% | 🟢 | €28 |
+| 7 | Udinese vs Como | Udinese | Bet Victor | 4.75 | 3.33 | 42.8% | 🟢 | €28 |
+| 8 | Udinese vs Como | Udinese | Sky Bet | 4.75 | 3.33 | 42.8% | 🟢 | €28 |
+| 9 | Udinese vs Como | Udinese | Pinnacle | 4.53 | 3.33 | 36.1% | 🟢 | €26 |
+| 10 | Genoa vs Napoli | Genoa | Betfair Spor | 4.50 | 3.46 | 30.2% | 🟢 | €22 |
+| 11 | Udinese vs Como | Udinese | Betfair Spor | 4.33 | 3.33 | 30.1% | 🟢 | €23 |
 | 12 | Torino vs AC Milan | Torino | Marathon Bet | 4.55 | 3.66 | 24.4% | 🟢 | €17 |
 | 13 | Torino vs AC Milan | Torino | Sky Bet | 4.50 | 3.66 | 23.1% | 🟢 | €16 |
 | 14 | Torino vs AC Milan | Torino | Betfred (UK) | 4.50 | 3.66 | 23.1% | 🟢 | €16 |
