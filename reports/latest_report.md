@@ -1,5 +1,5 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-06-21 18:19 UTC
+**Generato:** 2026-06-21 21:15 UTC
 **Bankroll:** €1000
 
 ---
@@ -29,14 +29,14 @@ _Nessun arbitraggio trovato in questo ciclo._
 | 15 | Torino vs AC Milan | Torino | Paddy Power | 4.40 | 3.66 | 20.3% | 🟢 | €15 |
 | 16 | Torino vs AC Milan | Torino | Bet Victor | 4.40 | 3.66 | 20.3% | 🟢 | €15 |
 | 17 | Torino vs AC Milan | Torino | Pinnacle | 4.38 | 3.66 | 19.8% | 🟢 | €15 |
-| 18 | Bologna vs Lazio | Lazio | Marathon Bet | 3.76 | 3.17 | 18.7% | 🟢 | €17 |
+| 18 | Bologna vs Lazio | Lazio | Marathon Bet | 3.74 | 3.17 | 18.2% | 🟢 | €17 |
 | 19 | Bologna vs Lazio | Lazio | Pinnacle | 3.67 | 3.17 | 15.9% | 🟢 | €15 |
 | 20 | Bologna vs Lazio | Lazio | Betfred (UK) | 3.60 | 3.17 | 13.7% | 🟢 | €13 |
 | 21 | Bologna vs Lazio | Lazio | Bet Victor | 3.60 | 3.17 | 13.7% | 🟢 | €13 |
-| 22 | Bologna vs Lazio | Lazio | Paddy Power | 3.50 | 3.17 | 10.5% | 🟢 | €11 |
-| 23 | Bologna vs Lazio | Lazio | Sky Bet | 3.50 | 3.17 | 10.5% | 🟢 | €11 |
+| 22 | Bologna vs Lazio | Lazio | Paddy Power | 3.50 | 3.17 | 10.6% | 🟢 | €11 |
+| 23 | Bologna vs Lazio | Lazio | Sky Bet | 3.50 | 3.17 | 10.6% | 🟢 | €11 |
 | 24 | Torino vs AC Milan | Torino | Betfair Spor | 4.00 | 3.66 | 9.4% | 🟢 | €8 |
-| 25 | Bologna vs Lazio | Lazio | Betfair Spor | 3.30 | 3.17 | 4.2% | 🔴 | €5 |
+| 25 | Bologna vs Lazio | Lazio | Betfair Spor | 3.30 | 3.17 | 4.3% | 🔴 | €5 |
 | 26 | Fulham vs Chelsea | Fulham | Coral | 3.50 | 3.37 | 3.8% | 🔴 | €4 |
 
 _Top 26 su 26._
