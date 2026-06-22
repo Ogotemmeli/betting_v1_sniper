@@ -1,5 +1,5 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-06-22 00:12 UTC
+**Generato:** 2026-06-22 13:35 UTC
 **Bankroll:** €1000
 
 ---
@@ -12,34 +12,36 @@ _Nessun arbitraggio trovato in questo ciclo._
 
 | # | Match | Esito | Book | Quota | Fair | Edge% | Conf | Stake |
 |---|-------|-------|------|-------|------|-------|------|-------|
-| 1 | Udinese vs Como | Udinese | Betfred (UK) | 5.00 | 3.31 | 50.9% | 🟢 | €32 |
-| 2 | Genoa vs Napoli | Genoa | Paddy Power | 5.00 | 3.46 | 44.6% | 🟢 | €28 |
-| 3 | Genoa vs Napoli | Genoa | Sky Bet | 5.00 | 3.46 | 44.6% | 🟢 | €28 |
-| 4 | Genoa vs Napoli | Genoa | Bet Victor | 5.00 | 3.46 | 44.6% | 🟢 | €28 |
-| 5 | Udinese vs Como | Udinese | Paddy Power | 4.75 | 3.31 | 43.3% | 🟢 | €29 |
-| 6 | Udinese vs Como | Udinese | Sky Bet | 4.75 | 3.31 | 43.3% | 🟢 | €29 |
-| 7 | Udinese vs Como | Udinese | Marathon Bet | 4.65 | 3.31 | 40.3% | 🟢 | €28 |
-| 8 | Udinese vs Como | Udinese | Bet Victor | 4.60 | 3.31 | 38.8% | 🟢 | €27 |
-| 9 | Udinese vs Como | Udinese | Pinnacle | 4.53 | 3.31 | 36.7% | 🟢 | €26 |
-| 10 | Udinese vs Como | Udinese | Betfair Spor | 4.33 | 3.31 | 30.6% | 🟢 | €23 |
-| 11 | Genoa vs Napoli | Genoa | Betfair Spor | 4.50 | 3.46 | 30.2% | 🟢 | €22 |
-| 12 | Torino vs AC Milan | Torino | Marathon Bet | 4.55 | 3.66 | 24.4% | 🟢 | €17 |
-| 13 | Torino vs AC Milan | Torino | Sky Bet | 4.50 | 3.66 | 23.1% | 🟢 | €16 |
-| 14 | Torino vs AC Milan | Torino | Betfred (UK) | 4.50 | 3.66 | 23.1% | 🟢 | €16 |
-| 15 | Torino vs AC Milan | Torino | Paddy Power | 4.40 | 3.66 | 20.3% | 🟢 | €15 |
-| 16 | Torino vs AC Milan | Torino | Bet Victor | 4.40 | 3.66 | 20.3% | 🟢 | €15 |
-| 17 | Torino vs AC Milan | Torino | Pinnacle | 4.38 | 3.66 | 19.8% | 🟢 | €15 |
-| 18 | Bologna vs Lazio | Lazio | Marathon Bet | 3.74 | 3.17 | 18.2% | 🟢 | €17 |
-| 19 | Bologna vs Lazio | Lazio | Pinnacle | 3.67 | 3.17 | 15.9% | 🟢 | €15 |
-| 20 | Bologna vs Lazio | Lazio | Betfred (UK) | 3.60 | 3.17 | 13.7% | 🟢 | €13 |
-| 21 | Bologna vs Lazio | Lazio | Bet Victor | 3.60 | 3.17 | 13.7% | 🟢 | €13 |
-| 22 | Bologna vs Lazio | Lazio | Paddy Power | 3.50 | 3.17 | 10.6% | 🟢 | €11 |
-| 23 | Bologna vs Lazio | Lazio | Sky Bet | 3.50 | 3.17 | 10.6% | 🟢 | €11 |
-| 24 | Torino vs AC Milan | Torino | Betfair Spor | 4.00 | 3.66 | 9.4% | 🟢 | €8 |
-| 25 | Bologna vs Lazio | Lazio | Betfair Spor | 3.30 | 3.17 | 4.3% | 🔴 | €5 |
-| 26 | Fulham vs Chelsea | Fulham | Coral | 3.50 | 3.37 | 3.8% | 🔴 | €4 |
+| 1 | Udinese vs Como | Udinese | Betfred (UK) | 5.00 | 3.42 | 46.2% | 🟢 | €29 |
+| 2 | Udinese vs Como | Udinese | Smarkets | 4.90 | 3.42 | 43.3% | 🟢 | €28 |
+| 3 | Genoa vs Napoli | Genoa | Paddy Power | 5.00 | 3.57 | 39.9% | 🟢 | €25 |
+| 4 | Genoa vs Napoli | Genoa | Sky Bet | 5.00 | 3.57 | 39.9% | 🟢 | €25 |
+| 5 | Genoa vs Napoli | Genoa | Bet Victor | 5.00 | 3.57 | 39.9% | 🟢 | €25 |
+| 6 | Udinese vs Como | Udinese | Paddy Power | 4.75 | 3.42 | 38.9% | 🟢 | €26 |
+| 7 | Udinese vs Como | Udinese | Sky Bet | 4.75 | 3.42 | 38.9% | 🟢 | €26 |
+| 8 | Genoa vs Napoli | Genoa | Smarkets | 4.90 | 3.57 | 37.1% | 🟢 | €24 |
+| 9 | Udinese vs Como | Udinese | Marathon Bet | 4.65 | 3.42 | 36.0% | 🟢 | €25 |
+| 10 | Udinese vs Como | Udinese | Bet Victor | 4.60 | 3.42 | 34.5% | 🟢 | €24 |
+| 11 | Udinese vs Como | Udinese | Pinnacle | 4.53 | 3.42 | 32.5% | 🟢 | €23 |
+| 12 | Udinese vs Como | Udinese | Betfair Spor | 4.33 | 3.42 | 26.6% | 🟢 | €20 |
+| 13 | Genoa vs Napoli | Genoa | Betfair Spor | 4.50 | 3.57 | 25.9% | 🟢 | €18 |
+| 14 | Torino vs AC Milan | Torino | Marathon Bet | 4.55 | 3.73 | 21.9% | 🟢 | €15 |
+| 15 | Torino vs AC Milan | Torino | Sky Bet | 4.50 | 3.73 | 20.6% | 🟢 | €15 |
+| 16 | Torino vs AC Milan | Torino | Betfred (UK) | 4.50 | 3.73 | 20.6% | 🟢 | €15 |
+| 17 | Torino vs AC Milan | Torino | Smarkets | 4.50 | 3.73 | 20.6% | 🟢 | €15 |
+| 18 | Torino vs AC Milan | Torino | Paddy Power | 4.40 | 3.73 | 17.9% | 🟢 | €13 |
+| 19 | Torino vs AC Milan | Torino | Bet Victor | 4.40 | 3.73 | 17.9% | 🟢 | €13 |
+| 20 | Torino vs AC Milan | Torino | Pinnacle | 4.38 | 3.73 | 17.3% | 🟢 | €13 |
+| 21 | Bologna vs Lazio | Lazio | Smarkets | 3.75 | 3.22 | 16.3% | 🟢 | €15 |
+| 22 | Bologna vs Lazio | Lazio | Marathon Bet | 3.74 | 3.22 | 16.0% | 🟢 | €15 |
+| 23 | Bologna vs Lazio | Lazio | Pinnacle | 3.67 | 3.22 | 13.8% | 🟢 | €13 |
+| 24 | Bologna vs Lazio | Lazio | Betfred (UK) | 3.60 | 3.22 | 11.7% | 🟢 | €11 |
+| 25 | Bologna vs Lazio | Lazio | Bet Victor | 3.60 | 3.22 | 11.7% | 🟢 | €11 |
+| 26 | Bologna vs Lazio | Lazio | Paddy Power | 3.50 | 3.22 | 8.6% | 🟢 | €9 |
+| 27 | Bologna vs Lazio | Lazio | Sky Bet | 3.50 | 3.22 | 8.6% | 🟢 | €9 |
+| 28 | Torino vs AC Milan | Torino | Betfair Spor | 4.00 | 3.73 | 7.2% | 🟡 | €6 |
 
-_Top 26 su 26._
+_Top 28 su 28._
 
 ---
 ⚠️ Strumento di analisi. Non garantisce profitti.
