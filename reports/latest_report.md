@@ -1,5 +1,5 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-06-22 13:35 UTC
+**Generato:** 2026-06-22 18:12 UTC
 **Bankroll:** €1000
 
 ---
@@ -29,16 +29,16 @@ _Nessun arbitraggio trovato in questo ciclo._
 | 15 | Torino vs AC Milan | Torino | Sky Bet | 4.50 | 3.73 | 20.6% | 🟢 | €15 |
 | 16 | Torino vs AC Milan | Torino | Betfred (UK) | 4.50 | 3.73 | 20.6% | 🟢 | €15 |
 | 17 | Torino vs AC Milan | Torino | Smarkets | 4.50 | 3.73 | 20.6% | 🟢 | €15 |
-| 18 | Torino vs AC Milan | Torino | Paddy Power | 4.40 | 3.73 | 17.9% | 🟢 | €13 |
-| 19 | Torino vs AC Milan | Torino | Bet Victor | 4.40 | 3.73 | 17.9% | 🟢 | €13 |
-| 20 | Torino vs AC Milan | Torino | Pinnacle | 4.38 | 3.73 | 17.3% | 🟢 | €13 |
-| 21 | Bologna vs Lazio | Lazio | Smarkets | 3.75 | 3.22 | 16.3% | 🟢 | €15 |
-| 22 | Bologna vs Lazio | Lazio | Marathon Bet | 3.74 | 3.22 | 16.0% | 🟢 | €15 |
-| 23 | Bologna vs Lazio | Lazio | Pinnacle | 3.67 | 3.22 | 13.8% | 🟢 | €13 |
-| 24 | Bologna vs Lazio | Lazio | Betfred (UK) | 3.60 | 3.22 | 11.7% | 🟢 | €11 |
-| 25 | Bologna vs Lazio | Lazio | Bet Victor | 3.60 | 3.22 | 11.7% | 🟢 | €11 |
-| 26 | Bologna vs Lazio | Lazio | Paddy Power | 3.50 | 3.22 | 8.6% | 🟢 | €9 |
-| 27 | Bologna vs Lazio | Lazio | Sky Bet | 3.50 | 3.22 | 8.6% | 🟢 | €9 |
+| 18 | Bologna vs Lazio | Lazio | Smarkets | 3.85 | 3.23 | 19.2% | 🟢 | €17 |
+| 19 | Torino vs AC Milan | Torino | Paddy Power | 4.40 | 3.73 | 17.9% | 🟢 | €13 |
+| 20 | Torino vs AC Milan | Torino | Bet Victor | 4.40 | 3.73 | 17.9% | 🟢 | €13 |
+| 21 | Torino vs AC Milan | Torino | Pinnacle | 4.38 | 3.73 | 17.3% | 🟢 | €13 |
+| 22 | Bologna vs Lazio | Lazio | Marathon Bet | 3.74 | 3.23 | 15.8% | 🟢 | €14 |
+| 23 | Bologna vs Lazio | Lazio | Pinnacle | 3.67 | 3.23 | 13.7% | 🟢 | €13 |
+| 24 | Bologna vs Lazio | Lazio | Betfred (UK) | 3.60 | 3.23 | 11.5% | 🟢 | €11 |
+| 25 | Bologna vs Lazio | Lazio | Bet Victor | 3.60 | 3.23 | 11.5% | 🟢 | €11 |
+| 26 | Bologna vs Lazio | Lazio | Paddy Power | 3.50 | 3.23 | 8.4% | 🟢 | €8 |
+| 27 | Bologna vs Lazio | Lazio | Sky Bet | 3.50 | 3.23 | 8.4% | 🟢 | €8 |
 | 28 | Torino vs AC Milan | Torino | Betfair Spor | 4.00 | 3.73 | 7.2% | 🟡 | €6 |
 
 _Top 28 su 28._
