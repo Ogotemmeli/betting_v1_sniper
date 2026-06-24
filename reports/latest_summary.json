@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-23 23:58 UTC",
+  "timestamp": "2026-06-24 10:51 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
   "arbitrages_found": 0,
-  "value_bets_found": 24,
+  "value_bets_found": 30,
   "best_arb_margin": 0,
   "best_value_edge": 46.22,
   "arbitrages": [],
@@ -26,7 +26,7 @@
       "suggested_stake": 28.89,
       "expected_value": 46.22,
       "confidence": "ALTA",
-      "found_at": "2026-06-23T23:58:16.183054+00:00"
+      "found_at": "2026-06-24T10:51:02.780156+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -46,67 +46,7 @@
       "suggested_stake": 27.76,
       "expected_value": 43.3,
       "confidence": "ALTA",
-      "found_at": "2026-06-23T23:58:16.183099+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "71a416cf5920fef1bddf076ca260421f",
-      "league": "Serie A - Italy",
-      "match": "Genoa vs Napoli",
-      "commence": "2026-08-23T16:30:00Z",
-      "market": "h2h",
-      "outcome": "Genoa",
-      "bookmaker": "Paddy Power",
-      "odds": 5.0,
-      "fair_odds": 3.587,
-      "true_prob_pct": 27.88,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 39.39,
-      "kelly_stake_pct": 2.46,
-      "suggested_stake": 24.62,
-      "expected_value": 39.39,
-      "confidence": "ALTA",
-      "found_at": "2026-06-23T23:58:16.183156+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "71a416cf5920fef1bddf076ca260421f",
-      "league": "Serie A - Italy",
-      "match": "Genoa vs Napoli",
-      "commence": "2026-08-23T16:30:00Z",
-      "market": "h2h",
-      "outcome": "Genoa",
-      "bookmaker": "Sky Bet",
-      "odds": 5.0,
-      "fair_odds": 3.587,
-      "true_prob_pct": 27.88,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 39.39,
-      "kelly_stake_pct": 2.46,
-      "suggested_stake": 24.62,
-      "expected_value": 39.39,
-      "confidence": "ALTA",
-      "found_at": "2026-06-23T23:58:16.183163+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "71a416cf5920fef1bddf076ca260421f",
-      "league": "Serie A - Italy",
-      "match": "Genoa vs Napoli",
-      "commence": "2026-08-23T16:30:00Z",
-      "market": "h2h",
-      "outcome": "Genoa",
-      "bookmaker": "Bet Victor",
-      "odds": 5.0,
-      "fair_odds": 3.587,
-      "true_prob_pct": 27.88,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 39.39,
-      "kelly_stake_pct": 2.46,
-      "suggested_stake": 24.62,
-      "expected_value": 39.39,
-      "confidence": "ALTA",
-      "found_at": "2026-06-23T23:58:16.183175+00:00"
+      "found_at": "2026-06-24T10:51:02.780193+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -126,7 +66,7 @@
       "suggested_stake": 25.94,
       "expected_value": 38.91,
       "confidence": "ALTA",
-      "found_at": "2026-06-23T23:58:16.183047+00:00"
+      "found_at": "2026-06-24T10:51:02.780150+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -146,7 +86,7 @@
       "suggested_stake": 25.94,
       "expected_value": 38.91,
       "confidence": "ALTA",
-      "found_at": "2026-06-23T23:58:16.183070+00:00"
+      "found_at": "2026-06-24T10:51:02.780168+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -166,7 +106,7 @@
       "suggested_stake": 24.65,
       "expected_value": 35.99,
       "confidence": "ALTA",
-      "found_at": "2026-06-23T23:58:16.183085+00:00"
+      "found_at": "2026-06-24T10:51:02.780182+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -186,7 +126,7 @@
       "suggested_stake": 23.98,
       "expected_value": 34.53,
       "confidence": "ALTA",
-      "found_at": "2026-06-23T23:58:16.183061+00:00"
+      "found_at": "2026-06-24T10:51:02.780162+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -206,7 +146,67 @@
       "suggested_stake": 23.0,
       "expected_value": 32.48,
       "confidence": "ALTA",
-      "found_at": "2026-06-23T23:58:16.183092+00:00"
+      "found_at": "2026-06-24T10:51:02.780187+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "d686959412d07e8e3dc16002e40b2e2c",
+      "league": "Serie A - Italy",
+      "match": "Udinese vs Como",
+      "commence": "2026-08-23T16:30:00Z",
+      "market": "h2h",
+      "outcome": "Udinese",
+      "bookmaker": "Betfair Sportsbook",
+      "odds": 4.33,
+      "fair_odds": 3.419,
+      "true_prob_pct": 29.24,
+      "implied_prob_pct": 23.09,
+      "edge_pct": 26.63,
+      "kelly_stake_pct": 2.0,
+      "suggested_stake": 19.99,
+      "expected_value": 26.63,
+      "confidence": "ALTA",
+      "found_at": "2026-06-24T10:51:02.780173+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "71a416cf5920fef1bddf076ca260421f",
+      "league": "Serie A - Italy",
+      "match": "Genoa vs Napoli",
+      "commence": "2026-08-23T16:30:00Z",
+      "market": "h2h",
+      "outcome": "Genoa",
+      "bookmaker": "Paddy Power",
+      "odds": 5.0,
+      "fair_odds": 4.007,
+      "true_prob_pct": 24.96,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 24.78,
+      "kelly_stake_pct": 1.55,
+      "suggested_stake": 15.49,
+      "expected_value": 24.78,
+      "confidence": "ALTA",
+      "found_at": "2026-06-24T10:51:02.780252+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "71a416cf5920fef1bddf076ca260421f",
+      "league": "Serie A - Italy",
+      "match": "Genoa vs Napoli",
+      "commence": "2026-08-23T16:30:00Z",
+      "market": "h2h",
+      "outcome": "Genoa",
+      "bookmaker": "Sky Bet",
+      "odds": 5.0,
+      "fair_odds": 4.007,
+      "true_prob_pct": 24.96,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 24.78,
+      "kelly_stake_pct": 1.55,
+      "suggested_stake": 15.49,
+      "expected_value": 24.78,
+      "confidence": "ALTA",
+      "found_at": "2026-06-24T10:51:02.780258+00:00"
     }
   ]
 }
