@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-25 00:14 UTC",
+  "timestamp": "2026-06-25 10:42 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
   "arbitrages_found": 0,
-  "value_bets_found": 50,
+  "value_bets_found": 51,
   "best_arb_margin": 0,
   "best_value_edge": 29.21,
   "arbitrages": [],
@@ -26,27 +26,7 @@
       "suggested_stake": 18.26,
       "expected_value": 29.21,
       "confidence": "ALTA",
-      "found_at": "2026-06-25T00:14:18.119479+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "d44b7b56dadba2e7606cdceec655e62f",
-      "league": "Serie A - Italy",
-      "match": "Atalanta BC vs Sassuolo",
-      "commence": "2026-08-23T16:30:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "Marathon Bet",
-      "odds": 4.4,
-      "fair_odds": 3.448,
-      "true_prob_pct": 29.0,
-      "implied_prob_pct": 22.73,
-      "edge_pct": 27.6,
-      "kelly_stake_pct": 2.03,
-      "suggested_stake": 20.29,
-      "expected_value": 27.6,
-      "confidence": "ALTA",
-      "found_at": "2026-06-25T00:14:18.119351+00:00"
+      "found_at": "2026-06-25T10:42:52.311632+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -66,7 +46,7 @@
       "suggested_stake": 16.33,
       "expected_value": 26.13,
       "confidence": "ALTA",
-      "found_at": "2026-06-25T00:14:18.119643+00:00"
+      "found_at": "2026-06-25T10:42:52.311772+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -86,7 +66,7 @@
       "suggested_stake": 16.33,
       "expected_value": 26.13,
       "confidence": "ALTA",
-      "found_at": "2026-06-25T00:14:18.119649+00:00"
+      "found_at": "2026-06-25T10:42:52.311779+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -106,47 +86,7 @@
       "suggested_stake": 16.33,
       "expected_value": 26.13,
       "confidence": "ALTA",
-      "found_at": "2026-06-25T00:14:18.119664+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "d44b7b56dadba2e7606cdceec655e62f",
-      "league": "Serie A - Italy",
-      "match": "Atalanta BC vs Sassuolo",
-      "commence": "2026-08-23T16:30:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "Sky Bet",
-      "odds": 4.33,
-      "fair_odds": 3.448,
-      "true_prob_pct": 29.0,
-      "implied_prob_pct": 23.09,
-      "edge_pct": 25.57,
-      "kelly_stake_pct": 1.92,
-      "suggested_stake": 19.2,
-      "expected_value": 25.57,
-      "confidence": "ALTA",
-      "found_at": "2026-06-25T00:14:18.119325+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "d44b7b56dadba2e7606cdceec655e62f",
-      "league": "Serie A - Italy",
-      "match": "Atalanta BC vs Sassuolo",
-      "commence": "2026-08-23T16:30:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "Betfred (UK)",
-      "odds": 4.33,
-      "fair_odds": 3.448,
-      "true_prob_pct": 29.0,
-      "implied_prob_pct": 23.09,
-      "edge_pct": 25.57,
-      "kelly_stake_pct": 1.92,
-      "suggested_stake": 19.2,
-      "expected_value": 25.57,
-      "confidence": "ALTA",
-      "found_at": "2026-06-25T00:14:18.119331+00:00"
+      "found_at": "2026-06-25T10:42:52.311791+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -166,7 +106,7 @@
       "suggested_stake": 15.13,
       "expected_value": 23.61,
       "confidence": "ALTA",
-      "found_at": "2026-06-25T00:14:18.119670+00:00"
+      "found_at": "2026-06-25T10:42:52.311796+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -186,7 +126,7 @@
       "suggested_stake": 17.33,
       "expected_value": 23.22,
       "confidence": "ALTA",
-      "found_at": "2026-06-25T00:14:18.119296+00:00"
+      "found_at": "2026-06-25T10:42:52.311418+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -206,7 +146,67 @@
       "suggested_stake": 15.17,
       "expected_value": 22.75,
       "confidence": "ALTA",
-      "found_at": "2026-06-25T00:14:18.119470+00:00"
+      "found_at": "2026-06-25T10:42:52.311626+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "d686959412d07e8e3dc16002e40b2e2c",
+      "league": "Serie A - Italy",
+      "match": "Udinese vs Como",
+      "commence": "2026-08-23T16:30:00Z",
+      "market": "h2h",
+      "outcome": "Udinese",
+      "bookmaker": "Sky Bet",
+      "odds": 4.75,
+      "fair_odds": 3.87,
+      "true_prob_pct": 25.84,
+      "implied_prob_pct": 21.05,
+      "edge_pct": 22.75,
+      "kelly_stake_pct": 1.52,
+      "suggested_stake": 15.17,
+      "expected_value": 22.75,
+      "confidence": "ALTA",
+      "found_at": "2026-06-25T10:42:52.311646+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "d686959412d07e8e3dc16002e40b2e2c",
+      "league": "Serie A - Italy",
+      "match": "Udinese vs Como",
+      "commence": "2026-08-23T16:30:00Z",
+      "market": "h2h",
+      "outcome": "Udinese",
+      "bookmaker": "Marathon Bet",
+      "odds": 4.65,
+      "fair_odds": 3.87,
+      "true_prob_pct": 25.84,
+      "implied_prob_pct": 21.51,
+      "edge_pct": 20.17,
+      "kelly_stake_pct": 1.38,
+      "suggested_stake": 13.81,
+      "expected_value": 20.17,
+      "confidence": "ALTA",
+      "found_at": "2026-06-25T10:42:52.311658+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "4a22f8a958a3360b75505a1c432a81dd",
+      "league": "Serie A - Italy",
+      "match": "Inter Milan vs Monza",
+      "commence": "2026-08-23T16:30:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Betfair Sportsbook",
+      "odds": 5.0,
+      "fair_odds": 4.174,
+      "true_prob_pct": 23.96,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 19.78,
+      "kelly_stake_pct": 1.24,
+      "suggested_stake": 12.36,
+      "expected_value": 19.78,
+      "confidence": "ALTA",
+      "found_at": "2026-06-25T10:42:52.311864+00:00"
     }
   ]
 }
