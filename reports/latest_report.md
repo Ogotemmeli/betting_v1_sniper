@@ -1,5 +1,5 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-07-01 16:27 UTC
+**Generato:** 2026-07-01 18:59 UTC
 **Bankroll:** €1000
 
 ---
@@ -12,9 +12,19 @@ _Nessun arbitraggio trovato in questo ciclo._
 
 | # | Match | Esito | Book | Quota | Fair | Edge% | Conf | Stake |
 |---|-------|-------|------|-------|------|-------|------|-------|
-| 1 | Atalanta BC vs Sassuolo | Draw | 1xBet | 4.55 | 4.40 | 3.5% | 🔴 | €2 |
+| 1 | Torino vs AC Milan | Torino | 1xBet | 4.65 | 4.00 | 16.1% | 🟢 | €11 |
+| 2 | Torino vs AC Milan | Torino | Smarkets | 4.60 | 4.00 | 14.9% | 🟢 | €10 |
+| 3 | Torino vs AC Milan | Torino | Tipico | 4.60 | 4.00 | 14.9% | 🟢 | €10 |
+| 4 | Atalanta BC vs Sassuolo | Sassuolo | BoyleSports | 5.00 | 4.38 | 14.2% | 🟢 | €9 |
+| 5 | Torino vs AC Milan | Torino | Marathon Bet | 4.55 | 4.00 | 13.6% | 🟢 | €10 |
+| 6 | Torino vs AC Milan | Torino | Sky Bet | 4.50 | 4.00 | 12.4% | 🟢 | €9 |
+| 7 | Torino vs AC Milan | Torino | Betfred (UK) | 4.50 | 4.00 | 12.4% | 🟢 | €9 |
+| 8 | Torino vs AC Milan | Torino | Paddy Power | 4.40 | 4.00 | 9.9% | 🟢 | €7 |
+| 9 | Torino vs AC Milan | Torino | Bet Victor | 4.40 | 4.00 | 9.9% | 🟢 | €7 |
+| 10 | Atalanta BC vs Sassuolo | Sassuolo | Winamax (FR) | 4.60 | 4.38 | 5.1% | 🟡 | €4 |
+| 11 | Torino vs AC Milan | Torino | Unibet (UK) | 4.20 | 4.00 | 4.9% | 🔴 | €4 |
 
-_Top 1 su 1._
+_Top 11 su 11._
 
 ---
 ⚠️ Strumento di analisi. Non garantisce profitti.
