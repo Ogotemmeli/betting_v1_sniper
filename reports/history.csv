@@ -4092,3 +4092,4 @@ timestamp,type,match,league,market,edge_pct,confidence,suggested_stake,details
 2026-07-01 00:05 UTC,VALUE_BET,Torino vs AC Milan,Serie A - Italy,h2h,9.05,ALTA,7.41,Torino@4.05 (Betclic (FR))
 2026-07-01 00:05 UTC,VALUE_BET,Torino vs AC Milan,Serie A - Italy,h2h,7.7,MEDIA,6.42,Torino@4.0 (BoyleSports)
 2026-07-01 00:05 UTC,VALUE_BET,Atalanta BC vs Sassuolo,Serie A - Italy,h2h,5.11,MEDIA,3.55,Sassuolo@4.6 (Winamax (FR))
+2026-07-01 11:24 UTC,VALUE_BET,Atalanta BC vs Sassuolo,Serie A - Italy,h2h,3.46,BASSA,2.44,Draw@4.55 (1xBet)
