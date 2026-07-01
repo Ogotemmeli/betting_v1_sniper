@@ -1,5 +1,5 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-06-26 13:11 UTC
+**Generato:** 2026-07-01 00:05 UTC
 **Bankroll:** €1000
 
 ---
@@ -12,21 +12,23 @@ _Nessun arbitraggio trovato in questo ciclo._
 
 | # | Match | Esito | Book | Quota | Fair | Edge% | Conf | Stake |
 |---|-------|-------|------|-------|------|-------|------|-------|
-| 1 | Torino vs AC Milan | Torino | 1xBet | 4.65 | 4.03 | 15.5% | 🟢 | €11 |
-| 2 | Torino vs AC Milan | Torino | Tipico | 4.60 | 4.03 | 14.3% | 🟢 | €10 |
-| 3 | Torino vs AC Milan | Torino | Marathon Bet | 4.55 | 4.03 | 13.1% | 🟢 | €9 |
-| 4 | Atalanta BC vs Sassuolo | Sassuolo | BoyleSports | 5.00 | 4.47 | 11.9% | 🟢 | €7 |
-| 5 | Torino vs AC Milan | Torino | Sky Bet | 4.50 | 4.03 | 11.8% | 🟢 | €8 |
-| 6 | Torino vs AC Milan | Torino | Betfred (UK) | 4.50 | 4.03 | 11.8% | 🟢 | €8 |
-| 7 | Torino vs AC Milan | Torino | Paddy Power | 4.40 | 4.03 | 9.3% | 🟢 | €7 |
-| 8 | Torino vs AC Milan | Torino | Bet Victor | 4.40 | 4.03 | 9.3% | 🟢 | €7 |
-| 9 | Udinese vs Como | Udinese | Betfair | 5.00 | 4.78 | 4.7% | 🔴 | €3 |
-| 10 | Udinese vs Como | Udinese | Betfair | 5.00 | 4.78 | 4.7% | 🔴 | €3 |
-| 11 | Torino vs AC Milan | Torino | Smarkets | 4.20 | 4.03 | 4.3% | 🔴 | €3 |
-| 12 | Torino vs AC Milan | Torino | Unibet (UK) | 4.20 | 4.03 | 4.3% | 🔴 | €3 |
-| 13 | AS Roma vs Fiorentina | Draw | 1xBet | 4.50 | 4.33 | 3.9% | 🔴 | €3 |
+| 1 | Torino vs AC Milan | Torino | 1xBet | 4.65 | 3.71 | 25.2% | 🟢 | €17 |
+| 2 | Torino vs AC Milan | Torino | Smarkets | 4.60 | 3.71 | 23.9% | 🟢 | €17 |
+| 3 | Torino vs AC Milan | Torino | Tipico | 4.60 | 3.71 | 23.9% | 🟢 | €17 |
+| 4 | Torino vs AC Milan | Torino | Marathon Bet | 4.55 | 3.71 | 22.5% | 🟢 | €16 |
+| 5 | Torino vs AC Milan | Torino | Sky Bet | 4.50 | 3.71 | 21.2% | 🟢 | €15 |
+| 6 | Torino vs AC Milan | Torino | Betfred (UK) | 4.50 | 3.71 | 21.2% | 🟢 | €15 |
+| 7 | Torino vs AC Milan | Torino | Paddy Power | 4.40 | 3.71 | 18.5% | 🟢 | €14 |
+| 8 | Torino vs AC Milan | Torino | Bet Victor | 4.40 | 3.71 | 18.5% | 🟢 | €14 |
+| 9 | Atalanta BC vs Sassuolo | Sassuolo | BoyleSports | 5.00 | 4.38 | 14.2% | 🟢 | €9 |
+| 10 | Torino vs AC Milan | Torino | Unibet (UK) | 4.20 | 3.71 | 13.1% | 🟢 | €10 |
+| 11 | Torino vs AC Milan | Torino | Winamax (DE) | 4.10 | 3.71 | 10.4% | 🟢 | €8 |
+| 12 | Torino vs AC Milan | Torino | Unibet (FR) | 4.10 | 3.71 | 10.4% | 🟢 | €8 |
+| 13 | Torino vs AC Milan | Torino | Betclic (FR) | 4.05 | 3.71 | 9.1% | 🟢 | €7 |
+| 14 | Torino vs AC Milan | Torino | BoyleSports | 4.00 | 3.71 | 7.7% | 🟡 | €6 |
+| 15 | Atalanta BC vs Sassuolo | Sassuolo | Winamax (FR) | 4.60 | 4.38 | 5.1% | 🟡 | €4 |
 
-_Top 13 su 13._
+_Top 15 su 15._
 
 ---
 ⚠️ Strumento di analisi. Non garantisce profitti.
