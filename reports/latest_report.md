@@ -1,11 +1,19 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-07-02 16:05 UTC
+**Generato:** 2026-07-02 18:25 UTC
 **Bankroll:** €1000
 
 ---
 ## 🎯 Arbitraggi
 
-_Nessun arbitraggio trovato in questo ciclo._
+### #1 — Barcelona vs Athletic Bilbao
+- **Lega:** La Liga - Spain | **Mercato:** totals
+- **Inizio:** 2026-08-16T19:00:00Z
+- **Margine:** 1.07% (€10.70)
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Over 3.5 | Tipico | 2.20 | 46.0% | €459.46 |
+| Under 3.5 | 1xBet | 1.87 | 54.0% | €540.54 |
 
 ---
 ## 📈 Value Bet
@@ -24,9 +32,9 @@ _Nessun arbitraggio trovato in questo ciclo._
 | 10 | Espanyol vs Levante | Levante | Sky Bet | 3.60 | 3.28 | 9.8% | 🟢 | €9 |
 | 11 | Espanyol vs Levante | Levante | LeoVegas | 3.60 | 3.28 | 9.8% | 🟢 | €9 |
 | 12 | Espanyol vs Levante | Levante | Betclic (FR) | 3.50 | 3.28 | 6.7% | 🟡 | €7 |
-| 13 | Alavés vs Getafe | Getafe | Tipico | 3.80 | 3.59 | 6.0% | 🟡 | €5 |
-| 14 | Celta Vigo vs CA Osasuna | CA Osasuna | Tipico | 4.10 | 3.88 | 5.7% | 🟡 | €5 |
-| 15 | Barcelona vs Athletic Bilbao | Under 3.5 | 1xBet | 1.87 | 1.79 | 4.3% | 🔴 | €12 |
+| 13 | Celta Vigo vs CA Osasuna | CA Osasuna | Tipico | 4.10 | 3.88 | 5.7% | 🟡 | €5 |
+| 14 | Barcelona vs Athletic Bilbao | Under 3.5 | 1xBet | 1.87 | 1.78 | 4.9% | 🔴 | €14 |
+| 15 | Alavés vs Getafe | Getafe | Tipico | 3.70 | 3.58 | 3.3% | 🔴 | €3 |
 
 _Top 15 su 15._
 
