@@ -1,5 +1,5 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-07-02 18:25 UTC
+**Generato:** 2026-07-02 21:07 UTC
 **Bankroll:** €1000
 
 ---
@@ -12,8 +12,8 @@
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Over 3.5 | Tipico | 2.20 | 46.0% | €459.46 |
 | Under 3.5 | 1xBet | 1.87 | 54.0% | €540.54 |
+| Over 3.5 | Tipico | 2.20 | 46.0% | €459.46 |
 
 ---
 ## 📈 Value Bet
