@@ -1,5 +1,5 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-07-03 10:36 UTC
+**Generato:** 2026-07-03 12:56 UTC
 **Bankroll:** €1000
 
 ---
@@ -34,7 +34,7 @@
 | 12 | Torino vs AC Milan | Torino | Bet Victor | 4.40 | 4.03 | 9.2% | 🟢 | €7 |
 | 13 | Espanyol vs Levante | Levante | Bet Victor | 3.70 | 3.43 | 7.8% | 🟡 | €7 |
 | 14 | Barcelona vs Athletic Bilbao | Under 3.5 | 1xBet | 1.87 | 1.76 | 6.5% | 🟡 | €19 |
-| 15 | Celta Vigo vs CA Osasuna | CA Osasuna | Tipico | 4.10 | 3.87 | 6.0% | 🟡 | €5 |
+| 15 | Celta Vigo vs CA Osasuna | CA Osasuna | Tipico | 4.10 | 3.90 | 5.2% | 🟡 | €4 |
 | 16 | Deportivo La Coruña vs Elche | Over 2.5 | 1xBet | 2.45 | 2.33 | 5.0% | 🔴 | €9 |
 | 17 | Espanyol vs Levante | Levante | Paddy Power | 3.60 | 3.43 | 4.9% | 🔴 | €5 |
 | 18 | Espanyol vs Levante | Levante | Unibet (FR) | 3.60 | 3.43 | 4.9% | 🔴 | €5 |
