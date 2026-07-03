@@ -1,5 +1,5 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-07-02 21:07 UTC
+**Generato:** 2026-07-03 00:05 UTC
 **Bankroll:** €1000
 
 ---
@@ -20,23 +20,28 @@
 
 | # | Match | Esito | Book | Quota | Fair | Edge% | Conf | Stake |
 |---|-------|-------|------|-------|------|-------|------|-------|
-| 1 | Espanyol vs Levante | Levante | 1xBet | 4.23 | 3.28 | 29.0% | 🟢 | €22 |
-| 2 | Espanyol vs Levante | Levante | Tipico | 4.20 | 3.28 | 28.1% | 🟢 | €22 |
-| 3 | Espanyol vs Levante | Levante | Codere (IT) | 3.80 | 3.28 | 15.9% | 🟢 | €14 |
-| 4 | Espanyol vs Levante | Levante | Betfred (UK) | 3.75 | 3.28 | 14.4% | 🟢 | €13 |
-| 5 | Espanyol vs Levante | Levante | Bet Victor | 3.70 | 3.28 | 12.8% | 🟢 | €12 |
-| 6 | Espanyol vs Levante | Levante | Paddy Power | 3.60 | 3.28 | 9.8% | 🟢 | €9 |
-| 7 | Espanyol vs Levante | Levante | Unibet (FR) | 3.60 | 3.28 | 9.8% | 🟢 | €9 |
-| 8 | Espanyol vs Levante | Levante | Unibet (UK) | 3.60 | 3.28 | 9.8% | 🟢 | €9 |
-| 9 | Espanyol vs Levante | Levante | Winamax (DE) | 3.60 | 3.28 | 9.8% | 🟢 | €9 |
-| 10 | Espanyol vs Levante | Levante | Sky Bet | 3.60 | 3.28 | 9.8% | 🟢 | €9 |
-| 11 | Espanyol vs Levante | Levante | LeoVegas | 3.60 | 3.28 | 9.8% | 🟢 | €9 |
-| 12 | Espanyol vs Levante | Levante | Betclic (FR) | 3.50 | 3.28 | 6.7% | 🟡 | €7 |
-| 13 | Celta Vigo vs CA Osasuna | CA Osasuna | Tipico | 4.10 | 3.88 | 5.7% | 🟡 | €5 |
-| 14 | Barcelona vs Athletic Bilbao | Under 3.5 | 1xBet | 1.87 | 1.78 | 4.9% | 🔴 | €14 |
-| 15 | Alavés vs Getafe | Getafe | Tipico | 3.70 | 3.58 | 3.3% | 🔴 | €3 |
+| 1 | Espanyol vs Levante | Levante | 1xBet | 4.23 | 3.43 | 23.3% | 🟢 | €18 |
+| 2 | Espanyol vs Levante | Levante | Tipico | 4.20 | 3.43 | 22.5% | 🟢 | €18 |
+| 3 | Espanyol vs Levante | Levante | Codere (IT) | 3.80 | 3.43 | 10.8% | 🟢 | €10 |
+| 4 | Espanyol vs Levante | Levante | Betfred (UK) | 3.75 | 3.43 | 9.3% | 🟢 | €8 |
+| 5 | Espanyol vs Levante | Levante | Bet Victor | 3.70 | 3.43 | 7.9% | 🟡 | €7 |
+| 6 | Barcelona vs Athletic Bilbao | Under 3.5 | 1xBet | 1.87 | 1.76 | 6.5% | 🟡 | €19 |
+| 7 | Celta Vigo vs CA Osasuna | CA Osasuna | Tipico | 4.10 | 3.87 | 6.0% | 🟡 | €5 |
+| 8 | Deportivo La Coruña vs Elche | Over 2.5 | 1xBet | 2.45 | 2.33 | 5.0% | 🔴 | €9 |
+| 9 | Espanyol vs Levante | Levante | Paddy Power | 3.60 | 3.43 | 5.0% | 🔴 | €5 |
+| 10 | Espanyol vs Levante | Levante | Unibet (FR) | 3.60 | 3.43 | 5.0% | 🔴 | €5 |
+| 11 | Espanyol vs Levante | Levante | Unibet (UK) | 3.60 | 3.43 | 5.0% | 🔴 | €5 |
+| 12 | Espanyol vs Levante | Levante | Winamax (DE) | 3.60 | 3.43 | 5.0% | 🔴 | €5 |
+| 13 | Espanyol vs Levante | Levante | Sky Bet | 3.60 | 3.43 | 5.0% | 🔴 | €5 |
+| 14 | Espanyol vs Levante | Levante | LeoVegas | 3.60 | 3.43 | 5.0% | 🔴 | €5 |
+| 15 | Espanyol vs Levante | Levante | LeoVegas (SE | 3.60 | 3.43 | 5.0% | 🔴 | €5 |
+| 16 | Espanyol vs Levante | Levante | Casumo | 3.60 | 3.43 | 5.0% | 🔴 | €5 |
+| 17 | Espanyol vs Levante | Levante | Unibet (SE) | 3.60 | 3.43 | 5.0% | 🔴 | €5 |
+| 18 | Espanyol vs Levante | Levante | Grosvenor | 3.60 | 3.43 | 5.0% | 🔴 | €5 |
+| 19 | Espanyol vs Levante | Levante | Unibet (NL) | 3.60 | 3.43 | 5.0% | 🔴 | €5 |
+| 20 | Espanyol vs Levante | Over 2.5 | 1xBet | 2.25 | 2.15 | 4.6% | 🔴 | €9 |
 
-_Top 15 su 15._
+_Top 20 su 20._
 
 ---
 ⚠️ Strumento di analisi. Non garantisce profitti.
