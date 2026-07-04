@@ -1,5 +1,5 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-07-03 21:07 UTC
+**Generato:** 2026-07-04 00:04 UTC
 **Bankroll:** €1000
 
 ---
@@ -12,9 +12,9 @@
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| AS Monaco | 1xBet | 1.92 | 52.6% | €526.16 |
 | Draw | Coolbet | 4.20 | 24.1% | €240.53 |
 | Le Havre | 1xBet | 4.33 | 23.3% | €233.31 |
+| AS Monaco | 1xBet | 1.92 | 52.6% | €526.16 |
 
 ---
 ## 📈 Value Bet
@@ -29,30 +29,30 @@
 | 6 | Elversberg vs Bayer Leverkus | Draw | Betfred (UK) | 5.00 | 4.09 | 22.4% | 🟢 | €14 |
 | 7 | Elversberg vs Bayer Leverkus | Draw | Codere (IT) | 5.00 | 4.09 | 22.4% | 🟢 | €14 |
 | 8 | Torino vs AC Milan | Torino | Marathon Bet | 4.55 | 3.74 | 21.5% | 🟢 | €15 |
-| 9 | RB Leipzig vs Borussia Monch | Draw | Marathon Bet | 4.75 | 3.92 | 21.2% | 🟢 | €14 |
-| 10 | RB Leipzig vs Borussia Monch | Draw | Sky Bet | 4.75 | 3.92 | 21.2% | 🟢 | €14 |
-| 11 | RB Leipzig vs Borussia Monch | Draw | Paddy Power | 4.75 | 3.92 | 21.2% | 🟢 | €14 |
-| 12 | Torino vs AC Milan | Torino | Sky Bet | 4.50 | 3.74 | 20.2% | 🟢 | €14 |
-| 13 | Torino vs AC Milan | Torino | Betfred (UK) | 4.50 | 3.74 | 20.2% | 🟢 | €14 |
-| 14 | Elversberg vs Bayer Leverkus | Draw | Winamax (DE) | 4.90 | 4.09 | 19.9% | 🟢 | €13 |
-| 15 | Augsburg vs FC Schalke 04 | Draw | 1xBet | 4.21 | 3.55 | 18.7% | 🟢 | €15 |
-| 16 | Torino vs AC Milan | Torino | Paddy Power | 4.40 | 3.74 | 17.5% | 🟢 | €13 |
-| 17 | Torino vs AC Milan | Torino | Bet Victor | 4.40 | 3.74 | 17.5% | 🟢 | €13 |
-| 18 | Elversberg vs Bayer Leverkus | Draw | LeoVegas | 4.80 | 4.09 | 17.5% | 🟢 | €12 |
-| 19 | Elversberg vs Bayer Leverkus | Draw | Paddy Power | 4.75 | 4.09 | 16.2% | 🟢 | €11 |
-| 20 | Elversberg vs Bayer Leverkus | Draw | Unibet (UK) | 4.75 | 4.09 | 16.2% | 🟢 | €11 |
-| 21 | FSV Mainz 05 vs SC Paderborn | Draw | 1xBet | 4.30 | 3.71 | 16.0% | 🟢 | €12 |
-| 22 | 1. FC Köln vs TSG Hoffenheim | Draw | Betfred (UK) | 4.00 | 3.46 | 15.6% | 🟢 | €13 |
-| 23 | RC Lens vs Auxerre | Draw | 1xBet | 4.54 | 3.95 | 14.9% | 🟢 | €11 |
-| 24 | RB Leipzig vs Borussia Monch | Draw | Tipico | 4.50 | 3.92 | 14.8% | 🟢 | €11 |
-| 25 | RB Leipzig vs Borussia Monch | Draw | Codere (IT) | 4.50 | 3.92 | 14.8% | 🟢 | €11 |
-| 26 | Borussia Dortmund vs Hamburg | Draw | Paddy Power | 5.00 | 4.38 | 14.2% | 🟢 | €9 |
-| 27 | Borussia Dortmund vs Hamburg | Draw | Unibet (UK) | 5.00 | 4.38 | 14.2% | 🟢 | €9 |
-| 28 | RC Lens vs Auxerre | Draw | Coolbet | 4.50 | 3.95 | 13.9% | 🟢 | €10 |
-| 29 | Torino vs AC Milan | Torino | Unibet (UK) | 4.25 | 3.74 | 13.5% | 🟢 | €10 |
-| 30 | FSV Mainz 05 vs SC Paderborn | Draw | Tipico | 4.20 | 3.71 | 13.3% | 🟢 | €10 |
+| 9 | Espanyol vs Levante | Levante | Tipico | 4.20 | 3.46 | 21.5% | 🟢 | €17 |
+| 10 | RB Leipzig vs Borussia Monch | Draw | Marathon Bet | 4.75 | 3.92 | 21.2% | 🟢 | €14 |
+| 11 | RB Leipzig vs Borussia Monch | Draw | Sky Bet | 4.75 | 3.92 | 21.2% | 🟢 | €14 |
+| 12 | RB Leipzig vs Borussia Monch | Draw | Paddy Power | 4.75 | 3.92 | 21.2% | 🟢 | €14 |
+| 13 | Torino vs AC Milan | Torino | Sky Bet | 4.50 | 3.74 | 20.2% | 🟢 | €14 |
+| 14 | Torino vs AC Milan | Torino | Betfred (UK) | 4.50 | 3.74 | 20.2% | 🟢 | €14 |
+| 15 | Elversberg vs Bayer Leverkus | Draw | Winamax (DE) | 4.90 | 4.09 | 19.9% | 🟢 | €13 |
+| 16 | Augsburg vs FC Schalke 04 | Draw | 1xBet | 4.21 | 3.55 | 18.7% | 🟢 | €15 |
+| 17 | Torino vs AC Milan | Torino | Paddy Power | 4.40 | 3.74 | 17.5% | 🟢 | €13 |
+| 18 | Torino vs AC Milan | Torino | Bet Victor | 4.40 | 3.74 | 17.5% | 🟢 | €13 |
+| 19 | Elversberg vs Bayer Leverkus | Draw | LeoVegas | 4.80 | 4.09 | 17.5% | 🟢 | €12 |
+| 20 | Elversberg vs Bayer Leverkus | Draw | Paddy Power | 4.75 | 4.09 | 16.2% | 🟢 | €11 |
+| 21 | Elversberg vs Bayer Leverkus | Draw | Unibet (UK) | 4.75 | 4.09 | 16.2% | 🟢 | €11 |
+| 22 | FSV Mainz 05 vs SC Paderborn | Draw | 1xBet | 4.30 | 3.71 | 16.0% | 🟢 | €12 |
+| 23 | Espanyol vs Levante | Levante | Codere (IT) | 4.00 | 3.46 | 15.7% | 🟢 | €13 |
+| 24 | 1. FC Köln vs TSG Hoffenheim | Draw | Betfred (UK) | 4.00 | 3.46 | 15.6% | 🟢 | €13 |
+| 25 | RC Lens vs Auxerre | Draw | 1xBet | 4.54 | 3.95 | 14.9% | 🟢 | €11 |
+| 26 | RB Leipzig vs Borussia Monch | Draw | Tipico | 4.50 | 3.92 | 14.8% | 🟢 | €11 |
+| 27 | RB Leipzig vs Borussia Monch | Draw | Codere (IT) | 4.50 | 3.92 | 14.8% | 🟢 | €11 |
+| 28 | Borussia Dortmund vs Hamburg | Draw | Paddy Power | 5.00 | 4.38 | 14.2% | 🟢 | €9 |
+| 29 | Borussia Dortmund vs Hamburg | Draw | Unibet (UK) | 5.00 | 4.38 | 14.2% | 🟢 | €9 |
+| 30 | Espanyol vs Levante | Levante | 1xBet | 3.94 | 3.46 | 14.0% | 🟢 | €12 |
 
-_Top 30 su 134._
+_Top 30 su 150._
 
 ---
 ⚠️ Strumento di analisi. Non garantisce profitti.

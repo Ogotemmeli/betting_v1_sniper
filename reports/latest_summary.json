@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-03 21:07 UTC",
+  "timestamp": "2026-07-04 00:04 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
   "arbitrages_found": 1,
-  "value_bets_found": 134,
+  "value_bets_found": 150,
   "best_arb_margin": 1.012,
   "best_value_edge": 27.57,
   "arbitrages": [
@@ -17,12 +17,6 @@
       "margin_pct": 1.012,
       "guaranteed_profit": 10.12,
       "stakes": {
-        "AS Monaco": {
-          "bookmaker": "1xBet",
-          "odds": 1.92,
-          "stake_pct": 52.62,
-          "stake_amount": 526.16
-        },
         "Draw": {
           "bookmaker": "Coolbet",
           "odds": 4.2,
@@ -34,10 +28,16 @@
           "odds": 4.33,
           "stake_pct": 23.33,
           "stake_amount": 233.31
+        },
+        "AS Monaco": {
+          "bookmaker": "1xBet",
+          "odds": 1.92,
+          "stake_pct": 52.62,
+          "stake_amount": 526.16
         }
       },
       "num_bookmakers": 14,
-      "found_at": "2026-07-03T21:07:38.614794+00:00"
+      "found_at": "2026-07-04T00:04:38.907446+00:00"
     }
   ],
   "value_bets": [
@@ -59,7 +59,7 @@
       "suggested_stake": 17.23,
       "expected_value": 27.57,
       "confidence": "ALTA",
-      "found_at": "2026-07-03T21:07:38.614318+00:00"
+      "found_at": "2026-07-04T00:04:38.906984+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -79,7 +79,7 @@
       "suggested_stake": 16.59,
       "expected_value": 24.22,
       "confidence": "ALTA",
-      "found_at": "2026-07-03T21:07:38.612876+00:00"
+      "found_at": "2026-07-04T00:04:38.905452+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -99,7 +99,7 @@
       "suggested_stake": 15.17,
       "expected_value": 23.24,
       "confidence": "ALTA",
-      "found_at": "2026-07-03T21:07:38.614294+00:00"
+      "found_at": "2026-07-04T00:04:38.906959+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -119,7 +119,7 @@
       "suggested_stake": 15.89,
       "expected_value": 22.88,
       "confidence": "ALTA",
-      "found_at": "2026-07-03T21:07:38.612867+00:00"
+      "found_at": "2026-07-04T00:04:38.905446+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -139,7 +139,7 @@
       "suggested_stake": 13.98,
       "expected_value": 22.37,
       "confidence": "ALTA",
-      "found_at": "2026-07-03T21:07:38.614082+00:00"
+      "found_at": "2026-07-04T00:04:38.906770+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -159,7 +159,7 @@
       "suggested_stake": 13.98,
       "expected_value": 22.37,
       "confidence": "ALTA",
-      "found_at": "2026-07-03T21:07:38.614089+00:00"
+      "found_at": "2026-07-04T00:04:38.906776+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -179,7 +179,7 @@
       "suggested_stake": 13.98,
       "expected_value": 22.37,
       "confidence": "ALTA",
-      "found_at": "2026-07-03T21:07:38.614131+00:00"
+      "found_at": "2026-07-04T00:04:38.906819+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -199,7 +199,27 @@
       "suggested_stake": 15.17,
       "expected_value": 21.54,
       "confidence": "ALTA",
-      "found_at": "2026-07-03T21:07:38.612812+00:00"
+      "found_at": "2026-07-04T00:04:38.905394+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "4e24891d0ee382bfda6305eabbc54754",
+      "league": "La Liga - Spain",
+      "match": "Espanyol vs Levante",
+      "commence": "2026-08-16T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Levante",
+      "bookmaker": "Tipico",
+      "odds": 4.2,
+      "fair_odds": 3.457,
+      "true_prob_pct": 28.92,
+      "implied_prob_pct": 23.81,
+      "edge_pct": 21.48,
+      "kelly_stake_pct": 1.68,
+      "suggested_stake": 16.78,
+      "expected_value": 21.48,
+      "confidence": "ALTA",
+      "found_at": "2026-07-04T00:04:38.906092+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -219,27 +239,7 @@
       "suggested_stake": 14.13,
       "expected_value": 21.2,
       "confidence": "ALTA",
-      "found_at": "2026-07-03T21:07:38.614307+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "831beb2ef9729a813b44d2a50dd19970",
-      "league": "Bundesliga - Germany",
-      "match": "RB Leipzig vs Borussia Monchengladbach",
-      "commence": "2026-08-29T13:30:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "Sky Bet",
-      "odds": 4.75,
-      "fair_odds": 3.919,
-      "true_prob_pct": 25.51,
-      "implied_prob_pct": 21.05,
-      "edge_pct": 21.2,
-      "kelly_stake_pct": 1.41,
-      "suggested_stake": 14.13,
-      "expected_value": 21.2,
-      "confidence": "ALTA",
-      "found_at": "2026-07-03T21:07:38.614312+00:00"
+      "found_at": "2026-07-04T00:04:38.906972+00:00"
     }
   ]
 }
