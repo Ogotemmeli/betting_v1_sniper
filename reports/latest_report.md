@@ -1,5 +1,5 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-07-04 10:10 UTC
+**Generato:** 2026-07-04 12:07 UTC
 **Bankroll:** €1000
 
 ---
@@ -8,13 +8,13 @@
 ### #1 — Atlético Madrid vs Málaga
 - **Lega:** La Liga - Spain | **Mercato:** h2h
 - **Inizio:** 2026-08-16T19:00:00Z
-- **Margine:** 0.74% (€7.42)
+- **Margine:** 0.63% (€6.31)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Málaga | 1xBet | 14.40 | 7.0% | €69.96 |
-| Draw | 1xBet | 6.04 | 16.7% | €166.80 |
-| Atlético Madrid | LeoVegas (SE) | 1.32 | 76.3% | €763.24 |
+| Málaga | 1xBet | 14.40 | 7.0% | €69.89 |
+| Atlético Madrid | LeoVegas (SE) | 1.32 | 76.2% | €762.39 |
+| Draw | Winamax (DE) | 6.00 | 16.8% | €167.73 |
 
 ---
 ## 📈 Value Bet

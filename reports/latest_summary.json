@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-04 10:10 UTC",
+  "timestamp": "2026-07-04 12:07 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
   "arbitrages_found": 1,
   "value_bets_found": 147,
-  "best_arb_margin": 0.742,
+  "best_arb_margin": 0.631,
   "best_value_edge": 27.46,
   "arbitrages": [
     {
@@ -14,30 +14,30 @@
       "match": "Atlético Madrid vs Málaga",
       "commence": "2026-08-16T19:00:00Z",
       "market": "h2h",
-      "margin_pct": 0.742,
-      "guaranteed_profit": 7.42,
+      "margin_pct": 0.631,
+      "guaranteed_profit": 6.31,
       "stakes": {
         "Málaga": {
           "bookmaker": "1xBet",
           "odds": 14.4,
-          "stake_pct": 7.0,
-          "stake_amount": 69.96
-        },
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 6.04,
-          "stake_pct": 16.68,
-          "stake_amount": 166.8
+          "stake_pct": 6.99,
+          "stake_amount": 69.89
         },
         "Atlético Madrid": {
           "bookmaker": "LeoVegas (SE)",
           "odds": 1.32,
-          "stake_pct": 76.32,
-          "stake_amount": 763.24
+          "stake_pct": 76.24,
+          "stake_amount": 762.39
+        },
+        "Draw": {
+          "bookmaker": "Winamax (DE)",
+          "odds": 6.0,
+          "stake_pct": 16.77,
+          "stake_amount": 167.73
         }
       },
       "num_bookmakers": 20,
-      "found_at": "2026-07-04T10:10:34.819989+00:00"
+      "found_at": "2026-07-04T12:07:12.257824+00:00"
     }
   ],
   "value_bets": [
@@ -59,7 +59,7 @@
       "suggested_stake": 17.16,
       "expected_value": 27.46,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T10:10:34.821193+00:00"
+      "found_at": "2026-07-04T12:07:12.259002+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -79,7 +79,7 @@
       "suggested_stake": 15.72,
       "expected_value": 24.4,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T10:10:34.821170+00:00"
+      "found_at": "2026-07-04T12:07:12.258978+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -99,7 +99,7 @@
       "suggested_stake": 16.59,
       "expected_value": 24.22,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T10:10:34.819561+00:00"
+      "found_at": "2026-07-04T12:07:12.257467+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -119,7 +119,7 @@
       "suggested_stake": 15.89,
       "expected_value": 22.88,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T10:10:34.819555+00:00"
+      "found_at": "2026-07-04T12:07:12.257461+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -139,7 +139,7 @@
       "suggested_stake": 14.71,
       "expected_value": 22.36,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T10:10:34.821182+00:00"
+      "found_at": "2026-07-04T12:07:12.258991+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -159,7 +159,7 @@
       "suggested_stake": 15.17,
       "expected_value": 21.54,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T10:10:34.819484+00:00"
+      "found_at": "2026-07-04T12:07:12.257409+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -179,7 +179,7 @@
       "suggested_stake": 14.06,
       "expected_value": 21.09,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T10:10:34.821188+00:00"
+      "found_at": "2026-07-04T12:07:12.258996+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -199,7 +199,7 @@
       "suggested_stake": 14.06,
       "expected_value": 21.09,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T10:10:34.821202+00:00"
+      "found_at": "2026-07-04T12:07:12.259010+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -219,7 +219,7 @@
       "suggested_stake": 12.96,
       "expected_value": 20.74,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T10:10:34.820977+00:00"
+      "found_at": "2026-07-04T12:07:12.258789+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -239,7 +239,7 @@
       "suggested_stake": 12.96,
       "expected_value": 20.74,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T10:10:34.820984+00:00"
+      "found_at": "2026-07-04T12:07:12.258796+00:00"
     }
   ]
 }
