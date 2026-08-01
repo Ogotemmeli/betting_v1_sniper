@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-01 00:02 UTC",
+  "timestamp": "2026-08-01 09:59 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
   "arbitrages_found": 3,
-  "value_bets_found": 74,
+  "value_bets_found": 65,
   "best_arb_margin": 1.407,
-  "best_value_edge": 10.63,
+  "best_value_edge": 10.32,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
@@ -17,17 +17,17 @@
       "margin_pct": 1.407,
       "guaranteed_profit": 14.07,
       "stakes": {
-        "Inter Milan": {
-          "bookmaker": "1xBet",
-          "odds": 1.26,
-          "stake_pct": 80.5,
-          "stake_amount": 804.98
-        },
         "Draw": {
           "bookmaker": "Smarkets",
           "odds": 7.4,
           "stake_pct": 13.71,
           "stake_amount": 137.06
+        },
+        "Inter Milan": {
+          "bookmaker": "1xBet",
+          "odds": 1.26,
+          "stake_pct": 80.5,
+          "stake_amount": 804.98
         },
         "Monza": {
           "bookmaker": "Betfair",
@@ -37,7 +37,7 @@
         }
       },
       "num_bookmakers": 38,
-      "found_at": "2026-08-01T00:02:13.139505+00:00"
+      "found_at": "2026-08-01T09:59:59.387416+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -49,11 +49,11 @@
       "margin_pct": 1.144,
       "guaranteed_profit": 11.44,
       "stakes": {
-        "Draw": {
-          "bookmaker": "Betfred (UK)",
-          "odds": 4.0,
-          "stake_pct": 25.29,
-          "stake_amount": 252.89
+        "Liverpool": {
+          "bookmaker": "1xBet",
+          "odds": 2.25,
+          "stake_pct": 44.96,
+          "stake_amount": 449.59
         },
         "Newcastle United": {
           "bookmaker": "Betfair",
@@ -61,15 +61,15 @@
           "stake_pct": 29.75,
           "stake_amount": 297.52
         },
-        "Liverpool": {
-          "bookmaker": "1xBet",
-          "odds": 2.25,
-          "stake_pct": 44.96,
-          "stake_amount": 449.59
+        "Draw": {
+          "bookmaker": "Betfred (UK)",
+          "odds": 4.0,
+          "stake_pct": 25.29,
+          "stake_amount": 252.89
         }
       },
       "num_bookmakers": 39,
-      "found_at": "2026-08-01T00:02:13.138997+00:00"
+      "found_at": "2026-08-01T09:59:59.386943+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -87,21 +87,21 @@
           "stake_pct": 13.41,
           "stake_amount": 134.14
         },
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 5.69,
-          "stake_pct": 17.68,
-          "stake_amount": 176.81
-        },
         "Paris Saint Germain": {
           "bookmaker": "1xBet",
           "odds": 1.46,
           "stake_pct": 68.91,
           "stake_amount": 689.06
+        },
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 5.69,
+          "stake_pct": 17.68,
+          "stake_amount": 176.81
         }
       },
       "num_bookmakers": 36,
-      "found_at": "2026-08-01T00:02:13.144899+00:00"
+      "found_at": "2026-08-01T09:59:59.392505+00:00"
     }
   ],
   "value_bets": [
@@ -115,95 +115,55 @@
       "outcome": "Strasbourg",
       "bookmaker": "Coolbet",
       "odds": 5.0,
-      "fair_odds": 4.52,
-      "true_prob_pct": 22.13,
+      "fair_odds": 4.532,
+      "true_prob_pct": 22.06,
       "implied_prob_pct": 20.0,
-      "edge_pct": 10.63,
-      "kelly_stake_pct": 0.66,
-      "suggested_stake": 6.64,
-      "expected_value": 10.63,
-      "confidence": "ALTA",
-      "found_at": "2026-08-01T00:02:13.143691+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "831beb2ef9729a813b44d2a50dd19970",
-      "league": "Bundesliga - Germany",
-      "match": "RB Leipzig vs Borussia Monchengladbach",
-      "commence": "2026-08-29T13:30:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "Tipico",
-      "odds": 4.8,
-      "fair_odds": 4.35,
-      "true_prob_pct": 22.99,
-      "implied_prob_pct": 20.83,
-      "edge_pct": 10.33,
-      "kelly_stake_pct": 0.68,
-      "suggested_stake": 6.8,
-      "expected_value": 10.33,
-      "confidence": "ALTA",
-      "found_at": "2026-08-01T00:02:13.142607+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "5d3afd8c18aec6fac47b3c1244bd9002",
-      "league": "Bundesliga - Germany",
-      "match": "SC Freiburg vs Werder Bremen",
-      "commence": "2026-08-30T13:30:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "Coolbet",
-      "odds": 3.85,
-      "fair_odds": 3.503,
-      "true_prob_pct": 28.54,
-      "implied_prob_pct": 25.97,
-      "edge_pct": 9.89,
-      "kelly_stake_pct": 0.87,
-      "suggested_stake": 8.68,
-      "expected_value": 9.89,
-      "confidence": "ALTA",
-      "found_at": "2026-08-01T00:02:13.143356+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "831beb2ef9729a813b44d2a50dd19970",
-      "league": "Bundesliga - Germany",
-      "match": "RB Leipzig vs Borussia Monchengladbach",
-      "commence": "2026-08-29T13:30:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "1xBet",
-      "odds": 4.78,
-      "fair_odds": 4.35,
-      "true_prob_pct": 22.99,
-      "implied_prob_pct": 20.92,
-      "edge_pct": 9.87,
+      "edge_pct": 10.32,
       "kelly_stake_pct": 0.65,
-      "suggested_stake": 6.53,
-      "expected_value": 9.87,
+      "suggested_stake": 6.45,
+      "expected_value": 10.32,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T00:02:13.142600+00:00"
+      "found_at": "2026-08-01T09:59:59.391249+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "831beb2ef9729a813b44d2a50dd19970",
-      "league": "Bundesliga - Germany",
-      "match": "RB Leipzig vs Borussia Monchengladbach",
-      "commence": "2026-08-29T13:30:00Z",
+      "event_id": "600aeb3560814afc9a02bec5126b249d",
+      "league": "Ligue 1 - France",
+      "match": "Marseille vs Strasbourg",
+      "commence": "2026-08-21T18:45:00Z",
       "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "Coolbet",
-      "odds": 4.75,
-      "fair_odds": 4.35,
-      "true_prob_pct": 22.99,
-      "implied_prob_pct": 21.05,
-      "edge_pct": 9.18,
-      "kelly_stake_pct": 0.61,
-      "suggested_stake": 6.12,
-      "expected_value": 9.18,
+      "outcome": "Strasbourg",
+      "bookmaker": "LeoVegas (SE)",
+      "odds": 5.0,
+      "fair_odds": 4.532,
+      "true_prob_pct": 22.06,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 10.32,
+      "kelly_stake_pct": 0.65,
+      "suggested_stake": 6.45,
+      "expected_value": 10.32,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T00:02:13.142669+00:00"
+      "found_at": "2026-08-01T09:59:59.391255+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "600aeb3560814afc9a02bec5126b249d",
+      "league": "Ligue 1 - France",
+      "match": "Marseille vs Strasbourg",
+      "commence": "2026-08-21T18:45:00Z",
+      "market": "h2h",
+      "outcome": "Strasbourg",
+      "bookmaker": "Unibet (SE)",
+      "odds": 5.0,
+      "fair_odds": 4.532,
+      "true_prob_pct": 22.06,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 10.32,
+      "kelly_stake_pct": 0.65,
+      "suggested_stake": 6.45,
+      "expected_value": 10.32,
+      "confidence": "ALTA",
+      "found_at": "2026-08-01T09:59:59.391280+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -223,7 +183,7 @@
       "suggested_stake": 7.64,
       "expected_value": 9.17,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T00:02:13.143480+00:00"
+      "found_at": "2026-08-01T09:59:59.391081+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -243,67 +203,107 @@
       "suggested_stake": 7.64,
       "expected_value": 9.17,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T00:02:13.143490+00:00"
+      "found_at": "2026-08-01T09:59:59.391087+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "600aeb3560814afc9a02bec5126b249d",
-      "league": "Ligue 1 - France",
-      "match": "Marseille vs Strasbourg",
-      "commence": "2026-08-21T18:45:00Z",
-      "market": "h2h",
-      "outcome": "Strasbourg",
-      "bookmaker": "LeoVegas (SE)",
-      "odds": 4.9,
-      "fair_odds": 4.52,
-      "true_prob_pct": 22.13,
-      "implied_prob_pct": 20.41,
-      "edge_pct": 8.41,
-      "kelly_stake_pct": 0.54,
-      "suggested_stake": 5.39,
-      "expected_value": 8.41,
-      "confidence": "ALTA",
-      "found_at": "2026-08-01T00:02:13.143700+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "600aeb3560814afc9a02bec5126b249d",
-      "league": "Ligue 1 - France",
-      "match": "Marseille vs Strasbourg",
-      "commence": "2026-08-21T18:45:00Z",
-      "market": "h2h",
-      "outcome": "Strasbourg",
-      "bookmaker": "Unibet (SE)",
-      "odds": 4.9,
-      "fair_odds": 4.52,
-      "true_prob_pct": 22.13,
-      "implied_prob_pct": 20.41,
-      "edge_pct": 8.41,
-      "kelly_stake_pct": 0.54,
-      "suggested_stake": 5.39,
-      "expected_value": 8.41,
-      "confidence": "ALTA",
-      "found_at": "2026-08-01T00:02:13.143717+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "831beb2ef9729a813b44d2a50dd19970",
+      "event_id": "bf5e00842d79a39d57b99fce07a1257e",
       "league": "Bundesliga - Germany",
-      "match": "RB Leipzig vs Borussia Monchengladbach",
+      "match": "Elversberg vs Bayer Leverkusen",
       "commence": "2026-08-29T13:30:00Z",
       "market": "h2h",
       "outcome": "Draw",
-      "bookmaker": "Marathon Bet",
+      "bookmaker": "Coolbet",
+      "odds": 4.75,
+      "fair_odds": 4.407,
+      "true_prob_pct": 22.69,
+      "implied_prob_pct": 21.05,
+      "edge_pct": 7.79,
+      "kelly_stake_pct": 0.52,
+      "suggested_stake": 5.19,
+      "expected_value": 7.79,
+      "confidence": "MEDIA",
+      "found_at": "2026-08-01T09:59:59.390260+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "d44b7b56dadba2e7606cdceec655e62f",
+      "league": "Serie A - Italy",
+      "match": "Atalanta BC vs Sassuolo",
+      "commence": "2026-08-23T18:45:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Betfred (UK)",
+      "odds": 4.5,
+      "fair_odds": 4.175,
+      "true_prob_pct": 23.95,
+      "implied_prob_pct": 22.22,
+      "edge_pct": 7.78,
+      "kelly_stake_pct": 0.56,
+      "suggested_stake": 5.56,
+      "expected_value": 7.78,
+      "confidence": "MEDIA",
+      "found_at": "2026-08-01T09:59:59.388195+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "600aeb3560814afc9a02bec5126b249d",
+      "league": "Ligue 1 - France",
+      "match": "Marseille vs Strasbourg",
+      "commence": "2026-08-21T18:45:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "1xBet",
+      "odds": 4.62,
+      "fair_odds": 4.293,
+      "true_prob_pct": 23.3,
+      "implied_prob_pct": 21.65,
+      "edge_pct": 7.63,
+      "kelly_stake_pct": 0.53,
+      "suggested_stake": 5.27,
+      "expected_value": 7.63,
+      "confidence": "MEDIA",
+      "found_at": "2026-08-01T09:59:59.391319+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "bf5e00842d79a39d57b99fce07a1257e",
+      "league": "Bundesliga - Germany",
+      "match": "Elversberg vs Bayer Leverkusen",
+      "commence": "2026-08-29T13:30:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "1xBet",
+      "odds": 4.72,
+      "fair_odds": 4.407,
+      "true_prob_pct": 22.69,
+      "implied_prob_pct": 21.19,
+      "edge_pct": 7.11,
+      "kelly_stake_pct": 0.48,
+      "suggested_stake": 4.78,
+      "expected_value": 7.11,
+      "confidence": "MEDIA",
+      "found_at": "2026-08-01T09:59:59.390217+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "bf5e00842d79a39d57b99fce07a1257e",
+      "league": "Bundesliga - Germany",
+      "match": "Elversberg vs Bayer Leverkusen",
+      "commence": "2026-08-29T13:30:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Winamax (DE)",
       "odds": 4.7,
-      "fair_odds": 4.35,
-      "true_prob_pct": 22.99,
+      "fair_odds": 4.407,
+      "true_prob_pct": 22.69,
       "implied_prob_pct": 21.28,
-      "edge_pct": 8.04,
-      "kelly_stake_pct": 0.54,
-      "suggested_stake": 5.43,
-      "expected_value": 8.04,
-      "confidence": "ALTA",
-      "found_at": "2026-08-01T00:02:13.142613+00:00"
+      "edge_pct": 6.65,
+      "kelly_stake_pct": 0.45,
+      "suggested_stake": 4.49,
+      "expected_value": 6.65,
+      "confidence": "MEDIA",
+      "found_at": "2026-08-01T09:59:59.390240+00:00"
     }
   ]
 }
