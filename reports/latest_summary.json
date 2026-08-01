@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-01 09:59 UTC",
+  "timestamp": "2026-08-01 12:01 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
   "arbitrages_found": 3,
-  "value_bets_found": 65,
+  "value_bets_found": 67,
   "best_arb_margin": 1.407,
-  "best_value_edge": 10.32,
+  "best_value_edge": 10.21,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
@@ -17,17 +17,17 @@
       "margin_pct": 1.407,
       "guaranteed_profit": 14.07,
       "stakes": {
-        "Draw": {
-          "bookmaker": "Smarkets",
-          "odds": 7.4,
-          "stake_pct": 13.71,
-          "stake_amount": 137.06
-        },
         "Inter Milan": {
           "bookmaker": "1xBet",
           "odds": 1.26,
           "stake_pct": 80.5,
           "stake_amount": 804.98
+        },
+        "Draw": {
+          "bookmaker": "Smarkets",
+          "odds": 7.4,
+          "stake_pct": 13.71,
+          "stake_amount": 137.06
         },
         "Monza": {
           "bookmaker": "Betfair",
@@ -37,7 +37,7 @@
         }
       },
       "num_bookmakers": 38,
-      "found_at": "2026-08-01T09:59:59.387416+00:00"
+      "found_at": "2026-08-01T12:01:54.247741+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -49,6 +49,12 @@
       "margin_pct": 1.144,
       "guaranteed_profit": 11.44,
       "stakes": {
+        "Draw": {
+          "bookmaker": "Betfred (UK)",
+          "odds": 4.0,
+          "stake_pct": 25.29,
+          "stake_amount": 252.89
+        },
         "Liverpool": {
           "bookmaker": "1xBet",
           "odds": 2.25,
@@ -60,16 +66,10 @@
           "odds": 3.4,
           "stake_pct": 29.75,
           "stake_amount": 297.52
-        },
-        "Draw": {
-          "bookmaker": "Betfred (UK)",
-          "odds": 4.0,
-          "stake_pct": 25.29,
-          "stake_amount": 252.89
         }
       },
       "num_bookmakers": 39,
-      "found_at": "2026-08-01T09:59:59.386943+00:00"
+      "found_at": "2026-08-01T12:01:54.247399+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -81,11 +81,11 @@
       "margin_pct": 0.599,
       "guaranteed_profit": 5.99,
       "stakes": {
-        "Rennes": {
-          "bookmaker": "Coolbet",
-          "odds": 7.5,
-          "stake_pct": 13.41,
-          "stake_amount": 134.14
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 5.69,
+          "stake_pct": 17.68,
+          "stake_amount": 176.81
         },
         "Paris Saint Germain": {
           "bookmaker": "1xBet",
@@ -93,15 +93,15 @@
           "stake_pct": 68.91,
           "stake_amount": 689.06
         },
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 5.69,
-          "stake_pct": 17.68,
-          "stake_amount": 176.81
+        "Rennes": {
+          "bookmaker": "Coolbet",
+          "odds": 7.5,
+          "stake_pct": 13.41,
+          "stake_amount": 134.14
         }
       },
       "num_bookmakers": 36,
-      "found_at": "2026-08-01T09:59:59.392505+00:00"
+      "found_at": "2026-08-01T12:01:54.251332+00:00"
     }
   ],
   "value_bets": [
@@ -115,15 +115,15 @@
       "outcome": "Strasbourg",
       "bookmaker": "Coolbet",
       "odds": 5.0,
-      "fair_odds": 4.532,
-      "true_prob_pct": 22.06,
+      "fair_odds": 4.537,
+      "true_prob_pct": 22.04,
       "implied_prob_pct": 20.0,
-      "edge_pct": 10.32,
-      "kelly_stake_pct": 0.65,
-      "suggested_stake": 6.45,
-      "expected_value": 10.32,
+      "edge_pct": 10.21,
+      "kelly_stake_pct": 0.64,
+      "suggested_stake": 6.38,
+      "expected_value": 10.21,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T09:59:59.391249+00:00"
+      "found_at": "2026-08-01T12:01:54.250523+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -135,15 +135,15 @@
       "outcome": "Strasbourg",
       "bookmaker": "LeoVegas (SE)",
       "odds": 5.0,
-      "fair_odds": 4.532,
-      "true_prob_pct": 22.06,
+      "fair_odds": 4.537,
+      "true_prob_pct": 22.04,
       "implied_prob_pct": 20.0,
-      "edge_pct": 10.32,
-      "kelly_stake_pct": 0.65,
-      "suggested_stake": 6.45,
-      "expected_value": 10.32,
+      "edge_pct": 10.21,
+      "kelly_stake_pct": 0.64,
+      "suggested_stake": 6.38,
+      "expected_value": 10.21,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T09:59:59.391255+00:00"
+      "found_at": "2026-08-01T12:01:54.250529+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -155,15 +155,15 @@
       "outcome": "Strasbourg",
       "bookmaker": "Unibet (SE)",
       "odds": 5.0,
-      "fair_odds": 4.532,
-      "true_prob_pct": 22.06,
+      "fair_odds": 4.537,
+      "true_prob_pct": 22.04,
       "implied_prob_pct": 20.0,
-      "edge_pct": 10.32,
-      "kelly_stake_pct": 0.65,
-      "suggested_stake": 6.45,
-      "expected_value": 10.32,
+      "edge_pct": 10.21,
+      "kelly_stake_pct": 0.64,
+      "suggested_stake": 6.38,
+      "expected_value": 10.21,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T09:59:59.391280+00:00"
+      "found_at": "2026-08-01T12:01:54.250546+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -175,15 +175,15 @@
       "outcome": "Draw",
       "bookmaker": "Coolbet",
       "odds": 4.0,
-      "fair_odds": 3.664,
-      "true_prob_pct": 27.29,
+      "fair_odds": 3.672,
+      "true_prob_pct": 27.23,
       "implied_prob_pct": 25.0,
-      "edge_pct": 9.17,
-      "kelly_stake_pct": 0.76,
-      "suggested_stake": 7.64,
-      "expected_value": 9.17,
+      "edge_pct": 8.93,
+      "kelly_stake_pct": 0.74,
+      "suggested_stake": 7.44,
+      "expected_value": 8.93,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T09:59:59.391081+00:00"
+      "found_at": "2026-08-01T12:01:54.250364+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -195,15 +195,35 @@
       "outcome": "Draw",
       "bookmaker": "Betfred (UK)",
       "odds": 4.0,
-      "fair_odds": 3.664,
-      "true_prob_pct": 27.29,
+      "fair_odds": 3.672,
+      "true_prob_pct": 27.23,
       "implied_prob_pct": 25.0,
-      "edge_pct": 9.17,
-      "kelly_stake_pct": 0.76,
-      "suggested_stake": 7.64,
-      "expected_value": 9.17,
+      "edge_pct": 8.93,
+      "kelly_stake_pct": 0.74,
+      "suggested_stake": 7.44,
+      "expected_value": 8.93,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T09:59:59.391087+00:00"
+      "found_at": "2026-08-01T12:01:54.250370+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "d44b7b56dadba2e7606cdceec655e62f",
+      "league": "Serie A - Italy",
+      "match": "Atalanta BC vs Sassuolo",
+      "commence": "2026-08-23T18:45:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Betfred (UK)",
+      "odds": 4.5,
+      "fair_odds": 4.17,
+      "true_prob_pct": 23.98,
+      "implied_prob_pct": 22.22,
+      "edge_pct": 7.92,
+      "kelly_stake_pct": 0.57,
+      "suggested_stake": 5.65,
+      "expected_value": 7.92,
+      "confidence": "MEDIA",
+      "found_at": "2026-08-01T12:01:54.248331+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -223,27 +243,7 @@
       "suggested_stake": 5.19,
       "expected_value": 7.79,
       "confidence": "MEDIA",
-      "found_at": "2026-08-01T09:59:59.390260+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "d44b7b56dadba2e7606cdceec655e62f",
-      "league": "Serie A - Italy",
-      "match": "Atalanta BC vs Sassuolo",
-      "commence": "2026-08-23T18:45:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "Betfred (UK)",
-      "odds": 4.5,
-      "fair_odds": 4.175,
-      "true_prob_pct": 23.95,
-      "implied_prob_pct": 22.22,
-      "edge_pct": 7.78,
-      "kelly_stake_pct": 0.56,
-      "suggested_stake": 5.56,
-      "expected_value": 7.78,
-      "confidence": "MEDIA",
-      "found_at": "2026-08-01T09:59:59.388195+00:00"
+      "found_at": "2026-08-01T12:01:54.249778+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -255,15 +255,15 @@
       "outcome": "Draw",
       "bookmaker": "1xBet",
       "odds": 4.62,
-      "fair_odds": 4.293,
-      "true_prob_pct": 23.3,
+      "fair_odds": 4.297,
+      "true_prob_pct": 23.27,
       "implied_prob_pct": 21.65,
-      "edge_pct": 7.63,
-      "kelly_stake_pct": 0.53,
-      "suggested_stake": 5.27,
-      "expected_value": 7.63,
+      "edge_pct": 7.53,
+      "kelly_stake_pct": 0.52,
+      "suggested_stake": 5.2,
+      "expected_value": 7.53,
       "confidence": "MEDIA",
-      "found_at": "2026-08-01T09:59:59.391319+00:00"
+      "found_at": "2026-08-01T12:01:54.250465+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -283,27 +283,27 @@
       "suggested_stake": 4.78,
       "expected_value": 7.11,
       "confidence": "MEDIA",
-      "found_at": "2026-08-01T09:59:59.390217+00:00"
+      "found_at": "2026-08-01T12:01:54.249747+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "bf5e00842d79a39d57b99fce07a1257e",
-      "league": "Bundesliga - Germany",
-      "match": "Elversberg vs Bayer Leverkusen",
-      "commence": "2026-08-29T13:30:00Z",
+      "event_id": "c123d013c16bf22279a1fdf1248c4afb",
+      "league": "Serie A - Italy",
+      "match": "Genoa vs Napoli",
+      "commence": "2026-08-22T18:45:00Z",
       "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "Winamax (DE)",
-      "odds": 4.7,
-      "fair_odds": 4.407,
-      "true_prob_pct": 22.69,
-      "implied_prob_pct": 21.28,
-      "edge_pct": 6.65,
-      "kelly_stake_pct": 0.45,
-      "suggested_stake": 4.49,
-      "expected_value": 6.65,
+      "outcome": "Genoa",
+      "bookmaker": "Marathon Bet",
+      "odds": 4.9,
+      "fair_odds": 4.582,
+      "true_prob_pct": 21.82,
+      "implied_prob_pct": 20.41,
+      "edge_pct": 6.93,
+      "kelly_stake_pct": 0.44,
+      "suggested_stake": 4.44,
+      "expected_value": 6.93,
       "confidence": "MEDIA",
-      "found_at": "2026-08-01T09:59:59.390240+00:00"
+      "found_at": "2026-08-01T12:01:54.247997+00:00"
     }
   ]
 }
