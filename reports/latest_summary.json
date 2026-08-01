@@ -1,12 +1,44 @@
 {
-  "timestamp": "2026-08-01 12:01 UTC",
+  "timestamp": "2026-08-01 15:00 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
   "arbitrages_found": 3,
-  "value_bets_found": 67,
-  "best_arb_margin": 1.407,
-  "best_value_edge": 10.21,
+  "value_bets_found": 64,
+  "best_arb_margin": 1.57,
+  "best_value_edge": 10.09,
   "arbitrages": [
+    {
+      "type": "ARBITRAGE",
+      "event_id": "ea0bacc4c23f813c6af97ec9b306a850",
+      "league": "EPL",
+      "match": "Newcastle United vs Liverpool",
+      "commence": "2026-08-23T15:30:00Z",
+      "market": "h2h",
+      "margin_pct": 1.57,
+      "guaranteed_profit": 15.7,
+      "stakes": {
+        "Draw": {
+          "bookmaker": "Betfred (UK)",
+          "odds": 4.0,
+          "stake_pct": 25.4,
+          "stake_amount": 253.99
+        },
+        "Liverpool": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 2.25,
+          "stake_pct": 45.15,
+          "stake_amount": 451.53
+        },
+        "Newcastle United": {
+          "bookmaker": "Betfair",
+          "odds": 3.45,
+          "stake_pct": 29.45,
+          "stake_amount": 294.48
+        }
+      },
+      "num_bookmakers": 39,
+      "found_at": "2026-08-01T15:00:39.879298+00:00"
+    },
     {
       "type": "ARBITRAGE",
       "event_id": "ef8a47c3c8c0f71a251e2efcbf84854a",
@@ -37,39 +69,7 @@
         }
       },
       "num_bookmakers": 38,
-      "found_at": "2026-08-01T12:01:54.247741+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "ea0bacc4c23f813c6af97ec9b306a850",
-      "league": "EPL",
-      "match": "Newcastle United vs Liverpool",
-      "commence": "2026-08-23T15:30:00Z",
-      "market": "h2h",
-      "margin_pct": 1.144,
-      "guaranteed_profit": 11.44,
-      "stakes": {
-        "Draw": {
-          "bookmaker": "Betfred (UK)",
-          "odds": 4.0,
-          "stake_pct": 25.29,
-          "stake_amount": 252.89
-        },
-        "Liverpool": {
-          "bookmaker": "1xBet",
-          "odds": 2.25,
-          "stake_pct": 44.96,
-          "stake_amount": 449.59
-        },
-        "Newcastle United": {
-          "bookmaker": "Betfair",
-          "odds": 3.4,
-          "stake_pct": 29.75,
-          "stake_amount": 297.52
-        }
-      },
-      "num_bookmakers": 39,
-      "found_at": "2026-08-01T12:01:54.247399+00:00"
+      "found_at": "2026-08-01T15:00:39.879755+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -81,6 +81,12 @@
       "margin_pct": 0.599,
       "guaranteed_profit": 5.99,
       "stakes": {
+        "Rennes": {
+          "bookmaker": "Coolbet",
+          "odds": 7.5,
+          "stake_pct": 13.41,
+          "stake_amount": 134.14
+        },
         "Draw": {
           "bookmaker": "1xBet",
           "odds": 5.69,
@@ -92,16 +98,10 @@
           "odds": 1.46,
           "stake_pct": 68.91,
           "stake_amount": 689.06
-        },
-        "Rennes": {
-          "bookmaker": "Coolbet",
-          "odds": 7.5,
-          "stake_pct": 13.41,
-          "stake_amount": 134.14
         }
       },
       "num_bookmakers": 36,
-      "found_at": "2026-08-01T12:01:54.251332+00:00"
+      "found_at": "2026-08-01T15:00:39.884875+00:00"
     }
   ],
   "value_bets": [
@@ -115,15 +115,15 @@
       "outcome": "Strasbourg",
       "bookmaker": "Coolbet",
       "odds": 5.0,
-      "fair_odds": 4.537,
-      "true_prob_pct": 22.04,
+      "fair_odds": 4.542,
+      "true_prob_pct": 22.02,
       "implied_prob_pct": 20.0,
-      "edge_pct": 10.21,
-      "kelly_stake_pct": 0.64,
-      "suggested_stake": 6.38,
-      "expected_value": 10.21,
+      "edge_pct": 10.09,
+      "kelly_stake_pct": 0.63,
+      "suggested_stake": 6.31,
+      "expected_value": 10.09,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T12:01:54.250523+00:00"
+      "found_at": "2026-08-01T15:00:39.883685+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -135,15 +135,15 @@
       "outcome": "Strasbourg",
       "bookmaker": "LeoVegas (SE)",
       "odds": 5.0,
-      "fair_odds": 4.537,
-      "true_prob_pct": 22.04,
+      "fair_odds": 4.542,
+      "true_prob_pct": 22.02,
       "implied_prob_pct": 20.0,
-      "edge_pct": 10.21,
-      "kelly_stake_pct": 0.64,
-      "suggested_stake": 6.38,
-      "expected_value": 10.21,
+      "edge_pct": 10.09,
+      "kelly_stake_pct": 0.63,
+      "suggested_stake": 6.31,
+      "expected_value": 10.09,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T12:01:54.250529+00:00"
+      "found_at": "2026-08-01T15:00:39.883692+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -155,15 +155,15 @@
       "outcome": "Strasbourg",
       "bookmaker": "Unibet (SE)",
       "odds": 5.0,
-      "fair_odds": 4.537,
-      "true_prob_pct": 22.04,
+      "fair_odds": 4.542,
+      "true_prob_pct": 22.02,
       "implied_prob_pct": 20.0,
-      "edge_pct": 10.21,
-      "kelly_stake_pct": 0.64,
-      "suggested_stake": 6.38,
-      "expected_value": 10.21,
+      "edge_pct": 10.09,
+      "kelly_stake_pct": 0.63,
+      "suggested_stake": 6.31,
+      "expected_value": 10.09,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T12:01:54.250546+00:00"
+      "found_at": "2026-08-01T15:00:39.883715+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -175,15 +175,15 @@
       "outcome": "Draw",
       "bookmaker": "Coolbet",
       "odds": 4.0,
-      "fair_odds": 3.672,
-      "true_prob_pct": 27.23,
+      "fair_odds": 3.68,
+      "true_prob_pct": 27.17,
       "implied_prob_pct": 25.0,
-      "edge_pct": 8.93,
-      "kelly_stake_pct": 0.74,
-      "suggested_stake": 7.44,
-      "expected_value": 8.93,
+      "edge_pct": 8.7,
+      "kelly_stake_pct": 0.72,
+      "suggested_stake": 7.25,
+      "expected_value": 8.7,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T12:01:54.250364+00:00"
+      "found_at": "2026-08-01T15:00:39.883450+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -195,15 +195,15 @@
       "outcome": "Draw",
       "bookmaker": "Betfred (UK)",
       "odds": 4.0,
-      "fair_odds": 3.672,
-      "true_prob_pct": 27.23,
+      "fair_odds": 3.68,
+      "true_prob_pct": 27.17,
       "implied_prob_pct": 25.0,
-      "edge_pct": 8.93,
-      "kelly_stake_pct": 0.74,
-      "suggested_stake": 7.44,
-      "expected_value": 8.93,
+      "edge_pct": 8.7,
+      "kelly_stake_pct": 0.72,
+      "suggested_stake": 7.25,
+      "expected_value": 8.7,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T12:01:54.250370+00:00"
+      "found_at": "2026-08-01T15:00:39.883456+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -215,15 +215,15 @@
       "outcome": "Draw",
       "bookmaker": "Betfred (UK)",
       "odds": 4.5,
-      "fair_odds": 4.17,
-      "true_prob_pct": 23.98,
+      "fair_odds": 4.175,
+      "true_prob_pct": 23.95,
       "implied_prob_pct": 22.22,
-      "edge_pct": 7.92,
-      "kelly_stake_pct": 0.57,
-      "suggested_stake": 5.65,
-      "expected_value": 7.92,
+      "edge_pct": 7.78,
+      "kelly_stake_pct": 0.56,
+      "suggested_stake": 5.56,
+      "expected_value": 7.78,
       "confidence": "MEDIA",
-      "found_at": "2026-08-01T12:01:54.248331+00:00"
+      "found_at": "2026-08-01T15:00:39.880543+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -235,15 +235,15 @@
       "outcome": "Draw",
       "bookmaker": "Coolbet",
       "odds": 4.75,
-      "fair_odds": 4.407,
-      "true_prob_pct": 22.69,
+      "fair_odds": 4.416,
+      "true_prob_pct": 22.65,
       "implied_prob_pct": 21.05,
-      "edge_pct": 7.79,
-      "kelly_stake_pct": 0.52,
-      "suggested_stake": 5.19,
-      "expected_value": 7.79,
+      "edge_pct": 7.57,
+      "kelly_stake_pct": 0.5,
+      "suggested_stake": 5.05,
+      "expected_value": 7.57,
       "confidence": "MEDIA",
-      "found_at": "2026-08-01T12:01:54.249778+00:00"
+      "found_at": "2026-08-01T15:00:39.882580+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -255,55 +255,55 @@
       "outcome": "Draw",
       "bookmaker": "1xBet",
       "odds": 4.62,
-      "fair_odds": 4.297,
-      "true_prob_pct": 23.27,
+      "fair_odds": 4.3,
+      "true_prob_pct": 23.25,
       "implied_prob_pct": 21.65,
-      "edge_pct": 7.53,
-      "kelly_stake_pct": 0.52,
-      "suggested_stake": 5.2,
-      "expected_value": 7.53,
+      "edge_pct": 7.43,
+      "kelly_stake_pct": 0.51,
+      "suggested_stake": 5.13,
+      "expected_value": 7.43,
       "confidence": "MEDIA",
-      "found_at": "2026-08-01T12:01:54.250465+00:00"
+      "found_at": "2026-08-01T15:00:39.883596+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "bf5e00842d79a39d57b99fce07a1257e",
-      "league": "Bundesliga - Germany",
-      "match": "Elversberg vs Bayer Leverkusen",
-      "commence": "2026-08-29T13:30:00Z",
+      "event_id": "ea0bacc4c23f813c6af97ec9b306a850",
+      "league": "EPL",
+      "match": "Newcastle United vs Liverpool",
+      "commence": "2026-08-23T15:30:00Z",
       "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "1xBet",
-      "odds": 4.72,
-      "fair_odds": 4.407,
-      "true_prob_pct": 22.69,
-      "implied_prob_pct": 21.19,
-      "edge_pct": 7.11,
-      "kelly_stake_pct": 0.48,
-      "suggested_stake": 4.78,
-      "expected_value": 7.11,
+      "outcome": "Newcastle United",
+      "bookmaker": "Betfair",
+      "odds": 3.45,
+      "fair_odds": 3.224,
+      "true_prob_pct": 31.02,
+      "implied_prob_pct": 28.99,
+      "edge_pct": 7.02,
+      "kelly_stake_pct": 0.72,
+      "suggested_stake": 7.16,
+      "expected_value": 7.02,
       "confidence": "MEDIA",
-      "found_at": "2026-08-01T12:01:54.249747+00:00"
+      "found_at": "2026-08-01T15:00:39.879380+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "c123d013c16bf22279a1fdf1248c4afb",
-      "league": "Serie A - Italy",
-      "match": "Genoa vs Napoli",
-      "commence": "2026-08-22T18:45:00Z",
+      "event_id": "ea0bacc4c23f813c6af97ec9b306a850",
+      "league": "EPL",
+      "match": "Newcastle United vs Liverpool",
+      "commence": "2026-08-23T15:30:00Z",
       "market": "h2h",
-      "outcome": "Genoa",
-      "bookmaker": "Marathon Bet",
-      "odds": 4.9,
-      "fair_odds": 4.582,
-      "true_prob_pct": 21.82,
-      "implied_prob_pct": 20.41,
-      "edge_pct": 6.93,
-      "kelly_stake_pct": 0.44,
-      "suggested_stake": 4.44,
-      "expected_value": 6.93,
+      "outcome": "Newcastle United",
+      "bookmaker": "Betfair",
+      "odds": 3.45,
+      "fair_odds": 3.224,
+      "true_prob_pct": 31.02,
+      "implied_prob_pct": 28.99,
+      "edge_pct": 7.02,
+      "kelly_stake_pct": 0.72,
+      "suggested_stake": 7.16,
+      "expected_value": 7.02,
       "confidence": "MEDIA",
-      "found_at": "2026-08-01T12:01:54.247997+00:00"
+      "found_at": "2026-08-01T15:00:39.879391+00:00"
     }
   ]
 }
