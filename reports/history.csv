@@ -5804,3 +5804,7 @@ timestamp,type,match,league,market,edge_pct,confidence,suggested_stake,details
 2026-08-01 20:53 UTC,VALUE_BET,Le Havre vs AS Monaco,Ligue 1 - France,h2h,4.22,BASSA,3.51,Draw@4.0 (1xBet)
 2026-08-01 20:53 UTC,VALUE_BET,Le Havre vs AS Monaco,Ligue 1 - France,h2h,4.22,BASSA,3.51,Draw@4.0 (Coolbet)
 2026-08-01 20:53 UTC,VALUE_BET,Le Havre vs AS Monaco,Ligue 1 - France,h2h,3.85,BASSA,3.67,Le Havre@3.62 (1xBet)
+2026-08-01 23:57 UTC,ARBITRAGE,Inter Milan vs Monza,Serie A - Italy,h2h,1.41,SURE,14.1,"{""Inter Milan"": {""bookmaker"": ""1xBet"", ""odds"": 1.26, ""stake_pct"": 80.5, ""stake_amount"": 805.0}, ""Monza"": {""bookmaker"": ""Smarkets"", ""odds"": 17.51, ""stake_pct"": 5.79, ""stake_amount"": 57.93}, ""Draw"": {""bookmaker"": ""Smarkets"", ""odds"": 7.4, ""stake_pct"": 13.71, ""stake_amount"": 137.07}}"
+2026-08-01 23:57 UTC,ARBITRAGE,Paris Saint Germain vs Rennes,Ligue 1 - France,h2h,0.599,SURE,5.99,"{""Rennes"": {""bookmaker"": ""Coolbet"", ""odds"": 7.5, ""stake_pct"": 13.41, ""stake_amount"": 134.14}, ""Paris Saint Germain"": {""bookmaker"": ""1xBet"", ""odds"": 1.46, ""stake_pct"": 68.91, ""stake_amount"": 689.06}, ""Draw"": {""bookmaker"": ""1xBet"", ""odds"": 5.69, ""stake_pct"": 17.68, ""stake_amount"": 176.81}}"
+2026-08-01 23:57 UTC,VALUE_BET,Newcastle United vs Liverpool,EPL,h2h,5.62,MEDIA,5.51,Newcastle United@3.55 (Betfair)
+2026-08-01 23:57 UTC,VALUE_BET,Newcastle United vs Liverpool,EPL,h2h,5.62,MEDIA,5.51,Newcastle United@3.55 (Betfair)
