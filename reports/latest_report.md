@@ -1,58 +1,80 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-07-04 18:01 UTC
+**Generato:** 2026-08-01 00:02 UTC
 **Bankroll:** €1000
 
 ---
 ## 🎯 Arbitraggi
 
-### #1 — Atlético Madrid vs Málaga
-- **Lega:** La Liga - Spain | **Mercato:** h2h
-- **Inizio:** 2026-08-16T19:00:00Z
-- **Margine:** 0.63% (€6.31)
+### #1 — Inter Milan vs Monza
+- **Lega:** Serie A - Italy | **Mercato:** h2h
+- **Inizio:** 2026-08-22T16:30:00Z
+- **Margine:** 1.41% (€14.07)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Málaga | 1xBet | 14.40 | 7.0% | €69.89 |
-| Draw | Winamax (DE) | 6.00 | 16.8% | €167.73 |
-| Atlético Madrid | LeoVegas (SE) | 1.32 | 76.2% | €762.39 |
+| Inter Milan | 1xBet | 1.26 | 80.5% | €804.98 |
+| Draw | Smarkets | 7.40 | 13.7% | €137.06 |
+| Monza | Betfair | 17.50 | 5.8% | €57.96 |
+
+### #2 — Newcastle United vs Liverpool
+- **Lega:** EPL | **Mercato:** h2h
+- **Inizio:** 2026-08-23T15:30:00Z
+- **Margine:** 1.14% (€11.44)
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Draw | Betfred (UK) | 4.00 | 25.3% | €252.89 |
+| Newcastle United | Betfair | 3.40 | 29.8% | €297.52 |
+| Liverpool | 1xBet | 2.25 | 45.0% | €449.59 |
+
+### #3 — Paris Saint Germain vs Rennes
+- **Lega:** Ligue 1 - France | **Mercato:** h2h
+- **Inizio:** 2026-08-23T18:45:00Z
+- **Margine:** 0.60% (€5.99)
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Rennes | Coolbet | 7.50 | 13.4% | €134.14 |
+| Draw | 1xBet | 5.69 | 17.7% | €176.81 |
+| Paris Saint Germain | 1xBet | 1.46 | 68.9% | €689.06 |
 
 ---
 ## 📈 Value Bet
 
 | # | Match | Esito | Book | Quota | Fair | Edge% | Conf | Stake |
 |---|-------|-------|------|-------|------|-------|------|-------|
-| 1 | RB Leipzig vs Borussia Monch | Draw | Betfred (UK) | 5.00 | 3.96 | 26.4% | 🟢 | €17 |
-| 2 | Torino vs AC Milan | Torino | 1xBet | 4.65 | 3.74 | 24.2% | 🟢 | €17 |
-| 3 | RB Leipzig vs Borussia Monch | Draw | 1xBet | 4.88 | 3.96 | 23.4% | 🟢 | €15 |
-| 4 | Torino vs AC Milan | Torino | Tipico | 4.60 | 3.74 | 22.9% | 🟢 | €16 |
-| 5 | Elversberg vs Bayer Leverkus | Draw | Sky Bet | 5.00 | 4.10 | 22.1% | 🟢 | €14 |
-| 6 | Elversberg vs Bayer Leverkus | Draw | Betfred (UK) | 5.00 | 4.10 | 22.1% | 🟢 | €14 |
-| 7 | Elversberg vs Bayer Leverkus | Draw | Codere (IT) | 5.00 | 4.10 | 22.1% | 🟢 | €14 |
-| 8 | Torino vs AC Milan | Torino | Marathon Bet | 4.55 | 3.74 | 21.5% | 🟢 | €15 |
-| 9 | RB Leipzig vs Borussia Monch | Draw | Marathon Bet | 4.80 | 3.96 | 21.4% | 🟢 | €14 |
-| 10 | Espanyol vs Levante | Levante | Tipico | 4.20 | 3.46 | 21.4% | 🟢 | €17 |
-| 11 | Torino vs AC Milan | Torino | Sky Bet | 4.50 | 3.74 | 20.2% | 🟢 | €14 |
-| 12 | Torino vs AC Milan | Torino | Betfred (UK) | 4.50 | 3.74 | 20.2% | 🟢 | €14 |
-| 13 | RB Leipzig vs Borussia Monch | Draw | Sky Bet | 4.75 | 3.96 | 20.1% | 🟢 | €13 |
-| 14 | RB Leipzig vs Borussia Monch | Draw | Paddy Power | 4.75 | 3.96 | 20.1% | 🟢 | €13 |
-| 15 | Elversberg vs Bayer Leverkus | Draw | Winamax (DE) | 4.90 | 4.10 | 19.6% | 🟢 | €13 |
-| 16 | FSV Mainz 05 vs SC Paderborn | Draw | 1xBet | 4.37 | 3.71 | 17.6% | 🟢 | €13 |
-| 17 | Torino vs AC Milan | Torino | Paddy Power | 4.40 | 3.74 | 17.5% | 🟢 | €13 |
-| 18 | Torino vs AC Milan | Torino | Bet Victor | 4.40 | 3.74 | 17.5% | 🟢 | €13 |
-| 19 | Elversberg vs Bayer Leverkus | Draw | LeoVegas | 4.80 | 4.10 | 17.2% | 🟢 | €11 |
-| 20 | 1. FC Köln vs TSG Hoffenheim | Draw | Betfred (UK) | 4.00 | 3.44 | 16.4% | 🟢 | €14 |
-| 21 | Elversberg vs Bayer Leverkus | Draw | Paddy Power | 4.75 | 4.10 | 15.9% | 🟢 | €11 |
-| 22 | Elversberg vs Bayer Leverkus | Draw | Unibet (UK) | 4.75 | 4.10 | 15.9% | 🟢 | €11 |
-| 23 | RC Lens vs Auxerre | Draw | 1xBet | 4.62 | 3.99 | 15.8% | 🟢 | €11 |
-| 24 | FSV Mainz 05 vs SC Paderborn | Draw | Marathon Bet | 4.30 | 3.71 | 15.8% | 🟢 | €12 |
-| 25 | Espanyol vs Levante | Levante | Codere (IT) | 4.00 | 3.46 | 15.6% | 🟢 | €13 |
-| 26 | Borussia Dortmund vs Hamburg | Draw | Paddy Power | 5.00 | 4.33 | 15.5% | 🟢 | €10 |
-| 27 | Borussia Dortmund vs Hamburg | Draw | Unibet (UK) | 5.00 | 4.33 | 15.5% | 🟢 | €10 |
-| 28 | Augsburg vs FC Schalke 04 | Draw | 1xBet | 4.03 | 3.54 | 13.8% | 🟢 | €11 |
-| 29 | Espanyol vs Levante | Levante | 1xBet | 3.94 | 3.46 | 13.8% | 🟢 | €12 |
-| 30 | RB Leipzig vs Borussia Monch | Draw | Tipico | 4.50 | 3.96 | 13.8% | 🟢 | €10 |
+| 1 | Marseille vs Strasbourg | Strasbourg | Coolbet | 5.00 | 4.52 | 10.6% | 🟢 | €7 |
+| 2 | RB Leipzig vs Borussia Monch | Draw | Tipico | 4.80 | 4.35 | 10.3% | 🟢 | €7 |
+| 3 | SC Freiburg vs Werder Bremen | Draw | Coolbet | 3.85 | 3.50 | 9.9% | 🟢 | €9 |
+| 4 | RB Leipzig vs Borussia Monch | Draw | 1xBet | 4.78 | 4.35 | 9.9% | 🟢 | €7 |
+| 5 | RB Leipzig vs Borussia Monch | Draw | Coolbet | 4.75 | 4.35 | 9.2% | 🟢 | €6 |
+| 6 | Augsburg vs FC Schalke 04 | Draw | Coolbet | 4.00 | 3.66 | 9.2% | 🟢 | €8 |
+| 7 | Augsburg vs FC Schalke 04 | Draw | Betfred (UK) | 4.00 | 3.66 | 9.2% | 🟢 | €8 |
+| 8 | Marseille vs Strasbourg | Strasbourg | LeoVegas (SE | 4.90 | 4.52 | 8.4% | 🟢 | €5 |
+| 9 | Marseille vs Strasbourg | Strasbourg | Unibet (SE) | 4.90 | 4.52 | 8.4% | 🟢 | €5 |
+| 10 | RB Leipzig vs Borussia Monch | Draw | Marathon Bet | 4.70 | 4.35 | 8.0% | 🟢 | €5 |
+| 11 | Elversberg vs Bayer Leverkus | Draw | Coolbet | 4.75 | 4.41 | 7.8% | 🟡 | €5 |
+| 12 | Marseille vs Strasbourg | Draw | 1xBet | 4.62 | 4.28 | 7.8% | 🟡 | €5 |
+| 13 | Atalanta BC vs Sassuolo | Draw | Betfred (UK) | 4.50 | 4.17 | 7.8% | 🟡 | €6 |
+| 14 | Elversberg vs Bayer Leverkus | Draw | 1xBet | 4.72 | 4.41 | 7.2% | 🟡 | €5 |
+| 15 | SC Freiburg vs Werder Bremen | Draw | Betfred (UK) | 3.75 | 3.50 | 7.0% | 🟡 | €6 |
+| 16 | RB Leipzig vs Borussia Monch | Draw | BetOnline.ag | 4.65 | 4.35 | 6.9% | 🟡 | €5 |
+| 17 | Elversberg vs Bayer Leverkus | Draw | Winamax (DE) | 4.70 | 4.41 | 6.7% | 🟡 | €5 |
+| 18 | Atalanta BC vs Sassuolo | Draw | 1xBet | 4.45 | 4.17 | 6.6% | 🟡 | €5 |
+| 19 | Marseille vs Strasbourg | Draw | Marathon Bet | 4.55 | 4.28 | 6.2% | 🟡 | €4 |
+| 20 | Atalanta BC vs Sassuolo | Draw | BetOnline.ag | 4.43 | 4.17 | 6.1% | 🟡 | €4 |
+| 21 | Union Berlin vs Eintracht Fr | Draw | Coolbet | 3.75 | 3.54 | 5.9% | 🟡 | €5 |
+| 22 | Newcastle United vs Liverpoo | Newcastle Unite | Betfair | 3.40 | 3.21 | 5.8% | 🟡 | €6 |
+| 23 | Newcastle United vs Liverpoo | Newcastle Unite | Betfair | 3.40 | 3.21 | 5.8% | 🟡 | €6 |
+| 24 | Newcastle United vs Liverpoo | Newcastle Unite | Smarkets | 3.40 | 3.21 | 5.8% | 🟡 | €6 |
+| 25 | Marseille vs Strasbourg | Strasbourg | 1xBet | 4.78 | 4.52 | 5.8% | 🟡 | €4 |
+| 26 | RB Leipzig vs Borussia Monch | Draw | Winamax (DE) | 4.60 | 4.35 | 5.7% | 🟡 | €4 |
+| 27 | RB Leipzig vs Borussia Monch | Draw | Coral | 4.60 | 4.35 | 5.7% | 🟡 | €4 |
+| 28 | RB Leipzig vs Borussia Monch | Draw | Ladbrokes | 4.60 | 4.35 | 5.7% | 🟡 | €4 |
+| 29 | SC Freiburg vs Werder Bremen | Draw | Betfair Spor | 3.70 | 3.50 | 5.6% | 🟡 | €5 |
+| 30 | SC Freiburg vs Werder Bremen | Draw | Coral | 3.70 | 3.50 | 5.6% | 🟡 | €5 |
 
-_Top 30 su 149._
+_Top 30 su 74._
 
 ---
 ⚠️ Strumento di analisi. Non garantisce profitti.
