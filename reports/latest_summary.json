@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02 18:00 UTC",
+  "timestamp": "2026-08-02 20:55 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
   "arbitrages_found": 4,
@@ -17,6 +17,12 @@
       "margin_pct": 1.876,
       "guaranteed_profit": 18.76,
       "stakes": {
+        "Villarreal": {
+          "bookmaker": "1xBet",
+          "odds": 5.04,
+          "stake_pct": 20.22,
+          "stake_amount": 202.21
+        },
         "Atlético Madrid": {
           "bookmaker": "Codere (IT)",
           "odds": 1.98,
@@ -28,16 +34,10 @@
           "odds": 3.6,
           "stake_pct": 28.31,
           "stake_amount": 283.09
-        },
-        "Villarreal": {
-          "bookmaker": "1xBet",
-          "odds": 5.04,
-          "stake_pct": 20.22,
-          "stake_amount": 202.21
         }
       },
       "num_bookmakers": 15,
-      "found_at": "2026-08-02T18:00:36.933759+00:00"
+      "found_at": "2026-08-02T20:55:50.960046+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -49,12 +49,6 @@
       "margin_pct": 0.638,
       "guaranteed_profit": 6.38,
       "stakes": {
-        "Inter Milan": {
-          "bookmaker": "1xBet",
-          "odds": 1.26,
-          "stake_pct": 79.87,
-          "stake_amount": 798.75
-        },
         "Monza": {
           "bookmaker": "Smarkets",
           "odds": 17.51,
@@ -66,10 +60,16 @@
           "odds": 7.0,
           "stake_pct": 14.38,
           "stake_amount": 143.77
+        },
+        "Inter Milan": {
+          "bookmaker": "1xBet",
+          "odds": 1.26,
+          "stake_pct": 79.87,
+          "stake_amount": 798.75
         }
       },
       "num_bookmakers": 38,
-      "found_at": "2026-08-02T18:00:36.931132+00:00"
+      "found_at": "2026-08-02T20:55:50.957873+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -81,17 +81,17 @@
       "margin_pct": 0.599,
       "guaranteed_profit": 5.99,
       "stakes": {
-        "Rennes": {
-          "bookmaker": "Coolbet",
-          "odds": 7.5,
-          "stake_pct": 13.41,
-          "stake_amount": 134.14
-        },
         "Draw": {
           "bookmaker": "1xBet",
           "odds": 5.69,
           "stake_pct": 17.68,
           "stake_amount": 176.81
+        },
+        "Rennes": {
+          "bookmaker": "Coolbet",
+          "odds": 7.5,
+          "stake_pct": 13.41,
+          "stake_amount": 134.14
         },
         "Paris Saint Germain": {
           "bookmaker": "1xBet",
@@ -101,7 +101,7 @@
         }
       },
       "num_bookmakers": 36,
-      "found_at": "2026-08-02T18:00:36.937179+00:00"
+      "found_at": "2026-08-02T20:55:50.962927+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -113,17 +113,17 @@
       "margin_pct": 0.584,
       "guaranteed_profit": 5.84,
       "stakes": {
-        "Brentford": {
-          "bookmaker": "Betfair",
-          "odds": 2.56,
-          "stake_pct": 39.29,
-          "stake_amount": 392.92
-        },
         "Tottenham Hotspur": {
           "bookmaker": "Unibet (SE)",
           "odds": 2.95,
           "stake_pct": 34.1,
           "stake_amount": 340.97
+        },
+        "Brentford": {
+          "bookmaker": "Betfair",
+          "odds": 2.56,
+          "stake_pct": 39.29,
+          "stake_amount": 392.92
         },
         "Draw": {
           "bookmaker": "1xBet",
@@ -133,7 +133,7 @@
         }
       },
       "num_bookmakers": 39,
-      "found_at": "2026-08-02T18:00:36.930189+00:00"
+      "found_at": "2026-08-02T20:55:50.957076+00:00"
     }
   ],
   "value_bets": [
@@ -155,7 +155,7 @@
       "suggested_stake": 9.56,
       "expected_value": 15.29,
       "confidence": "ALTA",
-      "found_at": "2026-08-02T18:00:36.933603+00:00"
+      "found_at": "2026-08-02T20:55:50.959974+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -175,7 +175,7 @@
       "suggested_stake": 9.56,
       "expected_value": 15.29,
       "confidence": "ALTA",
-      "found_at": "2026-08-02T18:00:36.933612+00:00"
+      "found_at": "2026-08-02T20:55:50.959980+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -195,7 +195,7 @@
       "suggested_stake": 9.56,
       "expected_value": 15.29,
       "confidence": "ALTA",
-      "found_at": "2026-08-02T18:00:36.933626+00:00"
+      "found_at": "2026-08-02T20:55:50.959992+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -215,7 +215,7 @@
       "suggested_stake": 10.35,
       "expected_value": 14.16,
       "confidence": "ALTA",
-      "found_at": "2026-08-02T18:00:36.933291+00:00"
+      "found_at": "2026-08-02T20:55:50.959666+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -235,7 +235,7 @@
       "suggested_stake": 8.04,
       "expected_value": 12.86,
       "confidence": "ALTA",
-      "found_at": "2026-08-02T18:00:36.933894+00:00"
+      "found_at": "2026-08-02T20:55:50.960169+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -255,7 +255,7 @@
       "suggested_stake": 8.04,
       "expected_value": 12.86,
       "confidence": "ALTA",
-      "found_at": "2026-08-02T18:00:36.933908+00:00"
+      "found_at": "2026-08-02T20:55:50.960182+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -275,7 +275,7 @@
       "suggested_stake": 8.04,
       "expected_value": 12.86,
       "confidence": "ALTA",
-      "found_at": "2026-08-02T18:00:36.933921+00:00"
+      "found_at": "2026-08-02T20:55:50.960194+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -295,7 +295,7 @@
       "suggested_stake": 8.81,
       "expected_value": 11.63,
       "confidence": "ALTA",
-      "found_at": "2026-08-02T18:00:36.933815+00:00"
+      "found_at": "2026-08-02T20:55:50.960081+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -315,7 +315,7 @@
       "suggested_stake": 8.68,
       "expected_value": 11.18,
       "confidence": "ALTA",
-      "found_at": "2026-08-02T18:00:36.933701+00:00"
+      "found_at": "2026-08-02T20:55:50.959927+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -335,7 +335,7 @@
       "suggested_stake": 8.32,
       "expected_value": 10.65,
       "confidence": "ALTA",
-      "found_at": "2026-08-02T18:00:36.933683+00:00"
+      "found_at": "2026-08-02T20:55:50.959904+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-08-02 18:00 UTC
+**Generato:** 2026-08-02 20:55 UTC
 **Bankroll:** €1000
 
 ---
@@ -12,9 +12,9 @@
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
+| Villarreal | 1xBet | 5.04 | 20.2% | €202.21 |
 | Atlético Madrid | Codere (IT) | 1.98 | 51.5% | €514.71 |
 | Draw | 1xBet | 3.60 | 28.3% | €283.09 |
-| Villarreal | 1xBet | 5.04 | 20.2% | €202.21 |
 
 ### #2 — Inter Milan vs Monza
 - **Lega:** Serie A - Italy | **Mercato:** h2h
@@ -23,9 +23,9 @@
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Inter Milan | 1xBet | 1.26 | 79.9% | €798.75 |
 | Monza | Smarkets | 17.51 | 5.8% | €57.48 |
 | Draw | Tipico | 7.00 | 14.4% | €143.77 |
+| Inter Milan | 1xBet | 1.26 | 79.9% | €798.75 |
 
 ### #3 — Paris Saint Germain vs Rennes
 - **Lega:** Ligue 1 - France | **Mercato:** h2h
@@ -34,8 +34,8 @@
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Rennes | Coolbet | 7.50 | 13.4% | €134.14 |
 | Draw | 1xBet | 5.69 | 17.7% | €176.81 |
+| Rennes | Coolbet | 7.50 | 13.4% | €134.14 |
 | Paris Saint Germain | 1xBet | 1.46 | 68.9% | €689.06 |
 
 ### #4 — Brentford vs Tottenham Hotspur
@@ -45,8 +45,8 @@
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Brentford | Betfair | 2.56 | 39.3% | €392.92 |
 | Tottenham Hotspur | Unibet (SE) | 2.95 | 34.1% | €340.97 |
+| Brentford | Betfair | 2.56 | 39.3% | €392.92 |
 | Draw | 1xBet | 3.78 | 26.6% | €266.10 |
 
 ---
