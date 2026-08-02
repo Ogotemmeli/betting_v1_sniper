@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-02 20:55 UTC",
+  "timestamp": "2026-08-02 23:58 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
-  "arbitrages_found": 4,
-  "value_bets_found": 55,
+  "arbitrages_found": 5,
+  "value_bets_found": 58,
   "best_arb_margin": 1.876,
   "best_value_edge": 15.29,
   "arbitrages": [
@@ -37,7 +37,39 @@
         }
       },
       "num_bookmakers": 15,
-      "found_at": "2026-08-02T20:55:50.960046+00:00"
+      "found_at": "2026-08-02T23:58:53.336849+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "4e4a813bf4218cc527e6f8ef2351170d",
+      "league": "EPL",
+      "match": "Fulham vs Chelsea",
+      "commence": "2026-08-24T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 0.894,
+      "guaranteed_profit": 8.94,
+      "stakes": {
+        "Fulham": {
+          "bookmaker": "Betfair",
+          "odds": 3.4,
+          "stake_pct": 29.68,
+          "stake_amount": 296.77
+        },
+        "Chelsea": {
+          "bookmaker": "1xBet",
+          "odds": 2.27,
+          "stake_pct": 44.45,
+          "stake_amount": 444.5
+        },
+        "Draw": {
+          "bookmaker": "Betfair",
+          "odds": 3.9,
+          "stake_pct": 25.87,
+          "stake_amount": 258.72
+        }
+      },
+      "num_bookmakers": 38,
+      "found_at": "2026-08-02T23:58:53.334583+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -49,6 +81,12 @@
       "margin_pct": 0.638,
       "guaranteed_profit": 6.38,
       "stakes": {
+        "Inter Milan": {
+          "bookmaker": "1xBet",
+          "odds": 1.26,
+          "stake_pct": 79.87,
+          "stake_amount": 798.75
+        },
         "Monza": {
           "bookmaker": "Smarkets",
           "odds": 17.51,
@@ -60,16 +98,10 @@
           "odds": 7.0,
           "stake_pct": 14.38,
           "stake_amount": 143.77
-        },
-        "Inter Milan": {
-          "bookmaker": "1xBet",
-          "odds": 1.26,
-          "stake_pct": 79.87,
-          "stake_amount": 798.75
         }
       },
-      "num_bookmakers": 38,
-      "found_at": "2026-08-02T20:55:50.957873+00:00"
+      "num_bookmakers": 39,
+      "found_at": "2026-08-02T23:58:53.334825+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -81,12 +113,6 @@
       "margin_pct": 0.599,
       "guaranteed_profit": 5.99,
       "stakes": {
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 5.69,
-          "stake_pct": 17.68,
-          "stake_amount": 176.81
-        },
         "Rennes": {
           "bookmaker": "Coolbet",
           "odds": 7.5,
@@ -98,10 +124,16 @@
           "odds": 1.46,
           "stake_pct": 68.91,
           "stake_amount": 689.06
+        },
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 5.69,
+          "stake_pct": 17.68,
+          "stake_amount": 176.81
         }
       },
       "num_bookmakers": 36,
-      "found_at": "2026-08-02T20:55:50.962927+00:00"
+      "found_at": "2026-08-02T23:58:53.339393+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -113,17 +145,17 @@
       "margin_pct": 0.584,
       "guaranteed_profit": 5.84,
       "stakes": {
-        "Tottenham Hotspur": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 2.95,
-          "stake_pct": 34.1,
-          "stake_amount": 340.97
-        },
         "Brentford": {
           "bookmaker": "Betfair",
           "odds": 2.56,
           "stake_pct": 39.29,
           "stake_amount": 392.92
+        },
+        "Tottenham Hotspur": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 2.95,
+          "stake_pct": 34.1,
+          "stake_amount": 340.97
         },
         "Draw": {
           "bookmaker": "1xBet",
@@ -133,7 +165,7 @@
         }
       },
       "num_bookmakers": 39,
-      "found_at": "2026-08-02T20:55:50.957076+00:00"
+      "found_at": "2026-08-02T23:58:53.334081+00:00"
     }
   ],
   "value_bets": [
@@ -155,7 +187,7 @@
       "suggested_stake": 9.56,
       "expected_value": 15.29,
       "confidence": "ALTA",
-      "found_at": "2026-08-02T20:55:50.959974+00:00"
+      "found_at": "2026-08-02T23:58:53.336753+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -175,7 +207,7 @@
       "suggested_stake": 9.56,
       "expected_value": 15.29,
       "confidence": "ALTA",
-      "found_at": "2026-08-02T20:55:50.959980+00:00"
+      "found_at": "2026-08-02T23:58:53.336757+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -195,7 +227,7 @@
       "suggested_stake": 9.56,
       "expected_value": 15.29,
       "confidence": "ALTA",
-      "found_at": "2026-08-02T20:55:50.959992+00:00"
+      "found_at": "2026-08-02T23:58:53.336766+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -215,7 +247,7 @@
       "suggested_stake": 10.35,
       "expected_value": 14.16,
       "confidence": "ALTA",
-      "found_at": "2026-08-02T20:55:50.959666+00:00"
+      "found_at": "2026-08-02T23:58:53.336518+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -227,15 +259,15 @@
       "outcome": "Real Racing Club de Santander",
       "bookmaker": "Betfred (UK)",
       "odds": 5.0,
-      "fair_odds": 4.43,
-      "true_prob_pct": 22.57,
+      "fair_odds": 4.462,
+      "true_prob_pct": 22.41,
       "implied_prob_pct": 20.0,
-      "edge_pct": 12.86,
-      "kelly_stake_pct": 0.8,
-      "suggested_stake": 8.04,
-      "expected_value": 12.86,
+      "edge_pct": 12.06,
+      "kelly_stake_pct": 0.75,
+      "suggested_stake": 7.54,
+      "expected_value": 12.06,
       "confidence": "ALTA",
-      "found_at": "2026-08-02T20:55:50.960169+00:00"
+      "found_at": "2026-08-02T23:58:53.336947+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -247,15 +279,15 @@
       "outcome": "Real Racing Club de Santander",
       "bookmaker": "Sky Bet",
       "odds": 5.0,
-      "fair_odds": 4.43,
-      "true_prob_pct": 22.57,
+      "fair_odds": 4.462,
+      "true_prob_pct": 22.41,
       "implied_prob_pct": 20.0,
-      "edge_pct": 12.86,
-      "kelly_stake_pct": 0.8,
-      "suggested_stake": 8.04,
-      "expected_value": 12.86,
+      "edge_pct": 12.06,
+      "kelly_stake_pct": 0.75,
+      "suggested_stake": 7.54,
+      "expected_value": 12.06,
       "confidence": "ALTA",
-      "found_at": "2026-08-02T20:55:50.960182+00:00"
+      "found_at": "2026-08-02T23:58:53.336956+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -267,15 +299,15 @@
       "outcome": "Real Racing Club de Santander",
       "bookmaker": "William Hill",
       "odds": 5.0,
-      "fair_odds": 4.43,
-      "true_prob_pct": 22.57,
+      "fair_odds": 4.462,
+      "true_prob_pct": 22.41,
       "implied_prob_pct": 20.0,
-      "edge_pct": 12.86,
-      "kelly_stake_pct": 0.8,
-      "suggested_stake": 8.04,
-      "expected_value": 12.86,
+      "edge_pct": 12.06,
+      "kelly_stake_pct": 0.75,
+      "suggested_stake": 7.54,
+      "expected_value": 12.06,
       "confidence": "ALTA",
-      "found_at": "2026-08-02T20:55:50.960194+00:00"
+      "found_at": "2026-08-02T23:58:53.336970+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -295,7 +327,7 @@
       "suggested_stake": 8.81,
       "expected_value": 11.63,
       "confidence": "ALTA",
-      "found_at": "2026-08-02T20:55:50.960081+00:00"
+      "found_at": "2026-08-02T23:58:53.336876+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -315,7 +347,7 @@
       "suggested_stake": 8.68,
       "expected_value": 11.18,
       "confidence": "ALTA",
-      "found_at": "2026-08-02T20:55:50.959927+00:00"
+      "found_at": "2026-08-02T23:58:53.336806+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -335,7 +367,7 @@
       "suggested_stake": 8.32,
       "expected_value": 10.65,
       "confidence": "ALTA",
-      "found_at": "2026-08-02T20:55:50.959904+00:00"
+      "found_at": "2026-08-02T23:58:53.336791+00:00"
     }
   ]
 }
