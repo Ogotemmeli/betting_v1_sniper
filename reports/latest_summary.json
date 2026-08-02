@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-02 12:02 UTC",
+  "timestamp": "2026-08-02 15:02 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
-  "arbitrages_found": 3,
-  "value_bets_found": 15,
+  "arbitrages_found": 5,
+  "value_bets_found": 60,
   "best_arb_margin": 1.876,
-  "best_value_edge": 5.31,
+  "best_value_edge": 15.29,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
@@ -17,12 +17,6 @@
       "margin_pct": 1.876,
       "guaranteed_profit": 18.76,
       "stakes": {
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 3.6,
-          "stake_pct": 28.31,
-          "stake_amount": 283.09
-        },
         "Villarreal": {
           "bookmaker": "1xBet",
           "odds": 5.04,
@@ -34,10 +28,48 @@
           "odds": 1.98,
           "stake_pct": 51.47,
           "stake_amount": 514.71
+        },
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 3.6,
+          "stake_pct": 28.31,
+          "stake_amount": 283.09
         }
       },
-      "num_bookmakers": 13,
-      "found_at": "2026-08-02T12:02:42.480180+00:00"
+      "num_bookmakers": 15,
+      "found_at": "2026-08-02T15:02:20.439754+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "4feb0ef58a41849f92fcc270268734d4",
+      "league": "La Liga - Spain",
+      "match": "Rayo Vallecano vs Alavés",
+      "commence": "2026-08-20T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.526,
+      "guaranteed_profit": 15.26,
+      "stakes": {
+        "Alavés": {
+          "bookmaker": "1xBet",
+          "odds": 4.42,
+          "stake_pct": 22.98,
+          "stake_amount": 229.75
+        },
+        "Rayo Vallecano": {
+          "bookmaker": "Betfair",
+          "odds": 2.2,
+          "stake_pct": 46.16,
+          "stake_amount": 461.59
+        },
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 3.29,
+          "stake_pct": 30.87,
+          "stake_amount": 308.66
+        }
+      },
+      "num_bookmakers": 17,
+      "found_at": "2026-08-02T15:02:20.439248+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -46,30 +78,30 @@
       "match": "Inter Milan vs Monza",
       "commence": "2026-08-22T16:30:00Z",
       "market": "h2h",
-      "margin_pct": 0.638,
-      "guaranteed_profit": 6.38,
+      "margin_pct": 0.944,
+      "guaranteed_profit": 9.44,
       "stakes": {
-        "Inter Milan": {
-          "bookmaker": "1xBet",
-          "odds": 1.26,
-          "stake_pct": 79.87,
-          "stake_amount": 798.75
+        "Monza": {
+          "bookmaker": "Betfair",
+          "odds": 18.5,
+          "stake_pct": 5.46,
+          "stake_amount": 54.57
         },
         "Draw": {
           "bookmaker": "Tipico",
           "odds": 7.0,
-          "stake_pct": 14.38,
-          "stake_amount": 143.77
+          "stake_pct": 14.42,
+          "stake_amount": 144.22
         },
-        "Monza": {
-          "bookmaker": "Smarkets",
-          "odds": 17.51,
-          "stake_pct": 5.75,
-          "stake_amount": 57.48
+        "Inter Milan": {
+          "bookmaker": "1xBet",
+          "odds": 1.26,
+          "stake_pct": 80.12,
+          "stake_amount": 801.21
         }
       },
       "num_bookmakers": 38,
-      "found_at": "2026-08-02T12:02:42.477960+00:00"
+      "found_at": "2026-08-02T15:02:20.437214+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -87,63 +119,255 @@
           "stake_pct": 13.41,
           "stake_amount": 134.14
         },
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 5.69,
-          "stake_pct": 17.68,
-          "stake_amount": 176.81
-        },
         "Paris Saint Germain": {
           "bookmaker": "1xBet",
           "odds": 1.46,
           "stake_pct": 68.91,
           "stake_amount": 689.06
+        },
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 5.69,
+          "stake_pct": 17.68,
+          "stake_amount": 176.81
         }
       },
       "num_bookmakers": 36,
-      "found_at": "2026-08-02T12:02:42.483206+00:00"
+      "found_at": "2026-08-02T15:02:20.443054+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "8b4b033209bb204516cbd1f523614f25",
+      "league": "EPL",
+      "match": "Brentford vs Tottenham Hotspur",
+      "commence": "2026-08-22T16:30:00Z",
+      "market": "h2h",
+      "margin_pct": 0.584,
+      "guaranteed_profit": 5.84,
+      "stakes": {
+        "Brentford": {
+          "bookmaker": "Betfair",
+          "odds": 2.56,
+          "stake_pct": 39.29,
+          "stake_amount": 392.92
+        },
+        "Tottenham Hotspur": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 2.95,
+          "stake_pct": 34.1,
+          "stake_amount": 340.97
+        },
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 3.78,
+          "stake_pct": 26.61,
+          "stake_amount": 266.1
+        }
+      },
+      "num_bookmakers": 39,
+      "found_at": "2026-08-02T15:02:20.436277+00:00"
     }
   ],
   "value_bets": [
     {
       "type": "VALUE_BET",
-      "event_id": "ea0bacc4c23f813c6af97ec9b306a850",
-      "league": "EPL",
-      "match": "Newcastle United vs Liverpool",
-      "commence": "2026-08-23T15:30:00Z",
+      "event_id": "142b9f77470fa57ac5f1e1f69a28d44e",
+      "league": "La Liga - Spain",
+      "match": "Espanyol vs Real Madrid",
+      "commence": "2026-08-22T19:30:00Z",
       "market": "h2h",
-      "outcome": "Newcastle United",
-      "bookmaker": "Betfair",
-      "odds": 3.55,
-      "fair_odds": 3.371,
-      "true_prob_pct": 29.66,
-      "implied_prob_pct": 28.17,
-      "edge_pct": 5.31,
-      "kelly_stake_pct": 0.52,
-      "suggested_stake": 5.21,
-      "expected_value": 5.31,
-      "confidence": "MEDIA",
-      "found_at": "2026-08-02T12:02:42.477529+00:00"
+      "outcome": "Espanyol",
+      "bookmaker": "Betfred (UK)",
+      "odds": 5.0,
+      "fair_odds": 4.337,
+      "true_prob_pct": 23.06,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 15.29,
+      "kelly_stake_pct": 0.96,
+      "suggested_stake": 9.56,
+      "expected_value": 15.29,
+      "confidence": "ALTA",
+      "found_at": "2026-08-02T15:02:20.439619+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "ea0bacc4c23f813c6af97ec9b306a850",
-      "league": "EPL",
-      "match": "Newcastle United vs Liverpool",
-      "commence": "2026-08-23T15:30:00Z",
+      "event_id": "142b9f77470fa57ac5f1e1f69a28d44e",
+      "league": "La Liga - Spain",
+      "match": "Espanyol vs Real Madrid",
+      "commence": "2026-08-22T19:30:00Z",
       "market": "h2h",
-      "outcome": "Newcastle United",
-      "bookmaker": "Betfair",
-      "odds": 3.55,
-      "fair_odds": 3.371,
-      "true_prob_pct": 29.66,
-      "implied_prob_pct": 28.17,
-      "edge_pct": 5.31,
-      "kelly_stake_pct": 0.52,
-      "suggested_stake": 5.21,
-      "expected_value": 5.31,
-      "confidence": "MEDIA",
-      "found_at": "2026-08-02T12:02:42.477549+00:00"
+      "outcome": "Espanyol",
+      "bookmaker": "Codere (IT)",
+      "odds": 5.0,
+      "fair_odds": 4.337,
+      "true_prob_pct": 23.06,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 15.29,
+      "kelly_stake_pct": 0.96,
+      "suggested_stake": 9.56,
+      "expected_value": 15.29,
+      "confidence": "ALTA",
+      "found_at": "2026-08-02T15:02:20.439626+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "142b9f77470fa57ac5f1e1f69a28d44e",
+      "league": "La Liga - Spain",
+      "match": "Espanyol vs Real Madrid",
+      "commence": "2026-08-22T19:30:00Z",
+      "market": "h2h",
+      "outcome": "Espanyol",
+      "bookmaker": "Sky Bet",
+      "odds": 5.0,
+      "fair_odds": 4.337,
+      "true_prob_pct": 23.06,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 15.29,
+      "kelly_stake_pct": 0.96,
+      "suggested_stake": 9.56,
+      "expected_value": 15.29,
+      "confidence": "ALTA",
+      "found_at": "2026-08-02T15:02:20.439638+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "4feb0ef58a41849f92fcc270268734d4",
+      "league": "La Liga - Spain",
+      "match": "Rayo Vallecano vs Alavés",
+      "commence": "2026-08-20T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Alavés",
+      "bookmaker": "1xBet",
+      "odds": 4.42,
+      "fair_odds": 3.877,
+      "true_prob_pct": 25.79,
+      "implied_prob_pct": 22.62,
+      "edge_pct": 14.01,
+      "kelly_stake_pct": 1.02,
+      "suggested_stake": 10.24,
+      "expected_value": 14.01,
+      "confidence": "ALTA",
+      "found_at": "2026-08-02T15:02:20.439293+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "b06b6cc4d9eaea1fe78adf24afa350a3",
+      "league": "La Liga - Spain",
+      "match": "Elche CF vs Barcelona",
+      "commence": "2026-08-23T19:30:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Betclic (FR)",
+      "odds": 5.0,
+      "fair_odds": 4.44,
+      "true_prob_pct": 22.52,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 12.61,
+      "kelly_stake_pct": 0.79,
+      "suggested_stake": 7.88,
+      "expected_value": 12.61,
+      "confidence": "ALTA",
+      "found_at": "2026-08-02T15:02:20.440000+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "b06b6cc4d9eaea1fe78adf24afa350a3",
+      "league": "La Liga - Spain",
+      "match": "Elche CF vs Barcelona",
+      "commence": "2026-08-23T19:30:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "William Hill",
+      "odds": 5.0,
+      "fair_odds": 4.44,
+      "true_prob_pct": 22.52,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 12.61,
+      "kelly_stake_pct": 0.79,
+      "suggested_stake": 7.88,
+      "expected_value": 12.61,
+      "confidence": "ALTA",
+      "found_at": "2026-08-02T15:02:20.440014+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "8ef1d272900aafd279fdb80f7d75e36e",
+      "league": "La Liga - Spain",
+      "match": "Getafe vs Real Racing Club de Santander",
+      "commence": "2026-08-23T17:30:00Z",
+      "market": "h2h",
+      "outcome": "Real Racing Club de Santander",
+      "bookmaker": "Betfred (UK)",
+      "odds": 5.0,
+      "fair_odds": 4.462,
+      "true_prob_pct": 22.41,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 12.06,
+      "kelly_stake_pct": 0.75,
+      "suggested_stake": 7.54,
+      "expected_value": 12.06,
+      "confidence": "ALTA",
+      "found_at": "2026-08-02T15:02:20.439885+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "8ef1d272900aafd279fdb80f7d75e36e",
+      "league": "La Liga - Spain",
+      "match": "Getafe vs Real Racing Club de Santander",
+      "commence": "2026-08-23T17:30:00Z",
+      "market": "h2h",
+      "outcome": "Real Racing Club de Santander",
+      "bookmaker": "Sky Bet",
+      "odds": 5.0,
+      "fair_odds": 4.462,
+      "true_prob_pct": 22.41,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 12.06,
+      "kelly_stake_pct": 0.75,
+      "suggested_stake": 7.54,
+      "expected_value": 12.06,
+      "confidence": "ALTA",
+      "found_at": "2026-08-02T15:02:20.439899+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "8ef1d272900aafd279fdb80f7d75e36e",
+      "league": "La Liga - Spain",
+      "match": "Getafe vs Real Racing Club de Santander",
+      "commence": "2026-08-23T17:30:00Z",
+      "market": "h2h",
+      "outcome": "Real Racing Club de Santander",
+      "bookmaker": "William Hill",
+      "odds": 5.0,
+      "fair_odds": 4.462,
+      "true_prob_pct": 22.41,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 12.06,
+      "kelly_stake_pct": 0.75,
+      "suggested_stake": 7.54,
+      "expected_value": 12.06,
+      "confidence": "ALTA",
+      "found_at": "2026-08-02T15:02:20.439918+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "league": "La Liga - Spain",
+      "match": "Atlético Madrid vs Villarreal",
+      "commence": "2026-08-23T15:00:00Z",
+      "market": "h2h",
+      "outcome": "Villarreal",
+      "bookmaker": "Coolbet",
+      "odds": 4.3,
+      "fair_odds": 3.852,
+      "true_prob_pct": 25.96,
+      "implied_prob_pct": 23.26,
+      "edge_pct": 11.63,
+      "kelly_stake_pct": 0.88,
+      "suggested_stake": 8.81,
+      "expected_value": 11.63,
+      "confidence": "ALTA",
+      "found_at": "2026-08-02T15:02:20.439793+00:00"
     }
   ]
 }
