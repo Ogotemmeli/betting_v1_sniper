@@ -1,12 +1,44 @@
 {
-  "timestamp": "2026-08-02 09:57 UTC",
+  "timestamp": "2026-08-02 12:02 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
-  "arbitrages_found": 2,
-  "value_bets_found": 9,
-  "best_arb_margin": 0.794,
-  "best_value_edge": 6.15,
+  "arbitrages_found": 3,
+  "value_bets_found": 15,
+  "best_arb_margin": 1.876,
+  "best_value_edge": 5.31,
   "arbitrages": [
+    {
+      "type": "ARBITRAGE",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "league": "La Liga - Spain",
+      "match": "Atlético Madrid vs Villarreal",
+      "commence": "2026-08-23T15:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.876,
+      "guaranteed_profit": 18.76,
+      "stakes": {
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 3.6,
+          "stake_pct": 28.31,
+          "stake_amount": 283.09
+        },
+        "Villarreal": {
+          "bookmaker": "1xBet",
+          "odds": 5.04,
+          "stake_pct": 20.22,
+          "stake_amount": 202.21
+        },
+        "Atlético Madrid": {
+          "bookmaker": "Codere (IT)",
+          "odds": 1.98,
+          "stake_pct": 51.47,
+          "stake_amount": 514.71
+        }
+      },
+      "num_bookmakers": 13,
+      "found_at": "2026-08-02T12:02:42.480180+00:00"
+    },
     {
       "type": "ARBITRAGE",
       "event_id": "ef8a47c3c8c0f71a251e2efcbf84854a",
@@ -14,30 +46,30 @@
       "match": "Inter Milan vs Monza",
       "commence": "2026-08-22T16:30:00Z",
       "market": "h2h",
-      "margin_pct": 0.794,
-      "guaranteed_profit": 7.94,
+      "margin_pct": 0.638,
+      "guaranteed_profit": 6.38,
       "stakes": {
-        "Monza": {
-          "bookmaker": "Betfair",
-          "odds": 18.0,
-          "stake_pct": 5.6,
-          "stake_amount": 56.0
-        },
         "Inter Milan": {
           "bookmaker": "1xBet",
           "odds": 1.26,
-          "stake_pct": 80.0,
-          "stake_amount": 800.0
+          "stake_pct": 79.87,
+          "stake_amount": 798.75
         },
         "Draw": {
           "bookmaker": "Tipico",
           "odds": 7.0,
-          "stake_pct": 14.4,
-          "stake_amount": 144.0
+          "stake_pct": 14.38,
+          "stake_amount": 143.77
+        },
+        "Monza": {
+          "bookmaker": "Smarkets",
+          "odds": 17.51,
+          "stake_pct": 5.75,
+          "stake_amount": 57.48
         }
       },
       "num_bookmakers": 38,
-      "found_at": "2026-08-02T09:57:29.270316+00:00"
+      "found_at": "2026-08-02T12:02:42.477960+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -49,12 +81,6 @@
       "margin_pct": 0.599,
       "guaranteed_profit": 5.99,
       "stakes": {
-        "Paris Saint Germain": {
-          "bookmaker": "1xBet",
-          "odds": 1.46,
-          "stake_pct": 68.91,
-          "stake_amount": 689.06
-        },
         "Rennes": {
           "bookmaker": "Coolbet",
           "odds": 7.5,
@@ -66,10 +92,16 @@
           "odds": 5.69,
           "stake_pct": 17.68,
           "stake_amount": 176.81
+        },
+        "Paris Saint Germain": {
+          "bookmaker": "1xBet",
+          "odds": 1.46,
+          "stake_pct": 68.91,
+          "stake_amount": 689.06
         }
       },
       "num_bookmakers": 36,
-      "found_at": "2026-08-02T09:57:29.275047+00:00"
+      "found_at": "2026-08-02T12:02:42.483206+00:00"
     }
   ],
   "value_bets": [
@@ -83,15 +115,15 @@
       "outcome": "Newcastle United",
       "bookmaker": "Betfair",
       "odds": 3.55,
-      "fair_odds": 3.344,
-      "true_prob_pct": 29.9,
+      "fair_odds": 3.371,
+      "true_prob_pct": 29.66,
       "implied_prob_pct": 28.17,
-      "edge_pct": 6.15,
-      "kelly_stake_pct": 0.6,
-      "suggested_stake": 6.03,
-      "expected_value": 6.15,
+      "edge_pct": 5.31,
+      "kelly_stake_pct": 0.52,
+      "suggested_stake": 5.21,
+      "expected_value": 5.31,
       "confidence": "MEDIA",
-      "found_at": "2026-08-02T09:57:29.269888+00:00"
+      "found_at": "2026-08-02T12:02:42.477529+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -103,15 +135,15 @@
       "outcome": "Newcastle United",
       "bookmaker": "Betfair",
       "odds": 3.55,
-      "fair_odds": 3.344,
-      "true_prob_pct": 29.9,
+      "fair_odds": 3.371,
+      "true_prob_pct": 29.66,
       "implied_prob_pct": 28.17,
-      "edge_pct": 6.15,
-      "kelly_stake_pct": 0.6,
-      "suggested_stake": 6.03,
-      "expected_value": 6.15,
+      "edge_pct": 5.31,
+      "kelly_stake_pct": 0.52,
+      "suggested_stake": 5.21,
+      "expected_value": 5.31,
       "confidence": "MEDIA",
-      "found_at": "2026-08-02T09:57:29.269904+00:00"
+      "found_at": "2026-08-02T12:02:42.477549+00:00"
     }
   ]
 }

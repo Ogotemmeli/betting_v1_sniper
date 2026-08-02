@@ -5819,3 +5819,21 @@ timestamp,type,match,league,market,edge_pct,confidence,suggested_stake,details
 2026-08-02 09:57 UTC,VALUE_BET,Marseille vs Strasbourg,Ligue 1 - France,h2h,3.02,BASSA,1.88,Strasbourg@5.0 (Coolbet)
 2026-08-02 09:57 UTC,VALUE_BET,Marseille vs Strasbourg,Ligue 1 - France,h2h,3.02,BASSA,1.88,Strasbourg@5.0 (LeoVegas (SE))
 2026-08-02 09:57 UTC,VALUE_BET,Marseille vs Strasbourg,Ligue 1 - France,h2h,3.02,BASSA,1.88,Strasbourg@5.0 (Unibet (SE))
+2026-08-02 12:02 UTC,ARBITRAGE,Atlético Madrid vs Villarreal,La Liga - Spain,h2h,1.876,SURE,18.76,"{""Draw"": {""bookmaker"": ""1xBet"", ""odds"": 3.6, ""stake_pct"": 28.31, ""stake_amount"": 283.09}, ""Villarreal"": {""bookmaker"": ""1xBet"", ""odds"": 5.04, ""stake_pct"": 20.22, ""stake_amount"": 202.21}, ""Atlético Madrid"": {""bookmaker"": ""Codere (IT)"", ""odds"": 1.98, ""stake_pct"": 51.47, ""stake_amount"": 514.71}}"
+2026-08-02 12:02 UTC,ARBITRAGE,Inter Milan vs Monza,Serie A - Italy,h2h,0.638,SURE,6.38,"{""Inter Milan"": {""bookmaker"": ""1xBet"", ""odds"": 1.26, ""stake_pct"": 79.87, ""stake_amount"": 798.75}, ""Draw"": {""bookmaker"": ""Tipico"", ""odds"": 7.0, ""stake_pct"": 14.38, ""stake_amount"": 143.77}, ""Monza"": {""bookmaker"": ""Smarkets"", ""odds"": 17.51, ""stake_pct"": 5.75, ""stake_amount"": 57.48}}"
+2026-08-02 12:02 UTC,ARBITRAGE,Paris Saint Germain vs Rennes,Ligue 1 - France,h2h,0.599,SURE,5.99,"{""Rennes"": {""bookmaker"": ""Coolbet"", ""odds"": 7.5, ""stake_pct"": 13.41, ""stake_amount"": 134.14}, ""Draw"": {""bookmaker"": ""1xBet"", ""odds"": 5.69, ""stake_pct"": 17.68, ""stake_amount"": 176.81}, ""Paris Saint Germain"": {""bookmaker"": ""1xBet"", ""odds"": 1.46, ""stake_pct"": 68.91, ""stake_amount"": 689.06}}"
+2026-08-02 12:02 UTC,VALUE_BET,Newcastle United vs Liverpool,EPL,h2h,5.31,MEDIA,5.21,Newcastle United@3.55 (Betfair)
+2026-08-02 12:02 UTC,VALUE_BET,Newcastle United vs Liverpool,EPL,h2h,5.31,MEDIA,5.21,Newcastle United@3.55 (Betfair)
+2026-08-02 12:02 UTC,VALUE_BET,Rayo Vallecano vs Alavés,La Liga - Spain,h2h,4.84,BASSA,3.54,Alavés@4.42 (1xBet)
+2026-08-02 12:02 UTC,VALUE_BET,Angers vs Lille,Ligue 1 - France,h2h,4.3,BASSA,3.61,Draw@3.98 (1xBet)
+2026-08-02 12:02 UTC,VALUE_BET,Newcastle United vs Liverpool,EPL,h2h,3.83,BASSA,3.83,Newcastle United@3.5 (Smarkets)
+2026-08-02 12:02 UTC,VALUE_BET,Angers vs Lille,Ligue 1 - France,h2h,3.04,BASSA,1.9,Angers@5.0 (Sky Bet)
+2026-08-02 12:02 UTC,VALUE_BET,Angers vs Lille,Ligue 1 - France,h2h,3.04,BASSA,1.9,Angers@5.0 (Codere (IT))
+2026-08-02 12:02 UTC,VALUE_BET,Angers vs Lille,Ligue 1 - France,h2h,3.04,BASSA,1.9,Angers@5.0 (Betfred (UK))
+2026-08-02 12:02 UTC,VALUE_BET,Angers vs Lille,Ligue 1 - France,h2h,3.04,BASSA,1.9,Angers@5.0 (Tipico)
+2026-08-02 12:02 UTC,VALUE_BET,Angers vs Lille,Ligue 1 - France,h2h,3.04,BASSA,1.9,Angers@5.0 (Pinnacle)
+2026-08-02 12:02 UTC,VALUE_BET,Angers vs Lille,Ligue 1 - France,h2h,3.04,BASSA,1.9,Angers@5.0 (Coral)
+2026-08-02 12:02 UTC,VALUE_BET,Angers vs Lille,Ligue 1 - France,h2h,3.04,BASSA,1.9,Angers@5.0 (Betfair Sportsbook)
+2026-08-02 12:02 UTC,VALUE_BET,Marseille vs Strasbourg,Ligue 1 - France,h2h,3.02,BASSA,1.88,Strasbourg@5.0 (Coolbet)
+2026-08-02 12:02 UTC,VALUE_BET,Marseille vs Strasbourg,Ligue 1 - France,h2h,3.02,BASSA,1.88,Strasbourg@5.0 (LeoVegas (SE))
+2026-08-02 12:02 UTC,VALUE_BET,Marseille vs Strasbourg,Ligue 1 - France,h2h,3.02,BASSA,1.88,Strasbourg@5.0 (Unibet (SE))
