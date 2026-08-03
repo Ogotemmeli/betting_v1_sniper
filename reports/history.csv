@@ -6130,3 +6130,40 @@ timestamp,type,match,league,market,edge_pct,confidence,suggested_stake,details
 2026-08-03 11:23 UTC,VALUE_BET,Espanyol vs Real Madrid,La Liga - Spain,h2h,3.21,BASSA,2.0,Espanyol@5.0 (Unibet (UK))
 2026-08-03 11:23 UTC,VALUE_BET,Getafe vs Real Racing Club de Santander,La Liga - Spain,h2h,3.06,BASSA,2.19,Real Racing Club de Santander@4.5 (Codere (IT))
 2026-08-03 11:23 UTC,VALUE_BET,CA Osasuna vs Levante,La Liga - Spain,h2h,3.04,BASSA,2.51,Draw@4.03 (1xBet)
+2026-08-03 16:25 UTC,ARBITRAGE,Augsburg vs FC Schalke 04,Bundesliga - Germany,h2h,1.34,SURE,13.4,"{""Draw"": {""bookmaker"": ""Coolbet"", ""odds"": 4.0, ""stake_pct"": 25.34, ""stake_amount"": 253.4}, ""Augsburg"": {""bookmaker"": ""1xBet"", ""odds"": 2.26, ""stake_pct"": 44.85, ""stake_amount"": 448.49}, ""FC Schalke 04"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 3.4, ""stake_pct"": 29.81, ""stake_amount"": 298.11}}"
+2026-08-03 16:25 UTC,ARBITRAGE,Atlético Madrid vs Villarreal,La Liga - Spain,h2h,1.081,SURE,10.81,"{""Villarreal"": {""bookmaker"": ""1xBet"", ""odds"": 4.75, ""stake_pct"": 21.28, ""stake_amount"": 212.83}, ""Atlético Madrid"": {""bookmaker"": ""Codere (IT)"", ""odds"": 1.91, ""stake_pct"": 52.93, ""stake_amount"": 529.28}, ""Draw"": {""bookmaker"": ""1xBet"", ""odds"": 3.92, ""stake_pct"": 25.79, ""stake_amount"": 257.89}}"
+2026-08-03 16:25 UTC,ARBITRAGE,Paris Saint Germain vs Rennes,Ligue 1 - France,h2h,0.774,SURE,7.74,"{""Paris Saint Germain"": {""bookmaker"": ""1xBet"", ""odds"": 1.46, ""stake_pct"": 69.03, ""stake_amount"": 690.28}, ""Rennes"": {""bookmaker"": ""Smarkets"", ""odds"": 7.6, ""stake_pct"": 13.26, ""stake_amount"": 132.61}, ""Draw"": {""bookmaker"": ""1xBet"", ""odds"": 5.69, ""stake_pct"": 17.71, ""stake_amount"": 177.12}}"
+2026-08-03 16:25 UTC,ARBITRAGE,Fulham vs Chelsea,EPL,h2h,0.699,SURE,6.99,"{""Chelsea"": {""bookmaker"": ""1xBet"", ""odds"": 2.26, ""stake_pct"": 44.56, ""stake_amount"": 445.59}, ""Fulham"": {""bookmaker"": ""Betfair"", ""odds"": 3.4, ""stake_pct"": 29.62, ""stake_amount"": 296.19}, ""Draw"": {""bookmaker"": ""Betfair"", ""odds"": 3.9, ""stake_pct"": 25.82, ""stake_amount"": 258.22}}"
+2026-08-03 16:25 UTC,ARBITRAGE,Inter Milan vs Monza,Serie A - Italy,h2h,0.638,SURE,6.38,"{""Monza"": {""bookmaker"": ""Smarkets"", ""odds"": 17.51, ""stake_pct"": 5.75, ""stake_amount"": 57.48}, ""Draw"": {""bookmaker"": ""Tipico"", ""odds"": 7.0, ""stake_pct"": 14.38, ""stake_amount"": 143.77}, ""Inter Milan"": {""bookmaker"": ""1xBet"", ""odds"": 1.26, ""stake_pct"": 79.87, ""stake_amount"": 798.75}}"
+2026-08-03 16:25 UTC,ARBITRAGE,Brentford vs Tottenham Hotspur,EPL,h2h,0.584,SURE,5.84,"{""Brentford"": {""bookmaker"": ""Betfair"", ""odds"": 2.56, ""stake_pct"": 39.29, ""stake_amount"": 392.92}, ""Draw"": {""bookmaker"": ""1xBet"", ""odds"": 3.78, ""stake_pct"": 26.61, ""stake_amount"": 266.1}, ""Tottenham Hotspur"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 2.95, ""stake_pct"": 34.1, ""stake_amount"": 340.97}}"
+2026-08-03 16:25 UTC,ARBITRAGE,Troyes vs Paris FC,Ligue 1 - France,h2h,0.574,SURE,5.74,"{""Paris FC"": {""bookmaker"": ""LeoVegas (SE)"", ""odds"": 2.63, ""stake_pct"": 38.24, ""stake_amount"": 382.42}, ""Draw"": {""bookmaker"": ""1xBet"", ""odds"": 3.8, ""stake_pct"": 26.47, ""stake_amount"": 264.68}, ""Troyes"": {""bookmaker"": ""Tipico"", ""odds"": 2.85, ""stake_pct"": 35.29, ""stake_amount"": 352.9}}"
+2026-08-03 16:25 UTC,ARBITRAGE,Newcastle United vs Liverpool,EPL,h2h,0.527,SURE,5.27,"{""Newcastle United"": {""bookmaker"": ""Betfair"", ""odds"": 3.5, ""stake_pct"": 28.72, ""stake_amount"": 287.23}, ""Draw"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 4.1, ""stake_pct"": 24.52, ""stake_amount"": 245.19}, ""Liverpool"": {""bookmaker"": ""Coral"", ""odds"": 2.15, ""stake_pct"": 46.76, ""stake_amount"": 467.58}}"
+2026-08-03 16:25 UTC,VALUE_BET,Rayo Vallecano vs Alavés,La Liga - Spain,h2h,12.42,ALTA,9.08,Alavés@4.42 (1xBet)
+2026-08-03 16:25 UTC,VALUE_BET,Atlético Madrid vs Villarreal,La Liga - Spain,h2h,11.24,ALTA,7.49,Villarreal@4.75 (1xBet)
+2026-08-03 16:25 UTC,VALUE_BET,Le Havre vs AS Monaco,Ligue 1 - France,h2h,9.03,ALTA,8.61,Le Havre@3.62 (1xBet)
+2026-08-03 16:25 UTC,VALUE_BET,Le Havre vs AS Monaco,Ligue 1 - France,h2h,7.22,MEDIA,7.05,Le Havre@3.56 (Marathon Bet)
+2026-08-03 16:25 UTC,VALUE_BET,Le Havre vs AS Monaco,Ligue 1 - France,h2h,6.92,MEDIA,6.78,Le Havre@3.55 (Unibet (SE))
+2026-08-03 16:25 UTC,VALUE_BET,Le Havre vs AS Monaco,Ligue 1 - France,h2h,6.92,MEDIA,6.78,Le Havre@3.55 (LeoVegas (SE))
+2026-08-03 16:25 UTC,VALUE_BET,Rayo Vallecano vs Alavés,La Liga - Spain,h2h,6.83,MEDIA,5.33,Alavés@4.2 (Betfred (UK))
+2026-08-03 16:25 UTC,VALUE_BET,Espanyol vs Real Madrid,La Liga - Spain,h2h,6.3,MEDIA,3.94,Espanyol@5.0 (Betfred (UK))
+2026-08-03 16:25 UTC,VALUE_BET,Espanyol vs Real Madrid,La Liga - Spain,h2h,6.3,MEDIA,3.94,Espanyol@5.0 (Codere (IT))
+2026-08-03 16:25 UTC,VALUE_BET,Espanyol vs Real Madrid,La Liga - Spain,h2h,6.3,MEDIA,3.94,Espanyol@5.0 (Sky Bet)
+2026-08-03 16:25 UTC,VALUE_BET,Le Havre vs AS Monaco,Ligue 1 - France,h2h,5.41,MEDIA,5.41,Le Havre@3.5 (Coolbet)
+2026-08-03 16:25 UTC,VALUE_BET,Getafe vs Real Racing Club de Santander,La Liga - Spain,h2h,5.08,MEDIA,3.17,Real Racing Club de Santander@5.0 (Betfred (UK))
+2026-08-03 16:25 UTC,VALUE_BET,Getafe vs Real Racing Club de Santander,La Liga - Spain,h2h,5.08,MEDIA,3.17,Real Racing Club de Santander@5.0 (Sky Bet)
+2026-08-03 16:25 UTC,VALUE_BET,Getafe vs Real Racing Club de Santander,La Liga - Spain,h2h,5.08,MEDIA,3.17,Real Racing Club de Santander@5.0 (William Hill)
+2026-08-03 16:25 UTC,VALUE_BET,Rayo Vallecano vs Alavés,La Liga - Spain,h2h,4.28,BASSA,3.45,Alavés@4.1 (Betfair Sportsbook)
+2026-08-03 16:25 UTC,VALUE_BET,Newcastle United vs Liverpool,EPL,h2h,4.16,BASSA,4.16,Newcastle United@3.5 (Betfair)
+2026-08-03 16:25 UTC,VALUE_BET,Newcastle United vs Liverpool,EPL,h2h,4.16,BASSA,4.16,Newcastle United@3.5 (Betfair)
+2026-08-03 16:25 UTC,VALUE_BET,Le Havre vs AS Monaco,Ligue 1 - France,h2h,3.91,BASSA,3.99,Le Havre@3.45 (Unibet (NL))
+2026-08-03 16:25 UTC,VALUE_BET,Le Havre vs AS Monaco,Ligue 1 - France,h2h,3.91,BASSA,3.99,Le Havre@3.45 (Nordic Bet)
+2026-08-03 16:25 UTC,VALUE_BET,Le Havre vs AS Monaco,Ligue 1 - France,h2h,3.91,BASSA,3.99,Le Havre@3.45 (Grosvenor)
+2026-08-03 16:25 UTC,VALUE_BET,Le Havre vs AS Monaco,Ligue 1 - France,h2h,3.91,BASSA,3.99,Le Havre@3.45 (Betsson)
+2026-08-03 16:25 UTC,VALUE_BET,Toulouse vs Lyon,Ligue 1 - France,h2h,3.61,BASSA,3.28,Toulouse@3.75 (LeoVegas (SE))
+2026-08-03 16:25 UTC,VALUE_BET,Toulouse vs Lyon,Ligue 1 - France,h2h,3.61,BASSA,3.28,Toulouse@3.75 (Unibet (SE))
+2026-08-03 16:25 UTC,VALUE_BET,Atlético Madrid vs Villarreal,La Liga - Spain,h2h,3.4,BASSA,2.91,Draw@3.92 (1xBet)
+2026-08-03 16:25 UTC,VALUE_BET,Fulham vs Chelsea,EPL,h2h,3.36,BASSA,3.5,Fulham@3.4 (Betfair)
+2026-08-03 16:25 UTC,VALUE_BET,Fulham vs Chelsea,EPL,h2h,3.36,BASSA,3.5,Fulham@3.4 (Betfair)
+2026-08-03 16:25 UTC,VALUE_BET,Valencia vs Celta Vigo,La Liga - Spain,h2h,3.28,BASSA,3.28,Draw@3.5 (1xBet)
+2026-08-03 16:25 UTC,VALUE_BET,Marseille vs Strasbourg,Ligue 1 - France,h2h,3.2,BASSA,2.0,Strasbourg@5.0 (Coolbet)
+2026-08-03 16:25 UTC,VALUE_BET,Málaga vs Deportivo La Coruña,La Liga - Spain,h2h,3.15,BASSA,3.44,Draw@3.29 (1xBet)
