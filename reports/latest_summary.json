@@ -1,12 +1,44 @@
 {
-  "timestamp": "2026-08-03 16:25 UTC",
+  "timestamp": "2026-08-03 18:50 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
   "arbitrages_found": 8,
   "value_bets_found": 29,
-  "best_arb_margin": 1.34,
-  "best_value_edge": 12.42,
+  "best_arb_margin": 1.354,
+  "best_value_edge": 12.91,
   "arbitrages": [
+    {
+      "type": "ARBITRAGE",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "league": "La Liga - Spain",
+      "match": "Atlético Madrid vs Villarreal",
+      "commence": "2026-08-23T15:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.354,
+      "guaranteed_profit": 13.54,
+      "stakes": {
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 3.92,
+          "stake_pct": 25.86,
+          "stake_amount": 258.6
+        },
+        "Villarreal": {
+          "bookmaker": "1xBet",
+          "odds": 4.75,
+          "stake_pct": 21.34,
+          "stake_amount": 213.42
+        },
+        "Atlético Madrid": {
+          "bookmaker": "Codere (IT)",
+          "odds": 1.92,
+          "stake_pct": 52.8,
+          "stake_amount": 527.98
+        }
+      },
+      "num_bookmakers": 15,
+      "found_at": "2026-08-03T18:50:59.229377+00:00"
+    },
     {
       "type": "ARBITRAGE",
       "event_id": "78ab183499784117d62a40821294d9fa",
@@ -17,17 +49,17 @@
       "margin_pct": 1.34,
       "guaranteed_profit": 13.4,
       "stakes": {
-        "Draw": {
-          "bookmaker": "Coolbet",
-          "odds": 4.0,
-          "stake_pct": 25.34,
-          "stake_amount": 253.4
-        },
         "Augsburg": {
           "bookmaker": "1xBet",
           "odds": 2.26,
           "stake_pct": 44.85,
           "stake_amount": 448.49
+        },
+        "Draw": {
+          "bookmaker": "Coolbet",
+          "odds": 4.0,
+          "stake_pct": 25.34,
+          "stake_amount": 253.4
         },
         "FC Schalke 04": {
           "bookmaker": "Unibet (SE)",
@@ -37,39 +69,7 @@
         }
       },
       "num_bookmakers": 36,
-      "found_at": "2026-08-03T16:25:39.200902+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
-      "league": "La Liga - Spain",
-      "match": "Atlético Madrid vs Villarreal",
-      "commence": "2026-08-23T15:00:00Z",
-      "market": "h2h",
-      "margin_pct": 1.081,
-      "guaranteed_profit": 10.81,
-      "stakes": {
-        "Villarreal": {
-          "bookmaker": "1xBet",
-          "odds": 4.75,
-          "stake_pct": 21.28,
-          "stake_amount": 212.83
-        },
-        "Atlético Madrid": {
-          "bookmaker": "Codere (IT)",
-          "odds": 1.91,
-          "stake_pct": 52.93,
-          "stake_amount": 529.28
-        },
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 3.92,
-          "stake_pct": 25.79,
-          "stake_amount": 257.89
-        }
-      },
-      "num_bookmakers": 15,
-      "found_at": "2026-08-03T16:25:39.199445+00:00"
+      "found_at": "2026-08-03T18:50:59.231058+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -81,11 +81,11 @@
       "margin_pct": 0.774,
       "guaranteed_profit": 7.74,
       "stakes": {
-        "Paris Saint Germain": {
+        "Draw": {
           "bookmaker": "1xBet",
-          "odds": 1.46,
-          "stake_pct": 69.03,
-          "stake_amount": 690.28
+          "odds": 5.69,
+          "stake_pct": 17.71,
+          "stake_amount": 177.12
         },
         "Rennes": {
           "bookmaker": "Smarkets",
@@ -93,15 +93,15 @@
           "stake_pct": 13.26,
           "stake_amount": 132.61
         },
-        "Draw": {
+        "Paris Saint Germain": {
           "bookmaker": "1xBet",
-          "odds": 5.69,
-          "stake_pct": 17.71,
-          "stake_amount": 177.12
+          "odds": 1.46,
+          "stake_pct": 69.03,
+          "stake_amount": 690.28
         }
       },
       "num_bookmakers": 37,
-      "found_at": "2026-08-03T16:25:39.202078+00:00"
+      "found_at": "2026-08-03T18:50:59.232453+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -113,17 +113,17 @@
       "margin_pct": 0.699,
       "guaranteed_profit": 6.99,
       "stakes": {
-        "Chelsea": {
-          "bookmaker": "1xBet",
-          "odds": 2.26,
-          "stake_pct": 44.56,
-          "stake_amount": 445.59
-        },
         "Fulham": {
           "bookmaker": "Betfair",
           "odds": 3.4,
           "stake_pct": 29.62,
           "stake_amount": 296.19
+        },
+        "Chelsea": {
+          "bookmaker": "1xBet",
+          "odds": 2.26,
+          "stake_pct": 44.56,
+          "stake_amount": 445.59
         },
         "Draw": {
           "bookmaker": "Betfair",
@@ -133,7 +133,7 @@
         }
       },
       "num_bookmakers": 37,
-      "found_at": "2026-08-03T16:25:39.197111+00:00"
+      "found_at": "2026-08-03T18:50:59.226662+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -145,11 +145,11 @@
       "margin_pct": 0.638,
       "guaranteed_profit": 6.38,
       "stakes": {
-        "Monza": {
-          "bookmaker": "Smarkets",
-          "odds": 17.51,
-          "stake_pct": 5.75,
-          "stake_amount": 57.48
+        "Inter Milan": {
+          "bookmaker": "1xBet",
+          "odds": 1.26,
+          "stake_pct": 79.87,
+          "stake_amount": 798.75
         },
         "Draw": {
           "bookmaker": "Tipico",
@@ -157,15 +157,15 @@
           "stake_pct": 14.38,
           "stake_amount": 143.77
         },
-        "Inter Milan": {
-          "bookmaker": "1xBet",
-          "odds": 1.26,
-          "stake_pct": 79.87,
-          "stake_amount": 798.75
+        "Monza": {
+          "bookmaker": "Smarkets",
+          "odds": 17.51,
+          "stake_pct": 5.75,
+          "stake_amount": 57.48
         }
       },
       "num_bookmakers": 38,
-      "found_at": "2026-08-03T16:25:39.197366+00:00"
+      "found_at": "2026-08-03T18:50:59.226956+00:00"
     }
   ],
   "value_bets": [
@@ -179,15 +179,15 @@
       "outcome": "Alavés",
       "bookmaker": "1xBet",
       "odds": 4.42,
-      "fair_odds": 3.932,
-      "true_prob_pct": 25.44,
+      "fair_odds": 3.915,
+      "true_prob_pct": 25.55,
       "implied_prob_pct": 22.62,
-      "edge_pct": 12.42,
-      "kelly_stake_pct": 0.91,
-      "suggested_stake": 9.08,
-      "expected_value": 12.42,
+      "edge_pct": 12.91,
+      "kelly_stake_pct": 0.94,
+      "suggested_stake": 9.44,
+      "expected_value": 12.91,
       "confidence": "ALTA",
-      "found_at": "2026-08-03T16:25:39.199196+00:00"
+      "found_at": "2026-08-03T18:50:59.229081+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -199,15 +199,15 @@
       "outcome": "Villarreal",
       "bookmaker": "1xBet",
       "odds": 4.75,
-      "fair_odds": 4.27,
-      "true_prob_pct": 23.42,
+      "fair_odds": 4.258,
+      "true_prob_pct": 23.49,
       "implied_prob_pct": 21.05,
-      "edge_pct": 11.24,
-      "kelly_stake_pct": 0.75,
-      "suggested_stake": 7.49,
-      "expected_value": 11.24,
+      "edge_pct": 11.56,
+      "kelly_stake_pct": 0.77,
+      "suggested_stake": 7.71,
+      "expected_value": 11.56,
       "confidence": "ALTA",
-      "found_at": "2026-08-03T16:25:39.199467+00:00"
+      "found_at": "2026-08-03T18:50:59.229415+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -227,7 +227,27 @@
       "suggested_stake": 8.61,
       "expected_value": 9.03,
       "confidence": "ALTA",
-      "found_at": "2026-08-03T16:25:39.201940+00:00"
+      "found_at": "2026-08-03T18:50:59.232288+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "4feb0ef58a41849f92fcc270268734d4",
+      "league": "La Liga - Spain",
+      "match": "Rayo Vallecano vs Alavés",
+      "commence": "2026-08-20T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Alavés",
+      "bookmaker": "Betfred (UK)",
+      "odds": 4.2,
+      "fair_odds": 3.915,
+      "true_prob_pct": 25.55,
+      "implied_prob_pct": 23.81,
+      "edge_pct": 7.29,
+      "kelly_stake_pct": 0.57,
+      "suggested_stake": 5.7,
+      "expected_value": 7.29,
+      "confidence": "MEDIA",
+      "found_at": "2026-08-03T18:50:59.229073+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -247,7 +267,7 @@
       "suggested_stake": 7.05,
       "expected_value": 7.22,
       "confidence": "MEDIA",
-      "found_at": "2026-08-03T16:25:39.201985+00:00"
+      "found_at": "2026-08-03T18:50:59.232348+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -267,7 +287,7 @@
       "suggested_stake": 6.78,
       "expected_value": 6.92,
       "confidence": "MEDIA",
-      "found_at": "2026-08-03T16:25:39.201956+00:00"
+      "found_at": "2026-08-03T18:50:59.232314+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -287,27 +307,7 @@
       "suggested_stake": 6.78,
       "expected_value": 6.92,
       "confidence": "MEDIA",
-      "found_at": "2026-08-03T16:25:39.201966+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "4feb0ef58a41849f92fcc270268734d4",
-      "league": "La Liga - Spain",
-      "match": "Rayo Vallecano vs Alavés",
-      "commence": "2026-08-20T19:00:00Z",
-      "market": "h2h",
-      "outcome": "Alavés",
-      "bookmaker": "Betfred (UK)",
-      "odds": 4.2,
-      "fair_odds": 3.932,
-      "true_prob_pct": 25.44,
-      "implied_prob_pct": 23.81,
-      "edge_pct": 6.83,
-      "kelly_stake_pct": 0.53,
-      "suggested_stake": 5.33,
-      "expected_value": 6.83,
-      "confidence": "MEDIA",
-      "found_at": "2026-08-03T16:25:39.199187+00:00"
+      "found_at": "2026-08-03T18:50:59.232326+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -327,7 +327,7 @@
       "suggested_stake": 3.94,
       "expected_value": 6.3,
       "confidence": "MEDIA",
-      "found_at": "2026-08-03T16:25:39.199391+00:00"
+      "found_at": "2026-08-03T18:50:59.229318+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -347,7 +347,7 @@
       "suggested_stake": 3.94,
       "expected_value": 6.3,
       "confidence": "MEDIA",
-      "found_at": "2026-08-03T16:25:39.199397+00:00"
+      "found_at": "2026-08-03T18:50:59.229324+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -367,7 +367,7 @@
       "suggested_stake": 3.94,
       "expected_value": 6.3,
       "confidence": "MEDIA",
-      "found_at": "2026-08-03T16:25:39.199403+00:00"
+      "found_at": "2026-08-03T18:50:59.229330+00:00"
     }
   ]
 }
