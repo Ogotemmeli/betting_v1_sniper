@@ -1,373 +1,373 @@
 {
-  "timestamp": "2026-08-03 18:50 UTC",
+  "timestamp": "2026-09-01 01:41 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
-  "arbitrages_found": 8,
-  "value_bets_found": 29,
-  "best_arb_margin": 1.354,
-  "best_value_edge": 12.91,
+  "arbitrages_found": 18,
+  "value_bets_found": 171,
+  "best_arb_margin": 2.327,
+  "best_value_edge": 28.16,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
-      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
-      "league": "La Liga - Spain",
-      "match": "Atlético Madrid vs Villarreal",
-      "commence": "2026-08-23T15:00:00Z",
-      "market": "h2h",
-      "margin_pct": 1.354,
-      "guaranteed_profit": 13.54,
-      "stakes": {
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 3.92,
-          "stake_pct": 25.86,
-          "stake_amount": 258.6
-        },
-        "Villarreal": {
-          "bookmaker": "1xBet",
-          "odds": 4.75,
-          "stake_pct": 21.34,
-          "stake_amount": 213.42
-        },
-        "Atlético Madrid": {
-          "bookmaker": "Codere (IT)",
-          "odds": 1.92,
-          "stake_pct": 52.8,
-          "stake_amount": 527.98
-        }
-      },
-      "num_bookmakers": 15,
-      "found_at": "2026-08-03T18:50:59.229377+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "78ab183499784117d62a40821294d9fa",
-      "league": "Bundesliga - Germany",
-      "match": "Augsburg vs FC Schalke 04",
-      "commence": "2026-08-30T15:30:00Z",
-      "market": "h2h",
-      "margin_pct": 1.34,
-      "guaranteed_profit": 13.4,
-      "stakes": {
-        "Augsburg": {
-          "bookmaker": "1xBet",
-          "odds": 2.26,
-          "stake_pct": 44.85,
-          "stake_amount": 448.49
-        },
-        "Draw": {
-          "bookmaker": "Coolbet",
-          "odds": 4.0,
-          "stake_pct": 25.34,
-          "stake_amount": 253.4
-        },
-        "FC Schalke 04": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 3.4,
-          "stake_pct": 29.81,
-          "stake_amount": 298.11
-        }
-      },
-      "num_bookmakers": 36,
-      "found_at": "2026-08-03T18:50:59.231058+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "0a88bfab377a4bbddf8aec2983bf4c15",
-      "league": "Ligue 1 - France",
-      "match": "Paris Saint Germain vs Rennes",
-      "commence": "2026-08-23T18:45:00Z",
-      "market": "h2h",
-      "margin_pct": 0.774,
-      "guaranteed_profit": 7.74,
-      "stakes": {
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 5.69,
-          "stake_pct": 17.71,
-          "stake_amount": 177.12
-        },
-        "Rennes": {
-          "bookmaker": "Smarkets",
-          "odds": 7.6,
-          "stake_pct": 13.26,
-          "stake_amount": 132.61
-        },
-        "Paris Saint Germain": {
-          "bookmaker": "1xBet",
-          "odds": 1.46,
-          "stake_pct": 69.03,
-          "stake_amount": 690.28
-        }
-      },
-      "num_bookmakers": 37,
-      "found_at": "2026-08-03T18:50:59.232453+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "4e4a813bf4218cc527e6f8ef2351170d",
-      "league": "EPL",
-      "match": "Fulham vs Chelsea",
-      "commence": "2026-08-24T19:00:00Z",
-      "market": "h2h",
-      "margin_pct": 0.699,
-      "guaranteed_profit": 6.99,
-      "stakes": {
-        "Fulham": {
-          "bookmaker": "Betfair",
-          "odds": 3.4,
-          "stake_pct": 29.62,
-          "stake_amount": 296.19
-        },
-        "Chelsea": {
-          "bookmaker": "1xBet",
-          "odds": 2.26,
-          "stake_pct": 44.56,
-          "stake_amount": 445.59
-        },
-        "Draw": {
-          "bookmaker": "Betfair",
-          "odds": 3.9,
-          "stake_pct": 25.82,
-          "stake_amount": 258.22
-        }
-      },
-      "num_bookmakers": 37,
-      "found_at": "2026-08-03T18:50:59.226662+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "ef8a47c3c8c0f71a251e2efcbf84854a",
+      "event_id": "8f751e96142db860ba66bbea713baf50",
       "league": "Serie A - Italy",
-      "match": "Inter Milan vs Monza",
-      "commence": "2026-08-22T16:30:00Z",
+      "match": "Cagliari vs Lecce",
+      "commence": "2026-09-07T16:30:00Z",
       "market": "h2h",
-      "margin_pct": 0.638,
-      "guaranteed_profit": 6.38,
+      "margin_pct": 2.327,
+      "guaranteed_profit": 23.27,
       "stakes": {
-        "Inter Milan": {
-          "bookmaker": "1xBet",
-          "odds": 1.26,
-          "stake_pct": 79.87,
-          "stake_amount": 798.75
+        "Lecce": {
+          "bookmaker": "Smarkets",
+          "odds": 4.6,
+          "stake_pct": 22.26,
+          "stake_amount": 222.57
+        },
+        "Cagliari": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 2.17,
+          "stake_pct": 47.18,
+          "stake_amount": 471.81
         },
         "Draw": {
-          "bookmaker": "Tipico",
-          "odds": 7.0,
-          "stake_pct": 14.38,
-          "stake_amount": 143.77
+          "bookmaker": "1xBet",
+          "odds": 3.35,
+          "stake_pct": 30.56,
+          "stake_amount": 305.62
+        }
+      },
+      "num_bookmakers": 39,
+      "found_at": "2026-09-01T01:41:42.944475+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "1484e27f774c67d124acae27e82e60fa",
+      "league": "La Liga - Spain",
+      "match": "Real Betis vs Real Madrid",
+      "commence": "2026-09-04T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 2.055,
+      "guaranteed_profit": 20.55,
+      "stakes": {
+        "Real Madrid": {
+          "bookmaker": "Betway",
+          "odds": 1.48,
+          "stake_pct": 68.99,
+          "stake_amount": 689.86
         },
-        "Monza": {
+        "Real Betis": {
           "bookmaker": "Smarkets",
-          "odds": 17.51,
-          "stake_pct": 5.75,
-          "stake_amount": 57.48
+          "odds": 8.2,
+          "stake_pct": 12.45,
+          "stake_amount": 124.51
+        },
+        "Draw": {
+          "bookmaker": "Smarkets",
+          "odds": 5.5,
+          "stake_pct": 18.56,
+          "stake_amount": 185.63
+        }
+      },
+      "num_bookmakers": 37,
+      "found_at": "2026-09-01T01:41:42.945748+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "467fe6e71bc34a255dfb47e13b8fa34e",
+      "league": "Bundesliga - Germany",
+      "match": "FSV Mainz 05 vs Eintracht Frankfurt",
+      "commence": "2026-09-12T13:30:00Z",
+      "market": "h2h",
+      "margin_pct": 2.046,
+      "guaranteed_profit": 20.46,
+      "stakes": {
+        "FSV Mainz 05": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 2.32,
+          "stake_pct": 44.0,
+          "stake_amount": 440.04
+        },
+        "Draw": {
+          "bookmaker": "Betfred (UK)",
+          "odds": 4.0,
+          "stake_pct": 25.52,
+          "stake_amount": 255.22
+        },
+        "Eintracht Frankfurt": {
+          "bookmaker": "1xBet",
+          "odds": 3.35,
+          "stake_pct": 30.47,
+          "stake_amount": 304.74
+        }
+      },
+      "num_bookmakers": 29,
+      "found_at": "2026-09-01T01:41:42.949447+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "73639380311449b9494a3230cf1356ba",
+      "league": "La Liga - Spain",
+      "match": "Valencia vs Barcelona",
+      "commence": "2026-09-06T14:15:00Z",
+      "market": "h2h",
+      "margin_pct": 1.773,
+      "guaranteed_profit": 17.73,
+      "stakes": {
+        "Valencia": {
+          "bookmaker": "Betfair",
+          "odds": 9.4,
+          "stake_pct": 10.83,
+          "stake_amount": 108.3
+        },
+        "Barcelona": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 1.41,
+          "stake_pct": 72.2,
+          "stake_amount": 722.02
+        },
+        "Draw": {
+          "bookmaker": "Betfair",
+          "odds": 6.0,
+          "stake_pct": 16.97,
+          "stake_amount": 169.68
         }
       },
       "num_bookmakers": 38,
-      "found_at": "2026-08-03T18:50:59.226956+00:00"
+      "found_at": "2026-09-01T01:41:42.946229+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "15615edb9f0c34cb8083768aebeb727b",
+      "league": "Serie A - Italy",
+      "match": "AS Roma vs Atalanta BC",
+      "commence": "2026-09-05T18:45:00Z",
+      "market": "h2h",
+      "margin_pct": 1.399,
+      "guaranteed_profit": 13.99,
+      "stakes": {
+        "Atalanta BC": {
+          "bookmaker": "Matchbook",
+          "odds": 5.2,
+          "stake_pct": 19.5,
+          "stake_amount": 195.04
+        },
+        "Draw": {
+          "bookmaker": "Betfair",
+          "odds": 3.95,
+          "stake_pct": 25.68,
+          "stake_amount": 256.76
+        },
+        "AS Roma": {
+          "bookmaker": "Betway",
+          "odds": 1.85,
+          "stake_pct": 54.82,
+          "stake_amount": 548.21
+        }
+      },
+      "num_bookmakers": 40,
+      "found_at": "2026-09-01T01:41:42.943848+00:00"
     }
   ],
   "value_bets": [
     {
       "type": "VALUE_BET",
-      "event_id": "4feb0ef58a41849f92fcc270268734d4",
+      "event_id": "095ea49c978f544d67fe23026a8e4907",
       "league": "La Liga - Spain",
-      "match": "Rayo Vallecano vs Alavés",
-      "commence": "2026-08-20T19:00:00Z",
+      "match": "CA Osasuna vs Espanyol",
+      "commence": "2026-09-13T19:00:00Z",
       "market": "h2h",
-      "outcome": "Alavés",
+      "outcome": "Espanyol",
       "bookmaker": "1xBet",
-      "odds": 4.42,
-      "fair_odds": 3.915,
-      "true_prob_pct": 25.55,
-      "implied_prob_pct": 22.62,
-      "edge_pct": 12.91,
-      "kelly_stake_pct": 0.94,
-      "suggested_stake": 9.44,
-      "expected_value": 12.91,
+      "odds": 4.31,
+      "fair_odds": 3.363,
+      "true_prob_pct": 29.73,
+      "implied_prob_pct": 23.2,
+      "edge_pct": 28.16,
+      "kelly_stake_pct": 2.13,
+      "suggested_stake": 21.27,
+      "expected_value": 28.16,
       "confidence": "ALTA",
-      "found_at": "2026-08-03T18:50:59.229081+00:00"
+      "found_at": "2026-09-01T01:41:42.947419+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
-      "league": "La Liga - Spain",
-      "match": "Atlético Madrid vs Villarreal",
-      "commence": "2026-08-23T15:00:00Z",
+      "event_id": "7f4f996975ec33c5c76a5101a285f34d",
+      "league": "Serie A - Italy",
+      "match": "Como vs Parma",
+      "commence": "2026-09-13T13:00:00Z",
       "market": "h2h",
-      "outcome": "Villarreal",
-      "bookmaker": "1xBet",
-      "odds": 4.75,
-      "fair_odds": 4.258,
-      "true_prob_pct": 23.49,
-      "implied_prob_pct": 21.05,
-      "edge_pct": 11.56,
-      "kelly_stake_pct": 0.77,
-      "suggested_stake": 7.71,
-      "expected_value": 11.56,
+      "outcome": "Draw",
+      "bookmaker": "Betfred (UK)",
+      "odds": 5.0,
+      "fair_odds": 3.93,
+      "true_prob_pct": 25.45,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 27.23,
+      "kelly_stake_pct": 1.7,
+      "suggested_stake": 17.02,
+      "expected_value": 27.23,
       "confidence": "ALTA",
-      "found_at": "2026-08-03T18:50:59.229415+00:00"
+      "found_at": "2026-09-01T01:41:42.945107+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "38b23d1127eb086d775f97b935bbf992",
-      "league": "Ligue 1 - France",
-      "match": "Le Havre vs AS Monaco",
-      "commence": "2026-08-23T15:15:00Z",
+      "event_id": "095ea49c978f544d67fe23026a8e4907",
+      "league": "La Liga - Spain",
+      "match": "CA Osasuna vs Espanyol",
+      "commence": "2026-09-13T19:00:00Z",
       "market": "h2h",
-      "outcome": "Le Havre",
-      "bookmaker": "1xBet",
-      "odds": 3.62,
-      "fair_odds": 3.32,
-      "true_prob_pct": 30.12,
-      "implied_prob_pct": 27.62,
-      "edge_pct": 9.03,
-      "kelly_stake_pct": 0.86,
-      "suggested_stake": 8.61,
-      "expected_value": 9.03,
+      "outcome": "Espanyol",
+      "bookmaker": "Marathon Bet",
+      "odds": 4.25,
+      "fair_odds": 3.363,
+      "true_prob_pct": 29.73,
+      "implied_prob_pct": 23.53,
+      "edge_pct": 26.37,
+      "kelly_stake_pct": 2.03,
+      "suggested_stake": 20.29,
+      "expected_value": 26.37,
       "confidence": "ALTA",
-      "found_at": "2026-08-03T18:50:59.232288+00:00"
+      "found_at": "2026-09-01T01:41:42.947446+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "4feb0ef58a41849f92fcc270268734d4",
+      "event_id": "095ea49c978f544d67fe23026a8e4907",
       "league": "La Liga - Spain",
-      "match": "Rayo Vallecano vs Alavés",
-      "commence": "2026-08-20T19:00:00Z",
+      "match": "CA Osasuna vs Espanyol",
+      "commence": "2026-09-13T19:00:00Z",
       "market": "h2h",
-      "outcome": "Alavés",
+      "outcome": "Espanyol",
       "bookmaker": "Betfred (UK)",
       "odds": 4.2,
-      "fair_odds": 3.915,
-      "true_prob_pct": 25.55,
+      "fair_odds": 3.363,
+      "true_prob_pct": 29.73,
       "implied_prob_pct": 23.81,
-      "edge_pct": 7.29,
-      "kelly_stake_pct": 0.57,
-      "suggested_stake": 5.7,
-      "expected_value": 7.29,
-      "confidence": "MEDIA",
-      "found_at": "2026-08-03T18:50:59.229073+00:00"
+      "edge_pct": 24.89,
+      "kelly_stake_pct": 1.94,
+      "suggested_stake": 19.44,
+      "expected_value": 24.89,
+      "confidence": "ALTA",
+      "found_at": "2026-09-01T01:41:42.947424+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "38b23d1127eb086d775f97b935bbf992",
-      "league": "Ligue 1 - France",
-      "match": "Le Havre vs AS Monaco",
-      "commence": "2026-08-23T15:15:00Z",
+      "event_id": "7f4f996975ec33c5c76a5101a285f34d",
+      "league": "Serie A - Italy",
+      "match": "Como vs Parma",
+      "commence": "2026-09-13T13:00:00Z",
       "market": "h2h",
-      "outcome": "Le Havre",
-      "bookmaker": "Marathon Bet",
-      "odds": 3.56,
-      "fair_odds": 3.32,
-      "true_prob_pct": 30.12,
-      "implied_prob_pct": 28.09,
-      "edge_pct": 7.22,
-      "kelly_stake_pct": 0.71,
-      "suggested_stake": 7.05,
-      "expected_value": 7.22,
-      "confidence": "MEDIA",
-      "found_at": "2026-08-03T18:50:59.232348+00:00"
+      "outcome": "Draw",
+      "bookmaker": "Sky Bet",
+      "odds": 4.75,
+      "fair_odds": 3.93,
+      "true_prob_pct": 25.45,
+      "implied_prob_pct": 21.05,
+      "edge_pct": 20.87,
+      "kelly_stake_pct": 1.39,
+      "suggested_stake": 13.91,
+      "expected_value": 20.87,
+      "confidence": "ALTA",
+      "found_at": "2026-09-01T01:41:42.945114+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "38b23d1127eb086d775f97b935bbf992",
-      "league": "Ligue 1 - France",
-      "match": "Le Havre vs AS Monaco",
-      "commence": "2026-08-23T15:15:00Z",
-      "market": "h2h",
-      "outcome": "Le Havre",
-      "bookmaker": "Unibet (SE)",
-      "odds": 3.55,
-      "fair_odds": 3.32,
-      "true_prob_pct": 30.12,
-      "implied_prob_pct": 28.17,
-      "edge_pct": 6.92,
-      "kelly_stake_pct": 0.68,
-      "suggested_stake": 6.78,
-      "expected_value": 6.92,
-      "confidence": "MEDIA",
-      "found_at": "2026-08-03T18:50:59.232314+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "38b23d1127eb086d775f97b935bbf992",
-      "league": "Ligue 1 - France",
-      "match": "Le Havre vs AS Monaco",
-      "commence": "2026-08-23T15:15:00Z",
-      "market": "h2h",
-      "outcome": "Le Havre",
-      "bookmaker": "LeoVegas (SE)",
-      "odds": 3.55,
-      "fair_odds": 3.32,
-      "true_prob_pct": 30.12,
-      "implied_prob_pct": 28.17,
-      "edge_pct": 6.92,
-      "kelly_stake_pct": 0.68,
-      "suggested_stake": 6.78,
-      "expected_value": 6.92,
-      "confidence": "MEDIA",
-      "found_at": "2026-08-03T18:50:59.232326+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "142b9f77470fa57ac5f1e1f69a28d44e",
+      "event_id": "095ea49c978f544d67fe23026a8e4907",
       "league": "La Liga - Spain",
-      "match": "Espanyol vs Real Madrid",
-      "commence": "2026-08-22T19:30:00Z",
-      "market": "h2h",
-      "outcome": "Espanyol",
-      "bookmaker": "Betfred (UK)",
-      "odds": 5.0,
-      "fair_odds": 4.704,
-      "true_prob_pct": 21.26,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 6.3,
-      "kelly_stake_pct": 0.39,
-      "suggested_stake": 3.94,
-      "expected_value": 6.3,
-      "confidence": "MEDIA",
-      "found_at": "2026-08-03T18:50:59.229318+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "142b9f77470fa57ac5f1e1f69a28d44e",
-      "league": "La Liga - Spain",
-      "match": "Espanyol vs Real Madrid",
-      "commence": "2026-08-22T19:30:00Z",
-      "market": "h2h",
-      "outcome": "Espanyol",
-      "bookmaker": "Codere (IT)",
-      "odds": 5.0,
-      "fair_odds": 4.704,
-      "true_prob_pct": 21.26,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 6.3,
-      "kelly_stake_pct": 0.39,
-      "suggested_stake": 3.94,
-      "expected_value": 6.3,
-      "confidence": "MEDIA",
-      "found_at": "2026-08-03T18:50:59.229324+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "142b9f77470fa57ac5f1e1f69a28d44e",
-      "league": "La Liga - Spain",
-      "match": "Espanyol vs Real Madrid",
-      "commence": "2026-08-22T19:30:00Z",
+      "match": "CA Osasuna vs Espanyol",
+      "commence": "2026-09-13T19:00:00Z",
       "market": "h2h",
       "outcome": "Espanyol",
       "bookmaker": "Sky Bet",
-      "odds": 5.0,
-      "fair_odds": 4.704,
-      "true_prob_pct": 21.26,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 6.3,
-      "kelly_stake_pct": 0.39,
-      "suggested_stake": 3.94,
-      "expected_value": 6.3,
-      "confidence": "MEDIA",
-      "found_at": "2026-08-03T18:50:59.229330+00:00"
+      "odds": 4.0,
+      "fair_odds": 3.363,
+      "true_prob_pct": 29.73,
+      "implied_prob_pct": 25.0,
+      "edge_pct": 18.94,
+      "kelly_stake_pct": 1.58,
+      "suggested_stake": 15.78,
+      "expected_value": 18.94,
+      "confidence": "ALTA",
+      "found_at": "2026-09-01T01:41:42.947430+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "095ea49c978f544d67fe23026a8e4907",
+      "league": "La Liga - Spain",
+      "match": "CA Osasuna vs Espanyol",
+      "commence": "2026-09-13T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Espanyol",
+      "bookmaker": "William Hill",
+      "odds": 4.0,
+      "fair_odds": 3.363,
+      "true_prob_pct": 29.73,
+      "implied_prob_pct": 25.0,
+      "edge_pct": 18.94,
+      "kelly_stake_pct": 1.58,
+      "suggested_stake": 15.78,
+      "expected_value": 18.94,
+      "confidence": "ALTA",
+      "found_at": "2026-09-01T01:41:42.947435+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "095ea49c978f544d67fe23026a8e4907",
+      "league": "La Liga - Spain",
+      "match": "CA Osasuna vs Espanyol",
+      "commence": "2026-09-13T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "1xBet",
+      "odds": 3.59,
+      "fair_odds": 3.056,
+      "true_prob_pct": 32.72,
+      "implied_prob_pct": 27.86,
+      "edge_pct": 17.46,
+      "kelly_stake_pct": 1.69,
+      "suggested_stake": 16.86,
+      "expected_value": 17.46,
+      "confidence": "ALTA",
+      "found_at": "2026-09-01T01:41:42.947388+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "7f4f996975ec33c5c76a5101a285f34d",
+      "league": "Serie A - Italy",
+      "match": "Como vs Parma",
+      "commence": "2026-09-13T13:00:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "888sport",
+      "odds": 4.6,
+      "fair_odds": 3.93,
+      "true_prob_pct": 25.45,
+      "implied_prob_pct": 21.74,
+      "edge_pct": 17.05,
+      "kelly_stake_pct": 1.18,
+      "suggested_stake": 11.84,
+      "expected_value": 17.05,
+      "confidence": "ALTA",
+      "found_at": "2026-09-01T01:41:42.945119+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "7f4f996975ec33c5c76a5101a285f34d",
+      "league": "Serie A - Italy",
+      "match": "Como vs Parma",
+      "commence": "2026-09-13T13:00:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "William Hill",
+      "odds": 4.6,
+      "fair_odds": 3.93,
+      "true_prob_pct": 25.45,
+      "implied_prob_pct": 21.74,
+      "edge_pct": 17.05,
+      "kelly_stake_pct": 1.18,
+      "suggested_stake": 11.84,
+      "expected_value": 17.05,
+      "confidence": "ALTA",
+      "found_at": "2026-09-01T01:41:42.945123+00:00"
     }
   ]
 }
