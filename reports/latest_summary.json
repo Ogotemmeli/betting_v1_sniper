@@ -1,12 +1,44 @@
 {
-  "timestamp": "2026-09-03 00:58 UTC",
+  "timestamp": "2026-09-03 12:38 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
   "arbitrages_found": 22,
-  "value_bets_found": 122,
-  "best_arb_margin": 1.671,
-  "best_value_edge": 34.5,
+  "value_bets_found": 103,
+  "best_arb_margin": 2.141,
+  "best_value_edge": 34.22,
   "arbitrages": [
+    {
+      "type": "ARBITRAGE",
+      "event_id": "bfeab0a3d8931c7cdff0056c041ff97c",
+      "league": "UEFA Champions League",
+      "match": "Porto vs Manchester City",
+      "commence": "2026-09-08T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 2.141,
+      "guaranteed_profit": 21.41,
+      "stakes": {
+        "Porto": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 5.25,
+          "stake_pct": 19.46,
+          "stake_amount": 194.64
+        },
+        "Draw": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 4.3,
+          "stake_pct": 23.76,
+          "stake_amount": 237.65
+        },
+        "Manchester City": {
+          "bookmaker": "Betfair",
+          "odds": 1.8,
+          "stake_pct": 56.77,
+          "stake_amount": 567.71
+        }
+      },
+      "num_bookmakers": 39,
+      "found_at": "2026-09-03T12:38:49.479427+00:00"
+    },
     {
       "type": "ARBITRAGE",
       "event_id": "467fe6e71bc34a255dfb47e13b8fa34e",
@@ -23,53 +55,21 @@
           "stake_pct": 30.36,
           "stake_amount": 303.58
         },
-        "Draw": {
-          "bookmaker": "Betfred (UK)",
-          "odds": 4.0,
-          "stake_pct": 25.42,
-          "stake_amount": 254.25
-        },
         "FSV Mainz 05": {
           "bookmaker": "Unibet (NL)",
           "odds": 2.3,
           "stake_pct": 44.22,
           "stake_amount": 442.17
+        },
+        "Draw": {
+          "bookmaker": "Betfred (UK)",
+          "odds": 4.0,
+          "stake_pct": 25.42,
+          "stake_amount": 254.25
         }
       },
       "num_bookmakers": 33,
-      "found_at": "2026-09-03T00:58:35.102106+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "bdb14878ab273b21885de07fec24d7d2",
-      "league": "Bundesliga - Germany",
-      "match": "VfB Stuttgart vs 1. FC Köln",
-      "commence": "2026-09-04T18:30:00Z",
-      "market": "h2h",
-      "margin_pct": 1.572,
-      "guaranteed_profit": 15.72,
-      "stakes": {
-        "Draw": {
-          "bookmaker": "Unibet (FR)",
-          "odds": 5.3,
-          "stake_pct": 19.17,
-          "stake_amount": 191.69
-        },
-        "1. FC Köln": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 6.0,
-          "stake_pct": 16.93,
-          "stake_amount": 169.33
-        },
-        "VfB Stuttgart": {
-          "bookmaker": "1xBet",
-          "odds": 1.59,
-          "stake_pct": 63.9,
-          "stake_amount": 638.98
-        }
-      },
-      "num_bookmakers": 42,
-      "found_at": "2026-09-03T00:58:35.100075+00:00"
+      "found_at": "2026-09-03T12:38:49.475673+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -81,6 +81,12 @@
       "margin_pct": 1.536,
       "guaranteed_profit": 15.36,
       "stakes": {
+        "Paris Saint Germain": {
+          "bookmaker": "1xBet",
+          "odds": 1.38,
+          "stake_pct": 73.59,
+          "stake_amount": 735.94
+        },
         "Draw": {
           "bookmaker": "LeoVegas (SE)",
           "odds": 6.25,
@@ -92,80 +98,74 @@
           "odds": 10.0,
           "stake_pct": 10.16,
           "stake_amount": 101.56
-        },
-        "Paris Saint Germain": {
-          "bookmaker": "1xBet",
-          "odds": 1.38,
-          "stake_pct": 73.59,
-          "stake_amount": 735.94
         }
       },
       "num_bookmakers": 31,
-      "found_at": "2026-09-03T00:58:35.105138+00:00"
+      "found_at": "2026-09-03T12:38:49.478515+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "b292d9e6b90eb73e0547ace2a44728e8",
-      "league": "Ligue 1 - France",
-      "match": "Troyes vs Strasbourg",
-      "commence": "2026-09-06T13:00:00Z",
+      "event_id": "347bee87359150e58c8883fc2cf6495a",
+      "league": "UEFA Champions League",
+      "match": "Manchester United vs Sabah FK",
+      "commence": "2026-09-10T19:00:00Z",
       "market": "h2h",
-      "margin_pct": 1.288,
-      "guaranteed_profit": 12.88,
+      "margin_pct": 1.491,
+      "guaranteed_profit": 14.91,
       "stakes": {
-        "Troyes": {
+        "Draw": {
           "bookmaker": "Coolbet",
-          "odds": 3.3,
-          "stake_pct": 30.7,
-          "stake_amount": 306.98
+          "odds": 9.5,
+          "stake_pct": 10.69,
+          "stake_amount": 106.86
         },
-        "Draw": {
+        "Sabah FK": {
+          "bookmaker": "Pinnacle",
+          "odds": 21.51,
+          "stake_pct": 4.72,
+          "stake_amount": 47.19
+        },
+        "Manchester United": {
           "bookmaker": "1xBet",
-          "odds": 3.52,
-          "stake_pct": 28.78,
-          "stake_amount": 287.8
-        },
-        "Strasbourg": {
-          "bookmaker": "Betfair Sportsbook",
-          "odds": 2.5,
-          "stake_pct": 40.52,
-          "stake_amount": 405.22
-        }
-      },
-      "num_bookmakers": 41,
-      "found_at": "2026-09-03T00:58:35.103674+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "a7e7bf9a8226e86eab6e5c1cb0780a0f",
-      "league": "Ligue 1 - France",
-      "match": "Rennes vs Marseille",
-      "commence": "2026-09-11T18:45:00Z",
-      "market": "h2h",
-      "margin_pct": 1.261,
-      "guaranteed_profit": 12.61,
-      "stakes": {
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 4.03,
-          "stake_pct": 25.13,
-          "stake_amount": 251.31
-        },
-        "Rennes": {
-          "bookmaker": "1xBet",
-          "odds": 2.4,
-          "stake_pct": 42.2,
-          "stake_amount": 421.99
-        },
-        "Marseille": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 3.1,
-          "stake_pct": 32.67,
-          "stake_amount": 326.7
+          "odds": 1.2,
+          "stake_pct": 84.59,
+          "stake_amount": 845.95
         }
       },
       "num_bookmakers": 31,
-      "found_at": "2026-09-03T00:58:35.104161+00:00"
+      "found_at": "2026-09-03T12:38:49.480998+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "18baacacc5a12ecb59e6088aa2d95337",
+      "league": "Bundesliga - Germany",
+      "match": "1. FC Köln vs Werder Bremen",
+      "commence": "2026-09-12T16:30:00Z",
+      "market": "h2h",
+      "margin_pct": 1.351,
+      "guaranteed_profit": 13.51,
+      "stakes": {
+        "Werder Bremen": {
+          "bookmaker": "Tipico",
+          "odds": 3.6,
+          "stake_pct": 28.16,
+          "stake_amount": 281.58
+        },
+        "1. FC Köln": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 2.18,
+          "stake_pct": 46.5,
+          "stake_amount": 465.0
+        },
+        "Draw": {
+          "bookmaker": "Betfred (UK)",
+          "odds": 4.0,
+          "stake_pct": 25.34,
+          "stake_amount": 253.42
+        }
+      },
+      "num_bookmakers": 33,
+      "found_at": "2026-09-03T12:38:49.475909+00:00"
     }
   ],
   "value_bets": [
@@ -178,16 +178,16 @@
       "market": "h2h",
       "outcome": "Espanyol",
       "bookmaker": "1xBet",
-      "odds": 4.32,
-      "fair_odds": 3.212,
+      "odds": 4.31,
+      "fair_odds": 3.211,
       "true_prob_pct": 31.14,
-      "implied_prob_pct": 23.15,
-      "edge_pct": 34.5,
-      "kelly_stake_pct": 2.6,
-      "suggested_stake": 25.98,
-      "expected_value": 34.5,
+      "implied_prob_pct": 23.2,
+      "edge_pct": 34.22,
+      "kelly_stake_pct": 2.58,
+      "suggested_stake": 25.85,
+      "expected_value": 34.22,
       "confidence": "ALTA",
-      "found_at": "2026-09-03T00:58:35.099498+00:00"
+      "found_at": "2026-09-03T12:38:49.473204+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -199,15 +199,15 @@
       "outcome": "Espanyol",
       "bookmaker": "Betfred (UK)",
       "odds": 4.0,
-      "fair_odds": 3.212,
+      "fair_odds": 3.211,
       "true_prob_pct": 31.14,
       "implied_prob_pct": 25.0,
-      "edge_pct": 24.54,
+      "edge_pct": 24.57,
       "kelly_stake_pct": 2.05,
-      "suggested_stake": 20.45,
-      "expected_value": 24.54,
+      "suggested_stake": 20.47,
+      "expected_value": 24.57,
       "confidence": "ALTA",
-      "found_at": "2026-09-03T00:58:35.099504+00:00"
+      "found_at": "2026-09-03T12:38:49.473212+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -219,15 +219,15 @@
       "outcome": "Espanyol",
       "bookmaker": "Sky Bet",
       "odds": 3.9,
-      "fair_odds": 3.212,
+      "fair_odds": 3.211,
       "true_prob_pct": 31.14,
       "implied_prob_pct": 25.64,
-      "edge_pct": 21.43,
+      "edge_pct": 21.45,
       "kelly_stake_pct": 1.85,
-      "suggested_stake": 18.47,
-      "expected_value": 21.43,
+      "suggested_stake": 18.49,
+      "expected_value": 21.45,
       "confidence": "ALTA",
-      "found_at": "2026-09-03T00:58:35.099516+00:00"
+      "found_at": "2026-09-03T12:38:49.473226+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -239,15 +239,15 @@
       "outcome": "Espanyol",
       "bookmaker": "William Hill",
       "odds": 3.9,
-      "fair_odds": 3.212,
+      "fair_odds": 3.211,
       "true_prob_pct": 31.14,
       "implied_prob_pct": 25.64,
-      "edge_pct": 21.43,
+      "edge_pct": 21.45,
       "kelly_stake_pct": 1.85,
-      "suggested_stake": 18.47,
-      "expected_value": 21.43,
+      "suggested_stake": 18.49,
+      "expected_value": 21.45,
       "confidence": "ALTA",
-      "found_at": "2026-09-03T00:58:35.099524+00:00"
+      "found_at": "2026-09-03T12:38:49.473232+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -259,15 +259,35 @@
       "outcome": "Espanyol",
       "bookmaker": "Paddy Power",
       "odds": 3.8,
-      "fair_odds": 3.212,
+      "fair_odds": 3.211,
       "true_prob_pct": 31.14,
       "implied_prob_pct": 26.32,
-      "edge_pct": 18.31,
+      "edge_pct": 18.34,
       "kelly_stake_pct": 1.64,
-      "suggested_stake": 16.35,
-      "expected_value": 18.31,
+      "suggested_stake": 16.37,
+      "expected_value": 18.34,
       "confidence": "ALTA",
-      "found_at": "2026-09-03T00:58:35.099510+00:00"
+      "found_at": "2026-09-03T12:38:49.473220+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "01678a3de0b0537624fbc64304d90710",
+      "league": "UEFA Europa League",
+      "match": "Lillestrom vs Torreense",
+      "commence": "2026-09-17T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Winamax (DE)",
+      "odds": 4.7,
+      "fair_odds": 4.188,
+      "true_prob_pct": 23.88,
+      "implied_prob_pct": 21.28,
+      "edge_pct": 12.21,
+      "kelly_stake_pct": 0.83,
+      "suggested_stake": 8.25,
+      "expected_value": 12.21,
+      "confidence": "ALTA",
+      "found_at": "2026-09-03T12:38:49.483121+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -278,96 +298,76 @@
       "market": "h2h",
       "outcome": "Draw",
       "bookmaker": "1xBet",
-      "odds": 3.61,
-      "fair_odds": 3.237,
-      "true_prob_pct": 30.89,
-      "implied_prob_pct": 27.7,
-      "edge_pct": 11.53,
-      "kelly_stake_pct": 1.1,
-      "suggested_stake": 11.04,
-      "expected_value": 11.53,
+      "odds": 3.59,
+      "fair_odds": 3.235,
+      "true_prob_pct": 30.91,
+      "implied_prob_pct": 27.86,
+      "edge_pct": 10.97,
+      "kelly_stake_pct": 1.06,
+      "suggested_stake": 10.58,
+      "expected_value": 10.97,
       "confidence": "ALTA",
-      "found_at": "2026-09-03T00:58:35.099460+00:00"
+      "found_at": "2026-09-03T12:38:49.473246+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "9da3aa4b46166eb4ccd1e600d67080a6",
-      "league": "Serie A - Italy",
-      "match": "Como vs Parma",
-      "commence": "2026-09-14T16:30:00Z",
+      "event_id": "01678a3de0b0537624fbc64304d90710",
+      "league": "UEFA Europa League",
+      "match": "Lillestrom vs Torreense",
+      "commence": "2026-09-17T19:00:00Z",
       "market": "h2h",
       "outcome": "Draw",
-      "bookmaker": "Winamax (DE)",
-      "odds": 5.0,
-      "fair_odds": 4.497,
-      "true_prob_pct": 22.24,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 11.18,
-      "kelly_stake_pct": 0.7,
-      "suggested_stake": 6.99,
-      "expected_value": 11.18,
+      "bookmaker": "Codere (IT)",
+      "odds": 4.6,
+      "fair_odds": 4.188,
+      "true_prob_pct": 23.88,
+      "implied_prob_pct": 21.74,
+      "edge_pct": 9.83,
+      "kelly_stake_pct": 0.68,
+      "suggested_stake": 6.82,
+      "expected_value": 9.83,
       "confidence": "ALTA",
-      "found_at": "2026-09-03T00:58:35.096942+00:00"
+      "found_at": "2026-09-03T12:38:49.483099+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "9da3aa4b46166eb4ccd1e600d67080a6",
-      "league": "Serie A - Italy",
-      "match": "Como vs Parma",
-      "commence": "2026-09-14T16:30:00Z",
+      "event_id": "01678a3de0b0537624fbc64304d90710",
+      "league": "UEFA Europa League",
+      "match": "Lillestrom vs Torreense",
+      "commence": "2026-09-17T19:00:00Z",
       "market": "h2h",
       "outcome": "Draw",
-      "bookmaker": "Betfred (UK)",
-      "odds": 5.0,
-      "fair_odds": 4.497,
-      "true_prob_pct": 22.24,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 11.18,
-      "kelly_stake_pct": 0.7,
-      "suggested_stake": 6.99,
-      "expected_value": 11.18,
+      "bookmaker": "Marathon Bet",
+      "odds": 4.55,
+      "fair_odds": 4.188,
+      "true_prob_pct": 23.88,
+      "implied_prob_pct": 21.98,
+      "edge_pct": 8.63,
+      "kelly_stake_pct": 0.61,
+      "suggested_stake": 6.08,
+      "expected_value": 8.63,
       "confidence": "ALTA",
-      "found_at": "2026-09-03T00:58:35.097012+00:00"
+      "found_at": "2026-09-03T12:38:49.483150+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "5c0ac2b28bd80f7e8c5a01cbfb427a93",
-      "league": "Ligue 1 - France",
-      "match": "Lille vs Troyes",
-      "commence": "2026-09-13T13:00:00Z",
+      "event_id": "aa0e2541144928205ab6d870953d42c2",
+      "league": "La Liga - Spain",
+      "match": "Villarreal vs Real Betis",
+      "commence": "2026-09-13T19:00:00Z",
       "market": "h2h",
-      "outcome": "Draw",
+      "outcome": "Real Betis",
       "bookmaker": "1xBet",
-      "odds": 4.87,
-      "fair_odds": 4.385,
-      "true_prob_pct": 22.81,
-      "implied_prob_pct": 20.53,
-      "edge_pct": 11.07,
-      "kelly_stake_pct": 0.72,
-      "suggested_stake": 7.15,
-      "expected_value": 11.07,
+      "odds": 4.11,
+      "fair_odds": 3.804,
+      "true_prob_pct": 26.29,
+      "implied_prob_pct": 24.33,
+      "edge_pct": 8.06,
+      "kelly_stake_pct": 0.65,
+      "suggested_stake": 6.48,
+      "expected_value": 8.06,
       "confidence": "ALTA",
-      "found_at": "2026-09-03T00:58:35.104926+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "c97a93b915115f2b4659fb88262b71f8",
-      "league": "EPL",
-      "match": "Coventry City vs Brighton and Hove Albion",
-      "commence": "2026-09-13T13:00:00Z",
-      "market": "h2h",
-      "outcome": "Coventry City",
-      "bookmaker": "Tipico",
-      "odds": 4.7,
-      "fair_odds": 4.237,
-      "true_prob_pct": 23.6,
-      "implied_prob_pct": 21.28,
-      "edge_pct": 10.92,
-      "kelly_stake_pct": 0.74,
-      "suggested_stake": 7.38,
-      "expected_value": 10.92,
-      "confidence": "ALTA",
-      "found_at": "2026-09-03T00:58:35.093875+00:00"
+      "found_at": "2026-09-03T12:38:49.473610+00:00"
     }
   ]
 }
