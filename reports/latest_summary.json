@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-02 22:24 UTC",
+  "timestamp": "2026-09-03 00:58 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
-  "arbitrages_found": 21,
-  "value_bets_found": 112,
+  "arbitrages_found": 22,
+  "value_bets_found": 122,
   "best_arb_margin": 1.671,
   "best_value_edge": 34.5,
   "arbitrages": [
@@ -17,6 +17,12 @@
       "margin_pct": 1.671,
       "guaranteed_profit": 16.71,
       "stakes": {
+        "Eintracht Frankfurt": {
+          "bookmaker": "1xBet",
+          "odds": 3.35,
+          "stake_pct": 30.36,
+          "stake_amount": 303.58
+        },
         "Draw": {
           "bookmaker": "Betfred (UK)",
           "odds": 4.0,
@@ -28,16 +34,10 @@
           "odds": 2.3,
           "stake_pct": 44.22,
           "stake_amount": 442.17
-        },
-        "Eintracht Frankfurt": {
-          "bookmaker": "1xBet",
-          "odds": 3.35,
-          "stake_pct": 30.36,
-          "stake_amount": 303.58
         }
       },
       "num_bookmakers": 33,
-      "found_at": "2026-09-02T22:24:39.292390+00:00"
+      "found_at": "2026-09-03T00:58:35.102106+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -55,21 +55,21 @@
           "stake_pct": 19.17,
           "stake_amount": 191.69
         },
-        "VfB Stuttgart": {
-          "bookmaker": "1xBet",
-          "odds": 1.59,
-          "stake_pct": 63.9,
-          "stake_amount": 638.98
-        },
         "1. FC Köln": {
           "bookmaker": "Unibet (SE)",
           "odds": 6.0,
           "stake_pct": 16.93,
           "stake_amount": 169.33
+        },
+        "VfB Stuttgart": {
+          "bookmaker": "1xBet",
+          "odds": 1.59,
+          "stake_pct": 63.9,
+          "stake_amount": 638.98
         }
       },
       "num_bookmakers": 42,
-      "found_at": "2026-09-02T22:24:39.290436+00:00"
+      "found_at": "2026-09-03T00:58:35.100075+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -87,21 +87,21 @@
           "stake_pct": 16.25,
           "stake_amount": 162.5
         },
-        "Paris Saint Germain": {
-          "bookmaker": "1xBet",
-          "odds": 1.38,
-          "stake_pct": 73.59,
-          "stake_amount": 735.94
-        },
         "Brest": {
           "bookmaker": "LeoVegas (SE)",
           "odds": 10.0,
           "stake_pct": 10.16,
           "stake_amount": 101.56
+        },
+        "Paris Saint Germain": {
+          "bookmaker": "1xBet",
+          "odds": 1.38,
+          "stake_pct": 73.59,
+          "stake_amount": 735.94
         }
       },
       "num_bookmakers": 31,
-      "found_at": "2026-09-02T22:24:39.295279+00:00"
+      "found_at": "2026-09-03T00:58:35.105138+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -113,6 +113,12 @@
       "margin_pct": 1.288,
       "guaranteed_profit": 12.88,
       "stakes": {
+        "Troyes": {
+          "bookmaker": "Coolbet",
+          "odds": 3.3,
+          "stake_pct": 30.7,
+          "stake_amount": 306.98
+        },
         "Draw": {
           "bookmaker": "1xBet",
           "odds": 3.52,
@@ -124,16 +130,10 @@
           "odds": 2.5,
           "stake_pct": 40.52,
           "stake_amount": 405.22
-        },
-        "Troyes": {
-          "bookmaker": "Coolbet",
-          "odds": 3.3,
-          "stake_pct": 30.7,
-          "stake_amount": 306.98
         }
       },
       "num_bookmakers": 41,
-      "found_at": "2026-09-02T22:24:39.293888+00:00"
+      "found_at": "2026-09-03T00:58:35.103674+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -151,21 +151,21 @@
           "stake_pct": 25.13,
           "stake_amount": 251.31
         },
-        "Marseille": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 3.1,
-          "stake_pct": 32.67,
-          "stake_amount": 326.7
-        },
         "Rennes": {
           "bookmaker": "1xBet",
           "odds": 2.4,
           "stake_pct": 42.2,
           "stake_amount": 421.99
+        },
+        "Marseille": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 3.1,
+          "stake_pct": 32.67,
+          "stake_amount": 326.7
         }
       },
       "num_bookmakers": 31,
-      "found_at": "2026-09-02T22:24:39.294375+00:00"
+      "found_at": "2026-09-03T00:58:35.104161+00:00"
     }
   ],
   "value_bets": [
@@ -187,7 +187,7 @@
       "suggested_stake": 25.98,
       "expected_value": 34.5,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T22:24:39.289919+00:00"
+      "found_at": "2026-09-03T00:58:35.099498+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -207,7 +207,7 @@
       "suggested_stake": 20.45,
       "expected_value": 24.54,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T22:24:39.289925+00:00"
+      "found_at": "2026-09-03T00:58:35.099504+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -227,7 +227,7 @@
       "suggested_stake": 18.47,
       "expected_value": 21.43,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T22:24:39.289940+00:00"
+      "found_at": "2026-09-03T00:58:35.099516+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -247,7 +247,7 @@
       "suggested_stake": 18.47,
       "expected_value": 21.43,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T22:24:39.289946+00:00"
+      "found_at": "2026-09-03T00:58:35.099524+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -267,7 +267,7 @@
       "suggested_stake": 16.35,
       "expected_value": 18.31,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T22:24:39.289933+00:00"
+      "found_at": "2026-09-03T00:58:35.099510+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -287,7 +287,7 @@
       "suggested_stake": 11.04,
       "expected_value": 11.53,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T22:24:39.289886+00:00"
+      "found_at": "2026-09-03T00:58:35.099460+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -307,7 +307,7 @@
       "suggested_stake": 6.99,
       "expected_value": 11.18,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T22:24:39.287444+00:00"
+      "found_at": "2026-09-03T00:58:35.096942+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -327,7 +327,27 @@
       "suggested_stake": 6.99,
       "expected_value": 11.18,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T22:24:39.287512+00:00"
+      "found_at": "2026-09-03T00:58:35.097012+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "5c0ac2b28bd80f7e8c5a01cbfb427a93",
+      "league": "Ligue 1 - France",
+      "match": "Lille vs Troyes",
+      "commence": "2026-09-13T13:00:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "1xBet",
+      "odds": 4.87,
+      "fair_odds": 4.385,
+      "true_prob_pct": 22.81,
+      "implied_prob_pct": 20.53,
+      "edge_pct": 11.07,
+      "kelly_stake_pct": 0.72,
+      "suggested_stake": 7.15,
+      "expected_value": 11.07,
+      "confidence": "ALTA",
+      "found_at": "2026-09-03T00:58:35.104926+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -347,27 +367,7 @@
       "suggested_stake": 7.38,
       "expected_value": 10.92,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T22:24:39.284444+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "3dba40cdf22e962c0f6f6c940ef01850",
-      "league": "Serie A - Italy",
-      "match": "Genoa vs Frosinone",
-      "commence": "2026-09-12T13:00:00Z",
-      "market": "h2h",
-      "outcome": "Frosinone",
-      "bookmaker": "Tipico",
-      "odds": 4.8,
-      "fair_odds": 4.399,
-      "true_prob_pct": 22.73,
-      "implied_prob_pct": 20.83,
-      "edge_pct": 9.12,
-      "kelly_stake_pct": 0.6,
-      "suggested_stake": 6.0,
-      "expected_value": 9.12,
-      "confidence": "ALTA",
-      "found_at": "2026-09-02T22:24:39.286663+00:00"
+      "found_at": "2026-09-03T00:58:35.093875+00:00"
     }
   ]
 }
