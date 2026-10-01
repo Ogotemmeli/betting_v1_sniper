@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-10-01 01:49 UTC",
+  "timestamp": "2026-10-01 15:09 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
-  "arbitrages_found": 12,
-  "value_bets_found": 36,
-  "best_arb_margin": 1.684,
-  "best_value_edge": 5.32,
+  "arbitrages_found": 11,
+  "value_bets_found": 38,
+  "best_arb_margin": 2.064,
+  "best_value_edge": 10.43,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
@@ -14,30 +14,30 @@
       "match": "AS Roma vs Real Madrid",
       "commence": "2026-10-14T19:00:00Z",
       "market": "h2h",
-      "margin_pct": 1.684,
-      "guaranteed_profit": 16.84,
+      "margin_pct": 2.064,
+      "guaranteed_profit": 20.64,
       "stakes": {
-        "AS Roma": {
-          "bookmaker": "Nordic Bet",
-          "odds": 3.6,
-          "stake_pct": 28.25,
-          "stake_amount": 282.53
+        "Draw": {
+          "bookmaker": "Coolbet",
+          "odds": 4.2,
+          "stake_pct": 24.31,
+          "stake_amount": 243.11
         },
         "Real Madrid": {
           "bookmaker": "Betfair",
           "odds": 2.14,
-          "stake_pct": 47.53,
-          "stake_amount": 475.29
+          "stake_pct": 47.71,
+          "stake_amount": 477.14
         },
-        "Draw": {
-          "bookmaker": "Coolbet",
-          "odds": 4.2,
-          "stake_pct": 24.22,
-          "stake_amount": 242.17
+        "AS Roma": {
+          "bookmaker": "Nordic Bet",
+          "odds": 3.65,
+          "stake_pct": 27.97,
+          "stake_amount": 279.75
         }
       },
-      "num_bookmakers": 35,
-      "found_at": "2026-10-01T01:49:29.900408+00:00"
+      "num_bookmakers": 34,
+      "found_at": "2026-10-01T15:09:36.281052+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -46,94 +46,62 @@
       "match": "Arsenal vs Leeds United",
       "commence": "2026-10-10T11:30:00Z",
       "market": "h2h",
-      "margin_pct": 1.504,
-      "guaranteed_profit": 15.04,
+      "margin_pct": 1.335,
+      "guaranteed_profit": 13.35,
       "stakes": {
-        "Leeds United": {
-          "bookmaker": "Betfair",
-          "odds": 9.2,
-          "stake_pct": 11.04,
-          "stake_amount": 110.36
-        },
         "Draw": {
           "bookmaker": "Betfair",
-          "odds": 5.5,
-          "stake_pct": 18.46,
-          "stake_amount": 184.59
+          "odds": 5.6,
+          "stake_pct": 18.1,
+          "stake_amount": 180.99
+        },
+        "Leeds United": {
+          "bookmaker": "Betfair",
+          "odds": 8.8,
+          "stake_pct": 11.52,
+          "stake_amount": 115.17
         },
         "Arsenal": {
           "bookmaker": "1xBet",
           "odds": 1.44,
-          "stake_pct": 70.5,
-          "stake_amount": 705.05
+          "stake_pct": 70.38,
+          "stake_amount": 703.84
         }
       },
-      "num_bookmakers": 40,
-      "found_at": "2026-10-01T01:49:29.890250+00:00"
+      "num_bookmakers": 39,
+      "found_at": "2026-10-01T15:09:36.268684+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "2849460eb4d15adbb20ec15927a0fd4a",
-      "league": "Ligue 1 - France",
-      "match": "Paris Saint Germain vs Le Mans FC",
-      "commence": "2026-10-10T18:45:00Z",
+      "event_id": "ce94aca384a20f6af459366da6e1dd21",
+      "league": "Serie A - Italy",
+      "match": "Monza vs Cagliari",
+      "commence": "2026-10-19T16:30:00Z",
       "market": "h2h",
-      "margin_pct": 1.396,
-      "guaranteed_profit": 13.96,
+      "margin_pct": 1.321,
+      "guaranteed_profit": 13.21,
       "stakes": {
-        "Paris Saint Germain": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 1.11,
-          "stake_pct": 91.37,
-          "stake_amount": 913.66
+        "Cagliari": {
+          "bookmaker": "1xBet",
+          "odds": 3.9,
+          "stake_pct": 25.98,
+          "stake_amount": 259.84
         },
         "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 17.0,
-          "stake_pct": 5.97,
-          "stake_amount": 59.66
-        },
-        "Le Mans FC": {
           "bookmaker": "Nordic Bet",
-          "odds": 38.0,
-          "stake_pct": 2.67,
-          "stake_amount": 26.69
-        }
-      },
-      "num_bookmakers": 37,
-      "found_at": "2026-10-01T01:49:29.897913+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "eccd63bf768e2f2a358b871d3f33a63d",
-      "league": "La Liga - Spain",
-      "match": "Real Madrid vs Sevilla",
-      "commence": "2026-10-18T19:00:00Z",
-      "market": "h2h",
-      "margin_pct": 1.188,
-      "guaranteed_profit": 11.88,
-      "stakes": {
-        "Real Madrid": {
-          "bookmaker": "1xBet",
-          "odds": 1.3,
-          "stake_pct": 77.85,
-          "stake_amount": 778.48
+          "odds": 3.3,
+          "stake_pct": 30.71,
+          "stake_amount": 307.09
         },
-        "Draw": {
+        "Monza": {
           "bookmaker": "Betfair",
-          "odds": 7.2,
-          "stake_pct": 14.06,
-          "stake_amount": 140.56
-        },
-        "Sevilla": {
-          "bookmaker": "Nordic Bet",
-          "odds": 12.5,
-          "stake_pct": 8.1,
-          "stake_amount": 80.96
+          "odds": 2.34,
+          "stake_pct": 43.31,
+          "stake_amount": 433.07
         }
       },
-      "num_bookmakers": 28,
-      "found_at": "2026-10-01T01:49:29.895870+00:00"
+      "num_bookmakers": 29,
+      "found_at": "2026-10-01T15:09:36.273350+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -142,52 +110,244 @@
       "match": "Lazio vs Monza",
       "commence": "2026-10-11T13:00:00Z",
       "market": "h2h",
-      "margin_pct": 1.042,
-      "guaranteed_profit": 10.42,
+      "margin_pct": 1.282,
+      "guaranteed_profit": 12.82,
       "stakes": {
+        "Draw": {
+          "bookmaker": "Winamax (DE)",
+          "odds": 4.2,
+          "stake_pct": 24.12,
+          "stake_amount": 241.19
+        },
         "Monza": {
-          "bookmaker": "Betfair",
-          "odds": 6.4,
-          "stake_pct": 15.79,
-          "stake_amount": 157.89
+          "bookmaker": "Betfair Sportsbook",
+          "odds": 6.5,
+          "stake_pct": 15.58,
+          "stake_amount": 155.84
         },
         "Lazio": {
           "bookmaker": "1xBet",
           "odds": 1.68,
-          "stake_pct": 60.15,
-          "stake_amount": 601.5
-        },
-        "Draw": {
-          "bookmaker": "Winamax (DE)",
-          "odds": 4.2,
-          "stake_pct": 24.06,
-          "stake_amount": 240.6
+          "stake_pct": 60.3,
+          "stake_amount": 602.97
         }
       },
-      "num_bookmakers": 38,
-      "found_at": "2026-10-01T01:49:29.892929+00:00"
+      "num_bookmakers": 37,
+      "found_at": "2026-10-01T15:09:36.271906+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "edb80d633a1906e5865ab70cc9b540ea",
+      "league": "La Liga - Spain",
+      "match": "Barcelona vs Getafe",
+      "commence": "2026-10-10T16:30:00Z",
+      "market": "h2h",
+      "margin_pct": 0.994,
+      "guaranteed_profit": 9.94,
+      "stakes": {
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 19.0,
+          "stake_pct": 5.32,
+          "stake_amount": 53.16
+        },
+        "Barcelona": {
+          "bookmaker": "Betfair",
+          "odds": 1.09,
+          "stake_pct": 92.66,
+          "stake_amount": 926.64
+        },
+        "Getafe": {
+          "bookmaker": "1xBet",
+          "odds": 50.0,
+          "stake_pct": 2.02,
+          "stake_amount": 20.2
+        }
+      },
+      "num_bookmakers": 36,
+      "found_at": "2026-10-01T15:09:36.273929+00:00"
     }
   ],
   "value_bets": [
     {
       "type": "VALUE_BET",
-      "event_id": "3809b92a425c41c325bafc8d8d598512",
+      "event_id": "b03dd3e42a0894b49f11ac599d2eb3b1",
       "league": "UEFA Europa League",
-      "match": "Union Saint-Gilloise vs Real Sociedad",
+      "match": "Jagiellonia Białystok vs FC Ararat-Armenia",
+      "commence": "2026-10-15T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Marathon Bet",
+      "odds": 5.0,
+      "fair_odds": 4.528,
+      "true_prob_pct": 22.09,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 10.43,
+      "kelly_stake_pct": 0.65,
+      "suggested_stake": 6.52,
+      "expected_value": 10.43,
+      "confidence": "ALTA",
+      "found_at": "2026-10-01T15:09:36.283327+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "b03dd3e42a0894b49f11ac599d2eb3b1",
+      "league": "UEFA Europa League",
+      "match": "Jagiellonia Białystok vs FC Ararat-Armenia",
+      "commence": "2026-10-15T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Betfred (UK)",
+      "odds": 5.0,
+      "fair_odds": 4.528,
+      "true_prob_pct": 22.09,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 10.43,
+      "kelly_stake_pct": 0.65,
+      "suggested_stake": 6.52,
+      "expected_value": 10.43,
+      "confidence": "ALTA",
+      "found_at": "2026-10-01T15:09:36.283340+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "b03dd3e42a0894b49f11ac599d2eb3b1",
+      "league": "UEFA Europa League",
+      "match": "Jagiellonia Białystok vs FC Ararat-Armenia",
+      "commence": "2026-10-15T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Pinnacle",
+      "odds": 4.95,
+      "fair_odds": 4.528,
+      "true_prob_pct": 22.09,
+      "implied_prob_pct": 20.2,
+      "edge_pct": 9.32,
+      "kelly_stake_pct": 0.59,
+      "suggested_stake": 5.9,
+      "expected_value": 9.32,
+      "confidence": "ALTA",
+      "found_at": "2026-10-01T15:09:36.283315+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "b03dd3e42a0894b49f11ac599d2eb3b1",
+      "league": "UEFA Europa League",
+      "match": "Jagiellonia Białystok vs FC Ararat-Armenia",
+      "commence": "2026-10-15T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Winamax (DE)",
+      "odds": 4.9,
+      "fair_odds": 4.528,
+      "true_prob_pct": 22.09,
+      "implied_prob_pct": 20.41,
+      "edge_pct": 8.22,
+      "kelly_stake_pct": 0.53,
+      "suggested_stake": 5.27,
+      "expected_value": 8.22,
+      "confidence": "ALTA",
+      "found_at": "2026-10-01T15:09:36.283308+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "d3113d05007ddfba3077a7fafbef05c4",
+      "league": "UEFA Europa League",
+      "match": "NK Celje vs Omonoia FC",
       "commence": "2026-10-15T16:45:00Z",
       "market": "h2h",
       "outcome": "Draw",
-      "bookmaker": "Nordic Bet",
-      "odds": 3.7,
-      "fair_odds": 3.513,
-      "true_prob_pct": 28.46,
-      "implied_prob_pct": 27.03,
-      "edge_pct": 5.32,
-      "kelly_stake_pct": 0.49,
-      "suggested_stake": 4.92,
-      "expected_value": 5.32,
+      "bookmaker": "Betfred (UK)",
+      "odds": 3.6,
+      "fair_odds": 3.394,
+      "true_prob_pct": 29.46,
+      "implied_prob_pct": 27.78,
+      "edge_pct": 6.06,
+      "kelly_stake_pct": 0.58,
+      "suggested_stake": 5.83,
+      "expected_value": 6.06,
       "confidence": "MEDIA",
-      "found_at": "2026-10-01T01:49:29.901646+00:00"
+      "found_at": "2026-10-01T15:09:36.282477+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "b03dd3e42a0894b49f11ac599d2eb3b1",
+      "league": "UEFA Europa League",
+      "match": "Jagiellonia Białystok vs FC Ararat-Armenia",
+      "commence": "2026-10-15T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Winamax (FR)",
+      "odds": 4.8,
+      "fair_odds": 4.528,
+      "true_prob_pct": 22.09,
+      "implied_prob_pct": 20.83,
+      "edge_pct": 6.01,
+      "kelly_stake_pct": 0.4,
+      "suggested_stake": 3.95,
+      "expected_value": 6.01,
+      "confidence": "MEDIA",
+      "found_at": "2026-10-01T15:09:36.283300+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "45d4a466e32cd2b4ea535207923ceaf5",
+      "league": "EPL",
+      "match": "Chelsea vs Bournemouth",
+      "commence": "2026-10-10T14:00:00Z",
+      "market": "h2h",
+      "outcome": "Bournemouth",
+      "bookmaker": "Betfair",
+      "odds": 4.8,
+      "fair_odds": 4.547,
+      "true_prob_pct": 21.99,
+      "implied_prob_pct": 20.83,
+      "edge_pct": 5.56,
+      "kelly_stake_pct": 0.37,
+      "suggested_stake": 3.66,
+      "expected_value": 5.56,
+      "confidence": "MEDIA",
+      "found_at": "2026-10-01T15:09:36.269072+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "45d4a466e32cd2b4ea535207923ceaf5",
+      "league": "EPL",
+      "match": "Chelsea vs Bournemouth",
+      "commence": "2026-10-10T14:00:00Z",
+      "market": "h2h",
+      "outcome": "Bournemouth",
+      "bookmaker": "Betfair",
+      "odds": 4.8,
+      "fair_odds": 4.547,
+      "true_prob_pct": 21.99,
+      "implied_prob_pct": 20.83,
+      "edge_pct": 5.56,
+      "kelly_stake_pct": 0.37,
+      "suggested_stake": 3.66,
+      "expected_value": 5.56,
+      "confidence": "MEDIA",
+      "found_at": "2026-10-01T15:09:36.269084+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "946716d7e5e52822f08be8cb95193d9d",
+      "league": "Serie A - Italy",
+      "match": "Lecce vs Bologna",
+      "commence": "2026-10-11T13:00:00Z",
+      "market": "h2h",
+      "outcome": "Lecce",
+      "bookmaker": "Pinnacle",
+      "odds": 4.5,
+      "fair_odds": 4.284,
+      "true_prob_pct": 23.34,
+      "implied_prob_pct": 22.22,
+      "edge_pct": 5.04,
+      "kelly_stake_pct": 0.36,
+      "suggested_stake": 3.6,
+      "expected_value": 5.04,
+      "confidence": "MEDIA",
+      "found_at": "2026-10-01T15:09:36.271814+00:00"
     }
   ]
 }
