@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-10-02 02:02 UTC",
+  "timestamp": "2026-10-02 14:30 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
   "arbitrages_found": 9,
-  "value_bets_found": 40,
+  "value_bets_found": 47,
   "best_arb_margin": 2.212,
-  "best_value_edge": 9.53,
+  "best_value_edge": 9.17,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
@@ -17,12 +17,6 @@
       "margin_pct": 2.212,
       "guaranteed_profit": 22.12,
       "stakes": {
-        "Cagliari": {
-          "bookmaker": "1xBet",
-          "odds": 3.9,
-          "stake_pct": 26.22,
-          "stake_amount": 262.21
-        },
         "Monza": {
           "bookmaker": "Betfair",
           "odds": 2.34,
@@ -34,42 +28,16 @@
           "odds": 3.4,
           "stake_pct": 30.08,
           "stake_amount": 300.77
+        },
+        "Cagliari": {
+          "bookmaker": "1xBet",
+          "odds": 3.9,
+          "stake_pct": 26.22,
+          "stake_amount": 262.21
         }
       },
       "num_bookmakers": 29,
-      "found_at": "2026-10-02T02:02:09.635019+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "b870dcfba5e5920d3f1551a3aa1ea435",
-      "league": "EPL",
-      "match": "Arsenal vs Leeds United",
-      "commence": "2026-10-10T11:30:00Z",
-      "market": "h2h",
-      "margin_pct": 1.335,
-      "guaranteed_profit": 13.35,
-      "stakes": {
-        "Leeds United": {
-          "bookmaker": "Betfair",
-          "odds": 8.8,
-          "stake_pct": 11.52,
-          "stake_amount": 115.17
-        },
-        "Arsenal": {
-          "bookmaker": "1xBet",
-          "odds": 1.44,
-          "stake_pct": 70.38,
-          "stake_amount": 703.84
-        },
-        "Draw": {
-          "bookmaker": "Betfair",
-          "odds": 5.6,
-          "stake_pct": 18.1,
-          "stake_amount": 180.99
-        }
-      },
-      "num_bookmakers": 39,
-      "found_at": "2026-10-02T02:02:09.630436+00:00"
+      "found_at": "2026-10-02T14:30:09.000217+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -78,30 +46,30 @@
       "match": "AS Roma vs Real Madrid",
       "commence": "2026-10-14T19:00:00Z",
       "market": "h2h",
-      "margin_pct": 1.243,
-      "guaranteed_profit": 12.43,
+      "margin_pct": 1.623,
+      "guaranteed_profit": 16.23,
       "stakes": {
+        "AS Roma": {
+          "bookmaker": "Nordic Bet",
+          "odds": 3.65,
+          "stake_pct": 27.85,
+          "stake_amount": 278.49
+        },
         "Draw": {
           "bookmaker": "Coolbet",
           "odds": 4.2,
-          "stake_pct": 24.11,
-          "stake_amount": 241.09
+          "stake_pct": 24.2,
+          "stake_amount": 242.02
         },
         "Real Madrid": {
           "bookmaker": "Betfair",
           "odds": 2.12,
-          "stake_pct": 47.76,
-          "stake_amount": 477.63
-        },
-        "AS Roma": {
-          "bookmaker": "Nordic Bet",
-          "odds": 3.6,
-          "stake_pct": 28.13,
-          "stake_amount": 281.27
+          "stake_pct": 47.95,
+          "stake_amount": 479.48
         }
       },
-      "num_bookmakers": 34,
-      "found_at": "2026-10-02T02:02:09.642790+00:00"
+      "num_bookmakers": 35,
+      "found_at": "2026-10-02T14:30:09.006963+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -110,30 +78,62 @@
       "match": "Barcelona vs Getafe",
       "commence": "2026-10-10T16:30:00Z",
       "market": "h2h",
-      "margin_pct": 0.994,
-      "guaranteed_profit": 9.94,
+      "margin_pct": 1.067,
+      "guaranteed_profit": 10.67,
       "stakes": {
-        "Barcelona": {
-          "bookmaker": "Betfair",
-          "odds": 1.09,
-          "stake_pct": 92.66,
-          "stake_amount": 926.64
-        },
         "Getafe": {
           "bookmaker": "1xBet",
           "odds": 50.0,
           "stake_pct": 2.02,
-          "stake_amount": 20.2
+          "stake_amount": 20.22
         },
         "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 19.0,
-          "stake_pct": 5.32,
-          "stake_amount": 53.16
+          "bookmaker": "Pinnacle",
+          "odds": 19.27,
+          "stake_pct": 5.25,
+          "stake_amount": 52.45
+        },
+        "Barcelona": {
+          "bookmaker": "Betfair",
+          "odds": 1.09,
+          "stake_pct": 92.73,
+          "stake_amount": 927.33
         }
       },
-      "num_bookmakers": 36,
-      "found_at": "2026-10-02T02:02:09.635612+00:00"
+      "num_bookmakers": 35,
+      "found_at": "2026-10-02T14:30:09.000707+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "7d3160040958fe21778fd5ee485666c3",
+      "league": "Serie A - Italy",
+      "match": "Frosinone vs Sassuolo",
+      "commence": "2026-10-16T18:45:00Z",
+      "market": "h2h",
+      "margin_pct": 1.027,
+      "guaranteed_profit": 10.27,
+      "stakes": {
+        "Sassuolo": {
+          "bookmaker": "1xBet",
+          "odds": 2.96,
+          "stake_pct": 34.13,
+          "stake_amount": 341.34
+        },
+        "Draw": {
+          "bookmaker": "Betfair",
+          "odds": 3.85,
+          "stake_pct": 26.24,
+          "stake_amount": 262.43
+        },
+        "Frosinone": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 2.55,
+          "stake_pct": 39.62,
+          "stake_amount": 396.22
+        }
+      },
+      "num_bookmakers": 29,
+      "found_at": "2026-10-02T14:30:08.999468+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -145,8 +145,14 @@
       "margin_pct": 0.855,
       "guaranteed_profit": 8.55,
       "stakes": {
+        "Draw": {
+          "bookmaker": "Tipico",
+          "odds": 7.2,
+          "stake_pct": 14.01,
+          "stake_amount": 140.09
+        },
         "Sevilla": {
-          "bookmaker": "Betfair",
+          "bookmaker": "Smarkets",
           "odds": 12.0,
           "stake_pct": 8.41,
           "stake_amount": 84.05
@@ -156,16 +162,10 @@
           "odds": 1.3,
           "stake_pct": 77.59,
           "stake_amount": 775.86
-        },
-        "Draw": {
-          "bookmaker": "Tipico",
-          "odds": 7.2,
-          "stake_pct": 14.01,
-          "stake_amount": 140.09
         }
       },
-      "num_bookmakers": 27,
-      "found_at": "2026-10-02T02:02:09.637233+00:00"
+      "num_bookmakers": 26,
+      "found_at": "2026-10-02T14:30:09.002127+00:00"
     }
   ],
   "value_bets": [
@@ -179,15 +179,15 @@
       "outcome": "Draw",
       "bookmaker": "Marathon Bet",
       "odds": 5.0,
-      "fair_odds": 4.565,
-      "true_prob_pct": 21.91,
+      "fair_odds": 4.58,
+      "true_prob_pct": 21.83,
       "implied_prob_pct": 20.0,
-      "edge_pct": 9.53,
-      "kelly_stake_pct": 0.6,
-      "suggested_stake": 5.96,
-      "expected_value": 9.53,
+      "edge_pct": 9.17,
+      "kelly_stake_pct": 0.57,
+      "suggested_stake": 5.73,
+      "expected_value": 9.17,
       "confidence": "ALTA",
-      "found_at": "2026-10-02T02:02:09.645103+00:00"
+      "found_at": "2026-10-02T14:30:09.009113+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -199,15 +199,15 @@
       "outcome": "Draw",
       "bookmaker": "Betfred (UK)",
       "odds": 5.0,
-      "fair_odds": 4.565,
-      "true_prob_pct": 21.91,
+      "fair_odds": 4.58,
+      "true_prob_pct": 21.83,
       "implied_prob_pct": 20.0,
-      "edge_pct": 9.53,
-      "kelly_stake_pct": 0.6,
-      "suggested_stake": 5.96,
-      "expected_value": 9.53,
+      "edge_pct": 9.17,
+      "kelly_stake_pct": 0.57,
+      "suggested_stake": 5.73,
+      "expected_value": 9.17,
       "confidence": "ALTA",
-      "found_at": "2026-10-02T02:02:09.645116+00:00"
+      "found_at": "2026-10-02T14:30:09.009125+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -219,15 +219,15 @@
       "outcome": "Draw",
       "bookmaker": "Pinnacle",
       "odds": 4.95,
-      "fair_odds": 4.565,
-      "true_prob_pct": 21.91,
+      "fair_odds": 4.58,
+      "true_prob_pct": 21.83,
       "implied_prob_pct": 20.2,
-      "edge_pct": 8.44,
-      "kelly_stake_pct": 0.53,
-      "suggested_stake": 5.34,
-      "expected_value": 8.44,
+      "edge_pct": 8.08,
+      "kelly_stake_pct": 0.51,
+      "suggested_stake": 5.11,
+      "expected_value": 8.08,
       "confidence": "ALTA",
-      "found_at": "2026-10-02T02:02:09.645084+00:00"
+      "found_at": "2026-10-02T14:30:09.009101+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -239,15 +239,55 @@
       "outcome": "Draw",
       "bookmaker": "Winamax (DE)",
       "odds": 4.9,
-      "fair_odds": 4.565,
-      "true_prob_pct": 21.91,
+      "fair_odds": 4.58,
+      "true_prob_pct": 21.83,
       "implied_prob_pct": 20.41,
-      "edge_pct": 7.34,
-      "kelly_stake_pct": 0.47,
-      "suggested_stake": 4.71,
-      "expected_value": 7.34,
+      "edge_pct": 6.99,
+      "kelly_stake_pct": 0.45,
+      "suggested_stake": 4.48,
+      "expected_value": 6.99,
       "confidence": "MEDIA",
-      "found_at": "2026-10-02T02:02:09.645078+00:00"
+      "found_at": "2026-10-02T14:30:09.009094+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "ce94aca384a20f6af459366da6e1dd21",
+      "league": "Serie A - Italy",
+      "match": "Monza vs Cagliari",
+      "commence": "2026-10-19T16:30:00Z",
+      "market": "h2h",
+      "outcome": "Cagliari",
+      "bookmaker": "1xBet",
+      "odds": 3.9,
+      "fair_odds": 3.683,
+      "true_prob_pct": 27.15,
+      "implied_prob_pct": 25.64,
+      "edge_pct": 5.9,
+      "kelly_stake_pct": 0.51,
+      "suggested_stake": 5.09,
+      "expected_value": 5.9,
+      "confidence": "MEDIA",
+      "found_at": "2026-10-02T14:30:09.000269+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "946716d7e5e52822f08be8cb95193d9d",
+      "league": "Serie A - Italy",
+      "match": "Lecce vs Bologna",
+      "commence": "2026-10-11T13:00:00Z",
+      "market": "h2h",
+      "outcome": "Lecce",
+      "bookmaker": "Pinnacle",
+      "odds": 4.56,
+      "fair_odds": 4.309,
+      "true_prob_pct": 23.21,
+      "implied_prob_pct": 21.93,
+      "edge_pct": 5.83,
+      "kelly_stake_pct": 0.41,
+      "suggested_stake": 4.1,
+      "expected_value": 5.83,
+      "confidence": "MEDIA",
+      "found_at": "2026-10-02T14:30:08.998875+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -259,75 +299,35 @@
       "outcome": "Valencia",
       "bookmaker": "1xBet",
       "odds": 3.62,
-      "fair_odds": 3.424,
-      "true_prob_pct": 29.21,
+      "fair_odds": 3.428,
+      "true_prob_pct": 29.17,
       "implied_prob_pct": 27.62,
-      "edge_pct": 5.73,
-      "kelly_stake_pct": 0.55,
-      "suggested_stake": 5.47,
-      "expected_value": 5.73,
+      "edge_pct": 5.6,
+      "kelly_stake_pct": 0.53,
+      "suggested_stake": 5.35,
+      "expected_value": 5.6,
       "confidence": "MEDIA",
-      "found_at": "2026-10-02T02:02:09.636851+00:00"
+      "found_at": "2026-10-02T14:30:09.001797+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "d3113d05007ddfba3077a7fafbef05c4",
-      "league": "UEFA Europa League",
-      "match": "NK Celje vs Omonoia FC",
-      "commence": "2026-10-15T16:45:00Z",
+      "event_id": "f00cd1ea41fa39149729d14ebc07aa6c",
+      "league": "La Liga - Spain",
+      "match": "Valencia vs Athletic Bilbao",
+      "commence": "2026-10-17T19:00:00Z",
       "market": "h2h",
       "outcome": "Draw",
-      "bookmaker": "Betfred (UK)",
-      "odds": 3.6,
-      "fair_odds": 3.419,
-      "true_prob_pct": 29.25,
-      "implied_prob_pct": 27.78,
-      "edge_pct": 5.3,
-      "kelly_stake_pct": 0.51,
-      "suggested_stake": 5.1,
-      "expected_value": 5.3,
+      "bookmaker": "1xBet",
+      "odds": 3.58,
+      "fair_odds": 3.409,
+      "true_prob_pct": 29.34,
+      "implied_prob_pct": 27.93,
+      "edge_pct": 5.03,
+      "kelly_stake_pct": 0.49,
+      "suggested_stake": 4.88,
+      "expected_value": 5.03,
       "confidence": "MEDIA",
-      "found_at": "2026-10-02T02:02:09.644225+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "d3113d05007ddfba3077a7fafbef05c4",
-      "league": "UEFA Europa League",
-      "match": "NK Celje vs Omonoia FC",
-      "commence": "2026-10-15T16:45:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "Coolbet",
-      "odds": 3.6,
-      "fair_odds": 3.419,
-      "true_prob_pct": 29.25,
-      "implied_prob_pct": 27.78,
-      "edge_pct": 5.3,
-      "kelly_stake_pct": 0.51,
-      "suggested_stake": 5.1,
-      "expected_value": 5.3,
-      "confidence": "MEDIA",
-      "found_at": "2026-10-02T02:02:09.644234+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "946716d7e5e52822f08be8cb95193d9d",
-      "league": "Serie A - Italy",
-      "match": "Lecce vs Bologna",
-      "commence": "2026-10-11T13:00:00Z",
-      "market": "h2h",
-      "outcome": "Lecce",
-      "bookmaker": "Pinnacle",
-      "odds": 4.5,
-      "fair_odds": 4.277,
-      "true_prob_pct": 23.38,
-      "implied_prob_pct": 22.22,
-      "edge_pct": 5.22,
-      "kelly_stake_pct": 0.37,
-      "suggested_stake": 3.73,
-      "expected_value": 5.22,
-      "confidence": "MEDIA",
-      "found_at": "2026-10-02T02:02:09.633514+00:00"
+      "found_at": "2026-10-02T14:30:09.001856+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -339,15 +339,15 @@
       "outcome": "Valencia",
       "bookmaker": "Pinnacle",
       "odds": 3.6,
-      "fair_odds": 3.424,
-      "true_prob_pct": 29.21,
+      "fair_odds": 3.428,
+      "true_prob_pct": 29.17,
       "implied_prob_pct": 27.78,
-      "edge_pct": 5.15,
-      "kelly_stake_pct": 0.49,
-      "suggested_stake": 4.95,
-      "expected_value": 5.15,
+      "edge_pct": 5.02,
+      "kelly_stake_pct": 0.48,
+      "suggested_stake": 4.83,
+      "expected_value": 5.02,
       "confidence": "MEDIA",
-      "found_at": "2026-10-02T02:02:09.636835+00:00"
+      "found_at": "2026-10-02T14:30:09.001775+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -359,15 +359,15 @@
       "outcome": "Valencia",
       "bookmaker": "Tipico",
       "odds": 3.6,
-      "fair_odds": 3.424,
-      "true_prob_pct": 29.21,
+      "fair_odds": 3.428,
+      "true_prob_pct": 29.17,
       "implied_prob_pct": 27.78,
-      "edge_pct": 5.15,
-      "kelly_stake_pct": 0.49,
-      "suggested_stake": 4.95,
-      "expected_value": 5.15,
+      "edge_pct": 5.02,
+      "kelly_stake_pct": 0.48,
+      "suggested_stake": 4.83,
+      "expected_value": 5.02,
       "confidence": "MEDIA",
-      "found_at": "2026-10-02T02:02:09.636843+00:00"
+      "found_at": "2026-10-02T14:30:09.001789+00:00"
     }
   ]
 }
