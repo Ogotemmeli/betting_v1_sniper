@@ -7844,3 +7844,52 @@ timestamp,type,match,league,market,edge_pct,confidence,suggested_stake,details
 2026-10-01 21:35 UTC,VALUE_BET,Monza vs Cagliari,Serie A - Italy,h2h,3.09,BASSA,5.77,Monza@2.34 (Betfair)
 2026-10-01 21:35 UTC,VALUE_BET,Monza vs Cagliari,Serie A - Italy,h2h,3.09,BASSA,5.77,Monza@2.34 (Betfair)
 2026-10-01 21:35 UTC,VALUE_BET,Troyes vs RC Lens,Ligue 1 - France,h2h,3.06,BASSA,2.32,Troyes@4.3 (1xBet)
+2026-10-02 02:02 UTC,ARBITRAGE,Monza vs Cagliari,Serie A - Italy,h2h,2.212,SURE,22.12,"{""Cagliari"": {""bookmaker"": ""1xBet"", ""odds"": 3.9, ""stake_pct"": 26.22, ""stake_amount"": 262.21}, ""Monza"": {""bookmaker"": ""Betfair"", ""odds"": 2.34, ""stake_pct"": 43.7, ""stake_amount"": 437.02}, ""Draw"": {""bookmaker"": ""Betfred (UK)"", ""odds"": 3.4, ""stake_pct"": 30.08, ""stake_amount"": 300.77}}"
+2026-10-02 02:02 UTC,ARBITRAGE,Arsenal vs Leeds United,EPL,h2h,1.335,SURE,13.35,"{""Leeds United"": {""bookmaker"": ""Betfair"", ""odds"": 8.8, ""stake_pct"": 11.52, ""stake_amount"": 115.17}, ""Arsenal"": {""bookmaker"": ""1xBet"", ""odds"": 1.44, ""stake_pct"": 70.38, ""stake_amount"": 703.84}, ""Draw"": {""bookmaker"": ""Betfair"", ""odds"": 5.6, ""stake_pct"": 18.1, ""stake_amount"": 180.99}}"
+2026-10-02 02:02 UTC,ARBITRAGE,AS Roma vs Real Madrid,UEFA Champions League,h2h,1.243,SURE,12.43,"{""Draw"": {""bookmaker"": ""Coolbet"", ""odds"": 4.2, ""stake_pct"": 24.11, ""stake_amount"": 241.09}, ""Real Madrid"": {""bookmaker"": ""Betfair"", ""odds"": 2.12, ""stake_pct"": 47.76, ""stake_amount"": 477.63}, ""AS Roma"": {""bookmaker"": ""Nordic Bet"", ""odds"": 3.6, ""stake_pct"": 28.13, ""stake_amount"": 281.27}}"
+2026-10-02 02:02 UTC,ARBITRAGE,Barcelona vs Getafe,La Liga - Spain,h2h,0.994,SURE,9.94,"{""Barcelona"": {""bookmaker"": ""Betfair"", ""odds"": 1.09, ""stake_pct"": 92.66, ""stake_amount"": 926.64}, ""Getafe"": {""bookmaker"": ""1xBet"", ""odds"": 50.0, ""stake_pct"": 2.02, ""stake_amount"": 20.2}, ""Draw"": {""bookmaker"": ""1xBet"", ""odds"": 19.0, ""stake_pct"": 5.32, ""stake_amount"": 53.16}}"
+2026-10-02 02:02 UTC,ARBITRAGE,Real Madrid vs Sevilla,La Liga - Spain,h2h,0.855,SURE,8.55,"{""Sevilla"": {""bookmaker"": ""Betfair"", ""odds"": 12.0, ""stake_pct"": 8.41, ""stake_amount"": 84.05}, ""Real Madrid"": {""bookmaker"": ""1xBet"", ""odds"": 1.3, ""stake_pct"": 77.59, ""stake_amount"": 775.86}, ""Draw"": {""bookmaker"": ""Tipico"", ""odds"": 7.2, ""stake_pct"": 14.01, ""stake_amount"": 140.09}}"
+2026-10-02 02:02 UTC,ARBITRAGE,Real Betis vs Barcelona,La Liga - Spain,h2h,0.732,SURE,7.32,"{""Barcelona"": {""bookmaker"": ""1xBet"", ""odds"": 1.53, ""stake_pct"": 65.84, ""stake_amount"": 658.42}, ""Real Betis"": {""bookmaker"": ""1xBet"", ""odds"": 5.8, ""stake_pct"": 17.37, ""stake_amount"": 173.69}, ""Draw"": {""bookmaker"": ""Betfair"", ""odds"": 6.0, ""stake_pct"": 16.79, ""stake_amount"": 167.9}}"
+2026-10-02 02:02 UTC,ARBITRAGE,Frosinone vs Sassuolo,Serie A - Italy,h2h,0.685,SURE,6.85,"{""Sassuolo"": {""bookmaker"": ""1xBet"", ""odds"": 2.96, ""stake_pct"": 34.02, ""stake_amount"": 340.17}, ""Frosinone"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 2.55, ""stake_pct"": 39.49, ""stake_amount"": 394.86}, ""Draw"": {""bookmaker"": ""Betfair"", ""odds"": 3.8, ""stake_pct"": 26.5, ""stake_amount"": 264.97}}"
+2026-10-02 02:02 UTC,ARBITRAGE,Augsburg vs Bayern Munich,Bundesliga - Germany,h2h,0.636,SURE,6.36,"{""Bayern Munich"": {""bookmaker"": ""Coral"", ""odds"": 1.25, ""stake_pct"": 80.51, ""stake_amount"": 805.12}, ""Augsburg"": {""bookmaker"": ""Betsson"", ""odds"": 12.5, ""stake_pct"": 8.05, ""stake_amount"": 80.51}, ""Draw"": {""bookmaker"": ""Betfair"", ""odds"": 8.8, ""stake_pct"": 11.44, ""stake_amount"": 114.36}}"
+2026-10-02 02:02 UTC,ARBITRAGE,Paris Saint Germain vs Le Mans FC,Ligue 1 - France,h2h,0.506,SURE,5.06,"{""Le Mans FC"": {""bookmaker"": ""1xBet"", ""odds"": 37.0, ""stake_pct"": 2.72, ""stake_amount"": 27.16}, ""Paris Saint Germain"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 1.1, ""stake_pct"": 91.37, ""stake_amount"": 913.71}, ""Draw"": {""bookmaker"": ""1xBet"", ""odds"": 17.0, ""stake_pct"": 5.91, ""stake_amount"": 59.12}}"
+2026-10-02 02:02 UTC,VALUE_BET,Jagiellonia Białystok vs FC Ararat-Armenia,UEFA Europa League,h2h,9.53,ALTA,5.96,Draw@5.0 (Marathon Bet)
+2026-10-02 02:02 UTC,VALUE_BET,Jagiellonia Białystok vs FC Ararat-Armenia,UEFA Europa League,h2h,9.53,ALTA,5.96,Draw@5.0 (Betfred (UK))
+2026-10-02 02:02 UTC,VALUE_BET,Jagiellonia Białystok vs FC Ararat-Armenia,UEFA Europa League,h2h,8.44,ALTA,5.34,Draw@4.95 (Pinnacle)
+2026-10-02 02:02 UTC,VALUE_BET,Jagiellonia Białystok vs FC Ararat-Armenia,UEFA Europa League,h2h,7.34,MEDIA,4.71,Draw@4.9 (Winamax (DE))
+2026-10-02 02:02 UTC,VALUE_BET,Valencia vs Athletic Bilbao,La Liga - Spain,h2h,5.73,MEDIA,5.47,Valencia@3.62 (1xBet)
+2026-10-02 02:02 UTC,VALUE_BET,NK Celje vs Omonoia FC,UEFA Europa League,h2h,5.3,MEDIA,5.1,Draw@3.6 (Betfred (UK))
+2026-10-02 02:02 UTC,VALUE_BET,NK Celje vs Omonoia FC,UEFA Europa League,h2h,5.3,MEDIA,5.1,Draw@3.6 (Coolbet)
+2026-10-02 02:02 UTC,VALUE_BET,Lecce vs Bologna,Serie A - Italy,h2h,5.22,MEDIA,3.73,Lecce@4.5 (Pinnacle)
+2026-10-02 02:02 UTC,VALUE_BET,Valencia vs Athletic Bilbao,La Liga - Spain,h2h,5.15,MEDIA,4.95,Valencia@3.6 (Pinnacle)
+2026-10-02 02:02 UTC,VALUE_BET,Valencia vs Athletic Bilbao,La Liga - Spain,h2h,5.15,MEDIA,4.95,Valencia@3.6 (Tipico)
+2026-10-02 02:02 UTC,VALUE_BET,Jagiellonia Białystok vs FC Ararat-Armenia,UEFA Europa League,h2h,5.15,MEDIA,3.39,Draw@4.8 (Winamax (FR))
+2026-10-02 02:02 UTC,VALUE_BET,Jagiellonia Białystok vs FC Ararat-Armenia,UEFA Europa League,h2h,5.15,MEDIA,3.39,Draw@4.8 (Coral)
+2026-10-02 02:02 UTC,VALUE_BET,Jagiellonia Białystok vs FC Ararat-Armenia,UEFA Europa League,h2h,5.15,MEDIA,3.39,Draw@4.8 (Ladbrokes)
+2026-10-02 02:02 UTC,VALUE_BET,Valencia vs Athletic Bilbao,La Liga - Spain,h2h,4.7,BASSA,4.55,Draw@3.58 (1xBet)
+2026-10-02 02:02 UTC,VALUE_BET,Monza vs Cagliari,Serie A - Italy,h2h,4.22,BASSA,3.64,Cagliari@3.9 (1xBet)
+2026-10-02 02:02 UTC,VALUE_BET,Hamburger SV vs VfB Stuttgart,Bundesliga - Germany,h2h,4.19,BASSA,3.4,Hamburger SV@4.08 (1xBet)
+2026-10-02 02:02 UTC,VALUE_BET,Jagiellonia Białystok vs FC Ararat-Armenia,UEFA Europa League,h2h,4.06,BASSA,2.7,Draw@4.75 (Paddy Power)
+2026-10-02 02:02 UTC,VALUE_BET,Jagiellonia Białystok vs FC Ararat-Armenia,UEFA Europa League,h2h,4.06,BASSA,2.7,Draw@4.75 (BoyleSports)
+2026-10-02 02:02 UTC,VALUE_BET,Jagiellonia Białystok vs FC Ararat-Armenia,UEFA Europa League,h2h,4.06,BASSA,2.7,Draw@4.75 (Coolbet)
+2026-10-02 02:02 UTC,VALUE_BET,Sparta Prague vs Lillestrom,UEFA Europa League,h2h,3.98,BASSA,2.49,Draw@5.0 (Betano (UK))
+2026-10-02 02:02 UTC,VALUE_BET,Sparta Prague vs Lillestrom,UEFA Europa League,h2h,3.98,BASSA,2.49,Draw@5.0 (Bet Victor)
+2026-10-02 02:02 UTC,VALUE_BET,Sparta Prague vs Lillestrom,UEFA Europa League,h2h,3.98,BASSA,2.49,Draw@5.0 (Paddy Power)
+2026-10-02 02:02 UTC,VALUE_BET,Sparta Prague vs Lillestrom,UEFA Europa League,h2h,3.98,BASSA,2.49,Draw@5.0 (Grosvenor)
+2026-10-02 02:02 UTC,VALUE_BET,Sparta Prague vs Lillestrom,UEFA Europa League,h2h,3.98,BASSA,2.49,Draw@5.0 (Betfred (UK))
+2026-10-02 02:02 UTC,VALUE_BET,Sparta Prague vs Lillestrom,UEFA Europa League,h2h,3.98,BASSA,2.49,Draw@5.0 (Ladbrokes)
+2026-10-02 02:02 UTC,VALUE_BET,Sparta Prague vs Lillestrom,UEFA Europa League,h2h,3.98,BASSA,2.49,Draw@5.0 (Coral)
+2026-10-02 02:02 UTC,VALUE_BET,Valencia vs Athletic Bilbao,La Liga - Spain,h2h,3.69,BASSA,3.61,Valencia@3.55 (Unibet (SE))
+2026-10-02 02:02 UTC,VALUE_BET,Valencia vs Athletic Bilbao,La Liga - Spain,h2h,3.69,BASSA,3.61,Valencia@3.55 (Unibet (NL))
+2026-10-02 02:02 UTC,VALUE_BET,Valencia vs Athletic Bilbao,La Liga - Spain,h2h,3.69,BASSA,3.61,Valencia@3.55 (Grosvenor)
+2026-10-02 02:02 UTC,VALUE_BET,Valencia vs Athletic Bilbao,La Liga - Spain,h2h,3.69,BASSA,3.61,Valencia@3.55 (Casumo)
+2026-10-02 02:02 UTC,VALUE_BET,Lecce vs Bologna,Serie A - Italy,h2h,3.58,BASSA,2.61,Lecce@4.43 (1xBet)
+2026-10-02 02:02 UTC,VALUE_BET,Chelsea vs Bournemouth,EPL,h2h,3.43,BASSA,2.32,Bournemouth@4.7 (Betfair)
+2026-10-02 02:02 UTC,VALUE_BET,Chelsea vs Bournemouth,EPL,h2h,3.43,BASSA,2.32,Bournemouth@4.7 (Betfair)
+2026-10-02 02:02 UTC,VALUE_BET,Fiorentina vs Como,Serie A - Italy,h2h,3.42,BASSA,3.17,Fiorentina@3.7 (Unibet (NL))
+2026-10-02 02:02 UTC,VALUE_BET,Fiorentina vs Como,Serie A - Italy,h2h,3.42,BASSA,3.17,Fiorentina@3.7 (Unibet (SE))
+2026-10-02 02:02 UTC,VALUE_BET,Hamburger SV vs VfB Stuttgart,Bundesliga - Germany,h2h,3.16,BASSA,2.6,Hamburger SV@4.04 (Pinnacle)
+2026-10-02 02:02 UTC,VALUE_BET,Manchester City vs Paris Saint Germain,UEFA Champions League,totals,3.1,BASSA,6.79,Over 3.5@2.14 (1xBet)
+2026-10-02 02:02 UTC,VALUE_BET,Monza vs Cagliari,Serie A - Italy,h2h,3.07,BASSA,5.72,Monza@2.34 (Betfair)
+2026-10-02 02:02 UTC,VALUE_BET,Monza vs Cagliari,Serie A - Italy,h2h,3.07,BASSA,5.72,Monza@2.34 (Betfair)
+2026-10-02 02:02 UTC,VALUE_BET,Troyes vs RC Lens,Ligue 1 - France,h2h,3.06,BASSA,2.32,Troyes@4.3 (1xBet)

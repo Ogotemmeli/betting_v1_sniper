@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-01 21:35 UTC",
+  "timestamp": "2026-10-02 02:02 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
-  "arbitrages_found": 11,
-  "value_bets_found": 41,
+  "arbitrages_found": 9,
+  "value_bets_found": 40,
   "best_arb_margin": 2.212,
   "best_value_edge": 9.53,
   "arbitrages": [
@@ -17,11 +17,11 @@
       "margin_pct": 2.212,
       "guaranteed_profit": 22.12,
       "stakes": {
-        "Draw": {
-          "bookmaker": "Betfred (UK)",
-          "odds": 3.4,
-          "stake_pct": 30.08,
-          "stake_amount": 300.77
+        "Cagliari": {
+          "bookmaker": "1xBet",
+          "odds": 3.9,
+          "stake_pct": 26.22,
+          "stake_amount": 262.21
         },
         "Monza": {
           "bookmaker": "Betfair",
@@ -29,15 +29,15 @@
           "stake_pct": 43.7,
           "stake_amount": 437.02
         },
-        "Cagliari": {
-          "bookmaker": "1xBet",
-          "odds": 3.9,
-          "stake_pct": 26.22,
-          "stake_amount": 262.21
+        "Draw": {
+          "bookmaker": "Betfred (UK)",
+          "odds": 3.4,
+          "stake_pct": 30.08,
+          "stake_amount": 300.77
         }
       },
       "num_bookmakers": 29,
-      "found_at": "2026-10-01T21:35:07.718610+00:00"
+      "found_at": "2026-10-02T02:02:09.635019+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -49,11 +49,11 @@
       "margin_pct": 1.335,
       "guaranteed_profit": 13.35,
       "stakes": {
-        "Draw": {
+        "Leeds United": {
           "bookmaker": "Betfair",
-          "odds": 5.6,
-          "stake_pct": 18.1,
-          "stake_amount": 180.99
+          "odds": 8.8,
+          "stake_pct": 11.52,
+          "stake_amount": 115.17
         },
         "Arsenal": {
           "bookmaker": "1xBet",
@@ -61,15 +61,15 @@
           "stake_pct": 70.38,
           "stake_amount": 703.84
         },
-        "Leeds United": {
+        "Draw": {
           "bookmaker": "Betfair",
-          "odds": 8.8,
-          "stake_pct": 11.52,
-          "stake_amount": 115.17
+          "odds": 5.6,
+          "stake_pct": 18.1,
+          "stake_amount": 180.99
         }
       },
       "num_bookmakers": 39,
-      "found_at": "2026-10-01T21:35:07.714024+00:00"
+      "found_at": "2026-10-02T02:02:09.630436+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -87,21 +87,21 @@
           "stake_pct": 24.11,
           "stake_amount": 241.09
         },
-        "AS Roma": {
-          "bookmaker": "Nordic Bet",
-          "odds": 3.6,
-          "stake_pct": 28.13,
-          "stake_amount": 281.27
-        },
         "Real Madrid": {
           "bookmaker": "Betfair",
           "odds": 2.12,
           "stake_pct": 47.76,
           "stake_amount": 477.63
+        },
+        "AS Roma": {
+          "bookmaker": "Nordic Bet",
+          "odds": 3.6,
+          "stake_pct": 28.13,
+          "stake_amount": 281.27
         }
       },
       "num_bookmakers": 34,
-      "found_at": "2026-10-01T21:35:07.726260+00:00"
+      "found_at": "2026-10-02T02:02:09.642790+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -119,21 +119,21 @@
           "stake_pct": 92.66,
           "stake_amount": 926.64
         },
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 19.0,
-          "stake_pct": 5.32,
-          "stake_amount": 53.16
-        },
         "Getafe": {
           "bookmaker": "1xBet",
           "odds": 50.0,
           "stake_pct": 2.02,
           "stake_amount": 20.2
+        },
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 19.0,
+          "stake_pct": 5.32,
+          "stake_amount": 53.16
         }
       },
       "num_bookmakers": 36,
-      "found_at": "2026-10-01T21:35:07.719174+00:00"
+      "found_at": "2026-10-02T02:02:09.635612+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -165,7 +165,7 @@
         }
       },
       "num_bookmakers": 27,
-      "found_at": "2026-10-01T21:35:07.720793+00:00"
+      "found_at": "2026-10-02T02:02:09.637233+00:00"
     }
   ],
   "value_bets": [
@@ -187,7 +187,7 @@
       "suggested_stake": 5.96,
       "expected_value": 9.53,
       "confidence": "ALTA",
-      "found_at": "2026-10-01T21:35:07.728552+00:00"
+      "found_at": "2026-10-02T02:02:09.645103+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -207,7 +207,7 @@
       "suggested_stake": 5.96,
       "expected_value": 9.53,
       "confidence": "ALTA",
-      "found_at": "2026-10-01T21:35:07.728567+00:00"
+      "found_at": "2026-10-02T02:02:09.645116+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -227,7 +227,7 @@
       "suggested_stake": 5.34,
       "expected_value": 8.44,
       "confidence": "ALTA",
-      "found_at": "2026-10-01T21:35:07.728540+00:00"
+      "found_at": "2026-10-02T02:02:09.645084+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -247,7 +247,7 @@
       "suggested_stake": 4.71,
       "expected_value": 7.34,
       "confidence": "MEDIA",
-      "found_at": "2026-10-01T21:35:07.728534+00:00"
+      "found_at": "2026-10-02T02:02:09.645078+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -267,7 +267,7 @@
       "suggested_stake": 5.47,
       "expected_value": 5.73,
       "confidence": "MEDIA",
-      "found_at": "2026-10-01T21:35:07.720454+00:00"
+      "found_at": "2026-10-02T02:02:09.636851+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -287,7 +287,7 @@
       "suggested_stake": 5.1,
       "expected_value": 5.3,
       "confidence": "MEDIA",
-      "found_at": "2026-10-01T21:35:07.727690+00:00"
+      "found_at": "2026-10-02T02:02:09.644225+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -307,7 +307,7 @@
       "suggested_stake": 5.1,
       "expected_value": 5.3,
       "confidence": "MEDIA",
-      "found_at": "2026-10-01T21:35:07.727698+00:00"
+      "found_at": "2026-10-02T02:02:09.644234+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -327,7 +327,7 @@
       "suggested_stake": 3.73,
       "expected_value": 5.22,
       "confidence": "MEDIA",
-      "found_at": "2026-10-01T21:35:07.717095+00:00"
+      "found_at": "2026-10-02T02:02:09.633514+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -347,7 +347,7 @@
       "suggested_stake": 4.95,
       "expected_value": 5.15,
       "confidence": "MEDIA",
-      "found_at": "2026-10-01T21:35:07.720434+00:00"
+      "found_at": "2026-10-02T02:02:09.636835+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -367,7 +367,7 @@
       "suggested_stake": 4.95,
       "expected_value": 5.15,
       "confidence": "MEDIA",
-      "found_at": "2026-10-01T21:35:07.720446+00:00"
+      "found_at": "2026-10-02T02:02:09.636843+00:00"
     }
   ]
 }
