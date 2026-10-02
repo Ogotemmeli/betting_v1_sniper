@@ -1,5 +1,5 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-10-02 14:30 UTC
+**Generato:** 2026-10-02 21:11 UTC
 **Bankroll:** €1000
 
 ---
@@ -12,8 +12,8 @@
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Monza | Betfair | 2.34 | 43.7% | €437.02 |
 | Draw | Betfred (UK) | 3.40 | 30.1% | €300.77 |
+| Monza | Betfair | 2.34 | 43.7% | €437.02 |
 | Cagliari | 1xBet | 3.90 | 26.2% | €262.21 |
 
 ### #2 — AS Roma vs Real Madrid
@@ -23,22 +23,11 @@
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| AS Roma | Nordic Bet | 3.65 | 27.9% | €278.49 |
 | Draw | Coolbet | 4.20 | 24.2% | €242.02 |
 | Real Madrid | Betfair | 2.12 | 48.0% | €479.48 |
+| AS Roma | Nordic Bet | 3.65 | 27.9% | €278.49 |
 
-### #3 — Barcelona vs Getafe
-- **Lega:** La Liga - Spain | **Mercato:** h2h
-- **Inizio:** 2026-10-10T16:30:00Z
-- **Margine:** 1.07% (€10.67)
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Getafe | 1xBet | 50.00 | 2.0% | €20.22 |
-| Draw | Pinnacle | 19.27 | 5.2% | €52.45 |
-| Barcelona | Betfair | 1.09 | 92.7% | €927.33 |
-
-### #4 — Frosinone vs Sassuolo
+### #3 — Frosinone vs Sassuolo
 - **Lega:** Serie A - Italy | **Mercato:** h2h
 - **Inizio:** 2026-10-16T18:45:00Z
 - **Margine:** 1.03% (€10.27)
@@ -46,19 +35,30 @@
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
 | Sassuolo | 1xBet | 2.96 | 34.1% | €341.34 |
-| Draw | Betfair | 3.85 | 26.2% | €262.43 |
 | Frosinone | Unibet (SE) | 2.55 | 39.6% | €396.22 |
+| Draw | Betfair | 3.85 | 26.2% | €262.43 |
 
-### #5 — Real Madrid vs Sevilla
-- **Lega:** La Liga - Spain | **Mercato:** h2h
-- **Inizio:** 2026-10-18T19:00:00Z
-- **Margine:** 0.85% (€8.55)
+### #4 — Arsenal vs Leeds United
+- **Lega:** EPL | **Mercato:** h2h
+- **Inizio:** 2026-10-10T11:30:00Z
+- **Margine:** 1.01% (€10.10)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Draw | Tipico | 7.20 | 14.0% | €140.09 |
-| Sevilla | Smarkets | 12.00 | 8.4% | €84.05 |
-| Real Madrid | 1xBet | 1.30 | 77.6% | €775.86 |
+| Arsenal | 1xBet | 1.44 | 70.2% | €701.53 |
+| Draw | Betfair | 5.50 | 18.4% | €183.67 |
+| Leeds United | Smarkets | 8.80 | 11.5% | €114.80 |
+
+### #5 — Real Racing Club de Santander vs Valencia
+- **Lega:** La Liga - Spain | **Mercato:** h2h
+- **Inizio:** 2026-10-11T19:00:00Z
+- **Margine:** 0.98% (€9.82)
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Real Racing Club de Santander | 1xBet | 2.31 | 43.7% | €437.20 |
+| Draw | Winamax (DE) | 3.80 | 26.6% | €265.77 |
+| Valencia | Betfair | 3.40 | 29.7% | €297.04 |
 
 ### #6 — Real Betis vs Barcelona
 - **Lega:** La Liga - Spain | **Mercato:** h2h
@@ -78,8 +78,8 @@
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Paris Saint Germain | 1xBet | 2.97 | 33.9% | €339.08 |
 | Manchester City | Betfair | 2.36 | 42.7% | €426.72 |
+| Paris Saint Germain | 1xBet | 2.97 | 33.9% | €339.08 |
 | Draw | Betfair | 4.30 | 23.4% | €234.20 |
 
 ### #8 — Augsburg vs Bayern Munich
@@ -89,8 +89,8 @@
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Bayern Munich | Coral | 1.25 | 80.5% | €805.12 |
 | Augsburg | Betsson | 12.50 | 8.1% | €80.51 |
+| Bayern Munich | Coral | 1.25 | 80.5% | €805.12 |
 | Draw | Betfair | 8.80 | 11.4% | €114.36 |
 
 ### #9 — Paris Saint Germain vs Le Mans FC
@@ -101,46 +101,46 @@
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
 | Paris Saint Germain | Unibet (SE) | 1.10 | 91.4% | €913.71 |
-| Le Mans FC | 1xBet | 37.00 | 2.7% | €27.16 |
 | Draw | 1xBet | 17.00 | 5.9% | €59.12 |
+| Le Mans FC | 1xBet | 37.00 | 2.7% | €27.16 |
 
 ---
 ## 📈 Value Bet
 
 | # | Match | Esito | Book | Quota | Fair | Edge% | Conf | Stake |
 |---|-------|-------|------|-------|------|-------|------|-------|
-| 1 | Jagiellonia Białystok vs FC  | Draw | Marathon Bet | 5.00 | 4.58 | 9.2% | 🟢 | €6 |
-| 2 | Jagiellonia Białystok vs FC  | Draw | Betfred (UK) | 5.00 | 4.58 | 9.2% | 🟢 | €6 |
-| 3 | Jagiellonia Białystok vs FC  | Draw | Pinnacle | 4.95 | 4.58 | 8.1% | 🟢 | €5 |
-| 4 | Jagiellonia Białystok vs FC  | Draw | Winamax (DE) | 4.90 | 4.58 | 7.0% | 🟡 | €4 |
-| 5 | Monza vs Cagliari | Cagliari | 1xBet | 3.90 | 3.68 | 5.9% | 🟡 | €5 |
-| 6 | Lecce vs Bologna | Lecce | Pinnacle | 4.56 | 4.31 | 5.8% | 🟡 | €4 |
-| 7 | Valencia vs Athletic Bilbao | Valencia | 1xBet | 3.62 | 3.43 | 5.6% | 🟡 | €5 |
-| 8 | Valencia vs Athletic Bilbao | Draw | 1xBet | 3.58 | 3.41 | 5.0% | 🟡 | €5 |
-| 9 | Valencia vs Athletic Bilbao | Valencia | Pinnacle | 3.60 | 3.43 | 5.0% | 🟡 | €5 |
-| 10 | Valencia vs Athletic Bilbao | Valencia | Tipico | 3.60 | 3.43 | 5.0% | 🟡 | €5 |
-| 11 | Jagiellonia Białystok vs FC  | Draw | Winamax (FR) | 4.80 | 4.58 | 4.8% | 🔴 | €3 |
-| 12 | Jagiellonia Białystok vs FC  | Draw | Coral | 4.80 | 4.58 | 4.8% | 🔴 | €3 |
-| 13 | Jagiellonia Białystok vs FC  | Draw | Ladbrokes | 4.80 | 4.58 | 4.8% | 🔴 | €3 |
-| 14 | Hamburger SV vs VfB Stuttgar | Hamburger SV | 1xBet | 4.08 | 3.90 | 4.7% | 🔴 | €4 |
-| 15 | Manchester City vs Paris Sai | Draw | Betfair | 4.30 | 4.12 | 4.3% | 🔴 | €3 |
-| 16 | Manchester City vs Paris Sai | Draw | Betfair | 4.30 | 4.12 | 4.3% | 🔴 | €3 |
-| 17 | AS Roma vs Real Madrid | AS Roma | Nordic Bet | 3.65 | 3.50 | 4.2% | 🔴 | €4 |
-| 18 | Jagiellonia Białystok vs FC  | Draw | Paddy Power | 4.75 | 4.58 | 3.7% | 🔴 | €2 |
-| 19 | Jagiellonia Białystok vs FC  | Draw | BoyleSports | 4.75 | 4.58 | 3.7% | 🔴 | €2 |
-| 20 | Jagiellonia Białystok vs FC  | Draw | Coolbet | 4.75 | 4.58 | 3.7% | 🔴 | €2 |
-| 21 | Jagiellonia Białystok vs FC  | Draw | Betway | 4.75 | 4.58 | 3.7% | 🔴 | €2 |
-| 22 | Hamburger SV vs VfB Stuttgar | Hamburger SV | Pinnacle | 4.04 | 3.90 | 3.7% | 🔴 | €3 |
-| 23 | Valencia vs Athletic Bilbao | Valencia | Nordic Bet | 3.55 | 3.43 | 3.6% | 🔴 | €3 |
-| 24 | Valencia vs Athletic Bilbao | Valencia | Betsson | 3.55 | 3.43 | 3.6% | 🔴 | €3 |
-| 25 | Valencia vs Athletic Bilbao | Valencia | Unibet (SE) | 3.55 | 3.43 | 3.6% | 🔴 | €3 |
-| 26 | Valencia vs Athletic Bilbao | Valencia | Unibet (NL) | 3.55 | 3.43 | 3.6% | 🔴 | €3 |
-| 27 | Valencia vs Athletic Bilbao | Valencia | Grosvenor | 3.55 | 3.43 | 3.6% | 🔴 | €3 |
-| 28 | Valencia vs Athletic Bilbao | Valencia | Casumo | 3.55 | 3.43 | 3.6% | 🔴 | €3 |
-| 29 | Chelsea vs Bournemouth | Bournemouth | Betfair | 4.70 | 4.54 | 3.5% | 🔴 | €2 |
-| 30 | Chelsea vs Bournemouth | Bournemouth | Betfair | 4.70 | 4.54 | 3.5% | 🔴 | €2 |
+| 1 | Jagiellonia Białystok vs FC  | Draw | Marathon Bet | 5.00 | 4.56 | 9.5% | 🟢 | €6 |
+| 2 | Jagiellonia Białystok vs FC  | Draw | Betfred (UK) | 5.00 | 4.56 | 9.5% | 🟢 | €6 |
+| 3 | Troyes vs RC Lens | Troyes | 1xBet | 4.30 | 3.93 | 9.5% | 🟢 | €7 |
+| 4 | Jagiellonia Białystok vs FC  | Draw | Pinnacle | 4.95 | 4.56 | 8.4% | 🟢 | €5 |
+| 5 | Jagiellonia Białystok vs FC  | Draw | Winamax (DE) | 4.90 | 4.56 | 7.3% | 🟡 | €5 |
+| 6 | Lille vs Brest | Draw | 1xBet | 4.37 | 4.08 | 7.1% | 🟡 | €5 |
+| 7 | Lecce vs Bologna | Lecce | Pinnacle | 4.61 | 4.30 | 7.1% | 🟡 | €5 |
+| 8 | Troyes vs RC Lens | Troyes | Marathon Bet | 4.20 | 3.93 | 7.0% | 🟡 | €5 |
+| 9 | Troyes vs RC Lens | Troyes | LeoVegas (SE | 4.20 | 3.93 | 7.0% | 🟡 | €5 |
+| 10 | Troyes vs RC Lens | Troyes | Unibet (SE) | 4.20 | 3.93 | 7.0% | 🟡 | €5 |
+| 11 | Monza vs Cagliari | Cagliari | 1xBet | 3.90 | 3.68 | 5.9% | 🟡 | €5 |
+| 12 | Valencia vs Athletic Bilbao | Valencia | 1xBet | 3.62 | 3.43 | 5.4% | 🟡 | €5 |
+| 13 | Lille vs Brest | Draw | LeoVegas (SE | 4.30 | 4.08 | 5.4% | 🟡 | €4 |
+| 14 | Lille vs Brest | Draw | Unibet (SE) | 4.30 | 4.08 | 5.4% | 🟡 | €4 |
+| 15 | Jagiellonia Białystok vs FC  | Draw | Winamax (FR) | 4.80 | 4.56 | 5.2% | 🟡 | €3 |
+| 16 | Jagiellonia Białystok vs FC  | Draw | Coral | 4.80 | 4.56 | 5.2% | 🟡 | €3 |
+| 17 | Jagiellonia Białystok vs FC  | Draw | Ladbrokes | 4.80 | 4.56 | 5.2% | 🟡 | €3 |
+| 18 | Valencia vs Athletic Bilbao | Valencia | Pinnacle | 3.60 | 3.43 | 4.8% | 🔴 | €5 |
+| 19 | Valencia vs Athletic Bilbao | Valencia | Tipico | 3.60 | 3.43 | 4.8% | 🔴 | €5 |
+| 20 | Valencia vs Athletic Bilbao | Draw | 1xBet | 3.58 | 3.42 | 4.7% | 🔴 | €5 |
+| 21 | Lecce vs Bologna | Lecce | Coolbet | 4.50 | 4.30 | 4.6% | 🔴 | €3 |
+| 22 | Lille vs Brest | Brest | Betway | 5.00 | 4.79 | 4.5% | 🔴 | €3 |
+| 23 | Lille vs Brest | Brest | Betfred (UK) | 5.00 | 4.79 | 4.5% | 🔴 | €3 |
+| 24 | Lille vs Brest | Brest | Paddy Power | 5.00 | 4.79 | 4.5% | 🔴 | €3 |
+| 25 | Lille vs Brest | Brest | Sky Bet | 5.00 | 4.79 | 4.5% | 🔴 | €3 |
+| 26 | Hamburger SV vs VfB Stuttgar | Hamburger SV | 1xBet | 4.08 | 3.91 | 4.4% | 🔴 | €4 |
+| 27 | Manchester City vs Paris Sai | Draw | Betfair | 4.30 | 4.12 | 4.3% | 🔴 | €3 |
+| 28 | Manchester City vs Paris Sai | Draw | Betfair | 4.30 | 4.12 | 4.3% | 🔴 | €3 |
+| 29 | Lille vs Brest | Draw | Marathon Bet | 4.25 | 4.08 | 4.2% | 🔴 | €3 |
+| 30 | AS Roma vs Real Madrid | AS Roma | Nordic Bet | 3.65 | 3.51 | 4.1% | 🔴 | €4 |
 
-_Top 30 su 47._
+_Top 30 su 63._
 
 ---
 ⚠️ Strumento di analisi. Non garantisce profitti.
