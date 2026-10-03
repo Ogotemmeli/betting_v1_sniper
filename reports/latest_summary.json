@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-10-03 01:45 UTC",
+  "timestamp": "2026-10-03 13:06 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
-  "arbitrages_found": 10,
-  "value_bets_found": 80,
+  "arbitrages_found": 13,
+  "value_bets_found": 74,
   "best_arb_margin": 2.212,
-  "best_value_edge": 9.2,
+  "best_value_edge": 9.81,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
@@ -17,6 +17,12 @@
       "margin_pct": 2.212,
       "guaranteed_profit": 22.12,
       "stakes": {
+        "Cagliari": {
+          "bookmaker": "1xBet",
+          "odds": 3.9,
+          "stake_pct": 26.22,
+          "stake_amount": 262.21
+        },
         "Draw": {
           "bookmaker": "Betfred (UK)",
           "odds": 3.4,
@@ -28,16 +34,10 @@
           "odds": 2.34,
           "stake_pct": 43.7,
           "stake_amount": 437.02
-        },
-        "Cagliari": {
-          "bookmaker": "1xBet",
-          "odds": 3.9,
-          "stake_pct": 26.22,
-          "stake_amount": 262.21
         }
       },
       "num_bookmakers": 29,
-      "found_at": "2026-10-03T01:45:49.554224+00:00"
+      "found_at": "2026-10-03T13:06:12.773269+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -49,6 +49,12 @@
       "margin_pct": 1.623,
       "guaranteed_profit": 16.23,
       "stakes": {
+        "AS Roma": {
+          "bookmaker": "Nordic Bet",
+          "odds": 3.65,
+          "stake_pct": 27.85,
+          "stake_amount": 278.49
+        },
         "Draw": {
           "bookmaker": "Coolbet",
           "odds": 4.2,
@@ -60,16 +66,74 @@
           "odds": 2.12,
           "stake_pct": 47.95,
           "stake_amount": 479.48
-        },
-        "AS Roma": {
-          "bookmaker": "Nordic Bet",
-          "odds": 3.65,
-          "stake_pct": 27.85,
-          "stake_amount": 278.49
         }
       },
       "num_bookmakers": 35,
-      "found_at": "2026-10-03T01:45:49.562084+00:00"
+      "found_at": "2026-10-03T13:06:12.781968+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "93177465a42a0fb7802f1c8b06d6ee3a",
+      "league": "UEFA Champions League",
+      "match": "Arsenal vs Lille",
+      "commence": "2026-10-13T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.125,
+      "guaranteed_profit": 11.25,
+      "stakes": {
+        "Draw": {
+          "bookmaker": "Betfair",
+          "odds": 6.8,
+          "stake_pct": 14.87,
+          "stake_amount": 148.73
+        },
+        "Lille": {
+          "bookmaker": "1xBet",
+          "odds": 13.8,
+          "stake_pct": 7.33,
+          "stake_amount": 73.29
+        },
+        "Arsenal": {
+          "bookmaker": "1xBet",
+          "odds": 1.3,
+          "stake_pct": 77.8,
+          "stake_amount": 777.98
+        }
+      },
+      "num_bookmakers": 36,
+      "found_at": "2026-10-03T13:06:12.780670+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "edb80d633a1906e5865ab70cc9b540ea",
+      "league": "La Liga - Spain",
+      "match": "Barcelona vs Getafe",
+      "commence": "2026-10-10T16:30:00Z",
+      "market": "h2h",
+      "margin_pct": 1.06,
+      "guaranteed_profit": 10.6,
+      "stakes": {
+        "Getafe": {
+          "bookmaker": "1xBet",
+          "odds": 50.0,
+          "stake_pct": 2.02,
+          "stake_amount": 20.21
+        },
+        "Barcelona": {
+          "bookmaker": "Betfair",
+          "odds": 1.08,
+          "stake_pct": 93.58,
+          "stake_amount": 935.84
+        },
+        "Draw": {
+          "bookmaker": "Betfair",
+          "odds": 23.0,
+          "stake_pct": 4.39,
+          "stake_amount": 43.94
+        }
+      },
+      "num_bookmakers": 36,
+      "found_at": "2026-10-03T13:06:12.773893+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -81,6 +145,12 @@
       "margin_pct": 1.027,
       "guaranteed_profit": 10.27,
       "stakes": {
+        "Sassuolo": {
+          "bookmaker": "1xBet",
+          "odds": 2.96,
+          "stake_pct": 34.13,
+          "stake_amount": 341.34
+        },
         "Draw": {
           "bookmaker": "Betfair",
           "odds": 3.85,
@@ -92,80 +162,10 @@
           "odds": 2.55,
           "stake_pct": 39.62,
           "stake_amount": 396.22
-        },
-        "Sassuolo": {
-          "bookmaker": "1xBet",
-          "odds": 2.96,
-          "stake_pct": 34.13,
-          "stake_amount": 341.34
         }
       },
       "num_bookmakers": 29,
-      "found_at": "2026-10-03T01:45:49.553405+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "b870dcfba5e5920d3f1551a3aa1ea435",
-      "league": "EPL",
-      "match": "Arsenal vs Leeds United",
-      "commence": "2026-10-10T11:30:00Z",
-      "market": "h2h",
-      "margin_pct": 1.01,
-      "guaranteed_profit": 10.1,
-      "stakes": {
-        "Leeds United": {
-          "bookmaker": "Smarkets",
-          "odds": 8.8,
-          "stake_pct": 11.48,
-          "stake_amount": 114.8
-        },
-        "Arsenal": {
-          "bookmaker": "1xBet",
-          "odds": 1.44,
-          "stake_pct": 70.15,
-          "stake_amount": 701.53
-        },
-        "Draw": {
-          "bookmaker": "Betfair",
-          "odds": 5.5,
-          "stake_pct": 18.37,
-          "stake_amount": 183.67
-        }
-      },
-      "num_bookmakers": 39,
-      "found_at": "2026-10-03T01:45:49.549640+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "66a4f4201806b928c9007116727fdd61",
-      "league": "La Liga - Spain",
-      "match": "Real Racing Club de Santander vs Valencia",
-      "commence": "2026-10-11T19:00:00Z",
-      "market": "h2h",
-      "margin_pct": 0.982,
-      "guaranteed_profit": 9.82,
-      "stakes": {
-        "Valencia": {
-          "bookmaker": "Betfair",
-          "odds": 3.4,
-          "stake_pct": 29.7,
-          "stake_amount": 297.04
-        },
-        "Real Racing Club de Santander": {
-          "bookmaker": "1xBet",
-          "odds": 2.31,
-          "stake_pct": 43.72,
-          "stake_amount": 437.2
-        },
-        "Draw": {
-          "bookmaker": "Winamax (DE)",
-          "odds": 3.8,
-          "stake_pct": 26.58,
-          "stake_amount": 265.77
-        }
-      },
-      "num_bookmakers": 36,
-      "found_at": "2026-10-03T01:45:49.555374+00:00"
+      "found_at": "2026-10-03T13:06:12.772443+00:00"
     }
   ],
   "value_bets": [
@@ -179,15 +179,15 @@
       "outcome": "Troyes",
       "bookmaker": "1xBet",
       "odds": 4.3,
-      "fair_odds": 3.938,
-      "true_prob_pct": 25.4,
+      "fair_odds": 3.916,
+      "true_prob_pct": 25.54,
       "implied_prob_pct": 23.26,
-      "edge_pct": 9.2,
-      "kelly_stake_pct": 0.7,
-      "suggested_stake": 6.97,
-      "expected_value": 9.2,
+      "edge_pct": 9.81,
+      "kelly_stake_pct": 0.74,
+      "suggested_stake": 7.43,
+      "expected_value": 9.81,
       "confidence": "ALTA",
-      "found_at": "2026-10-03T01:45:49.559979+00:00"
+      "found_at": "2026-10-03T13:06:12.779801+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -207,7 +207,7 @@
       "suggested_stake": 5.73,
       "expected_value": 9.17,
       "confidence": "ALTA",
-      "found_at": "2026-10-03T01:45:49.564536+00:00"
+      "found_at": "2026-10-03T13:06:12.784435+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -227,7 +227,7 @@
       "suggested_stake": 5.73,
       "expected_value": 9.17,
       "confidence": "ALTA",
-      "found_at": "2026-10-03T01:45:49.564549+00:00"
+      "found_at": "2026-10-03T13:06:12.784447+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -247,7 +247,7 @@
       "suggested_stake": 5.11,
       "expected_value": 8.08,
       "confidence": "ALTA",
-      "found_at": "2026-10-03T01:45:49.564521+00:00"
+      "found_at": "2026-10-03T13:06:12.784423+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -259,15 +259,15 @@
       "outcome": "Lech Poznań",
       "bookmaker": "Nordic Bet",
       "odds": 4.75,
-      "fair_odds": 4.407,
-      "true_prob_pct": 22.69,
+      "fair_odds": 4.411,
+      "true_prob_pct": 22.67,
       "implied_prob_pct": 21.05,
-      "edge_pct": 7.79,
-      "kelly_stake_pct": 0.52,
-      "suggested_stake": 5.19,
-      "expected_value": 7.79,
+      "edge_pct": 7.67,
+      "kelly_stake_pct": 0.51,
+      "suggested_stake": 5.12,
+      "expected_value": 7.67,
       "confidence": "MEDIA",
-      "found_at": "2026-10-03T01:45:49.563244+00:00"
+      "found_at": "2026-10-03T13:06:12.783085+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -279,15 +279,35 @@
       "outcome": "Lech Poznań",
       "bookmaker": "Coolbet",
       "odds": 4.75,
-      "fair_odds": 4.407,
-      "true_prob_pct": 22.69,
+      "fair_odds": 4.411,
+      "true_prob_pct": 22.67,
       "implied_prob_pct": 21.05,
-      "edge_pct": 7.79,
-      "kelly_stake_pct": 0.52,
-      "suggested_stake": 5.19,
-      "expected_value": 7.79,
+      "edge_pct": 7.67,
+      "kelly_stake_pct": 0.51,
+      "suggested_stake": 5.12,
+      "expected_value": 7.67,
       "confidence": "MEDIA",
-      "found_at": "2026-10-03T01:45:49.563280+00:00"
+      "found_at": "2026-10-03T13:06:12.783118+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "b077aa049133c0358bcd643bfee48da3",
+      "league": "Ligue 1 - France",
+      "match": "Troyes vs RC Lens",
+      "commence": "2026-10-17T18:45:00Z",
+      "market": "h2h",
+      "outcome": "Troyes",
+      "bookmaker": "Marathon Bet",
+      "odds": 4.2,
+      "fair_odds": 3.916,
+      "true_prob_pct": 25.54,
+      "implied_prob_pct": 23.81,
+      "edge_pct": 7.25,
+      "kelly_stake_pct": 0.57,
+      "suggested_stake": 5.67,
+      "expected_value": 7.25,
+      "confidence": "MEDIA",
+      "found_at": "2026-10-03T13:06:12.779807+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -299,15 +319,15 @@
       "outcome": "Draw",
       "bookmaker": "1xBet",
       "odds": 4.46,
-      "fair_odds": 4.163,
-      "true_prob_pct": 24.02,
+      "fair_odds": 4.161,
+      "true_prob_pct": 24.03,
       "implied_prob_pct": 22.42,
-      "edge_pct": 7.14,
+      "edge_pct": 7.18,
       "kelly_stake_pct": 0.52,
-      "suggested_stake": 5.16,
-      "expected_value": 7.14,
+      "suggested_stake": 5.19,
+      "expected_value": 7.18,
       "confidence": "MEDIA",
-      "found_at": "2026-10-03T01:45:49.563172+00:00"
+      "found_at": "2026-10-03T13:06:12.783142+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -319,15 +339,15 @@
       "outcome": "Draw",
       "bookmaker": "1xBet",
       "odds": 4.37,
-      "fair_odds": 4.083,
-      "true_prob_pct": 24.49,
+      "fair_odds": 4.081,
+      "true_prob_pct": 24.5,
       "implied_prob_pct": 22.88,
-      "edge_pct": 7.04,
-      "kelly_stake_pct": 0.52,
-      "suggested_stake": 5.22,
-      "expected_value": 7.04,
+      "edge_pct": 7.08,
+      "kelly_stake_pct": 0.53,
+      "suggested_stake": 5.25,
+      "expected_value": 7.08,
       "confidence": "MEDIA",
-      "found_at": "2026-10-03T01:45:49.559789+00:00"
+      "found_at": "2026-10-03T13:06:12.779613+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -347,27 +367,7 @@
       "suggested_stake": 4.48,
       "expected_value": 6.99,
       "confidence": "MEDIA",
-      "found_at": "2026-10-03T01:45:49.564514+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "c3923b733e33ae8ebd1f024cd5312d1e",
-      "league": "UEFA Europa League",
-      "match": "Lech Poznań vs Bayer Leverkusen",
-      "commence": "2026-10-15T16:45:00Z",
-      "market": "h2h",
-      "outcome": "Lech Poznań",
-      "bookmaker": "1xBet",
-      "odds": 4.71,
-      "fair_odds": 4.407,
-      "true_prob_pct": 22.69,
-      "implied_prob_pct": 21.23,
-      "edge_pct": 6.88,
-      "kelly_stake_pct": 0.46,
-      "suggested_stake": 4.64,
-      "expected_value": 6.88,
-      "confidence": "MEDIA",
-      "found_at": "2026-10-03T01:45:49.563216+00:00"
+      "found_at": "2026-10-03T13:06:12.784413+00:00"
     }
   ]
 }
