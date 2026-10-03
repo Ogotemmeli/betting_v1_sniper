@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-10-02 21:11 UTC",
+  "timestamp": "2026-10-03 01:45 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
-  "arbitrages_found": 9,
-  "value_bets_found": 63,
+  "arbitrages_found": 10,
+  "value_bets_found": 80,
   "best_arb_margin": 2.212,
-  "best_value_edge": 9.54,
+  "best_value_edge": 9.2,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
@@ -37,7 +37,7 @@
         }
       },
       "num_bookmakers": 29,
-      "found_at": "2026-10-02T21:11:18.972736+00:00"
+      "found_at": "2026-10-03T01:45:49.554224+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -69,7 +69,7 @@
         }
       },
       "num_bookmakers": 35,
-      "found_at": "2026-10-02T21:11:18.977326+00:00"
+      "found_at": "2026-10-03T01:45:49.562084+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -81,11 +81,11 @@
       "margin_pct": 1.027,
       "guaranteed_profit": 10.27,
       "stakes": {
-        "Sassuolo": {
-          "bookmaker": "1xBet",
-          "odds": 2.96,
-          "stake_pct": 34.13,
-          "stake_amount": 341.34
+        "Draw": {
+          "bookmaker": "Betfair",
+          "odds": 3.85,
+          "stake_pct": 26.24,
+          "stake_amount": 262.43
         },
         "Frosinone": {
           "bookmaker": "Unibet (SE)",
@@ -93,15 +93,15 @@
           "stake_pct": 39.62,
           "stake_amount": 396.22
         },
-        "Draw": {
-          "bookmaker": "Betfair",
-          "odds": 3.85,
-          "stake_pct": 26.24,
-          "stake_amount": 262.43
+        "Sassuolo": {
+          "bookmaker": "1xBet",
+          "odds": 2.96,
+          "stake_pct": 34.13,
+          "stake_amount": 341.34
         }
       },
       "num_bookmakers": 29,
-      "found_at": "2026-10-02T21:11:18.972255+00:00"
+      "found_at": "2026-10-03T01:45:49.553405+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -113,6 +113,12 @@
       "margin_pct": 1.01,
       "guaranteed_profit": 10.1,
       "stakes": {
+        "Leeds United": {
+          "bookmaker": "Smarkets",
+          "odds": 8.8,
+          "stake_pct": 11.48,
+          "stake_amount": 114.8
+        },
         "Arsenal": {
           "bookmaker": "1xBet",
           "odds": 1.44,
@@ -124,16 +130,10 @@
           "odds": 5.5,
           "stake_pct": 18.37,
           "stake_amount": 183.67
-        },
-        "Leeds United": {
-          "bookmaker": "Smarkets",
-          "odds": 8.8,
-          "stake_pct": 11.48,
-          "stake_amount": 114.8
         }
       },
       "num_bookmakers": 39,
-      "found_at": "2026-10-02T21:11:18.970057+00:00"
+      "found_at": "2026-10-03T01:45:49.549640+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -145,6 +145,12 @@
       "margin_pct": 0.982,
       "guaranteed_profit": 9.82,
       "stakes": {
+        "Valencia": {
+          "bookmaker": "Betfair",
+          "odds": 3.4,
+          "stake_pct": 29.7,
+          "stake_amount": 297.04
+        },
         "Real Racing Club de Santander": {
           "bookmaker": "1xBet",
           "odds": 2.31,
@@ -156,19 +162,33 @@
           "odds": 3.8,
           "stake_pct": 26.58,
           "stake_amount": 265.77
-        },
-        "Valencia": {
-          "bookmaker": "Betfair",
-          "odds": 3.4,
-          "stake_pct": 29.7,
-          "stake_amount": 297.04
         }
       },
       "num_bookmakers": 36,
-      "found_at": "2026-10-02T21:11:18.973419+00:00"
+      "found_at": "2026-10-03T01:45:49.555374+00:00"
     }
   ],
   "value_bets": [
+    {
+      "type": "VALUE_BET",
+      "event_id": "b077aa049133c0358bcd643bfee48da3",
+      "league": "Ligue 1 - France",
+      "match": "Troyes vs RC Lens",
+      "commence": "2026-10-17T18:45:00Z",
+      "market": "h2h",
+      "outcome": "Troyes",
+      "bookmaker": "1xBet",
+      "odds": 4.3,
+      "fair_odds": 3.938,
+      "true_prob_pct": 25.4,
+      "implied_prob_pct": 23.26,
+      "edge_pct": 9.2,
+      "kelly_stake_pct": 0.7,
+      "suggested_stake": 6.97,
+      "expected_value": 9.2,
+      "confidence": "ALTA",
+      "found_at": "2026-10-03T01:45:49.559979+00:00"
+    },
     {
       "type": "VALUE_BET",
       "event_id": "b03dd3e42a0894b49f11ac599d2eb3b1",
@@ -179,15 +199,15 @@
       "outcome": "Draw",
       "bookmaker": "Marathon Bet",
       "odds": 5.0,
-      "fair_odds": 4.564,
-      "true_prob_pct": 21.91,
+      "fair_odds": 4.58,
+      "true_prob_pct": 21.83,
       "implied_prob_pct": 20.0,
-      "edge_pct": 9.54,
-      "kelly_stake_pct": 0.6,
-      "suggested_stake": 5.96,
-      "expected_value": 9.54,
+      "edge_pct": 9.17,
+      "kelly_stake_pct": 0.57,
+      "suggested_stake": 5.73,
+      "expected_value": 9.17,
       "confidence": "ALTA",
-      "found_at": "2026-10-02T21:11:18.978778+00:00"
+      "found_at": "2026-10-03T01:45:49.564536+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -199,35 +219,15 @@
       "outcome": "Draw",
       "bookmaker": "Betfred (UK)",
       "odds": 5.0,
-      "fair_odds": 4.564,
-      "true_prob_pct": 21.91,
+      "fair_odds": 4.58,
+      "true_prob_pct": 21.83,
       "implied_prob_pct": 20.0,
-      "edge_pct": 9.54,
-      "kelly_stake_pct": 0.6,
-      "suggested_stake": 5.96,
-      "expected_value": 9.54,
+      "edge_pct": 9.17,
+      "kelly_stake_pct": 0.57,
+      "suggested_stake": 5.73,
+      "expected_value": 9.17,
       "confidence": "ALTA",
-      "found_at": "2026-10-02T21:11:18.978787+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "b077aa049133c0358bcd643bfee48da3",
-      "league": "Ligue 1 - France",
-      "match": "Troyes vs RC Lens",
-      "commence": "2026-10-17T18:45:00Z",
-      "market": "h2h",
-      "outcome": "Troyes",
-      "bookmaker": "1xBet",
-      "odds": 4.3,
-      "fair_odds": 3.927,
-      "true_prob_pct": 25.47,
-      "implied_prob_pct": 23.26,
-      "edge_pct": 9.5,
-      "kelly_stake_pct": 0.72,
-      "suggested_stake": 7.2,
-      "expected_value": 9.5,
-      "confidence": "ALTA",
-      "found_at": "2026-10-02T21:11:18.976103+00:00"
+      "found_at": "2026-10-03T01:45:49.564549+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -239,35 +239,75 @@
       "outcome": "Draw",
       "bookmaker": "Pinnacle",
       "odds": 4.95,
-      "fair_odds": 4.564,
-      "true_prob_pct": 21.91,
+      "fair_odds": 4.58,
+      "true_prob_pct": 21.83,
       "implied_prob_pct": 20.2,
-      "edge_pct": 8.45,
-      "kelly_stake_pct": 0.53,
-      "suggested_stake": 5.35,
-      "expected_value": 8.45,
+      "edge_pct": 8.08,
+      "kelly_stake_pct": 0.51,
+      "suggested_stake": 5.11,
+      "expected_value": 8.08,
       "confidence": "ALTA",
-      "found_at": "2026-10-02T21:11:18.978770+00:00"
+      "found_at": "2026-10-03T01:45:49.564521+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "b03dd3e42a0894b49f11ac599d2eb3b1",
+      "event_id": "c3923b733e33ae8ebd1f024cd5312d1e",
       "league": "UEFA Europa League",
-      "match": "Jagiellonia Białystok vs FC Ararat-Armenia",
-      "commence": "2026-10-15T19:00:00Z",
+      "match": "Lech Poznań vs Bayer Leverkusen",
+      "commence": "2026-10-15T16:45:00Z",
+      "market": "h2h",
+      "outcome": "Lech Poznań",
+      "bookmaker": "Nordic Bet",
+      "odds": 4.75,
+      "fair_odds": 4.407,
+      "true_prob_pct": 22.69,
+      "implied_prob_pct": 21.05,
+      "edge_pct": 7.79,
+      "kelly_stake_pct": 0.52,
+      "suggested_stake": 5.19,
+      "expected_value": 7.79,
+      "confidence": "MEDIA",
+      "found_at": "2026-10-03T01:45:49.563244+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "c3923b733e33ae8ebd1f024cd5312d1e",
+      "league": "UEFA Europa League",
+      "match": "Lech Poznań vs Bayer Leverkusen",
+      "commence": "2026-10-15T16:45:00Z",
+      "market": "h2h",
+      "outcome": "Lech Poznań",
+      "bookmaker": "Coolbet",
+      "odds": 4.75,
+      "fair_odds": 4.407,
+      "true_prob_pct": 22.69,
+      "implied_prob_pct": 21.05,
+      "edge_pct": 7.79,
+      "kelly_stake_pct": 0.52,
+      "suggested_stake": 5.19,
+      "expected_value": 7.79,
+      "confidence": "MEDIA",
+      "found_at": "2026-10-03T01:45:49.563280+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "c3923b733e33ae8ebd1f024cd5312d1e",
+      "league": "UEFA Europa League",
+      "match": "Lech Poznań vs Bayer Leverkusen",
+      "commence": "2026-10-15T16:45:00Z",
       "market": "h2h",
       "outcome": "Draw",
-      "bookmaker": "Winamax (DE)",
-      "odds": 4.9,
-      "fair_odds": 4.564,
-      "true_prob_pct": 21.91,
-      "implied_prob_pct": 20.41,
-      "edge_pct": 7.35,
-      "kelly_stake_pct": 0.47,
-      "suggested_stake": 4.71,
-      "expected_value": 7.35,
+      "bookmaker": "1xBet",
+      "odds": 4.46,
+      "fair_odds": 4.163,
+      "true_prob_pct": 24.02,
+      "implied_prob_pct": 22.42,
+      "edge_pct": 7.14,
+      "kelly_stake_pct": 0.52,
+      "suggested_stake": 5.16,
+      "expected_value": 7.14,
       "confidence": "MEDIA",
-      "found_at": "2026-10-02T21:11:18.978765+00:00"
+      "found_at": "2026-10-03T01:45:49.563172+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -279,95 +319,55 @@
       "outcome": "Draw",
       "bookmaker": "1xBet",
       "odds": 4.37,
-      "fair_odds": 4.079,
-      "true_prob_pct": 24.52,
+      "fair_odds": 4.083,
+      "true_prob_pct": 24.49,
       "implied_prob_pct": 22.88,
-      "edge_pct": 7.14,
-      "kelly_stake_pct": 0.53,
-      "suggested_stake": 5.3,
-      "expected_value": 7.14,
+      "edge_pct": 7.04,
+      "kelly_stake_pct": 0.52,
+      "suggested_stake": 5.22,
+      "expected_value": 7.04,
       "confidence": "MEDIA",
-      "found_at": "2026-10-02T21:11:18.975986+00:00"
+      "found_at": "2026-10-03T01:45:49.559789+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "946716d7e5e52822f08be8cb95193d9d",
-      "league": "Serie A - Italy",
-      "match": "Lecce vs Bologna",
-      "commence": "2026-10-11T13:00:00Z",
+      "event_id": "b03dd3e42a0894b49f11ac599d2eb3b1",
+      "league": "UEFA Europa League",
+      "match": "Jagiellonia Białystok vs FC Ararat-Armenia",
+      "commence": "2026-10-15T19:00:00Z",
       "market": "h2h",
-      "outcome": "Lecce",
-      "bookmaker": "Pinnacle",
-      "odds": 4.61,
-      "fair_odds": 4.303,
-      "true_prob_pct": 23.24,
-      "implied_prob_pct": 21.69,
-      "edge_pct": 7.13,
-      "kelly_stake_pct": 0.49,
-      "suggested_stake": 4.94,
-      "expected_value": 7.13,
+      "outcome": "Draw",
+      "bookmaker": "Winamax (DE)",
+      "odds": 4.9,
+      "fair_odds": 4.58,
+      "true_prob_pct": 21.83,
+      "implied_prob_pct": 20.41,
+      "edge_pct": 6.99,
+      "kelly_stake_pct": 0.45,
+      "suggested_stake": 4.48,
+      "expected_value": 6.99,
       "confidence": "MEDIA",
-      "found_at": "2026-10-02T21:11:18.971871+00:00"
+      "found_at": "2026-10-03T01:45:49.564514+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "b077aa049133c0358bcd643bfee48da3",
-      "league": "Ligue 1 - France",
-      "match": "Troyes vs RC Lens",
-      "commence": "2026-10-17T18:45:00Z",
+      "event_id": "c3923b733e33ae8ebd1f024cd5312d1e",
+      "league": "UEFA Europa League",
+      "match": "Lech Poznań vs Bayer Leverkusen",
+      "commence": "2026-10-15T16:45:00Z",
       "market": "h2h",
-      "outcome": "Troyes",
-      "bookmaker": "Marathon Bet",
-      "odds": 4.2,
-      "fair_odds": 3.927,
-      "true_prob_pct": 25.47,
-      "implied_prob_pct": 23.81,
-      "edge_pct": 6.96,
-      "kelly_stake_pct": 0.54,
-      "suggested_stake": 5.44,
-      "expected_value": 6.96,
+      "outcome": "Lech Poznań",
+      "bookmaker": "1xBet",
+      "odds": 4.71,
+      "fair_odds": 4.407,
+      "true_prob_pct": 22.69,
+      "implied_prob_pct": 21.23,
+      "edge_pct": 6.88,
+      "kelly_stake_pct": 0.46,
+      "suggested_stake": 4.64,
+      "expected_value": 6.88,
       "confidence": "MEDIA",
-      "found_at": "2026-10-02T21:11:18.976106+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "b077aa049133c0358bcd643bfee48da3",
-      "league": "Ligue 1 - France",
-      "match": "Troyes vs RC Lens",
-      "commence": "2026-10-17T18:45:00Z",
-      "market": "h2h",
-      "outcome": "Troyes",
-      "bookmaker": "LeoVegas (SE)",
-      "odds": 4.2,
-      "fair_odds": 3.927,
-      "true_prob_pct": 25.47,
-      "implied_prob_pct": 23.81,
-      "edge_pct": 6.96,
-      "kelly_stake_pct": 0.54,
-      "suggested_stake": 5.44,
-      "expected_value": 6.96,
-      "confidence": "MEDIA",
-      "found_at": "2026-10-02T21:11:18.976110+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "b077aa049133c0358bcd643bfee48da3",
-      "league": "Ligue 1 - France",
-      "match": "Troyes vs RC Lens",
-      "commence": "2026-10-17T18:45:00Z",
-      "market": "h2h",
-      "outcome": "Troyes",
-      "bookmaker": "Unibet (SE)",
-      "odds": 4.2,
-      "fair_odds": 3.927,
-      "true_prob_pct": 25.47,
-      "implied_prob_pct": 23.81,
-      "edge_pct": 6.96,
-      "kelly_stake_pct": 0.54,
-      "suggested_stake": 5.44,
-      "expected_value": 6.96,
-      "confidence": "MEDIA",
-      "found_at": "2026-10-02T21:11:18.976114+00:00"
+      "found_at": "2026-10-03T01:45:49.563216+00:00"
     }
   ]
 }
