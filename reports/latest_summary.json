@@ -1,76 +1,12 @@
 {
-  "timestamp": "2026-11-01 01:54 UTC",
+  "timestamp": "2026-11-01 14:46 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
-  "arbitrages_found": 27,
-  "value_bets_found": 54,
-  "best_arb_margin": 2.732,
-  "best_value_edge": 10.7,
+  "arbitrages_found": 29,
+  "value_bets_found": 64,
+  "best_arb_margin": 2.622,
+  "best_value_edge": 232.78,
   "arbitrages": [
-    {
-      "type": "ARBITRAGE",
-      "event_id": "bc4a4cc34a2219d9564b7b0c17ba2934",
-      "league": "UEFA Europa League",
-      "match": "Benfica vs Lech Poznań",
-      "commence": "2026-11-05T20:00:00Z",
-      "market": "h2h",
-      "margin_pct": 2.732,
-      "guaranteed_profit": 27.32,
-      "stakes": {
-        "Draw": {
-          "bookmaker": "Nordic Bet",
-          "odds": 8.7,
-          "stake_pct": 11.82,
-          "stake_amount": 118.17
-        },
-        "Benfica": {
-          "bookmaker": "1xBet",
-          "odds": 1.24,
-          "stake_pct": 82.91,
-          "stake_amount": 829.11
-        },
-        "Lech Poznań": {
-          "bookmaker": "Nordic Bet",
-          "odds": 19.5,
-          "stake_pct": 5.27,
-          "stake_amount": 52.72
-        }
-      },
-      "num_bookmakers": 36,
-      "found_at": "2026-11-01T01:54:55.422478+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "9b8076d3ffa027df6f6cb3189de46706",
-      "league": "UEFA Champions League",
-      "match": "Galatasaray vs VfB Stuttgart",
-      "commence": "2026-11-03T17:45:00Z",
-      "market": "h2h",
-      "margin_pct": 2.08,
-      "guaranteed_profit": 20.8,
-      "stakes": {
-        "Draw": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 4.3,
-          "stake_pct": 23.75,
-          "stake_amount": 237.5
-        },
-        "VfB Stuttgart": {
-          "bookmaker": "Betfair",
-          "odds": 3.15,
-          "stake_pct": 32.42,
-          "stake_amount": 324.2
-        },
-        "Galatasaray": {
-          "bookmaker": "1xBet",
-          "odds": 2.33,
-          "stake_pct": 43.83,
-          "stake_amount": 438.3
-        }
-      },
-      "num_bookmakers": 38,
-      "found_at": "2026-11-01T01:54:55.418226+00:00"
-    },
     {
       "type": "ARBITRAGE",
       "event_id": "6c520ed959578ca3aebe351ee3765d53",
@@ -78,97 +14,281 @@
       "match": "Real Racing Club de Santander vs Real Madrid",
       "commence": "2026-11-01T15:15:00Z",
       "market": "h2h",
-      "margin_pct": 2.073,
-      "guaranteed_profit": 20.73,
+      "margin_pct": 2.622,
+      "guaranteed_profit": 26.22,
       "stakes": {
-        "Draw": {
-          "bookmaker": "Betfair",
-          "odds": 9.2,
-          "stake_pct": 11.1,
-          "stake_amount": 111.0
-        },
-        "Real Racing Club de Santander": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 13.0,
-          "stake_pct": 7.86,
-          "stake_amount": 78.55
-        },
         "Real Madrid": {
           "bookmaker": "1xBet",
           "odds": 1.26,
-          "stake_pct": 81.05,
-          "stake_amount": 810.45
+          "stake_pct": 81.5,
+          "stake_amount": 815.02
+        },
+        "Draw": {
+          "bookmaker": "Betfair",
+          "odds": 9.2,
+          "stake_pct": 11.16,
+          "stake_amount": 111.62
+        },
+        "Real Racing Club de Santander": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 14.0,
+          "stake_pct": 7.34,
+          "stake_amount": 73.35
         }
       },
       "num_bookmakers": 39,
-      "found_at": "2026-11-01T01:54:55.413047+00:00"
+      "found_at": "2026-11-01T14:46:55.473885+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "f6f3cf01c2b20b7f746b5a06097a0569",
+      "event_id": "bc4a4cc34a2219d9564b7b0c17ba2934",
+      "league": "UEFA Europa League",
+      "match": "Benfica vs Lech Poznań",
+      "commence": "2026-11-05T20:00:00Z",
+      "market": "h2h",
+      "margin_pct": 2.277,
+      "guaranteed_profit": 22.77,
+      "stakes": {
+        "Benfica": {
+          "bookmaker": "1xBet",
+          "odds": 1.24,
+          "stake_pct": 82.52,
+          "stake_amount": 825.24
+        },
+        "Lech Poznań": {
+          "bookmaker": "Betfair",
+          "odds": 17.5,
+          "stake_pct": 5.85,
+          "stake_amount": 58.47
+        },
+        "Draw": {
+          "bookmaker": "Smarkets",
+          "odds": 8.8,
+          "stake_pct": 11.63,
+          "stake_amount": 116.28
+        }
+      },
+      "num_bookmakers": 36,
+      "found_at": "2026-11-01T14:46:55.483632+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "f43ef699c987e112e115f7035114854e",
       "league": "UEFA Champions League",
-      "match": "Feyenoord vs Inter Milan",
+      "match": "AEK Athens vs Real Madrid",
+      "commence": "2026-11-04T17:45:00Z",
+      "market": "h2h",
+      "margin_pct": 2.185,
+      "guaranteed_profit": 21.85,
+      "stakes": {
+        "Real Madrid": {
+          "bookmaker": "GTbets",
+          "odds": 1.36,
+          "stake_pct": 75.17,
+          "stake_amount": 751.72
+        },
+        "Draw": {
+          "bookmaker": "Matchbook",
+          "odds": 7.0,
+          "stake_pct": 14.6,
+          "stake_amount": 146.05
+        },
+        "AEK Athens": {
+          "bookmaker": "Matchbook",
+          "odds": 10.0,
+          "stake_pct": 10.22,
+          "stake_amount": 102.23
+        }
+      },
+      "num_bookmakers": 37,
+      "found_at": "2026-11-01T14:46:55.480672+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "b7b781db85506536dce5e7ce59a59863",
+      "league": "Serie A - Italy",
+      "match": "Frosinone vs Torino",
+      "commence": "2026-11-01T14:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.868,
+      "guaranteed_profit": 18.68,
+      "stakes": {
+        "Torino": {
+          "bookmaker": "Pinnacle",
+          "odds": 3.72,
+          "stake_pct": 27.39,
+          "stake_amount": 273.94
+        },
+        "Draw": {
+          "bookmaker": "Betfair",
+          "odds": 3.2,
+          "stake_pct": 31.84,
+          "stake_amount": 318.45
+        },
+        "Frosinone": {
+          "bookmaker": "Betfair",
+          "odds": 2.5,
+          "stake_pct": 40.76,
+          "stake_amount": 407.62
+        }
+      },
+      "num_bookmakers": 34,
+      "found_at": "2026-11-01T14:46:55.471695+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "adf608a0e9be02eb1d8b0a6f464a12b1",
+      "league": "UEFA Champions League",
+      "match": "LASK vs ŠK Slovan Bratislava",
       "commence": "2026-11-03T20:00:00Z",
       "market": "h2h",
-      "margin_pct": 1.891,
-      "guaranteed_profit": 18.91,
+      "margin_pct": 1.481,
+      "guaranteed_profit": 14.81,
       "stakes": {
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 4.51,
-          "stake_pct": 22.6,
-          "stake_amount": 226.0
+        "ŠK Slovan Bratislava": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 7.5,
+          "stake_pct": 13.53,
+          "stake_amount": 135.34
         },
-        "Feyenoord": {
-          "bookmaker": "1xBet",
-          "odds": 4.51,
-          "stake_pct": 22.6,
-          "stake_amount": 226.0
-        },
-        "Inter Milan": {
-          "bookmaker": "Smarkets",
-          "odds": 1.86,
-          "stake_pct": 54.8,
-          "stake_amount": 548.0
-        }
-      },
-      "num_bookmakers": 38,
-      "found_at": "2026-11-01T01:54:55.419183+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "716d6e3f3e91c47a6efaa2e93d570533",
-      "league": "Bundesliga - Germany",
-      "match": "VfB Stuttgart vs Werder Bremen",
-      "commence": "2026-11-07T17:30:00Z",
-      "market": "h2h",
-      "margin_pct": 1.677,
-      "guaranteed_profit": 16.77,
-      "stakes": {
         "Draw": {
           "bookmaker": "Unibet (SE)",
-          "odds": 5.5,
-          "stake_pct": 18.49,
-          "stake_amount": 184.92
+          "odds": 5.4,
+          "stake_pct": 18.8,
+          "stake_amount": 187.97
         },
-        "VfB Stuttgart": {
-          "bookmaker": "Betfair",
-          "odds": 1.55,
-          "stake_pct": 65.62,
-          "stake_amount": 656.17
-        },
-        "Werder Bremen": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 6.4,
-          "stake_pct": 15.89,
-          "stake_amount": 158.92
+        "LASK": {
+          "bookmaker": "1xBet",
+          "odds": 1.5,
+          "stake_pct": 67.67,
+          "stake_amount": 676.69
         }
       },
-      "num_bookmakers": 38,
-      "found_at": "2026-11-01T01:54:55.415896+00:00"
+      "num_bookmakers": 37,
+      "found_at": "2026-11-01T14:46:55.480359+00:00"
     }
   ],
   "value_bets": [
+    {
+      "type": "VALUE_BET",
+      "event_id": "ddcc9a51a2d7368e055d1abefacdb74e",
+      "league": "La Liga - Spain",
+      "match": "Getafe vs Sevilla",
+      "commence": "2026-11-01T13:00:00Z",
+      "market": "h2h",
+      "outcome": "Getafe",
+      "bookmaker": "Unibet (FR)",
+      "odds": 4.65,
+      "fair_odds": 1.397,
+      "true_prob_pct": 71.57,
+      "implied_prob_pct": 21.51,
+      "edge_pct": 232.78,
+      "kelly_stake_pct": 5.0,
+      "suggested_stake": 50.0,
+      "expected_value": 232.78,
+      "confidence": "ALTA",
+      "found_at": "2026-11-01T14:46:55.473796+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "448a1083448ea9dff55bfebf15ff20b4",
+      "league": "Ligue 1 - France",
+      "match": "Strasbourg vs Auxerre",
+      "commence": "2026-11-01T14:00:00Z",
+      "market": "h2h",
+      "outcome": "Strasbourg",
+      "bookmaker": "Pinnacle",
+      "odds": 2.2,
+      "fair_odds": 1.425,
+      "true_prob_pct": 70.16,
+      "implied_prob_pct": 45.45,
+      "edge_pct": 54.36,
+      "kelly_stake_pct": 5.0,
+      "suggested_stake": 50.0,
+      "expected_value": 54.36,
+      "confidence": "ALTA",
+      "found_at": "2026-11-01T14:46:55.477524+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "60eaeb599578cd5c951f917c4fef06ff",
+      "league": "Bundesliga - Germany",
+      "match": "Union Berlin vs 1. FC Köln",
+      "commence": "2026-11-01T14:30:00Z",
+      "market": "h2h",
+      "outcome": "Union Berlin",
+      "bookmaker": "Codere (IT)",
+      "odds": 2.7,
+      "fair_odds": 1.827,
+      "true_prob_pct": 54.75,
+      "implied_prob_pct": 37.04,
+      "edge_pct": 47.82,
+      "kelly_stake_pct": 5.0,
+      "suggested_stake": 50.0,
+      "expected_value": 47.82,
+      "confidence": "ALTA",
+      "found_at": "2026-11-01T14:46:55.475913+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "60eaeb599578cd5c951f917c4fef06ff",
+      "league": "Bundesliga - Germany",
+      "match": "Union Berlin vs 1. FC Köln",
+      "commence": "2026-11-01T14:30:00Z",
+      "market": "h2h",
+      "outcome": "Union Berlin",
+      "bookmaker": "Pinnacle",
+      "odds": 2.68,
+      "fair_odds": 1.827,
+      "true_prob_pct": 54.75,
+      "implied_prob_pct": 37.31,
+      "edge_pct": 46.72,
+      "kelly_stake_pct": 5.0,
+      "suggested_stake": 50.0,
+      "expected_value": 46.72,
+      "confidence": "ALTA",
+      "found_at": "2026-11-01T14:46:55.475896+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "60eaeb599578cd5c951f917c4fef06ff",
+      "league": "Bundesliga - Germany",
+      "match": "Union Berlin vs 1. FC Köln",
+      "commence": "2026-11-01T14:30:00Z",
+      "market": "h2h",
+      "outcome": "Union Berlin",
+      "bookmaker": "William Hill",
+      "odds": 2.62,
+      "fair_odds": 1.827,
+      "true_prob_pct": 54.75,
+      "implied_prob_pct": 38.17,
+      "edge_pct": 43.44,
+      "kelly_stake_pct": 5.0,
+      "suggested_stake": 50.0,
+      "expected_value": 43.44,
+      "confidence": "ALTA",
+      "found_at": "2026-11-01T14:46:55.475905+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "448a1083448ea9dff55bfebf15ff20b4",
+      "league": "Ligue 1 - France",
+      "match": "Strasbourg vs Auxerre",
+      "commence": "2026-11-01T14:00:00Z",
+      "market": "h2h",
+      "outcome": "Strasbourg",
+      "bookmaker": "Unibet (FR)",
+      "odds": 1.9,
+      "fair_odds": 1.425,
+      "true_prob_pct": 70.16,
+      "implied_prob_pct": 52.63,
+      "edge_pct": 33.31,
+      "kelly_stake_pct": 5.0,
+      "suggested_stake": 50.0,
+      "expected_value": 33.31,
+      "confidence": "ALTA",
+      "found_at": "2026-11-01T14:46:55.477533+00:00"
+    },
     {
       "type": "VALUE_BET",
       "event_id": "c1b9696d88719cb8832d794b986cdd68",
@@ -179,35 +299,15 @@
       "outcome": "Draw",
       "bookmaker": "Unibet (SE)",
       "odds": 4.9,
-      "fair_odds": 4.427,
-      "true_prob_pct": 22.59,
+      "fair_odds": 4.405,
+      "true_prob_pct": 22.7,
       "implied_prob_pct": 20.41,
-      "edge_pct": 10.7,
-      "kelly_stake_pct": 0.69,
-      "suggested_stake": 6.86,
-      "expected_value": 10.7,
+      "edge_pct": 11.24,
+      "kelly_stake_pct": 0.72,
+      "suggested_stake": 7.2,
+      "expected_value": 11.24,
       "confidence": "ALTA",
-      "found_at": "2026-11-01T01:54:55.416254+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "c1b9696d88719cb8832d794b986cdd68",
-      "league": "Bundesliga - Germany",
-      "match": "SC Freiburg vs Union Berlin",
-      "commence": "2026-11-08T16:30:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "Unibet (NL)",
-      "odds": 4.9,
-      "fair_odds": 4.427,
-      "true_prob_pct": 22.59,
-      "implied_prob_pct": 20.41,
-      "edge_pct": 10.7,
-      "kelly_stake_pct": 0.69,
-      "suggested_stake": 6.86,
-      "expected_value": 10.7,
-      "confidence": "ALTA",
-      "found_at": "2026-11-01T01:54:55.416262+00:00"
+      "found_at": "2026-11-01T14:46:55.477253+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -219,15 +319,15 @@
       "outcome": "Draw",
       "bookmaker": "1xBet",
       "odds": 4.83,
-      "fair_odds": 4.427,
-      "true_prob_pct": 22.59,
+      "fair_odds": 4.405,
+      "true_prob_pct": 22.7,
       "implied_prob_pct": 20.7,
-      "edge_pct": 9.11,
-      "kelly_stake_pct": 0.59,
-      "suggested_stake": 5.95,
-      "expected_value": 9.11,
+      "edge_pct": 9.65,
+      "kelly_stake_pct": 0.63,
+      "suggested_stake": 6.3,
+      "expected_value": 9.65,
       "confidence": "ALTA",
-      "found_at": "2026-11-01T01:54:55.416213+00:00"
+      "found_at": "2026-11-01T14:46:55.477215+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -239,135 +339,35 @@
       "outcome": "Draw",
       "bookmaker": "Tipico",
       "odds": 4.8,
-      "fair_odds": 4.427,
-      "true_prob_pct": 22.59,
+      "fair_odds": 4.405,
+      "true_prob_pct": 22.7,
       "implied_prob_pct": 20.83,
-      "edge_pct": 8.44,
-      "kelly_stake_pct": 0.56,
-      "suggested_stake": 5.55,
-      "expected_value": 8.44,
+      "edge_pct": 8.97,
+      "kelly_stake_pct": 0.59,
+      "suggested_stake": 5.9,
+      "expected_value": 8.97,
       "confidence": "ALTA",
-      "found_at": "2026-11-01T01:54:55.416241+00:00"
+      "found_at": "2026-11-01T14:46:55.477246+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "c1b9696d88719cb8832d794b986cdd68",
+      "event_id": "60eaeb599578cd5c951f917c4fef06ff",
       "league": "Bundesliga - Germany",
-      "match": "SC Freiburg vs Union Berlin",
-      "commence": "2026-11-08T16:30:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "Marathon Bet",
-      "odds": 4.7,
-      "fair_odds": 4.427,
-      "true_prob_pct": 22.59,
-      "implied_prob_pct": 21.28,
-      "edge_pct": 6.18,
-      "kelly_stake_pct": 0.42,
-      "suggested_stake": 4.17,
-      "expected_value": 6.18,
+      "match": "Union Berlin vs 1. FC Köln",
+      "commence": "2026-11-01T14:30:00Z",
+      "market": "totals",
+      "outcome": "Over 3.5",
+      "bookmaker": "Matchbook",
+      "odds": 2.22,
+      "fair_odds": 2.058,
+      "true_prob_pct": 48.59,
+      "implied_prob_pct": 45.05,
+      "edge_pct": 7.87,
+      "kelly_stake_pct": 1.61,
+      "suggested_stake": 16.13,
+      "expected_value": 7.87,
       "confidence": "MEDIA",
-      "found_at": "2026-11-01T01:54:55.416234+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "402e102fa845ed84ab7e59b3b17f8c29",
-      "league": "UEFA Europa League",
-      "match": "Torreense vs FC Ararat-Armenia",
-      "commence": "2026-11-05T20:00:00Z",
-      "market": "h2h",
-      "outcome": "FC Ararat-Armenia",
-      "bookmaker": "Smarkets",
-      "odds": 5.0,
-      "fair_odds": 4.731,
-      "true_prob_pct": 21.14,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 5.69,
-      "kelly_stake_pct": 0.36,
-      "suggested_stake": 3.56,
-      "expected_value": 5.69,
-      "confidence": "MEDIA",
-      "found_at": "2026-11-01T01:54:55.423074+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "402e102fa845ed84ab7e59b3b17f8c29",
-      "league": "UEFA Europa League",
-      "match": "Torreense vs FC Ararat-Armenia",
-      "commence": "2026-11-05T20:00:00Z",
-      "market": "h2h",
-      "outcome": "FC Ararat-Armenia",
-      "bookmaker": "Betfair",
-      "odds": 5.0,
-      "fair_odds": 4.731,
-      "true_prob_pct": 21.14,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 5.69,
-      "kelly_stake_pct": 0.36,
-      "suggested_stake": 3.56,
-      "expected_value": 5.69,
-      "confidence": "MEDIA",
-      "found_at": "2026-11-01T01:54:55.423084+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "402e102fa845ed84ab7e59b3b17f8c29",
-      "league": "UEFA Europa League",
-      "match": "Torreense vs FC Ararat-Armenia",
-      "commence": "2026-11-05T20:00:00Z",
-      "market": "h2h",
-      "outcome": "FC Ararat-Armenia",
-      "bookmaker": "Betfair",
-      "odds": 5.0,
-      "fair_odds": 4.731,
-      "true_prob_pct": 21.14,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 5.69,
-      "kelly_stake_pct": 0.36,
-      "suggested_stake": 3.56,
-      "expected_value": 5.69,
-      "confidence": "MEDIA",
-      "found_at": "2026-11-01T01:54:55.423090+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "448a1083448ea9dff55bfebf15ff20b4",
-      "league": "Ligue 1 - France",
-      "match": "Strasbourg vs Auxerre",
-      "commence": "2026-11-01T14:00:00Z",
-      "market": "h2h",
-      "outcome": "Auxerre",
-      "bookmaker": "Unibet (SE)",
-      "odds": 4.5,
-      "fair_odds": 4.264,
-      "true_prob_pct": 23.45,
-      "implied_prob_pct": 22.22,
-      "edge_pct": 5.54,
-      "kelly_stake_pct": 0.4,
-      "suggested_stake": 3.96,
-      "expected_value": 5.54,
-      "confidence": "MEDIA",
-      "found_at": "2026-11-01T01:54:55.416552+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "448a1083448ea9dff55bfebf15ff20b4",
-      "league": "Ligue 1 - France",
-      "match": "Strasbourg vs Auxerre",
-      "commence": "2026-11-01T14:00:00Z",
-      "market": "h2h",
-      "outcome": "Auxerre",
-      "bookmaker": "LeoVegas (SE)",
-      "odds": 4.5,
-      "fair_odds": 4.264,
-      "true_prob_pct": 23.45,
-      "implied_prob_pct": 22.22,
-      "edge_pct": 5.54,
-      "kelly_stake_pct": 0.4,
-      "suggested_stake": 3.96,
-      "expected_value": 5.54,
-      "confidence": "MEDIA",
-      "found_at": "2026-11-01T01:54:55.416559+00:00"
+      "found_at": "2026-11-01T14:46:55.475954+00:00"
     }
   ]
 }
