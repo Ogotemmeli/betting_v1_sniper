@@ -1,5 +1,5 @@
 # ⚽ Report v1 Sniper — Solo Calcio
-**Generato:** 2026-11-02 02:08 UTC
+**Generato:** 2026-11-02 17:53 UTC
 **Bankroll:** €1000
 
 ---
@@ -8,238 +8,237 @@
 ### #1 — Benfica vs Lech Poznań
 - **Lega:** UEFA Europa League | **Mercato:** h2h
 - **Inizio:** 2026-11-05T20:00:00Z
-- **Margine:** 3.36% (€33.57)
+- **Margine:** 2.49% (€24.88)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Benfica | 1xBet | 1.24 | 83.5% | €834.47 |
-| Draw | Smarkets | 9.20 | 11.2% | €112.47 |
-| Lech Poznań | Nordic Bet | 19.50 | 5.3% | €53.06 |
+| Benfica | 1xBet | 1.22 | 84.1% | €840.59 |
+| Lech Poznań | Nordic Bet | 19.50 | 5.3% | €52.59 |
+| Draw | Smarkets | 9.60 | 10.7% | €106.82 |
 
-### #2 — Napoli vs Lazio
-- **Lega:** Serie A - Italy | **Mercato:** h2h
-- **Inizio:** 2026-11-08T11:30:00Z
-- **Margine:** 2.45% (€24.47)
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Napoli | Smarkets | 2.18 | 47.0% | €470.22 |
-| Draw | 1xBet | 3.89 | 26.4% | €263.52 |
-| Lazio | Unibet (SE) | 3.85 | 26.6% | €266.26 |
-
-### #3 — LASK vs ŠK Slovan Bratislava
-- **Lega:** UEFA Champions League | **Mercato:** h2h
-- **Inizio:** 2026-11-03T20:00:00Z
-- **Margine:** 1.48% (€14.81)
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| LASK | 1xBet | 1.50 | 67.7% | €676.69 |
-| Draw | Smarkets | 5.40 | 18.8% | €187.97 |
-| ŠK Slovan Bratislava | Unibet (SE) | 7.50 | 13.5% | €135.34 |
-
-### #4 — Angers vs Nice
-- **Lega:** Ligue 1 - France | **Mercato:** h2h
-- **Inizio:** 2026-11-08T16:15:00Z
-- **Margine:** 1.48% (€14.77)
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Nice | Unibet (SE) | 2.20 | 46.1% | €461.36 |
-| Draw | 1xBet | 3.84 | 26.4% | €264.32 |
-| Angers | Tipico | 3.70 | 27.4% | €274.32 |
-
-### #5 — Porto vs Napoli
-- **Lega:** UEFA Champions League | **Mercato:** h2h
-- **Inizio:** 2026-11-04T20:00:00Z
-- **Margine:** 1.40% (€13.96)
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Napoli | Smarkets | 3.75 | 27.0% | €270.44 |
-| Draw | Smarkets | 3.90 | 26.0% | €260.04 |
-| Porto | Unibet (SE) | 2.16 | 47.0% | €469.52 |
-
-### #6 — Barcelona vs Aston Villa
-- **Lega:** UEFA Champions League | **Mercato:** h2h
-- **Inizio:** 2026-11-03T20:00:00Z
-- **Margine:** 1.28% (€12.85)
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Aston Villa | 1xBet | 11.50 | 8.8% | €88.09 |
-| Draw | Smarkets | 8.00 | 12.7% | €126.63 |
-| Barcelona | GTbets | 1.29 | 78.5% | €785.28 |
-
-### #7 — Shakhtar Donetsk vs Sporting Lisbon
-- **Lega:** UEFA Champions League | **Mercato:** h2h
-- **Inizio:** 2026-11-03T17:45:00Z
-- **Margine:** 1.03% (€10.30)
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Shakhtar Donetsk | 1xBet | 3.90 | 25.9% | €259.08 |
-| Draw | 1xBet | 3.96 | 25.5% | €255.15 |
-| Sporting Lisbon | Betfair | 2.08 | 48.6% | €485.77 |
-
-### #8 — Fulham vs Newcastle United
-- **Lega:** EPL | **Mercato:** h2h
-- **Inizio:** 2026-11-07T15:00:00Z
-- **Margine:** 0.94% (€9.42)
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Draw | 1xBet | 3.84 | 26.3% | €262.89 |
-| Newcastle United | Betfair | 3.50 | 28.8% | €288.43 |
-| Fulham | 1xBet | 2.25 | 44.9% | €448.67 |
-
-### #9 — FSV Mainz 05 vs Bayern Munich
+### #2 — FSV Mainz 05 vs Bayern Munich
 - **Lega:** Bundesliga - Germany | **Mercato:** h2h
 - **Inizio:** 2026-11-07T14:30:00Z
-- **Margine:** 0.91% (€9.11)
+- **Margine:** 1.94% (€19.43)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Draw | BetOnline.ag | 6.25 | 16.1% | €161.47 |
-| FSV Mainz 05 | 1xBet | 6.26 | 16.1% | €161.21 |
-| Bayern Munich | Unibet (SE) | 1.49 | 67.7% | €677.31 |
+| FSV Mainz 05 | 1xBet | 6.52 | 15.6% | €156.41 |
+| Bayern Munich | Unibet (SE) | 1.48 | 68.9% | €689.07 |
+| Draw | Smarkets | 6.60 | 15.4% | €154.52 |
 
-### #10 — Sevilla vs Alavés
+### #3 — Valencia vs Real Madrid
+- **Lega:** La Liga - Spain | **Mercato:** h2h
+- **Inizio:** 2026-11-07T20:00:00Z
+- **Margine:** 1.56% (€15.61)
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Valencia | Betsson | 9.80 | 10.4% | €103.66 |
+| Real Madrid | 1xBet | 1.36 | 74.7% | €746.95 |
+| Draw | Matchbook | 6.80 | 14.9% | €149.39 |
+
+### #4 — Celtic vs Besiktas JK
+- **Lega:** UEFA Europa League | **Mercato:** h2h
+- **Inizio:** 2026-11-05T20:00:00Z
+- **Margine:** 1.55% (€15.50)
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Celtic | Nordic Bet | 3.25 | 31.2% | €312.54 |
+| Besiktas JK | 1xBet | 2.31 | 44.0% | €439.72 |
+| Draw | Smarkets | 4.10 | 24.8% | €247.74 |
+
+### #5 — Barcelona vs Aston Villa
+- **Lega:** UEFA Champions League | **Mercato:** h2h
+- **Inizio:** 2026-11-03T20:00:00Z
+- **Margine:** 1.51% (€15.14)
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Draw | Betfair | 8.20 | 12.4% | €123.83 |
+| Barcelona | GTbets | 1.29 | 78.7% | €787.11 |
+| Aston Villa | 1xBet | 11.40 | 8.9% | €89.07 |
+
+### #6 — LASK vs ŠK Slovan Bratislava
+- **Lega:** UEFA Champions League | **Mercato:** h2h
+- **Inizio:** 2026-11-03T20:00:00Z
+- **Margine:** 1.27% (€12.71)
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| LASK | 1xBet | 1.47 | 68.9% | €689.03 |
+| ŠK Slovan Bratislava | Smarkets | 7.60 | 13.3% | €133.27 |
+| Draw | Smarkets | 5.70 | 17.8% | €177.70 |
+
+### #7 — Sevilla vs Alavés
 - **Lega:** La Liga - Spain | **Mercato:** h2h
 - **Inizio:** 2026-11-06T20:00:00Z
-- **Margine:** 0.91% (€9.09)
+- **Margine:** 0.99% (€9.90)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Alavés | Smarkets | 4.60 | 21.9% | €219.39 |
-| Draw | Smarkets | 3.50 | 28.8% | €288.34 |
-| Sevilla | 1xBet | 2.05 | 49.2% | €492.28 |
+| Alavés | Betfair | 4.60 | 22.0% | €219.57 |
+| Sevilla | 1xBet | 2.05 | 49.3% | €492.68 |
+| Draw | Pinnacle | 3.51 | 28.8% | €287.75 |
 
-### #11 — Borussia Dortmund vs Real Betis
+### #8 — Celta Vigo vs Union Saint-Gilloise
+- **Lega:** UEFA Europa League | **Mercato:** h2h
+- **Inizio:** 2026-11-05T20:00:00Z
+- **Margine:** 0.99% (€9.88)
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Celta Vigo | Betfair | 2.34 | 43.2% | €431.61 |
+| Union Saint-Gilloise | Unibet (NL) | 3.30 | 30.6% | €306.05 |
+| Draw | Coolbet | 3.85 | 26.2% | €262.33 |
+
+### #9 — Sassuolo vs Fiorentina
+- **Lega:** Serie A - Italy | **Mercato:** totals
+- **Inizio:** 2026-11-02T17:30:00Z
+- **Margine:** 0.90% (€9.01)
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Under 2.5 | Pinnacle | 1.85 | 54.5% | €545.45 |
+| Over 2.5 | Matchbook | 2.22 | 45.5% | €454.55 |
+
+### #10 — AEK Athens vs Real Madrid
 - **Lega:** UEFA Champions League | **Mercato:** h2h
-- **Inizio:** 2026-11-04T20:00:00Z
-- **Margine:** 0.88% (€8.84)
+- **Inizio:** 2026-11-04T17:45:00Z
+- **Margine:** 0.87% (€8.68)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Real Betis | Unibet (SE) | 4.80 | 21.0% | €210.19 |
-| Draw | Betfair | 4.40 | 22.9% | €229.30 |
-| Borussia Dortmund | 1xBet | 1.80 | 56.0% | €560.51 |
+| AEK Athens | Matchbook | 11.50 | 8.8% | €87.72 |
+| Real Madrid | 1xBet | 1.30 | 77.6% | €775.96 |
+| Draw | Betfair | 7.40 | 13.6% | €136.32 |
 
-### #12 — Bodø/Glimt vs Lille
+### #11 — Bodø/Glimt vs Lille
 - **Lega:** UEFA Champions League | **Mercato:** h2h
 - **Inizio:** 2026-11-03T20:00:00Z
 - **Margine:** 0.85% (€8.51)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
+| Lille | Smarkets | 4.20 | 24.0% | €240.14 |
 | Bodø/Glimt | 1xBet | 1.92 | 52.5% | €525.31 |
 | Draw | Betfair | 4.30 | 23.5% | €234.55 |
-| Lille | Smarkets | 4.20 | 24.0% | €240.14 |
 
-### #13 — Sunderland vs Chelsea
+### #12 — Brest vs Lyon
+- **Lega:** Ligue 1 - France | **Mercato:** h2h
+- **Inizio:** 2026-11-08T16:15:00Z
+- **Margine:** 0.79% (€7.89)
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Brest | 1xBet | 3.04 | 33.2% | €331.56 |
+| Lyon | LeoVegas (SE) | 2.50 | 40.3% | €403.18 |
+| Draw | 1xBet | 3.80 | 26.5% | €265.25 |
+
+### #13 — Crystal Palace vs Liverpool
 - **Lega:** EPL | **Mercato:** h2h
 - **Inizio:** 2026-11-08T14:00:00Z
-- **Margine:** 0.85% (€8.48)
+- **Margine:** 0.78% (€7.80)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Chelsea | 1xBet | 2.15 | 46.9% | €469.09 |
-| Draw | 1xBet | 3.75 | 26.9% | €268.95 |
-| Sunderland | Unibet (SE) | 3.85 | 26.2% | €261.96 |
+| Liverpool | 1xBet | 1.71 | 58.9% | €589.39 |
+| Crystal Palace | Matchbook | 5.40 | 18.7% | €186.64 |
+| Draw | Smarkets | 4.50 | 22.4% | €223.97 |
 
-### #14 — Valencia vs Real Madrid
-- **Lega:** La Liga - Spain | **Mercato:** h2h
-- **Inizio:** 2026-11-07T20:00:00Z
-- **Margine:** 0.79% (€7.93)
+### #14 — Cagliari vs Frosinone
+- **Lega:** Serie A - Italy | **Mercato:** h2h
+- **Inizio:** 2026-11-07T14:00:00Z
+- **Margine:** 0.64% (€6.35)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Draw | Betfair | 6.60 | 15.3% | €152.73 |
-| Real Madrid | 1xBet | 1.36 | 74.1% | €741.17 |
-| Valencia | Betfred (UK) | 9.50 | 10.6% | €106.10 |
+| Cagliari | Unibet (SE) | 2.85 | 35.3% | €353.12 |
+| Frosinone | Matchbook | 2.62 | 38.4% | €384.12 |
+| Draw | 1xBet | 3.83 | 26.3% | €262.76 |
 
-### #15 — RC Lens vs Como
+### #15 — Feyenoord vs Inter Milan
+- **Lega:** UEFA Champions League | **Mercato:** h2h
+- **Inizio:** 2026-11-03T20:00:00Z
+- **Margine:** 0.62% (€6.19)
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Draw | Smarkets | 4.40 | 22.9% | €228.69 |
+| Feyenoord | 1xBet | 4.07 | 24.7% | €247.23 |
+| Inter Milan | Betfair | 1.92 | 52.4% | €524.08 |
+
+### #16 — RB Leipzig vs Manchester City
 - **Lega:** UEFA Champions League | **Mercato:** h2h
 - **Inizio:** 2026-11-04T20:00:00Z
-- **Margine:** 0.68% (€6.77)
+- **Margine:** 0.60% (€6.00)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Draw | Pinnacle | 4.13 | 24.4% | €243.78 |
-| RC Lens | Betfair | 3.20 | 31.5% | €314.63 |
-| Como | Unibet (SE) | 2.28 | 44.2% | €441.59 |
+| Manchester City | Unibet (NL) | 1.63 | 61.7% | €617.20 |
+| Draw | Smarkets | 5.00 | 20.1% | €201.21 |
+| RB Leipzig | 1xBet | 5.54 | 18.2% | €181.59 |
 
-### #16 — Deportivo La Coruña vs CA Osasuna
-- **Lega:** La Liga - Spain | **Mercato:** h2h
-- **Inizio:** 2026-11-02T20:00:00Z
-- **Margine:** 0.65% (€6.46)
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Deportivo La Coruña | 1xBet | 2.27 | 44.3% | €443.39 |
-| Draw | 1xBet | 3.45 | 29.2% | €291.74 |
-| CA Osasuna | Betfair | 3.80 | 26.5% | €264.87 |
-
-### #17 — Real Sociedad vs Lyon
-- **Lega:** UEFA Europa League | **Mercato:** h2h
-- **Inizio:** 2026-11-05T17:45:00Z
-- **Margine:** 0.57% (€5.67)
+### #17 — Fenerbahce vs Liverpool
+- **Lega:** UEFA Champions League | **Mercato:** h2h
+- **Inizio:** 2026-11-04T17:45:00Z
+- **Margine:** 0.53% (€5.31)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Draw | Betfair | 4.20 | 23.9% | €239.45 |
-| Real Sociedad | Unibet (NL) | 1.93 | 52.1% | €521.09 |
-| Lyon | Nordic Bet | 4.20 | 23.9% | €239.45 |
+| Liverpool | 1xBet | 1.61 | 62.4% | €624.43 |
+| Fenerbahce | Betfair | 5.90 | 17.0% | €170.40 |
+| Draw | Betfair | 4.90 | 20.5% | €205.17 |
 
-### #18 — Borussia Dortmund vs Elversberg
-- **Lega:** Bundesliga - Germany | **Mercato:** h2h
-- **Inizio:** 2026-11-07T14:30:00Z
+### #18 — Villarreal vs Paris Saint Germain
+- **Lega:** UEFA Champions League | **Mercato:** h2h
+- **Inizio:** 2026-11-03T20:00:00Z
 - **Margine:** 0.53% (€5.26)
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Draw | Tipico | 7.00 | 14.4% | €143.61 |
-| Elversberg | Betfred (UK) | 10.00 | 10.1% | €100.53 |
-| Borussia Dortmund | Unibet (SE) | 1.33 | 75.6% | €755.86 |
+| Villarreal | Unibet (NL) | 5.30 | 19.0% | €189.68 |
+| Paris Saint Germain | GTbets | 1.65 | 60.9% | €609.27 |
+| Draw | Betfair | 5.00 | 20.1% | €201.06 |
 
 ---
 ## 📈 Value Bet
 
 | # | Match | Esito | Book | Quota | Fair | Edge% | Conf | Stake |
 |---|-------|-------|------|-------|------|-------|------|-------|
-| 1 | Liverpool vs Manchester Unit | Manchester Unit | Betfred (UK) | 4.33 | 3.72 | 16.3% | 🟢 | €12 |
-| 2 | Liverpool vs Manchester Unit | Manchester Unit | Paddy Power | 4.33 | 3.72 | 16.3% | 🟢 | €12 |
-| 3 | Liverpool vs Manchester Unit | Manchester Unit | 1xBet | 4.32 | 3.72 | 16.1% | 🟢 | €12 |
-| 4 | Liverpool vs Manchester Unit | Manchester Unit | Sky Bet | 4.20 | 3.72 | 12.8% | 🟢 | €10 |
-| 5 | Liverpool vs Manchester Unit | Manchester Unit | Marathon Bet | 4.20 | 3.72 | 12.8% | 🟢 | €10 |
-| 6 | Liverpool vs Manchester Unit | Manchester Unit | Betano (UK) | 4.20 | 3.72 | 12.8% | 🟢 | €10 |
-| 7 | Liverpool vs Manchester Unit | Manchester Unit | Bet Victor | 4.20 | 3.72 | 12.8% | 🟢 | €10 |
-| 8 | Liverpool vs Manchester Unit | Manchester Unit | Unibet (UK) | 4.00 | 3.72 | 7.5% | 🟡 | €6 |
-| 9 | Liverpool vs Manchester Unit | Manchester Unit | Tipico | 4.00 | 3.72 | 7.5% | 🟡 | €6 |
-| 10 | Sevilla vs Alavés | Alavés | Smarkets | 4.60 | 4.31 | 6.7% | 🟡 | €5 |
-| 11 | Sevilla vs Alavés | Alavés | Betfair | 4.60 | 4.31 | 6.7% | 🟡 | €5 |
-| 12 | Sevilla vs Alavés | Alavés | Betfair | 4.60 | 4.31 | 6.7% | 🟡 | €5 |
-| 13 | Sevilla vs Alavés | Alavés | Matchbook | 4.60 | 4.31 | 6.7% | 🟡 | €5 |
-| 14 | Torreense vs FC Ararat-Armen | FC Ararat-Armen | Betfair | 5.00 | 4.74 | 5.6% | 🟡 | €3 |
-| 15 | Torreense vs FC Ararat-Armen | FC Ararat-Armen | Betfair | 5.00 | 4.74 | 5.6% | 🟡 | €3 |
-| 16 | Real Sociedad vs Lyon | Lyon | Nordic Bet | 4.20 | 4.01 | 4.8% | 🔴 | €4 |
-| 17 | Napoli vs Lazio | Lazio | Unibet (SE) | 3.85 | 3.69 | 4.5% | 🔴 | €4 |
-| 18 | Borussia Dortmund vs Real Be | Real Betis | Unibet (SE) | 4.80 | 4.61 | 4.2% | 🔴 | €3 |
-| 19 | Borussia Dortmund vs Real Be | Real Betis | Unibet (NL) | 4.80 | 4.61 | 4.2% | 🔴 | €3 |
-| 20 | Porto vs Napoli | Napoli | Smarkets | 3.75 | 3.60 | 4.2% | 🔴 | €4 |
-| 21 | Porto vs Napoli | Napoli | Betfair | 3.75 | 3.60 | 4.2% | 🔴 | €4 |
-| 22 | Porto vs Napoli | Napoli | Betfair | 3.75 | 3.60 | 4.2% | 🔴 | €4 |
-| 23 | Porto vs Napoli | Napoli | Matchbook | 3.75 | 3.60 | 4.2% | 🔴 | €4 |
-| 24 | 1. FC Köln vs Bayer Leverkus | 1. FC Köln | Unibet (SE) | 4.60 | 4.42 | 4.1% | 🔴 | €3 |
-| 25 | Bodø/Glimt vs Lille | Lille | Smarkets | 4.20 | 4.04 | 4.1% | 🔴 | €3 |
-| 26 | Bodø/Glimt vs Lille | Lille | Betfair | 4.20 | 4.04 | 4.1% | 🔴 | €3 |
-| 27 | Bodø/Glimt vs Lille | Lille | Betfair | 4.20 | 4.04 | 4.1% | 🔴 | €3 |
-| 28 | Bodø/Glimt vs Lille | Lille | Matchbook | 4.20 | 4.04 | 4.1% | 🔴 | €3 |
-| 29 | Genoa vs AC Milan | Genoa | Matchbook | 5.00 | 4.81 | 4.0% | 🔴 | €3 |
-| 30 | Genoa vs AC Milan | Genoa | Betfair | 5.00 | 4.81 | 4.0% | 🔴 | €3 |
+| 1 | Liverpool vs Manchester Unit | Manchester Unit | Unibet (NL) | 4.40 | 3.99 | 10.4% | 🟢 | €8 |
+| 2 | Liverpool vs Manchester Unit | Manchester Unit | Unibet (SE) | 4.40 | 3.99 | 10.4% | 🟢 | €8 |
+| 3 | Liverpool vs Manchester Unit | Manchester Unit | Betfred (UK) | 4.33 | 3.99 | 8.6% | 🟢 | €6 |
+| 4 | Liverpool vs Manchester Unit | Manchester Unit | Paddy Power | 4.33 | 3.99 | 8.6% | 🟢 | €6 |
+| 5 | Liverpool vs Manchester Unit | Manchester Unit | 1xBet | 4.32 | 3.99 | 8.4% | 🟢 | €6 |
+| 6 | Liverpool vs Manchester Unit | Manchester Unit | LeoVegas (SE | 4.30 | 3.99 | 7.9% | 🟡 | €6 |
+| 7 | Liverpool vs Manchester Unit | Manchester Unit | Grosvenor | 4.25 | 3.99 | 6.6% | 🟡 | €5 |
+| 8 | Sevilla vs Alavés | Alavés | Betfair | 4.60 | 4.32 | 6.5% | 🟡 | €4 |
+| 9 | Liverpool vs Manchester Unit | Manchester Unit | Sky Bet | 4.20 | 3.99 | 5.4% | 🟡 | €4 |
+| 10 | Liverpool vs Manchester Unit | Manchester Unit | Marathon Bet | 4.20 | 3.99 | 5.4% | 🟡 | €4 |
+| 11 | Liverpool vs Manchester Unit | Manchester Unit | Betano (UK) | 4.20 | 3.99 | 5.4% | 🟡 | €4 |
+| 12 | Liverpool vs Manchester Unit | Manchester Unit | Bet Victor | 4.20 | 3.99 | 5.4% | 🟡 | €4 |
+| 13 | Liverpool vs Manchester Unit | Manchester Unit | Virgin Bet | 4.20 | 3.99 | 5.4% | 🟡 | €4 |
+| 14 | Liverpool vs Manchester Unit | Manchester Unit | LiveScore Be | 4.20 | 3.99 | 5.4% | 🟡 | €4 |
+| 15 | Rennes vs Lille | Lille | LeoVegas (SE | 3.65 | 3.49 | 4.6% | 🔴 | €4 |
+| 16 | Rennes vs Lille | Lille | Unibet (SE) | 3.65 | 3.49 | 4.6% | 🔴 | €4 |
+| 17 | Sassuolo vs Fiorentina | Over 2.5 | Matchbook | 2.22 | 2.12 | 4.5% | 🔴 | €9 |
+| 18 | Torreense vs FC Ararat-Armen | FC Ararat-Armen | Smarkets | 5.00 | 4.79 | 4.5% | 🔴 | €3 |
+| 19 | Benfica vs Lech Poznań | Over 3.5 | 1xBet | 1.93 | 1.85 | 4.4% | 🔴 | €12 |
+| 20 | Auxerre vs Paris FC | Auxerre | Betfair | 4.60 | 4.41 | 4.3% | 🔴 | €3 |
+| 21 | Auxerre vs Paris FC | Auxerre | Betfair | 4.60 | 4.41 | 4.3% | 🔴 | €3 |
+| 22 | Sevilla vs Alavés | Alavés | Matchbook | 4.50 | 4.32 | 4.2% | 🔴 | €3 |
+| 23 | Fiorentina vs Juventus | Fiorentina | Unibet (NL) | 4.10 | 3.95 | 3.9% | 🔴 | €3 |
+| 24 | Fiorentina vs Juventus | Fiorentina | Unibet (SE) | 4.10 | 3.95 | 3.9% | 🔴 | €3 |
+| 25 | Sparta Prague vs Bournemouth | Draw | Matchbook | 4.90 | 4.73 | 3.7% | 🔴 | €2 |
+| 26 | Celta Vigo vs Levante | Levante | Betfair | 4.70 | 4.54 | 3.5% | 🔴 | €2 |
+| 27 | Celta Vigo vs Levante | Levante | Betfair | 4.70 | 4.54 | 3.5% | 🔴 | €2 |
+| 28 | Celta Vigo vs Levante | Levante | Matchbook | 4.70 | 4.54 | 3.5% | 🔴 | €2 |
+| 29 | Celtic vs Besiktas JK | Draw | Smarkets | 4.10 | 3.96 | 3.4% | 🔴 | €3 |
+| 30 | Celtic vs Besiktas JK | Draw | Matchbook | 4.10 | 3.96 | 3.4% | 🔴 | €3 |
 
-_Top 30 su 47._
+_Top 30 su 40._
 
 ---
 ⚠️ Strumento di analisi. Non garantisce profitti.
