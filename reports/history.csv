@@ -8713,3 +8713,68 @@ timestamp,type,match,league,market,edge_pct,confidence,suggested_stake,details
 2026-11-01 20:58 UTC,VALUE_BET,Athletic Bilbao vs Real Sociedad,La Liga - Spain,h2h,3.12,BASSA,2.05,Draw@4.8 (Smarkets)
 2026-11-01 20:58 UTC,VALUE_BET,Athletic Bilbao vs Real Sociedad,La Liga - Spain,h2h,3.12,BASSA,2.05,Draw@4.8 (Betfair)
 2026-11-01 20:58 UTC,VALUE_BET,Athletic Bilbao vs Real Sociedad,La Liga - Spain,h2h,3.12,BASSA,2.05,Draw@4.8 (Matchbook)
+2026-11-02 02:08 UTC,ARBITRAGE,Benfica vs Lech Poznań,UEFA Europa League,h2h,3.357,SURE,33.57,"{""Benfica"": {""bookmaker"": ""1xBet"", ""odds"": 1.24, ""stake_pct"": 83.45, ""stake_amount"": 834.47}, ""Draw"": {""bookmaker"": ""Smarkets"", ""odds"": 9.2, ""stake_pct"": 11.25, ""stake_amount"": 112.47}, ""Lech Poznań"": {""bookmaker"": ""Nordic Bet"", ""odds"": 19.5, ""stake_pct"": 5.31, ""stake_amount"": 53.06}}"
+2026-11-02 02:08 UTC,ARBITRAGE,Napoli vs Lazio,Serie A - Italy,h2h,2.447,SURE,24.47,"{""Napoli"": {""bookmaker"": ""Smarkets"", ""odds"": 2.18, ""stake_pct"": 47.02, ""stake_amount"": 470.22}, ""Draw"": {""bookmaker"": ""1xBet"", ""odds"": 3.89, ""stake_pct"": 26.35, ""stake_amount"": 263.52}, ""Lazio"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 3.85, ""stake_pct"": 26.63, ""stake_amount"": 266.26}}"
+2026-11-02 02:08 UTC,ARBITRAGE,LASK vs ŠK Slovan Bratislava,UEFA Champions League,h2h,1.481,SURE,14.81,"{""LASK"": {""bookmaker"": ""1xBet"", ""odds"": 1.5, ""stake_pct"": 67.67, ""stake_amount"": 676.69}, ""Draw"": {""bookmaker"": ""Smarkets"", ""odds"": 5.4, ""stake_pct"": 18.8, ""stake_amount"": 187.97}, ""ŠK Slovan Bratislava"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 7.5, ""stake_pct"": 13.53, ""stake_amount"": 135.34}}"
+2026-11-02 02:08 UTC,ARBITRAGE,Angers vs Nice,Ligue 1 - France,h2h,1.477,SURE,14.77,"{""Nice"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 2.2, ""stake_pct"": 46.14, ""stake_amount"": 461.36}, ""Draw"": {""bookmaker"": ""1xBet"", ""odds"": 3.84, ""stake_pct"": 26.43, ""stake_amount"": 264.32}, ""Angers"": {""bookmaker"": ""Tipico"", ""odds"": 3.7, ""stake_pct"": 27.43, ""stake_amount"": 274.32}}"
+2026-11-02 02:08 UTC,ARBITRAGE,Porto vs Napoli,UEFA Champions League,h2h,1.396,SURE,13.96,"{""Napoli"": {""bookmaker"": ""Smarkets"", ""odds"": 3.75, ""stake_pct"": 27.04, ""stake_amount"": 270.44}, ""Draw"": {""bookmaker"": ""Smarkets"", ""odds"": 3.9, ""stake_pct"": 26.0, ""stake_amount"": 260.04}, ""Porto"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 2.16, ""stake_pct"": 46.95, ""stake_amount"": 469.52}}"
+2026-11-02 02:08 UTC,ARBITRAGE,Barcelona vs Aston Villa,UEFA Champions League,h2h,1.285,SURE,12.85,"{""Aston Villa"": {""bookmaker"": ""1xBet"", ""odds"": 11.5, ""stake_pct"": 8.81, ""stake_amount"": 88.09}, ""Draw"": {""bookmaker"": ""Smarkets"", ""odds"": 8.0, ""stake_pct"": 12.66, ""stake_amount"": 126.63}, ""Barcelona"": {""bookmaker"": ""GTbets"", ""odds"": 1.29, ""stake_pct"": 78.53, ""stake_amount"": 785.28}}"
+2026-11-02 02:08 UTC,ARBITRAGE,Shakhtar Donetsk vs Sporting Lisbon,UEFA Champions League,h2h,1.03,SURE,10.3,"{""Shakhtar Donetsk"": {""bookmaker"": ""1xBet"", ""odds"": 3.9, ""stake_pct"": 25.91, ""stake_amount"": 259.08}, ""Draw"": {""bookmaker"": ""1xBet"", ""odds"": 3.96, ""stake_pct"": 25.52, ""stake_amount"": 255.15}, ""Sporting Lisbon"": {""bookmaker"": ""Betfair"", ""odds"": 2.08, ""stake_pct"": 48.58, ""stake_amount"": 485.77}}"
+2026-11-02 02:08 UTC,ARBITRAGE,Fulham vs Newcastle United,EPL,h2h,0.942,SURE,9.42,"{""Draw"": {""bookmaker"": ""1xBet"", ""odds"": 3.84, ""stake_pct"": 26.29, ""stake_amount"": 262.89}, ""Newcastle United"": {""bookmaker"": ""Betfair"", ""odds"": 3.5, ""stake_pct"": 28.84, ""stake_amount"": 288.43}, ""Fulham"": {""bookmaker"": ""1xBet"", ""odds"": 2.25, ""stake_pct"": 44.87, ""stake_amount"": 448.67}}"
+2026-11-02 02:08 UTC,ARBITRAGE,FSV Mainz 05 vs Bayern Munich,Bundesliga - Germany,h2h,0.911,SURE,9.11,"{""Draw"": {""bookmaker"": ""BetOnline.ag"", ""odds"": 6.25, ""stake_pct"": 16.15, ""stake_amount"": 161.47}, ""FSV Mainz 05"": {""bookmaker"": ""1xBet"", ""odds"": 6.26, ""stake_pct"": 16.12, ""stake_amount"": 161.21}, ""Bayern Munich"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 1.49, ""stake_pct"": 67.73, ""stake_amount"": 677.31}}"
+2026-11-02 02:08 UTC,ARBITRAGE,Sevilla vs Alavés,La Liga - Spain,h2h,0.909,SURE,9.09,"{""Alavés"": {""bookmaker"": ""Smarkets"", ""odds"": 4.6, ""stake_pct"": 21.94, ""stake_amount"": 219.39}, ""Draw"": {""bookmaker"": ""Smarkets"", ""odds"": 3.5, ""stake_pct"": 28.83, ""stake_amount"": 288.34}, ""Sevilla"": {""bookmaker"": ""1xBet"", ""odds"": 2.05, ""stake_pct"": 49.23, ""stake_amount"": 492.28}}"
+2026-11-02 02:08 UTC,ARBITRAGE,Borussia Dortmund vs Real Betis,UEFA Champions League,h2h,0.884,SURE,8.84,"{""Real Betis"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 4.8, ""stake_pct"": 21.02, ""stake_amount"": 210.19}, ""Draw"": {""bookmaker"": ""Betfair"", ""odds"": 4.4, ""stake_pct"": 22.93, ""stake_amount"": 229.3}, ""Borussia Dortmund"": {""bookmaker"": ""1xBet"", ""odds"": 1.8, ""stake_pct"": 56.05, ""stake_amount"": 560.51}}"
+2026-11-02 02:08 UTC,ARBITRAGE,Bodø/Glimt vs Lille,UEFA Champions League,h2h,0.851,SURE,8.51,"{""Bodø/Glimt"": {""bookmaker"": ""1xBet"", ""odds"": 1.92, ""stake_pct"": 52.53, ""stake_amount"": 525.31}, ""Draw"": {""bookmaker"": ""Betfair"", ""odds"": 4.3, ""stake_pct"": 23.46, ""stake_amount"": 234.55}, ""Lille"": {""bookmaker"": ""Smarkets"", ""odds"": 4.2, ""stake_pct"": 24.01, ""stake_amount"": 240.14}}"
+2026-11-02 02:08 UTC,ARBITRAGE,Sunderland vs Chelsea,EPL,h2h,0.848,SURE,8.48,"{""Chelsea"": {""bookmaker"": ""1xBet"", ""odds"": 2.15, ""stake_pct"": 46.91, ""stake_amount"": 469.09}, ""Draw"": {""bookmaker"": ""1xBet"", ""odds"": 3.75, ""stake_pct"": 26.89, ""stake_amount"": 268.95}, ""Sunderland"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 3.85, ""stake_pct"": 26.2, ""stake_amount"": 261.96}}"
+2026-11-02 02:08 UTC,ARBITRAGE,Valencia vs Real Madrid,La Liga - Spain,h2h,0.793,SURE,7.93,"{""Draw"": {""bookmaker"": ""Betfair"", ""odds"": 6.6, ""stake_pct"": 15.27, ""stake_amount"": 152.73}, ""Real Madrid"": {""bookmaker"": ""1xBet"", ""odds"": 1.36, ""stake_pct"": 74.12, ""stake_amount"": 741.17}, ""Valencia"": {""bookmaker"": ""Betfred (UK)"", ""odds"": 9.5, ""stake_pct"": 10.61, ""stake_amount"": 106.1}}"
+2026-11-02 02:08 UTC,ARBITRAGE,RC Lens vs Como,UEFA Champions League,h2h,0.677,SURE,6.77,"{""Draw"": {""bookmaker"": ""Pinnacle"", ""odds"": 4.13, ""stake_pct"": 24.38, ""stake_amount"": 243.78}, ""RC Lens"": {""bookmaker"": ""Betfair"", ""odds"": 3.2, ""stake_pct"": 31.46, ""stake_amount"": 314.63}, ""Como"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 2.28, ""stake_pct"": 44.16, ""stake_amount"": 441.59}}"
+2026-11-02 02:08 UTC,ARBITRAGE,Deportivo La Coruña vs CA Osasuna,La Liga - Spain,h2h,0.646,SURE,6.46,"{""Deportivo La Coruña"": {""bookmaker"": ""1xBet"", ""odds"": 2.27, ""stake_pct"": 44.34, ""stake_amount"": 443.39}, ""Draw"": {""bookmaker"": ""1xBet"", ""odds"": 3.45, ""stake_pct"": 29.17, ""stake_amount"": 291.74}, ""CA Osasuna"": {""bookmaker"": ""Betfair"", ""odds"": 3.8, ""stake_pct"": 26.49, ""stake_amount"": 264.87}}"
+2026-11-02 02:08 UTC,ARBITRAGE,Real Sociedad vs Lyon,UEFA Europa League,h2h,0.567,SURE,5.67,"{""Draw"": {""bookmaker"": ""Betfair"", ""odds"": 4.2, ""stake_pct"": 23.95, ""stake_amount"": 239.45}, ""Real Sociedad"": {""bookmaker"": ""Unibet (NL)"", ""odds"": 1.93, ""stake_pct"": 52.11, ""stake_amount"": 521.09}, ""Lyon"": {""bookmaker"": ""Nordic Bet"", ""odds"": 4.2, ""stake_pct"": 23.95, ""stake_amount"": 239.45}}"
+2026-11-02 02:08 UTC,ARBITRAGE,Borussia Dortmund vs Elversberg,Bundesliga - Germany,h2h,0.526,SURE,5.26,"{""Draw"": {""bookmaker"": ""Tipico"", ""odds"": 7.0, ""stake_pct"": 14.36, ""stake_amount"": 143.61}, ""Elversberg"": {""bookmaker"": ""Betfred (UK)"", ""odds"": 10.0, ""stake_pct"": 10.05, ""stake_amount"": 100.53}, ""Borussia Dortmund"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 1.33, ""stake_pct"": 75.59, ""stake_amount"": 755.86}}"
+2026-11-02 02:08 UTC,VALUE_BET,Liverpool vs Manchester United,EPL,h2h,16.34,ALTA,12.26,Manchester United@4.33 (Betfred (UK))
+2026-11-02 02:08 UTC,VALUE_BET,Liverpool vs Manchester United,EPL,h2h,16.34,ALTA,12.26,Manchester United@4.33 (Paddy Power)
+2026-11-02 02:08 UTC,VALUE_BET,Liverpool vs Manchester United,EPL,h2h,16.07,ALTA,12.1,Manchester United@4.32 (1xBet)
+2026-11-02 02:08 UTC,VALUE_BET,Liverpool vs Manchester United,EPL,h2h,12.84,ALTA,10.03,Manchester United@4.2 (Sky Bet)
+2026-11-02 02:08 UTC,VALUE_BET,Liverpool vs Manchester United,EPL,h2h,12.84,ALTA,10.03,Manchester United@4.2 (Marathon Bet)
+2026-11-02 02:08 UTC,VALUE_BET,Liverpool vs Manchester United,EPL,h2h,12.84,ALTA,10.03,Manchester United@4.2 (Betano (UK))
+2026-11-02 02:08 UTC,VALUE_BET,Liverpool vs Manchester United,EPL,h2h,12.84,ALTA,10.03,Manchester United@4.2 (Bet Victor)
+2026-11-02 02:08 UTC,VALUE_BET,Liverpool vs Manchester United,EPL,h2h,7.47,MEDIA,6.22,Manchester United@4.0 (Unibet (UK))
+2026-11-02 02:08 UTC,VALUE_BET,Liverpool vs Manchester United,EPL,h2h,7.47,MEDIA,6.22,Manchester United@4.0 (Tipico)
+2026-11-02 02:08 UTC,VALUE_BET,Sevilla vs Alavés,La Liga - Spain,h2h,6.69,MEDIA,4.65,Alavés@4.6 (Smarkets)
+2026-11-02 02:08 UTC,VALUE_BET,Sevilla vs Alavés,La Liga - Spain,h2h,6.69,MEDIA,4.65,Alavés@4.6 (Betfair)
+2026-11-02 02:08 UTC,VALUE_BET,Sevilla vs Alavés,La Liga - Spain,h2h,6.69,MEDIA,4.65,Alavés@4.6 (Betfair)
+2026-11-02 02:08 UTC,VALUE_BET,Sevilla vs Alavés,La Liga - Spain,h2h,6.69,MEDIA,4.65,Alavés@4.6 (Matchbook)
+2026-11-02 02:08 UTC,VALUE_BET,Torreense vs FC Ararat-Armenia,UEFA Europa League,h2h,5.57,MEDIA,3.48,FC Ararat-Armenia@5.0 (Betfair)
+2026-11-02 02:08 UTC,VALUE_BET,Torreense vs FC Ararat-Armenia,UEFA Europa League,h2h,5.57,MEDIA,3.48,FC Ararat-Armenia@5.0 (Betfair)
+2026-11-02 02:08 UTC,VALUE_BET,Real Sociedad vs Lyon,UEFA Europa League,h2h,4.77,BASSA,3.73,Lyon@4.2 (Nordic Bet)
+2026-11-02 02:08 UTC,VALUE_BET,Napoli vs Lazio,Serie A - Italy,h2h,4.49,BASSA,3.94,Lazio@3.85 (Unibet (SE))
+2026-11-02 02:08 UTC,VALUE_BET,Borussia Dortmund vs Real Betis,UEFA Champions League,h2h,4.22,BASSA,2.77,Real Betis@4.8 (Unibet (SE))
+2026-11-02 02:08 UTC,VALUE_BET,Borussia Dortmund vs Real Betis,UEFA Champions League,h2h,4.22,BASSA,2.77,Real Betis@4.8 (Unibet (NL))
+2026-11-02 02:08 UTC,VALUE_BET,Porto vs Napoli,UEFA Champions League,h2h,4.19,BASSA,3.81,Napoli@3.75 (Smarkets)
+2026-11-02 02:08 UTC,VALUE_BET,Porto vs Napoli,UEFA Champions League,h2h,4.19,BASSA,3.81,Napoli@3.75 (Betfair)
+2026-11-02 02:08 UTC,VALUE_BET,Porto vs Napoli,UEFA Champions League,h2h,4.19,BASSA,3.81,Napoli@3.75 (Betfair)
+2026-11-02 02:08 UTC,VALUE_BET,Porto vs Napoli,UEFA Champions League,h2h,4.19,BASSA,3.81,Napoli@3.75 (Matchbook)
+2026-11-02 02:08 UTC,VALUE_BET,1. FC Köln vs Bayer Leverkusen,Bundesliga - Germany,h2h,4.13,BASSA,2.87,1. FC Köln@4.6 (Unibet (SE))
+2026-11-02 02:08 UTC,VALUE_BET,Bodø/Glimt vs Lille,UEFA Champions League,h2h,4.1,BASSA,3.2,Lille@4.2 (Smarkets)
+2026-11-02 02:08 UTC,VALUE_BET,Bodø/Glimt vs Lille,UEFA Champions League,h2h,4.1,BASSA,3.2,Lille@4.2 (Betfair)
+2026-11-02 02:08 UTC,VALUE_BET,Bodø/Glimt vs Lille,UEFA Champions League,h2h,4.1,BASSA,3.2,Lille@4.2 (Betfair)
+2026-11-02 02:08 UTC,VALUE_BET,Bodø/Glimt vs Lille,UEFA Champions League,h2h,4.1,BASSA,3.2,Lille@4.2 (Matchbook)
+2026-11-02 02:08 UTC,VALUE_BET,Genoa vs AC Milan,Serie A - Italy,h2h,4.02,BASSA,2.51,Genoa@5.0 (Matchbook)
+2026-11-02 02:08 UTC,VALUE_BET,Genoa vs AC Milan,Serie A - Italy,h2h,4.02,BASSA,2.51,Genoa@5.0 (Betfair)
+2026-11-02 02:08 UTC,VALUE_BET,Genoa vs AC Milan,Serie A - Italy,h2h,4.02,BASSA,2.51,Genoa@5.0 (Betfair)
+2026-11-02 02:08 UTC,VALUE_BET,Fulham vs Newcastle United,EPL,h2h,3.73,BASSA,3.73,Newcastle United@3.5 (Betfair)
+2026-11-02 02:08 UTC,VALUE_BET,Fulham vs Newcastle United,EPL,h2h,3.73,BASSA,3.73,Newcastle United@3.5 (Betfair)
+2026-11-02 02:08 UTC,VALUE_BET,Fulham vs Newcastle United,EPL,h2h,3.73,BASSA,3.73,Newcastle United@3.5 (Matchbook)
+2026-11-02 02:08 UTC,VALUE_BET,Real Sociedad vs Lyon,UEFA Europa League,h2h,3.53,BASSA,2.8,Lyon@4.15 (Betsson)
+2026-11-02 02:08 UTC,VALUE_BET,Torreense vs FC Ararat-Armenia,UEFA Europa League,h2h,3.46,BASSA,2.22,FC Ararat-Armenia@4.9 (Smarkets)
+2026-11-02 02:08 UTC,VALUE_BET,Torreense vs FC Ararat-Armenia,UEFA Europa League,h2h,3.46,BASSA,2.22,FC Ararat-Armenia@4.9 (Matchbook)
+2026-11-02 02:08 UTC,VALUE_BET,Liverpool vs Manchester United,EPL,h2h,3.44,BASSA,3.02,Manchester United@3.85 (LeoVegas)
+2026-11-02 02:08 UTC,VALUE_BET,Nottingham Forest vs Manchester City,EPL,h2h,3.41,BASSA,2.13,Nottingham Forest@5.0 (Betfair)
+2026-11-02 02:08 UTC,VALUE_BET,Nottingham Forest vs Manchester City,EPL,h2h,3.41,BASSA,2.13,Nottingham Forest@5.0 (Betfair)
+2026-11-02 02:08 UTC,VALUE_BET,Nottingham Forest vs Manchester City,EPL,h2h,3.41,BASSA,2.13,Nottingham Forest@5.0 (Matchbook)
+2026-11-02 02:08 UTC,VALUE_BET,Fiorentina vs Juventus,Serie A - Italy,h2h,3.24,BASSA,2.61,Fiorentina@4.1 (Unibet (NL))
+2026-11-02 02:08 UTC,VALUE_BET,Fiorentina vs Juventus,Serie A - Italy,h2h,3.24,BASSA,2.61,Fiorentina@4.1 (Unibet (SE))
+2026-11-02 02:08 UTC,VALUE_BET,Angers vs Nice,Ligue 1 - France,h2h,3.16,BASSA,2.92,Angers@3.7 (Tipico)
+2026-11-02 02:08 UTC,VALUE_BET,Napoli vs Lazio,Serie A - Italy,h2h,3.13,BASSA,2.8,Lazio@3.8 (Unibet (NL))
+2026-11-02 02:08 UTC,VALUE_BET,Shakhtar Donetsk vs Sporting Lisbon,UEFA Champions League,h2h,3.09,BASSA,2.66,Shakhtar Donetsk@3.9 (1xBet)
+2026-11-02 02:08 UTC,VALUE_BET,Inter Milan vs Como,Serie A - Italy,h2h,3.05,BASSA,2.28,Como@4.35 (Unibet (SE))
