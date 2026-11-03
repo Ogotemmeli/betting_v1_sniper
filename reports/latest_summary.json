@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-11-02 17:53 UTC",
+  "timestamp": "2026-11-03 02:01 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
-  "arbitrages_found": 18,
-  "value_bets_found": 40,
+  "arbitrages_found": 23,
+  "value_bets_found": 53,
   "best_arb_margin": 2.488,
-  "best_value_edge": 10.4,
+  "best_value_edge": 8.46,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
@@ -23,21 +23,53 @@
           "stake_pct": 84.06,
           "stake_amount": 840.59
         },
-        "Lech Poznań": {
-          "bookmaker": "Nordic Bet",
-          "odds": 19.5,
-          "stake_pct": 5.26,
-          "stake_amount": 52.59
-        },
         "Draw": {
           "bookmaker": "Smarkets",
           "odds": 9.6,
           "stake_pct": 10.68,
           "stake_amount": 106.82
+        },
+        "Lech Poznań": {
+          "bookmaker": "Nordic Bet",
+          "odds": 19.5,
+          "stake_pct": 5.26,
+          "stake_amount": 52.59
         }
       },
       "num_bookmakers": 36,
-      "found_at": "2026-11-02T17:53:58.685655+00:00"
+      "found_at": "2026-11-03T02:01:27.459616+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "1a5a84045050d0d7baf1301909d3b465",
+      "league": "UEFA Champions League",
+      "match": "Bodø/Glimt vs Lille",
+      "commence": "2026-11-03T20:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.934,
+      "guaranteed_profit": 19.34,
+      "stakes": {
+        "Lille": {
+          "bookmaker": "Smarkets",
+          "odds": 4.3,
+          "stake_pct": 23.71,
+          "stake_amount": 237.14
+        },
+        "Bodø/Glimt": {
+          "bookmaker": "1xBet",
+          "odds": 1.92,
+          "stake_pct": 53.11,
+          "stake_amount": 531.1
+        },
+        "Draw": {
+          "bookmaker": "Smarkets",
+          "odds": 4.4,
+          "stake_pct": 23.18,
+          "stake_amount": 231.75
+        }
+      },
+      "num_bookmakers": 39,
+      "found_at": "2026-11-03T02:01:27.455927+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -46,126 +78,94 @@
       "match": "FSV Mainz 05 vs Bayern Munich",
       "commence": "2026-11-07T14:30:00Z",
       "market": "h2h",
-      "margin_pct": 1.943,
-      "guaranteed_profit": 19.43,
+      "margin_pct": 1.851,
+      "guaranteed_profit": 18.51,
       "stakes": {
         "FSV Mainz 05": {
           "bookmaker": "1xBet",
-          "odds": 6.52,
-          "stake_pct": 15.64,
-          "stake_amount": 156.41
-        },
-        "Bayern Munich": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 1.48,
-          "stake_pct": 68.91,
-          "stake_amount": 689.07
+          "odds": 6.68,
+          "stake_pct": 15.25,
+          "stake_amount": 152.52
         },
         "Draw": {
           "bookmaker": "Smarkets",
           "odds": 6.6,
-          "stake_pct": 15.45,
-          "stake_amount": 154.52
+          "stake_pct": 15.44,
+          "stake_amount": 154.37
+        },
+        "Bayern Munich": {
+          "bookmaker": "GTbets",
+          "odds": 1.47,
+          "stake_pct": 69.31,
+          "stake_amount": 693.1
         }
       },
       "num_bookmakers": 41,
-      "found_at": "2026-11-02T17:53:58.677975+00:00"
+      "found_at": "2026-11-03T02:01:27.452007+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "5b386dfdf6f76705116fbb4120ee8493",
+      "event_id": "71ca5141a1c532e390c6fa14e080d8bd",
       "league": "La Liga - Spain",
-      "match": "Valencia vs Real Madrid",
-      "commence": "2026-11-07T20:00:00Z",
+      "match": "CA Osasuna vs Athletic Bilbao",
+      "commence": "2026-11-07T17:30:00Z",
       "market": "h2h",
-      "margin_pct": 1.561,
-      "guaranteed_profit": 15.61,
+      "margin_pct": 1.804,
+      "guaranteed_profit": 18.04,
       "stakes": {
-        "Valencia": {
-          "bookmaker": "Betsson",
-          "odds": 9.8,
-          "stake_pct": 10.37,
-          "stake_amount": 103.66
-        },
-        "Real Madrid": {
-          "bookmaker": "1xBet",
-          "odds": 1.36,
-          "stake_pct": 74.7,
-          "stake_amount": 746.95
+        "Athletic Bilbao": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 2.25,
+          "stake_pct": 45.26,
+          "stake_amount": 452.61
         },
         "Draw": {
-          "bookmaker": "Matchbook",
-          "odds": 6.8,
-          "stake_pct": 14.94,
-          "stake_amount": 149.39
+          "bookmaker": "Betfair",
+          "odds": 3.6,
+          "stake_pct": 28.29,
+          "stake_amount": 282.88
+        },
+        "CA Osasuna": {
+          "bookmaker": "Smarkets",
+          "odds": 3.85,
+          "stake_pct": 26.45,
+          "stake_amount": 264.51
         }
       },
       "num_bookmakers": 38,
-      "found_at": "2026-11-02T17:53:58.676843+00:00"
+      "found_at": "2026-11-03T02:01:27.450649+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "5ecf6578ba030a1e99abaa3200319e37",
-      "league": "UEFA Europa League",
-      "match": "Celtic vs Besiktas JK",
-      "commence": "2026-11-05T20:00:00Z",
+      "event_id": "262c2c99c38456b8a70cb9daa32f2f6d",
+      "league": "La Liga - Spain",
+      "match": "Espanyol vs Deportivo La Coruña",
+      "commence": "2026-11-07T15:15:00Z",
       "market": "h2h",
-      "margin_pct": 1.55,
-      "guaranteed_profit": 15.5,
+      "margin_pct": 1.523,
+      "guaranteed_profit": 15.23,
       "stakes": {
-        "Celtic": {
-          "bookmaker": "Nordic Bet",
-          "odds": 3.25,
-          "stake_pct": 31.25,
-          "stake_amount": 312.54
-        },
-        "Besiktas JK": {
-          "bookmaker": "1xBet",
-          "odds": 2.31,
-          "stake_pct": 43.97,
-          "stake_amount": 439.72
-        },
-        "Draw": {
+        "Espanyol": {
           "bookmaker": "Smarkets",
-          "odds": 4.1,
-          "stake_pct": 24.77,
-          "stake_amount": 247.74
-        }
-      },
-      "num_bookmakers": 35,
-      "found_at": "2026-11-02T17:53:58.685805+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "bd680c6ad693dae859030f86e1be2769",
-      "league": "UEFA Champions League",
-      "match": "Barcelona vs Aston Villa",
-      "commence": "2026-11-03T20:00:00Z",
-      "market": "h2h",
-      "margin_pct": 1.514,
-      "guaranteed_profit": 15.14,
-      "stakes": {
+          "odds": 2.42,
+          "stake_pct": 41.96,
+          "stake_amount": 419.61
+        },
         "Draw": {
-          "bookmaker": "Betfair",
-          "odds": 8.2,
-          "stake_pct": 12.38,
-          "stake_amount": 123.83
+          "bookmaker": "Unibet (NL)",
+          "odds": 3.55,
+          "stake_pct": 28.6,
+          "stake_amount": 286.05
         },
-        "Barcelona": {
-          "bookmaker": "GTbets",
-          "odds": 1.29,
-          "stake_pct": 78.71,
-          "stake_amount": 787.11
-        },
-        "Aston Villa": {
-          "bookmaker": "1xBet",
-          "odds": 11.4,
-          "stake_pct": 8.91,
-          "stake_amount": 89.07
+        "Deportivo La Coruña": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 3.45,
+          "stake_pct": 29.43,
+          "stake_amount": 294.34
         }
       },
-      "num_bookmakers": 39,
-      "found_at": "2026-11-02T17:53:58.681650+00:00"
+      "num_bookmakers": 37,
+      "found_at": "2026-11-03T02:01:27.450502+00:00"
     }
   ],
   "value_bets": [
@@ -179,15 +179,15 @@
       "outcome": "Manchester United",
       "bookmaker": "Unibet (NL)",
       "odds": 4.4,
-      "fair_odds": 3.986,
-      "true_prob_pct": 25.09,
+      "fair_odds": 4.057,
+      "true_prob_pct": 24.65,
       "implied_prob_pct": 22.73,
-      "edge_pct": 10.4,
-      "kelly_stake_pct": 0.76,
-      "suggested_stake": 7.64,
-      "expected_value": 10.4,
+      "edge_pct": 8.46,
+      "kelly_stake_pct": 0.62,
+      "suggested_stake": 6.22,
+      "expected_value": 8.46,
       "confidence": "ALTA",
-      "found_at": "2026-11-02T17:53:58.673910+00:00"
+      "found_at": "2026-11-03T02:01:27.448296+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -199,15 +199,35 @@
       "outcome": "Manchester United",
       "bookmaker": "Unibet (SE)",
       "odds": 4.4,
-      "fair_odds": 3.986,
-      "true_prob_pct": 25.09,
+      "fair_odds": 4.057,
+      "true_prob_pct": 24.65,
       "implied_prob_pct": 22.73,
-      "edge_pct": 10.4,
-      "kelly_stake_pct": 0.76,
-      "suggested_stake": 7.64,
-      "expected_value": 10.4,
+      "edge_pct": 8.46,
+      "kelly_stake_pct": 0.62,
+      "suggested_stake": 6.22,
+      "expected_value": 8.46,
       "confidence": "ALTA",
-      "found_at": "2026-11-02T17:53:58.673922+00:00"
+      "found_at": "2026-11-03T02:01:27.448308+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "7f50eb7deaebfbcd45c3f4e7cd3724e4",
+      "league": "Serie A - Italy",
+      "match": "Fiorentina vs Juventus",
+      "commence": "2026-11-08T19:45:00Z",
+      "market": "h2h",
+      "outcome": "Fiorentina",
+      "bookmaker": "Unibet (SE)",
+      "odds": 4.0,
+      "fair_odds": 3.743,
+      "true_prob_pct": 26.72,
+      "implied_prob_pct": 25.0,
+      "edge_pct": 6.87,
+      "kelly_stake_pct": 0.57,
+      "suggested_stake": 5.73,
+      "expected_value": 6.87,
+      "confidence": "MEDIA",
+      "found_at": "2026-11-03T02:01:27.450040+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -219,15 +239,15 @@
       "outcome": "Manchester United",
       "bookmaker": "Betfred (UK)",
       "odds": 4.33,
-      "fair_odds": 3.986,
-      "true_prob_pct": 25.09,
+      "fair_odds": 4.057,
+      "true_prob_pct": 24.65,
       "implied_prob_pct": 23.09,
-      "edge_pct": 8.64,
-      "kelly_stake_pct": 0.65,
-      "suggested_stake": 6.49,
-      "expected_value": 8.64,
-      "confidence": "ALTA",
-      "found_at": "2026-11-02T17:53:58.673834+00:00"
+      "edge_pct": 6.73,
+      "kelly_stake_pct": 0.51,
+      "suggested_stake": 5.06,
+      "expected_value": 6.73,
+      "confidence": "MEDIA",
+      "found_at": "2026-11-03T02:01:27.448234+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -239,15 +259,15 @@
       "outcome": "Manchester United",
       "bookmaker": "Paddy Power",
       "odds": 4.33,
-      "fair_odds": 3.986,
-      "true_prob_pct": 25.09,
+      "fair_odds": 4.057,
+      "true_prob_pct": 24.65,
       "implied_prob_pct": 23.09,
-      "edge_pct": 8.64,
-      "kelly_stake_pct": 0.65,
-      "suggested_stake": 6.49,
-      "expected_value": 8.64,
-      "confidence": "ALTA",
-      "found_at": "2026-11-02T17:53:58.673848+00:00"
+      "edge_pct": 6.73,
+      "kelly_stake_pct": 0.51,
+      "suggested_stake": 5.06,
+      "expected_value": 6.73,
+      "confidence": "MEDIA",
+      "found_at": "2026-11-03T02:01:27.448241+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -259,55 +279,35 @@
       "outcome": "Manchester United",
       "bookmaker": "1xBet",
       "odds": 4.32,
-      "fair_odds": 3.986,
-      "true_prob_pct": 25.09,
+      "fair_odds": 4.057,
+      "true_prob_pct": 24.65,
       "implied_prob_pct": 23.15,
-      "edge_pct": 8.39,
-      "kelly_stake_pct": 0.63,
-      "suggested_stake": 6.32,
-      "expected_value": 8.39,
-      "confidence": "ALTA",
-      "found_at": "2026-11-02T17:53:58.673863+00:00"
+      "edge_pct": 6.49,
+      "kelly_stake_pct": 0.49,
+      "suggested_stake": 4.89,
+      "expected_value": 6.49,
+      "confidence": "MEDIA",
+      "found_at": "2026-11-03T02:01:27.448258+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "4c08b213ed416e8f41e038f42a42b962",
-      "league": "EPL",
-      "match": "Liverpool vs Manchester United",
-      "commence": "2026-11-22T16:30:00Z",
+      "event_id": "9dd0014685fd62d9b2890d7c33a8c9ab",
+      "league": "La Liga - Spain",
+      "match": "Sevilla vs Alavés",
+      "commence": "2026-11-06T20:00:00Z",
       "market": "h2h",
-      "outcome": "Manchester United",
-      "bookmaker": "LeoVegas (SE)",
-      "odds": 4.3,
-      "fair_odds": 3.986,
-      "true_prob_pct": 25.09,
-      "implied_prob_pct": 23.26,
-      "edge_pct": 7.89,
-      "kelly_stake_pct": 0.6,
-      "suggested_stake": 5.97,
-      "expected_value": 7.89,
+      "outcome": "Alavés",
+      "bookmaker": "Smarkets",
+      "odds": 4.6,
+      "fair_odds": 4.335,
+      "true_prob_pct": 23.07,
+      "implied_prob_pct": 21.74,
+      "edge_pct": 6.12,
+      "kelly_stake_pct": 0.42,
+      "suggested_stake": 4.25,
+      "expected_value": 6.12,
       "confidence": "MEDIA",
-      "found_at": "2026-11-02T17:53:58.673904+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "4c08b213ed416e8f41e038f42a42b962",
-      "league": "EPL",
-      "match": "Liverpool vs Manchester United",
-      "commence": "2026-11-22T16:30:00Z",
-      "market": "h2h",
-      "outcome": "Manchester United",
-      "bookmaker": "Grosvenor",
-      "odds": 4.25,
-      "fair_odds": 3.986,
-      "true_prob_pct": 25.09,
-      "implied_prob_pct": 23.53,
-      "edge_pct": 6.63,
-      "kelly_stake_pct": 0.51,
-      "suggested_stake": 5.1,
-      "expected_value": 6.63,
-      "confidence": "MEDIA",
-      "found_at": "2026-11-02T17:53:58.673916+00:00"
+      "found_at": "2026-11-03T02:01:27.450225+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -319,55 +319,55 @@
       "outcome": "Alavés",
       "bookmaker": "Betfair",
       "odds": 4.6,
-      "fair_odds": 4.32,
-      "true_prob_pct": 23.15,
+      "fair_odds": 4.335,
+      "true_prob_pct": 23.07,
       "implied_prob_pct": 21.74,
-      "edge_pct": 6.47,
-      "kelly_stake_pct": 0.45,
-      "suggested_stake": 4.5,
-      "expected_value": 6.47,
+      "edge_pct": 6.12,
+      "kelly_stake_pct": 0.42,
+      "suggested_stake": 4.25,
+      "expected_value": 6.12,
       "confidence": "MEDIA",
-      "found_at": "2026-11-02T17:53:58.676305+00:00"
+      "found_at": "2026-11-03T02:01:27.450234+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "4c08b213ed416e8f41e038f42a42b962",
-      "league": "EPL",
-      "match": "Liverpool vs Manchester United",
-      "commence": "2026-11-22T16:30:00Z",
+      "event_id": "9dd0014685fd62d9b2890d7c33a8c9ab",
+      "league": "La Liga - Spain",
+      "match": "Sevilla vs Alavés",
+      "commence": "2026-11-06T20:00:00Z",
       "market": "h2h",
-      "outcome": "Manchester United",
-      "bookmaker": "Sky Bet",
-      "odds": 4.2,
-      "fair_odds": 3.986,
-      "true_prob_pct": 25.09,
-      "implied_prob_pct": 23.81,
-      "edge_pct": 5.38,
+      "outcome": "Alavés",
+      "bookmaker": "Betfair",
+      "odds": 4.6,
+      "fair_odds": 4.335,
+      "true_prob_pct": 23.07,
+      "implied_prob_pct": 21.74,
+      "edge_pct": 6.12,
       "kelly_stake_pct": 0.42,
-      "suggested_stake": 4.2,
-      "expected_value": 5.38,
+      "suggested_stake": 4.25,
+      "expected_value": 6.12,
       "confidence": "MEDIA",
-      "found_at": "2026-11-02T17:53:58.673856+00:00"
+      "found_at": "2026-11-03T02:01:27.450241+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "4c08b213ed416e8f41e038f42a42b962",
-      "league": "EPL",
-      "match": "Liverpool vs Manchester United",
-      "commence": "2026-11-22T16:30:00Z",
+      "event_id": "9dd0014685fd62d9b2890d7c33a8c9ab",
+      "league": "La Liga - Spain",
+      "match": "Sevilla vs Alavés",
+      "commence": "2026-11-06T20:00:00Z",
       "market": "h2h",
-      "outcome": "Manchester United",
-      "bookmaker": "Marathon Bet",
-      "odds": 4.2,
-      "fair_odds": 3.986,
-      "true_prob_pct": 25.09,
-      "implied_prob_pct": 23.81,
-      "edge_pct": 5.38,
+      "outcome": "Alavés",
+      "bookmaker": "Matchbook",
+      "odds": 4.6,
+      "fair_odds": 4.335,
+      "true_prob_pct": 23.07,
+      "implied_prob_pct": 21.74,
+      "edge_pct": 6.12,
       "kelly_stake_pct": 0.42,
-      "suggested_stake": 4.2,
-      "expected_value": 5.38,
+      "suggested_stake": 4.25,
+      "expected_value": 6.12,
       "confidence": "MEDIA",
-      "found_at": "2026-11-02T17:53:58.673872+00:00"
+      "found_at": "2026-11-03T02:01:27.450247+00:00"
     }
   ]
 }
