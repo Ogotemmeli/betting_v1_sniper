@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-11-04 02:55 UTC",
+  "timestamp": "2026-11-04 15:59 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
-  "arbitrages_found": 20,
-  "value_bets_found": 29,
-  "best_arb_margin": 3.522,
-  "best_value_edge": 6.56,
+  "arbitrages_found": 31,
+  "value_bets_found": 52,
+  "best_arb_margin": 2.761,
+  "best_value_edge": 7.64,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
@@ -14,62 +14,126 @@
       "match": "Bournemouth vs Nottingham Forest",
       "commence": "2026-11-21T15:00:00Z",
       "market": "h2h",
-      "margin_pct": 3.522,
-      "guaranteed_profit": 35.22,
+      "margin_pct": 2.761,
+      "guaranteed_profit": 27.61,
       "stakes": {
-        "Nottingham Forest": {
-          "bookmaker": "1xBet",
-          "odds": 4.32,
-          "stake_pct": 23.99,
-          "stake_amount": 239.93
-        },
         "Draw": {
           "bookmaker": "1xBet",
-          "odds": 3.96,
-          "stake_pct": 26.17,
-          "stake_amount": 261.74
+          "odds": 3.86,
+          "stake_pct": 26.64,
+          "stake_amount": 266.42
+        },
+        "Nottingham Forest": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 4.3,
+          "stake_pct": 23.92,
+          "stake_amount": 239.16
         },
         "Bournemouth": {
           "bookmaker": "Smarkets",
           "odds": 2.08,
-          "stake_pct": 49.83,
-          "stake_amount": 498.32
+          "stake_pct": 49.44,
+          "stake_amount": 494.42
         }
       },
       "num_bookmakers": 23,
-      "found_at": "2026-11-04T02:55:37.592268+00:00"
+      "found_at": "2026-11-04T15:59:21.474791+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "fe97f5adf397dd6b0a8a9e0a5272f307",
+      "event_id": "716d6e3f3e91c47a6efaa2e93d570533",
       "league": "Bundesliga - Germany",
-      "match": "FSV Mainz 05 vs Bayern Munich",
-      "commence": "2026-11-07T14:30:00Z",
+      "match": "VfB Stuttgart vs Werder Bremen",
+      "commence": "2026-11-07T17:30:00Z",
       "market": "h2h",
-      "margin_pct": 2.471,
-      "guaranteed_profit": 24.71,
+      "margin_pct": 2.065,
+      "guaranteed_profit": 20.65,
       "stakes": {
-        "Bayern Munich": {
+        "Werder Bremen": {
           "bookmaker": "Unibet (SE)",
-          "odds": 1.42,
-          "stake_pct": 72.21,
-          "stake_amount": 722.07
-        },
-        "FSV Mainz 05": {
-          "bookmaker": "Smarkets",
-          "odds": 7.8,
-          "stake_pct": 13.15,
-          "stake_amount": 131.45
+          "odds": 5.2,
+          "stake_pct": 19.64,
+          "stake_amount": 196.36
         },
         "Draw": {
-          "bookmaker": "Smarkets",
-          "odds": 7.0,
-          "stake_pct": 14.65,
-          "stake_amount": 146.48
+          "bookmaker": "1xBet",
+          "odds": 5.03,
+          "stake_pct": 20.3,
+          "stake_amount": 203.0
+        },
+        "VfB Stuttgart": {
+          "bookmaker": "Betfair",
+          "odds": 1.7,
+          "stake_pct": 60.06,
+          "stake_amount": 600.64
         }
       },
       "num_bookmakers": 38,
-      "found_at": "2026-11-04T02:55:37.594332+00:00"
+      "found_at": "2026-11-04T15:59:21.480507+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "262c2c99c38456b8a70cb9daa32f2f6d",
+      "league": "La Liga - Spain",
+      "match": "Espanyol vs Deportivo La Coruña",
+      "commence": "2026-11-07T15:15:00Z",
+      "market": "h2h",
+      "margin_pct": 1.862,
+      "guaranteed_profit": 18.62,
+      "stakes": {
+        "Draw": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 3.55,
+          "stake_pct": 28.7,
+          "stake_amount": 287.03
+        },
+        "Espanyol": {
+          "bookmaker": "Smarkets",
+          "odds": 2.44,
+          "stake_pct": 41.76,
+          "stake_amount": 417.61
+        },
+        "Deportivo La Coruña": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 3.45,
+          "stake_pct": 29.54,
+          "stake_amount": 295.35
+        }
+      },
+      "num_bookmakers": 35,
+      "found_at": "2026-11-04T15:59:21.478057+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "651c1847b5cdcc85e60a140edd2282c4",
+      "league": "Ligue 1 - France",
+      "match": "Nice vs Paris Saint Germain",
+      "commence": "2026-11-21T16:15:00Z",
+      "market": "h2h",
+      "margin_pct": 1.818,
+      "guaranteed_profit": 18.18,
+      "stakes": {
+        "Draw": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 5.5,
+          "stake_pct": 18.52,
+          "stake_amount": 185.19
+        },
+        "Nice": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 7.5,
+          "stake_pct": 13.58,
+          "stake_amount": 135.8
+        },
+        "Paris Saint Germain": {
+          "bookmaker": "1xBet",
+          "odds": 1.5,
+          "stake_pct": 67.9,
+          "stake_amount": 679.01
+        }
+      },
+      "num_bookmakers": 21,
+      "found_at": "2026-11-04T15:59:21.483104+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -78,97 +142,173 @@
       "match": "Napoli vs Lazio",
       "commence": "2026-11-08T11:30:00Z",
       "market": "h2h",
-      "margin_pct": 2.17,
-      "guaranteed_profit": 21.7,
+      "margin_pct": 1.754,
+      "guaranteed_profit": 17.54,
       "stakes": {
         "Napoli": {
           "bookmaker": "Smarkets",
           "odds": 2.34,
-          "stake_pct": 43.68,
-          "stake_amount": 436.83
+          "stake_pct": 43.5,
+          "stake_amount": 434.98
+        },
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 3.77,
+          "stake_pct": 27.0,
+          "stake_amount": 269.99
         },
         "Lazio": {
           "bookmaker": "Unibet (NL)",
           "odds": 3.45,
-          "stake_pct": 29.63,
-          "stake_amount": 296.28
-        },
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 3.83,
-          "stake_pct": 26.69,
-          "stake_amount": 266.89
+          "stake_pct": 29.5,
+          "stake_amount": 295.03
         }
       },
       "num_bookmakers": 39,
-      "found_at": "2026-11-04T02:55:37.593011+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "f43ef699c987e112e115f7035114854e",
-      "league": "UEFA Champions League",
-      "match": "AEK Athens vs Real Madrid",
-      "commence": "2026-11-04T17:45:00Z",
-      "market": "h2h",
-      "margin_pct": 1.988,
-      "guaranteed_profit": 19.88,
-      "stakes": {
-        "AEK Athens": {
-          "bookmaker": "Betfair",
-          "odds": 15.5,
-          "stake_pct": 6.58,
-          "stake_amount": 65.82
-        },
-        "Draw": {
-          "bookmaker": "Smarkets",
-          "odds": 8.2,
-          "stake_pct": 12.44,
-          "stake_amount": 124.43
-        },
-        "Real Madrid": {
-          "bookmaker": "1xBet",
-          "odds": 1.26,
-          "stake_pct": 80.98,
-          "stake_amount": 809.75
-        }
-      },
-      "num_bookmakers": 38,
-      "found_at": "2026-11-04T02:55:37.595884+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "b0a4b5448a7e02d9ad1eaa817599fff0",
-      "league": "EPL",
-      "match": "Manchester United vs Aston Villa",
-      "commence": "2026-11-08T16:30:00Z",
-      "market": "h2h",
-      "margin_pct": 1.943,
-      "guaranteed_profit": 19.43,
-      "stakes": {
-        "Aston Villa": {
-          "bookmaker": "Matchbook",
-          "odds": 3.3,
-          "stake_pct": 30.9,
-          "stake_amount": 309.04
-        },
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 3.94,
-          "stake_pct": 25.88,
-          "stake_amount": 258.84
-        },
-        "Manchester United": {
-          "bookmaker": "Coolbet",
-          "odds": 2.36,
-          "stake_pct": 43.21,
-          "stake_amount": 432.13
-        }
-      },
-      "num_bookmakers": 39,
-      "found_at": "2026-11-04T02:55:37.592083+00:00"
+      "found_at": "2026-11-04T15:59:21.476399+00:00"
     }
   ],
   "value_bets": [
+    {
+      "type": "VALUE_BET",
+      "event_id": "cf68da11fa604c13fc9ef3219fad0314",
+      "league": "EPL",
+      "match": "Bournemouth vs Nottingham Forest",
+      "commence": "2026-11-21T15:00:00Z",
+      "market": "h2h",
+      "outcome": "Nottingham Forest",
+      "bookmaker": "Unibet (SE)",
+      "odds": 4.3,
+      "fair_odds": 3.995,
+      "true_prob_pct": 25.03,
+      "implied_prob_pct": 23.26,
+      "edge_pct": 7.64,
+      "kelly_stake_pct": 0.58,
+      "suggested_stake": 5.79,
+      "expected_value": 7.64,
+      "confidence": "MEDIA",
+      "found_at": "2026-11-04T15:59:21.474831+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "cf68da11fa604c13fc9ef3219fad0314",
+      "league": "EPL",
+      "match": "Bournemouth vs Nottingham Forest",
+      "commence": "2026-11-21T15:00:00Z",
+      "market": "h2h",
+      "outcome": "Nottingham Forest",
+      "bookmaker": "Unibet (NL)",
+      "odds": 4.3,
+      "fair_odds": 3.995,
+      "true_prob_pct": 25.03,
+      "implied_prob_pct": 23.26,
+      "edge_pct": 7.64,
+      "kelly_stake_pct": 0.58,
+      "suggested_stake": 5.79,
+      "expected_value": 7.64,
+      "confidence": "MEDIA",
+      "found_at": "2026-11-04T15:59:21.474847+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "0d53a5dbd9d4f4716e923b97e92dfb0d",
+      "league": "Serie A - Italy",
+      "match": "Torino vs Lecce",
+      "commence": "2026-11-07T14:00:00Z",
+      "market": "h2h",
+      "outcome": "Lecce",
+      "bookmaker": "Matchbook",
+      "odds": 5.0,
+      "fair_odds": 4.675,
+      "true_prob_pct": 21.39,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 6.96,
+      "kelly_stake_pct": 0.43,
+      "suggested_stake": 4.35,
+      "expected_value": 6.96,
+      "confidence": "MEDIA",
+      "found_at": "2026-11-04T15:59:21.475946+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "0d53a5dbd9d4f4716e923b97e92dfb0d",
+      "league": "Serie A - Italy",
+      "match": "Torino vs Lecce",
+      "commence": "2026-11-07T14:00:00Z",
+      "market": "h2h",
+      "outcome": "Lecce",
+      "bookmaker": "Betfair",
+      "odds": 5.0,
+      "fair_odds": 4.675,
+      "true_prob_pct": 21.39,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 6.96,
+      "kelly_stake_pct": 0.43,
+      "suggested_stake": 4.35,
+      "expected_value": 6.96,
+      "confidence": "MEDIA",
+      "found_at": "2026-11-04T15:59:21.475957+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "0d53a5dbd9d4f4716e923b97e92dfb0d",
+      "league": "Serie A - Italy",
+      "match": "Torino vs Lecce",
+      "commence": "2026-11-07T14:00:00Z",
+      "market": "h2h",
+      "outcome": "Lecce",
+      "bookmaker": "Betfair",
+      "odds": 5.0,
+      "fair_odds": 4.675,
+      "true_prob_pct": 21.39,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 6.96,
+      "kelly_stake_pct": 0.43,
+      "suggested_stake": 4.35,
+      "expected_value": 6.96,
+      "confidence": "MEDIA",
+      "found_at": "2026-11-04T15:59:21.475963+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "c70f9f21f48464daa93973147502e183",
+      "league": "Bundesliga - Germany",
+      "match": "1. FC Köln vs Bayer Leverkusen",
+      "commence": "2026-11-08T14:30:00Z",
+      "market": "h2h",
+      "outcome": "1. FC Köln",
+      "bookmaker": "Smarkets",
+      "odds": 4.5,
+      "fair_odds": 4.224,
+      "true_prob_pct": 23.67,
+      "implied_prob_pct": 22.22,
+      "edge_pct": 6.54,
+      "kelly_stake_pct": 0.47,
+      "suggested_stake": 4.67,
+      "expected_value": 6.54,
+      "confidence": "MEDIA",
+      "found_at": "2026-11-04T15:59:21.480713+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "d6ef4964addd663baed90f8f19fda1d3",
+      "league": "UEFA Europa League",
+      "match": "Real Sociedad vs Lyon",
+      "commence": "2026-11-05T17:45:00Z",
+      "market": "h2h",
+      "outcome": "Lyon",
+      "bookmaker": "Betfair",
+      "odds": 4.5,
+      "fair_odds": 4.269,
+      "true_prob_pct": 23.42,
+      "implied_prob_pct": 22.22,
+      "edge_pct": 5.4,
+      "kelly_stake_pct": 0.39,
+      "suggested_stake": 3.86,
+      "expected_value": 5.4,
+      "confidence": "MEDIA",
+      "found_at": "2026-11-04T15:59:21.486256+00:00"
+    },
     {
       "type": "VALUE_BET",
       "event_id": "d6ef4964addd663baed90f8f19fda1d3",
@@ -178,16 +318,36 @@
       "market": "h2h",
       "outcome": "Lyon",
       "bookmaker": "Matchbook",
-      "odds": 4.4,
-      "fair_odds": 4.129,
-      "true_prob_pct": 24.22,
-      "implied_prob_pct": 22.73,
-      "edge_pct": 6.56,
-      "kelly_stake_pct": 0.48,
-      "suggested_stake": 4.82,
-      "expected_value": 6.56,
+      "odds": 4.5,
+      "fair_odds": 4.269,
+      "true_prob_pct": 23.42,
+      "implied_prob_pct": 22.22,
+      "edge_pct": 5.4,
+      "kelly_stake_pct": 0.39,
+      "suggested_stake": 3.86,
+      "expected_value": 5.4,
       "confidence": "MEDIA",
-      "found_at": "2026-11-04T02:55:37.597096+00:00"
+      "found_at": "2026-11-04T15:59:21.486276+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "29ebc4d234c1c6e86ebea07ab9174818",
+      "league": "UEFA Europa League",
+      "match": "Rennes vs Olympiakos Piraeus",
+      "commence": "2026-11-04T15:30:00Z",
+      "market": "h2h",
+      "outcome": "Olympiakos Piraeus",
+      "bookmaker": "Smarkets",
+      "odds": 3.5,
+      "fair_odds": 3.322,
+      "true_prob_pct": 30.1,
+      "implied_prob_pct": 28.57,
+      "edge_pct": 5.35,
+      "kelly_stake_pct": 0.53,
+      "suggested_stake": 5.35,
+      "expected_value": 5.35,
+      "confidence": "MEDIA",
+      "found_at": "2026-11-04T15:59:21.485320+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -196,18 +356,18 @@
       "match": "Bournemouth vs Nottingham Forest",
       "commence": "2026-11-21T15:00:00Z",
       "market": "h2h",
-      "outcome": "Bournemouth",
-      "bookmaker": "Smarkets",
-      "odds": 2.08,
-      "fair_odds": 1.955,
-      "true_prob_pct": 51.14,
-      "implied_prob_pct": 48.08,
-      "edge_pct": 6.37,
-      "kelly_stake_pct": 1.47,
-      "suggested_stake": 14.74,
-      "expected_value": 6.37,
+      "outcome": "Nottingham Forest",
+      "bookmaker": "LeoVegas (SE)",
+      "odds": 4.2,
+      "fair_odds": 3.995,
+      "true_prob_pct": 25.03,
+      "implied_prob_pct": 23.81,
+      "edge_pct": 5.14,
+      "kelly_stake_pct": 0.4,
+      "suggested_stake": 4.01,
+      "expected_value": 5.14,
       "confidence": "MEDIA",
-      "found_at": "2026-11-04T02:55:37.592293+00:00"
+      "found_at": "2026-11-04T15:59:21.474839+00:00"
     }
   ]
 }
