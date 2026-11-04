@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-11-03 22:12 UTC",
+  "timestamp": "2026-11-04 02:55 UTC",
   "version": "v1-sniper",
   "sport": "football_only",
-  "arbitrages_found": 22,
-  "value_bets_found": 33,
+  "arbitrages_found": 20,
+  "value_bets_found": 29,
   "best_arb_margin": 3.522,
-  "best_value_edge": 8.13,
+  "best_value_edge": 6.56,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
@@ -17,6 +17,12 @@
       "margin_pct": 3.522,
       "guaranteed_profit": 35.22,
       "stakes": {
+        "Nottingham Forest": {
+          "bookmaker": "1xBet",
+          "odds": 4.32,
+          "stake_pct": 23.99,
+          "stake_amount": 239.93
+        },
         "Draw": {
           "bookmaker": "1xBet",
           "odds": 3.96,
@@ -28,16 +34,10 @@
           "odds": 2.08,
           "stake_pct": 49.83,
           "stake_amount": 498.32
-        },
-        "Nottingham Forest": {
-          "bookmaker": "1xBet",
-          "odds": 4.32,
-          "stake_pct": 23.99,
-          "stake_amount": 239.93
         }
       },
       "num_bookmakers": 23,
-      "found_at": "2026-11-03T22:12:49.709444+00:00"
+      "found_at": "2026-11-04T02:55:37.592268+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -46,62 +46,30 @@
       "match": "FSV Mainz 05 vs Bayern Munich",
       "commence": "2026-11-07T14:30:00Z",
       "market": "h2h",
-      "margin_pct": 2.451,
-      "guaranteed_profit": 24.51,
+      "margin_pct": 2.471,
+      "guaranteed_profit": 24.71,
       "stakes": {
+        "Bayern Munich": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 1.42,
+          "stake_pct": 72.21,
+          "stake_amount": 722.07
+        },
         "FSV Mainz 05": {
-          "bookmaker": "1xBet",
-          "odds": 7.5,
-          "stake_pct": 13.67,
-          "stake_amount": 136.68
+          "bookmaker": "Smarkets",
+          "odds": 7.8,
+          "stake_pct": 13.15,
+          "stake_amount": 131.45
         },
         "Draw": {
           "bookmaker": "Smarkets",
           "odds": 7.0,
-          "stake_pct": 14.64,
-          "stake_amount": 146.45
-        },
-        "Bayern Munich": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 1.43,
-          "stake_pct": 71.69,
-          "stake_amount": 716.87
-        }
-      },
-      "num_bookmakers": 39,
-      "found_at": "2026-11-03T22:12:49.713648+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "f43ef699c987e112e115f7035114854e",
-      "league": "UEFA Champions League",
-      "match": "AEK Athens vs Real Madrid",
-      "commence": "2026-11-04T17:45:00Z",
-      "market": "h2h",
-      "margin_pct": 2.288,
-      "guaranteed_profit": 22.88,
-      "stakes": {
-        "AEK Athens": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 13.0,
-          "stake_pct": 7.87,
-          "stake_amount": 78.72
-        },
-        "Real Madrid": {
-          "bookmaker": "GTbets",
-          "odds": 1.29,
-          "stake_pct": 79.33,
-          "stake_amount": 793.35
-        },
-        "Draw": {
-          "bookmaker": "Betfair",
-          "odds": 8.0,
-          "stake_pct": 12.79,
-          "stake_amount": 127.93
+          "stake_pct": 14.65,
+          "stake_amount": 146.48
         }
       },
       "num_bookmakers": 38,
-      "found_at": "2026-11-03T22:12:49.716805+00:00"
+      "found_at": "2026-11-04T02:55:37.594332+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -113,17 +81,17 @@
       "margin_pct": 2.17,
       "guaranteed_profit": 21.7,
       "stakes": {
-        "Lazio": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 3.45,
-          "stake_pct": 29.63,
-          "stake_amount": 296.28
-        },
         "Napoli": {
           "bookmaker": "Smarkets",
           "odds": 2.34,
           "stake_pct": 43.68,
           "stake_amount": 436.83
+        },
+        "Lazio": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 3.45,
+          "stake_pct": 29.63,
+          "stake_amount": 296.28
         },
         "Draw": {
           "bookmaker": "1xBet",
@@ -133,81 +101,93 @@
         }
       },
       "num_bookmakers": 39,
-      "found_at": "2026-11-03T22:12:49.710964+00:00"
+      "found_at": "2026-11-04T02:55:37.593011+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "ba82ee37f64a66a30d85f8b90082ec2f",
+      "event_id": "f43ef699c987e112e115f7035114854e",
       "league": "UEFA Champions League",
-      "match": "Porto vs Napoli",
-      "commence": "2026-11-04T20:00:00Z",
+      "match": "AEK Athens vs Real Madrid",
+      "commence": "2026-11-04T17:45:00Z",
       "market": "h2h",
-      "margin_pct": 1.892,
-      "guaranteed_profit": 18.92,
+      "margin_pct": 1.988,
+      "guaranteed_profit": 19.88,
       "stakes": {
-        "Napoli": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 4.1,
-          "stake_pct": 24.86,
-          "stake_amount": 248.61
+        "AEK Athens": {
+          "bookmaker": "Betfair",
+          "odds": 15.5,
+          "stake_pct": 6.58,
+          "stake_amount": 65.82
         },
         "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 3.9,
-          "stake_pct": 26.14,
-          "stake_amount": 261.35
+          "bookmaker": "Smarkets",
+          "odds": 8.2,
+          "stake_pct": 12.44,
+          "stake_amount": 124.43
         },
-        "Porto": {
-          "bookmaker": "Betfair",
-          "odds": 2.08,
-          "stake_pct": 49.0,
-          "stake_amount": 490.04
+        "Real Madrid": {
+          "bookmaker": "1xBet",
+          "odds": 1.26,
+          "stake_pct": 80.98,
+          "stake_amount": 809.75
         }
       },
       "num_bookmakers": 38,
-      "found_at": "2026-11-03T22:12:49.718356+00:00"
+      "found_at": "2026-11-04T02:55:37.595884+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "b0a4b5448a7e02d9ad1eaa817599fff0",
+      "league": "EPL",
+      "match": "Manchester United vs Aston Villa",
+      "commence": "2026-11-08T16:30:00Z",
+      "market": "h2h",
+      "margin_pct": 1.943,
+      "guaranteed_profit": 19.43,
+      "stakes": {
+        "Aston Villa": {
+          "bookmaker": "Matchbook",
+          "odds": 3.3,
+          "stake_pct": 30.9,
+          "stake_amount": 309.04
+        },
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 3.94,
+          "stake_pct": 25.88,
+          "stake_amount": 258.84
+        },
+        "Manchester United": {
+          "bookmaker": "Coolbet",
+          "odds": 2.36,
+          "stake_pct": 43.21,
+          "stake_amount": 432.13
+        }
+      },
+      "num_bookmakers": 39,
+      "found_at": "2026-11-04T02:55:37.592083+00:00"
     }
   ],
   "value_bets": [
     {
       "type": "VALUE_BET",
-      "event_id": "6d386ed81fabf67aa19fbd442c0d8c60",
-      "league": "UEFA Champions League",
-      "match": "Borussia Dortmund vs Real Betis",
-      "commence": "2026-11-04T20:00:00Z",
+      "event_id": "d6ef4964addd663baed90f8f19fda1d3",
+      "league": "UEFA Europa League",
+      "match": "Real Sociedad vs Lyon",
+      "commence": "2026-11-05T17:45:00Z",
       "market": "h2h",
-      "outcome": "Real Betis",
-      "bookmaker": "Unibet (SE)",
-      "odds": 4.9,
-      "fair_odds": 4.531,
-      "true_prob_pct": 22.07,
-      "implied_prob_pct": 20.41,
-      "edge_pct": 8.13,
-      "kelly_stake_pct": 0.52,
-      "suggested_stake": 5.21,
-      "expected_value": 8.13,
-      "confidence": "ALTA",
-      "found_at": "2026-11-03T22:12:49.717324+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "6d386ed81fabf67aa19fbd442c0d8c60",
-      "league": "UEFA Champions League",
-      "match": "Borussia Dortmund vs Real Betis",
-      "commence": "2026-11-04T20:00:00Z",
-      "market": "h2h",
-      "outcome": "Real Betis",
-      "bookmaker": "Unibet (NL)",
-      "odds": 4.9,
-      "fair_odds": 4.531,
-      "true_prob_pct": 22.07,
-      "implied_prob_pct": 20.41,
-      "edge_pct": 8.13,
-      "kelly_stake_pct": 0.52,
-      "suggested_stake": 5.21,
-      "expected_value": 8.13,
-      "confidence": "ALTA",
-      "found_at": "2026-11-03T22:12:49.717341+00:00"
+      "outcome": "Lyon",
+      "bookmaker": "Matchbook",
+      "odds": 4.4,
+      "fair_odds": 4.129,
+      "true_prob_pct": 24.22,
+      "implied_prob_pct": 22.73,
+      "edge_pct": 6.56,
+      "kelly_stake_pct": 0.48,
+      "suggested_stake": 4.82,
+      "expected_value": 6.56,
+      "confidence": "MEDIA",
+      "found_at": "2026-11-04T02:55:37.597096+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -227,47 +207,7 @@
       "suggested_stake": 14.74,
       "expected_value": 6.37,
       "confidence": "MEDIA",
-      "found_at": "2026-11-03T22:12:49.709486+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "d6ef4964addd663baed90f8f19fda1d3",
-      "league": "UEFA Europa League",
-      "match": "Real Sociedad vs Lyon",
-      "commence": "2026-11-05T17:45:00Z",
-      "market": "h2h",
-      "outcome": "Lyon",
-      "bookmaker": "Betfair",
-      "odds": 4.4,
-      "fair_odds": 4.141,
-      "true_prob_pct": 24.15,
-      "implied_prob_pct": 22.73,
-      "edge_pct": 6.25,
-      "kelly_stake_pct": 0.46,
-      "suggested_stake": 4.59,
-      "expected_value": 6.25,
-      "confidence": "MEDIA",
-      "found_at": "2026-11-03T22:12:49.719767+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "d6ef4964addd663baed90f8f19fda1d3",
-      "league": "UEFA Europa League",
-      "match": "Real Sociedad vs Lyon",
-      "commence": "2026-11-05T17:45:00Z",
-      "market": "h2h",
-      "outcome": "Lyon",
-      "bookmaker": "Betfair",
-      "odds": 4.4,
-      "fair_odds": 4.141,
-      "true_prob_pct": 24.15,
-      "implied_prob_pct": 22.73,
-      "edge_pct": 6.25,
-      "kelly_stake_pct": 0.46,
-      "suggested_stake": 4.59,
-      "expected_value": 6.25,
-      "confidence": "MEDIA",
-      "found_at": "2026-11-03T22:12:49.719774+00:00"
+      "found_at": "2026-11-04T02:55:37.592293+00:00"
     }
   ]
 }
